@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-10T23:44:54.242Z",
+  "generatedAt": "2026-10-10T23:49:01.087Z",
   "source": {
     "name": "Supplier catalogue",
     "url": "https://minkang.x.yupoo.com/albums"
   },
-  "count": 406,
+  "count": 431,
   "items": [
     {
       "id": "yupoo-236931421",
@@ -4570,6 +4570,126 @@
       "updatedAt": "2026-10-10T23:34:08.186Z"
     },
     {
+      "id": "yupoo-234181993",
+      "name": "Curacao 2026 Away Kids Kit Jersey",
+      "category": "2026 FIFA World Cup",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/234181993?uid=1",
+      "coverImage": "/catalog/curacao-2026-away-kids-kit-jersey/cover.webp",
+      "images": [
+        "/catalog/curacao-2026-away-kids-kit-jersey/image-01.webp",
+        "/catalog/curacao-2026-away-kids-kit-jersey/image-02.webp",
+        "/catalog/curacao-2026-away-kids-kit-jersey/image-03.webp",
+        "/catalog/curacao-2026-away-kids-kit-jersey/image-04.webp",
+        "/catalog/curacao-2026-away-kids-kit-jersey/image-05.webp",
+        "/catalog/curacao-2026-away-kids-kit-jersey/image-06.webp",
+        "/catalog/curacao-2026-away-kids-kit-jersey/image-07.webp",
+        "/catalog/curacao-2026-away-kids-kit-jersey/image-08.webp",
+        "/catalog/curacao-2026-away-kids-kit-jersey/image-09.webp",
+        "/catalog/curacao-2026-away-kids-kit-jersey/image-10.webp",
+        "/catalog/curacao-2026-away-kids-kit-jersey/image-11.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "curacao-2026-away-kids-kit-jersey",
+      "siteCategory": "national",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026",
+      "type": "Shirt",
+      "variant": "Kids",
+      "sourceCategories": [
+        "2026 FIFA World Cup"
+      ],
+      "sourceTitle": "Curacao 2026 Away Kids Kit Jersey SIZE 16-28",
+      "updatedAt": "2026-10-10T23:48:41.574Z"
+    },
+    {
+      "id": "yupoo-244522382",
+      "name": "Curacao 2026 World Cup Home Jersey",
+      "category": "2026 FIFA World Cup",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/244522382?uid=1",
+      "coverImage": "/catalog/curacao-2026-world-cup-home-jersey/cover.webp",
+      "images": [
+        "/catalog/curacao-2026-world-cup-home-jersey/image-01.webp",
+        "/catalog/curacao-2026-world-cup-home-jersey/image-02.webp",
+        "/catalog/curacao-2026-world-cup-home-jersey/image-03.webp",
+        "/catalog/curacao-2026-world-cup-home-jersey/image-04.webp",
+        "/catalog/curacao-2026-world-cup-home-jersey/image-05.webp",
+        "/catalog/curacao-2026-world-cup-home-jersey/image-06.webp",
+        "/catalog/curacao-2026-world-cup-home-jersey/image-07.webp",
+        "/catalog/curacao-2026-world-cup-home-jersey/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "curacao-2026-world-cup-home-jersey",
+      "siteCategory": "national",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "2026 FIFA World Cup"
+      ],
+      "sourceTitle": "Curacao 2026 World Cup Home Jersey S-4XL",
+      "updatedAt": "2026-10-10T23:48:30.312Z"
+    },
+    {
+      "id": "yupoo-240193455",
+      "name": "Curatu 2026 Away Jersey",
+      "category": "2026 FIFA World Cup",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/240193455?uid=1",
+      "coverImage": "/catalog/curatu-2026-away-jersey/cover.webp",
+      "images": [
+        "/catalog/curatu-2026-away-jersey/image-01.webp",
+        "/catalog/curatu-2026-away-jersey/image-02.webp",
+        "/catalog/curatu-2026-away-jersey/image-03.webp",
+        "/catalog/curatu-2026-away-jersey/image-04.webp",
+        "/catalog/curatu-2026-away-jersey/image-05.webp",
+        "/catalog/curatu-2026-away-jersey/image-06.webp",
+        "/catalog/curatu-2026-away-jersey/image-07.webp",
+        "/catalog/curatu-2026-away-jersey/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "curatu-2026-away-jersey",
+      "siteCategory": "national",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "2026 FIFA World Cup"
+      ],
+      "sourceTitle": "Curatu 2026 Away Jersey S-4XL",
+      "updatedAt": "2026-10-10T23:48:50.171Z"
+    },
+    {
       "id": "yupoo-235534780",
       "name": "Czech Republic 2026 Away Jersey",
       "category": "2026 FIFA World Cup",
@@ -7280,6 +7400,47 @@
       ],
       "sourceTitle": "Germany 26/27 Baby Home Jersey size 9/12",
       "updatedAt": "2026-10-10T23:04:42.914Z"
+    },
+    {
+      "id": "yupoo-245427858",
+      "name": "Iraq 2026 Third Kids Kit Jersey",
+      "category": "2026 FIFA World Cup",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/245427858?uid=1",
+      "coverImage": "/catalog/iraq-2026-third-kids-kit-jersey/cover.webp",
+      "images": [
+        "/catalog/iraq-2026-third-kids-kit-jersey/image-01.webp",
+        "/catalog/iraq-2026-third-kids-kit-jersey/image-02.webp",
+        "/catalog/iraq-2026-third-kids-kit-jersey/image-03.webp",
+        "/catalog/iraq-2026-third-kids-kit-jersey/image-04.webp",
+        "/catalog/iraq-2026-third-kids-kit-jersey/image-05.webp",
+        "/catalog/iraq-2026-third-kids-kit-jersey/image-06.webp",
+        "/catalog/iraq-2026-third-kids-kit-jersey/image-07.webp",
+        "/catalog/iraq-2026-third-kids-kit-jersey/image-08.webp",
+        "/catalog/iraq-2026-third-kids-kit-jersey/image-09.webp",
+        "/catalog/iraq-2026-third-kids-kit-jersey/image-10.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "iraq-2026-third-kids-kit-jersey",
+      "siteCategory": "national",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026",
+      "type": "Shirt",
+      "variant": "Kids",
+      "sourceCategories": [
+        "2026 FIFA World Cup"
+      ],
+      "sourceTitle": "Iraq 2026 Third Kids Kit Jersey Size 16-28",
+      "updatedAt": "2026-10-10T23:49:01.085Z"
     },
     {
       "id": "yupoo-215045186",
@@ -10846,6 +11007,202 @@
       "updatedAt": "2026-10-10T23:41:21.764Z"
     },
     {
+      "id": "yupoo-235266335",
+      "name": "Norway 2026 Away Jersey",
+      "category": "2026 FIFA World Cup",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/235266335?uid=1",
+      "coverImage": "/catalog/norway-2026-away-jersey/cover.webp",
+      "images": [
+        "/catalog/norway-2026-away-jersey/image-01.webp",
+        "/catalog/norway-2026-away-jersey/image-02.webp",
+        "/catalog/norway-2026-away-jersey/image-03.webp",
+        "/catalog/norway-2026-away-jersey/image-04.webp",
+        "/catalog/norway-2026-away-jersey/image-05.webp",
+        "/catalog/norway-2026-away-jersey/image-06.webp",
+        "/catalog/norway-2026-away-jersey/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "norway-2026-away-jersey",
+      "siteCategory": "national",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "2026 FIFA World Cup"
+      ],
+      "sourceTitle": "Norway 2026 Away Jersey S-4XL",
+      "updatedAt": "2026-10-10T23:46:41.055Z"
+    },
+    {
+      "id": "yupoo-234182293",
+      "name": "Norway 2026 Away Kids Kit Jersey",
+      "category": "2026 FIFA World Cup",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/234182293?uid=1",
+      "coverImage": "/catalog/norway-2026-away-kids-kit-jersey/cover.webp",
+      "images": [
+        "/catalog/norway-2026-away-kids-kit-jersey/image-01.webp",
+        "/catalog/norway-2026-away-kids-kit-jersey/image-02.webp",
+        "/catalog/norway-2026-away-kids-kit-jersey/image-03.webp",
+        "/catalog/norway-2026-away-kids-kit-jersey/image-04.webp",
+        "/catalog/norway-2026-away-kids-kit-jersey/image-05.webp",
+        "/catalog/norway-2026-away-kids-kit-jersey/image-06.webp",
+        "/catalog/norway-2026-away-kids-kit-jersey/image-07.webp",
+        "/catalog/norway-2026-away-kids-kit-jersey/image-08.webp",
+        "/catalog/norway-2026-away-kids-kit-jersey/image-09.webp",
+        "/catalog/norway-2026-away-kids-kit-jersey/image-10.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "norway-2026-away-kids-kit-jersey",
+      "siteCategory": "national",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026",
+      "type": "Shirt",
+      "variant": "Kids",
+      "sourceCategories": [
+        "2026 FIFA World Cup"
+      ],
+      "sourceTitle": "Norway 2026 Away Kids Kit Jersey Size 16-28",
+      "updatedAt": "2026-10-10T23:46:33.133Z"
+    },
+    {
+      "id": "yupoo-229898302",
+      "name": "Norway 2026 Home Jersey",
+      "category": "2026 FIFA World Cup",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/229898302?uid=1",
+      "coverImage": "/catalog/norway-2026-home-jersey/cover.webp",
+      "images": [
+        "/catalog/norway-2026-home-jersey/image-01.webp",
+        "/catalog/norway-2026-home-jersey/image-02.webp",
+        "/catalog/norway-2026-home-jersey/image-03.webp",
+        "/catalog/norway-2026-home-jersey/image-04.webp",
+        "/catalog/norway-2026-home-jersey/image-05.webp",
+        "/catalog/norway-2026-home-jersey/image-06.webp",
+        "/catalog/norway-2026-home-jersey/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "norway-2026-home-jersey",
+      "siteCategory": "national",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "2026 FIFA World Cup"
+      ],
+      "sourceTitle": "Norway 2026 Home Jersey S-4XL",
+      "updatedAt": "2026-10-10T23:46:22.127Z"
+    },
+    {
+      "id": "yupoo-234182389",
+      "name": "Norway 2026 Home Kids Kit Jersey",
+      "category": "2026 FIFA World Cup",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/234182389?uid=1",
+      "coverImage": "/catalog/norway-2026-home-kids-kit-jersey/cover.webp",
+      "images": [
+        "/catalog/norway-2026-home-kids-kit-jersey/image-01.webp",
+        "/catalog/norway-2026-home-kids-kit-jersey/image-02.webp",
+        "/catalog/norway-2026-home-kids-kit-jersey/image-03.webp",
+        "/catalog/norway-2026-home-kids-kit-jersey/image-04.webp",
+        "/catalog/norway-2026-home-kids-kit-jersey/image-05.webp",
+        "/catalog/norway-2026-home-kids-kit-jersey/image-06.webp",
+        "/catalog/norway-2026-home-kids-kit-jersey/image-07.webp",
+        "/catalog/norway-2026-home-kids-kit-jersey/image-08.webp",
+        "/catalog/norway-2026-home-kids-kit-jersey/image-09.webp",
+        "/catalog/norway-2026-home-kids-kit-jersey/image-10.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "norway-2026-home-kids-kit-jersey",
+      "siteCategory": "national",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026",
+      "type": "Shirt",
+      "variant": "Kids",
+      "sourceCategories": [
+        "2026 FIFA World Cup"
+      ],
+      "sourceTitle": "Norway 2026 Home Kids Kit Jersey Size 16-28",
+      "updatedAt": "2026-10-10T23:46:13.018Z"
+    },
+    {
+      "id": "yupoo-236328310",
+      "name": "Norway 2026 Third Jersey",
+      "category": "2026 FIFA World Cup",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/236328310?uid=1",
+      "coverImage": "/catalog/norway-2026-third-jersey/cover.webp",
+      "images": [
+        "/catalog/norway-2026-third-jersey/image-01.webp",
+        "/catalog/norway-2026-third-jersey/image-02.webp",
+        "/catalog/norway-2026-third-jersey/image-03.webp",
+        "/catalog/norway-2026-third-jersey/image-04.webp",
+        "/catalog/norway-2026-third-jersey/image-05.webp",
+        "/catalog/norway-2026-third-jersey/image-06.webp",
+        "/catalog/norway-2026-third-jersey/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "norway-2026-third-jersey",
+      "siteCategory": "national",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "2026 FIFA World Cup"
+      ],
+      "sourceTitle": "Norway 2026 Third Jersey S-4XL",
+      "updatedAt": "2026-10-10T23:46:48.809Z"
+    },
+    {
       "id": "yupoo-235533971",
       "name": "Panama 2026 Away Jersey",
       "category": "2026 FIFA World Cup",
@@ -12288,6 +12645,85 @@
       "updatedAt": "2026-10-10T22:55:36.954Z"
     },
     {
+      "id": "yupoo-217629838",
+      "name": "Qatar 2026 Home Jersey",
+      "category": "2026 FIFA World Cup",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/217629838?uid=1",
+      "coverImage": "/catalog/qatar-2026-home-jersey/cover.webp",
+      "images": [
+        "/catalog/qatar-2026-home-jersey/image-01.webp",
+        "/catalog/qatar-2026-home-jersey/image-02.webp",
+        "/catalog/qatar-2026-home-jersey/image-03.webp",
+        "/catalog/qatar-2026-home-jersey/image-04.webp",
+        "/catalog/qatar-2026-home-jersey/image-05.webp",
+        "/catalog/qatar-2026-home-jersey/image-06.webp",
+        "/catalog/qatar-2026-home-jersey/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "qatar-2026-home-jersey",
+      "siteCategory": "national",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "2026 FIFA World Cup"
+      ],
+      "sourceTitle": "Qatar 2026 Home Jersey S-4XL",
+      "updatedAt": "2026-10-10T23:47:59.581Z"
+    },
+    {
+      "id": "yupoo-221917355",
+      "name": "Qatar 2026 Home Kids kit Jersey",
+      "category": "2026 FIFA World Cup",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/221917355?uid=1",
+      "coverImage": "/catalog/qatar-2026-home-kids-kit-jersey/cover.webp",
+      "images": [
+        "/catalog/qatar-2026-home-kids-kit-jersey/image-01.webp",
+        "/catalog/qatar-2026-home-kids-kit-jersey/image-02.webp",
+        "/catalog/qatar-2026-home-kids-kit-jersey/image-03.webp",
+        "/catalog/qatar-2026-home-kids-kit-jersey/image-04.webp",
+        "/catalog/qatar-2026-home-kids-kit-jersey/image-05.webp",
+        "/catalog/qatar-2026-home-kids-kit-jersey/image-06.webp",
+        "/catalog/qatar-2026-home-kids-kit-jersey/image-07.webp",
+        "/catalog/qatar-2026-home-kids-kit-jersey/image-08.webp",
+        "/catalog/qatar-2026-home-kids-kit-jersey/image-09.webp",
+        "/catalog/qatar-2026-home-kids-kit-jersey/image-10.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "qatar-2026-home-kids-kit-jersey",
+      "siteCategory": "national",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026",
+      "type": "Shirt",
+      "variant": "Kids",
+      "sourceCategories": [
+        "2026 FIFA World Cup"
+      ],
+      "sourceTitle": "Qatar 2026 Home Kids kit Jersey SIZE 16-28",
+      "updatedAt": "2026-10-10T23:47:48.865Z"
+    },
+    {
       "id": "yupoo-217629947",
       "name": "Saudi Arabia 2026 Home Jersey",
       "category": "2026 FIFA World Cup",
@@ -12684,6 +13120,200 @@
       ],
       "sourceTitle": "South Africa 2026 Home Kids Kit Jersey Size 16-28",
       "updatedAt": "2026-10-10T23:40:18.619Z"
+    },
+    {
+      "id": "yupoo-234834508",
+      "name": "South Korea 2026 Away Jersey",
+      "category": "2026 FIFA World Cup",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/234834508?uid=1",
+      "coverImage": "/catalog/south-korea-2026-away-jersey/cover.webp",
+      "images": [
+        "/catalog/south-korea-2026-away-jersey/image-01.webp",
+        "/catalog/south-korea-2026-away-jersey/image-02.webp",
+        "/catalog/south-korea-2026-away-jersey/image-03.webp",
+        "/catalog/south-korea-2026-away-jersey/image-04.webp",
+        "/catalog/south-korea-2026-away-jersey/image-05.webp",
+        "/catalog/south-korea-2026-away-jersey/image-06.webp",
+        "/catalog/south-korea-2026-away-jersey/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "south-korea-2026-away-jersey",
+      "siteCategory": "national",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "2026 FIFA World Cup"
+      ],
+      "sourceTitle": "South Korea 2026 Away Jersey S-4XL",
+      "updatedAt": "2026-10-10T23:47:28.488Z"
+    },
+    {
+      "id": "yupoo-235529289",
+      "name": "South Korea 2026 Away Kids Kit Jersey",
+      "category": "2026 FIFA World Cup",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/235529289?uid=1",
+      "coverImage": "/catalog/south-korea-2026-away-kids-kit-jersey/cover.webp",
+      "images": [
+        "/catalog/south-korea-2026-away-kids-kit-jersey/image-01.webp",
+        "/catalog/south-korea-2026-away-kids-kit-jersey/image-02.webp",
+        "/catalog/south-korea-2026-away-kids-kit-jersey/image-03.webp",
+        "/catalog/south-korea-2026-away-kids-kit-jersey/image-04.webp",
+        "/catalog/south-korea-2026-away-kids-kit-jersey/image-05.webp",
+        "/catalog/south-korea-2026-away-kids-kit-jersey/image-06.webp",
+        "/catalog/south-korea-2026-away-kids-kit-jersey/image-07.webp",
+        "/catalog/south-korea-2026-away-kids-kit-jersey/image-08.webp",
+        "/catalog/south-korea-2026-away-kids-kit-jersey/image-09.webp",
+        "/catalog/south-korea-2026-away-kids-kit-jersey/image-10.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "south-korea-2026-away-kids-kit-jersey",
+      "siteCategory": "national",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026",
+      "type": "Shirt",
+      "variant": "Kids",
+      "sourceCategories": [
+        "2026 FIFA World Cup"
+      ],
+      "sourceTitle": "South Korea 2026 Away Kids Kit Jersey SIZE 16-28",
+      "updatedAt": "2026-10-10T23:47:19.156Z"
+    },
+    {
+      "id": "yupoo-229933324",
+      "name": "South Korea 2026 Away Player Version Jersey",
+      "category": "2026 FIFA World Cup",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/229933324?uid=1",
+      "coverImage": "/catalog/south-korea-2026-away-player-version-jersey/cover.webp",
+      "images": [
+        "/catalog/south-korea-2026-away-player-version-jersey/image-01.webp",
+        "/catalog/south-korea-2026-away-player-version-jersey/image-02.webp",
+        "/catalog/south-korea-2026-away-player-version-jersey/image-03.webp",
+        "/catalog/south-korea-2026-away-player-version-jersey/image-04.webp",
+        "/catalog/south-korea-2026-away-player-version-jersey/image-05.webp",
+        "/catalog/south-korea-2026-away-player-version-jersey/image-06.webp",
+        "/catalog/south-korea-2026-away-player-version-jersey/image-07.webp",
+        "/catalog/south-korea-2026-away-player-version-jersey/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "south-korea-2026-away-player-version-jersey",
+      "siteCategory": "national",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026",
+      "type": "Shirt",
+      "variant": "Player version",
+      "sourceCategories": [
+        "2026 FIFA World Cup"
+      ],
+      "sourceTitle": "South Korea 2026 Away Player Version Jersey S-XXL",
+      "updatedAt": "2026-10-10T23:47:38.069Z"
+    },
+    {
+      "id": "yupoo-234834703",
+      "name": "South Korea 2026 Home Jersey",
+      "category": "2026 FIFA World Cup",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/234834703?uid=1",
+      "coverImage": "/catalog/south-korea-2026-home-jersey/cover.webp",
+      "images": [
+        "/catalog/south-korea-2026-home-jersey/image-01.webp",
+        "/catalog/south-korea-2026-home-jersey/image-02.webp",
+        "/catalog/south-korea-2026-home-jersey/image-03.webp",
+        "/catalog/south-korea-2026-home-jersey/image-04.webp",
+        "/catalog/south-korea-2026-home-jersey/image-05.webp",
+        "/catalog/south-korea-2026-home-jersey/image-06.webp",
+        "/catalog/south-korea-2026-home-jersey/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "south-korea-2026-home-jersey",
+      "siteCategory": "national",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "2026 FIFA World Cup"
+      ],
+      "sourceTitle": "South Korea 2026 Home Jersey S-4XL",
+      "updatedAt": "2026-10-10T23:47:08.337Z"
+    },
+    {
+      "id": "yupoo-235527724",
+      "name": "South Korea 2026 Home Shorts",
+      "category": "2026 FIFA World Cup",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/235527724?uid=1",
+      "coverImage": "/catalog/south-korea-2026-home-shorts/cover.webp",
+      "images": [
+        "/catalog/south-korea-2026-home-shorts/image-01.webp",
+        "/catalog/south-korea-2026-home-shorts/image-02.webp",
+        "/catalog/south-korea-2026-home-shorts/image-03.webp",
+        "/catalog/south-korea-2026-home-shorts/image-04.webp",
+        "/catalog/south-korea-2026-home-shorts/image-05.webp",
+        "/catalog/south-korea-2026-home-shorts/image-06.webp",
+        "/catalog/south-korea-2026-home-shorts/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "south-korea-2026-home-shorts",
+      "siteCategory": "shorts",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026",
+      "type": "Shorts",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "2026 FIFA World Cup"
+      ],
+      "sourceTitle": "South Korea 2026 Home Shorts S-XXL",
+      "updatedAt": "2026-10-10T23:46:58.587Z"
     },
     {
       "id": "yupoo-246672496",
@@ -15396,6 +16026,44 @@
       "updatedAt": "2026-10-10T23:44:45.174Z"
     },
     {
+      "id": "yupoo-229204997",
+      "name": "USA 2026 Away Jersey S-4X",
+      "category": "2026 FIFA World Cup",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/229204997?uid=1",
+      "coverImage": "/catalog/usa-2026-away-jersey-s-4x/cover.webp",
+      "images": [
+        "/catalog/usa-2026-away-jersey-s-4x/image-01.webp",
+        "/catalog/usa-2026-away-jersey-s-4x/image-02.webp",
+        "/catalog/usa-2026-away-jersey-s-4x/image-03.webp",
+        "/catalog/usa-2026-away-jersey-s-4x/image-04.webp",
+        "/catalog/usa-2026-away-jersey-s-4x/image-05.webp",
+        "/catalog/usa-2026-away-jersey-s-4x/image-06.webp",
+        "/catalog/usa-2026-away-jersey-s-4x/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "usa-2026-away-jersey-s-4x",
+      "siteCategory": "national",
+      "team": "USA",
+      "league": "National teams",
+      "country": "USA",
+      "season": "2026",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "2026 FIFA World Cup"
+      ],
+      "sourceTitle": "USA 2026 Away Jersey S-4X",
+      "updatedAt": "2026-10-10T23:45:17.958Z"
+    },
+    {
       "id": "yupoo-235532228",
       "name": "USA 2026 Away Kids Kit Jersey",
       "category": "2026 FIFA World Cup",
@@ -15437,6 +16105,83 @@
       "updatedAt": "2026-10-10T23:44:54.241Z"
     },
     {
+      "id": "yupoo-237393813",
+      "name": "USA 2026 Away Player Version Jersey",
+      "category": "2026 FIFA World Cup",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/237393813?uid=1",
+      "coverImage": "/catalog/usa-2026-away-player-version-jersey/cover.webp",
+      "images": [
+        "/catalog/usa-2026-away-player-version-jersey/image-01.webp",
+        "/catalog/usa-2026-away-player-version-jersey/image-02.webp",
+        "/catalog/usa-2026-away-player-version-jersey/image-03.webp",
+        "/catalog/usa-2026-away-player-version-jersey/image-04.webp",
+        "/catalog/usa-2026-away-player-version-jersey/image-05.webp",
+        "/catalog/usa-2026-away-player-version-jersey/image-06.webp",
+        "/catalog/usa-2026-away-player-version-jersey/image-07.webp",
+        "/catalog/usa-2026-away-player-version-jersey/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "usa-2026-away-player-version-jersey",
+      "siteCategory": "national",
+      "team": "USA",
+      "league": "National teams",
+      "country": "USA",
+      "season": "2026",
+      "type": "Shirt",
+      "variant": "Player version",
+      "sourceCategories": [
+        "2026 FIFA World Cup"
+      ],
+      "sourceTitle": "USA 2026 Away Player Version Jersey S-4XL",
+      "updatedAt": "2026-10-10T23:45:26.647Z"
+    },
+    {
+      "id": "yupoo-239483151",
+      "name": "USA 2026 Away Women's Jersey",
+      "category": "2026 FIFA World Cup",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/239483151?uid=1",
+      "coverImage": "/catalog/usa-2026-away-women-s-jersey/cover.webp",
+      "images": [
+        "/catalog/usa-2026-away-women-s-jersey/image-01.webp",
+        "/catalog/usa-2026-away-women-s-jersey/image-02.webp",
+        "/catalog/usa-2026-away-women-s-jersey/image-03.webp",
+        "/catalog/usa-2026-away-women-s-jersey/image-04.webp",
+        "/catalog/usa-2026-away-women-s-jersey/image-05.webp",
+        "/catalog/usa-2026-away-women-s-jersey/image-06.webp",
+        "/catalog/usa-2026-away-women-s-jersey/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "usa-2026-away-women-s-jersey",
+      "siteCategory": "national",
+      "team": "USA",
+      "league": "National teams",
+      "country": "USA",
+      "season": "2026",
+      "type": "Shirt",
+      "variant": "Women's",
+      "sourceCategories": [
+        "2026 FIFA World Cup"
+      ],
+      "sourceTitle": "USA 2026 Away Women's Jersey S-XXL",
+      "updatedAt": "2026-10-10T23:45:04.338Z"
+    },
+    {
       "id": "yupoo-235267520",
       "name": "USA 2026 Goalkeeper - Green Jersey",
       "category": "2026 FIFA World Cup",
@@ -15472,6 +16217,44 @@
       ],
       "sourceTitle": "USA 2026 Goalkeeper - Green Jersey S-4XL",
       "updatedAt": "2026-10-10T23:28:37.281Z"
+    },
+    {
+      "id": "yupoo-223003989",
+      "name": "USA 2026 Goalkeeper Long-Sleeve Jersey",
+      "category": "2026 FIFA World Cup",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/223003989?uid=1",
+      "coverImage": "/catalog/usa-2026-goalkeeper-long-sleeve-jersey/cover.webp",
+      "images": [
+        "/catalog/usa-2026-goalkeeper-long-sleeve-jersey/image-01.webp",
+        "/catalog/usa-2026-goalkeeper-long-sleeve-jersey/image-02.webp",
+        "/catalog/usa-2026-goalkeeper-long-sleeve-jersey/image-03.webp",
+        "/catalog/usa-2026-goalkeeper-long-sleeve-jersey/image-04.webp",
+        "/catalog/usa-2026-goalkeeper-long-sleeve-jersey/image-05.webp",
+        "/catalog/usa-2026-goalkeeper-long-sleeve-jersey/image-06.webp",
+        "/catalog/usa-2026-goalkeeper-long-sleeve-jersey/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "usa-2026-goalkeeper-long-sleeve-jersey",
+      "siteCategory": "national",
+      "team": "USA",
+      "league": "National teams",
+      "country": "USA",
+      "season": "2026",
+      "type": "Shirt",
+      "variant": "Goalkeeper",
+      "sourceCategories": [
+        "2026 FIFA World Cup"
+      ],
+      "sourceTitle": "USA 2026 Goalkeeper Long-Sleeve Jersey S-XXL",
+      "updatedAt": "2026-10-10T23:45:35.907Z"
     },
     {
       "id": "yupoo-231426260",
@@ -15626,6 +16409,207 @@
       ],
       "sourceTitle": "USA 26/27 Baby Home Jersey size 912",
       "updatedAt": "2026-10-10T23:44:07.392Z"
+    },
+    {
+      "id": "yupoo-230749524",
+      "name": "Venezuela 2026 Away Jersey",
+      "category": "2026 FIFA World Cup",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/230749524?uid=1",
+      "coverImage": "/catalog/venezuela-2026-away-jersey/cover.webp",
+      "images": [
+        "/catalog/venezuela-2026-away-jersey/image-01.webp",
+        "/catalog/venezuela-2026-away-jersey/image-02.webp",
+        "/catalog/venezuela-2026-away-jersey/image-03.webp",
+        "/catalog/venezuela-2026-away-jersey/image-04.webp",
+        "/catalog/venezuela-2026-away-jersey/image-05.webp",
+        "/catalog/venezuela-2026-away-jersey/image-06.webp",
+        "/catalog/venezuela-2026-away-jersey/image-07.webp",
+        "/catalog/venezuela-2026-away-jersey/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "venezuela-2026-away-jersey",
+      "siteCategory": "national",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "2026 FIFA World Cup"
+      ],
+      "sourceTitle": "Venezuela 2026 Away Jersey S-XXL",
+      "updatedAt": "2026-10-10T23:45:54.013Z"
+    },
+    {
+      "id": "yupoo-238464194",
+      "name": "Venezuela 2026 Away Kids Kit Jersey",
+      "category": "2026 FIFA World Cup",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/238464194?uid=1",
+      "coverImage": "/catalog/venezuela-2026-away-kids-kit-jersey/cover.webp",
+      "images": [
+        "/catalog/venezuela-2026-away-kids-kit-jersey/image-01.webp",
+        "/catalog/venezuela-2026-away-kids-kit-jersey/image-02.webp",
+        "/catalog/venezuela-2026-away-kids-kit-jersey/image-03.webp",
+        "/catalog/venezuela-2026-away-kids-kit-jersey/image-04.webp",
+        "/catalog/venezuela-2026-away-kids-kit-jersey/image-05.webp",
+        "/catalog/venezuela-2026-away-kids-kit-jersey/image-06.webp",
+        "/catalog/venezuela-2026-away-kids-kit-jersey/image-07.webp",
+        "/catalog/venezuela-2026-away-kids-kit-jersey/image-08.webp",
+        "/catalog/venezuela-2026-away-kids-kit-jersey/image-09.webp",
+        "/catalog/venezuela-2026-away-kids-kit-jersey/image-10.webp",
+        "/catalog/venezuela-2026-away-kids-kit-jersey/image-11.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "venezuela-2026-away-kids-kit-jersey",
+      "siteCategory": "national",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026",
+      "type": "Shirt",
+      "variant": "Kids",
+      "sourceCategories": [
+        "2026 FIFA World Cup"
+      ],
+      "sourceTitle": "Venezuela 2026 Away Kids Kit Jersey Size 16-30",
+      "updatedAt": "2026-10-10T23:45:45.701Z"
+    },
+    {
+      "id": "yupoo-244884081",
+      "name": "Venezuela 2026 Away Player Version Jersey",
+      "category": "2026 FIFA World Cup",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/244884081?uid=1",
+      "coverImage": "/catalog/venezuela-2026-away-player-version-jersey/cover.webp",
+      "images": [
+        "/catalog/venezuela-2026-away-player-version-jersey/image-01.webp",
+        "/catalog/venezuela-2026-away-player-version-jersey/image-02.webp",
+        "/catalog/venezuela-2026-away-player-version-jersey/image-03.webp",
+        "/catalog/venezuela-2026-away-player-version-jersey/image-04.webp",
+        "/catalog/venezuela-2026-away-player-version-jersey/image-05.webp",
+        "/catalog/venezuela-2026-away-player-version-jersey/image-06.webp",
+        "/catalog/venezuela-2026-away-player-version-jersey/image-07.webp",
+        "/catalog/venezuela-2026-away-player-version-jersey/image-08.webp",
+        "/catalog/venezuela-2026-away-player-version-jersey/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "venezuela-2026-away-player-version-jersey",
+      "siteCategory": "national",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026",
+      "type": "Shirt",
+      "variant": "Player version",
+      "sourceCategories": [
+        "2026 FIFA World Cup"
+      ],
+      "sourceTitle": "Venezuela 2026 Away Player Version Jersey S-3XL",
+      "updatedAt": "2026-10-10T23:46:02.822Z"
+    },
+    {
+      "id": "yupoo-217630443",
+      "name": "Venezuela 2026 Home Jersey",
+      "category": "2026 FIFA World Cup",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/217630443?uid=1",
+      "coverImage": "/catalog/venezuela-2026-home-jersey/cover.webp",
+      "images": [
+        "/catalog/venezuela-2026-home-jersey/image-01.webp",
+        "/catalog/venezuela-2026-home-jersey/image-02.webp",
+        "/catalog/venezuela-2026-home-jersey/image-03.webp",
+        "/catalog/venezuela-2026-home-jersey/image-04.webp",
+        "/catalog/venezuela-2026-home-jersey/image-05.webp",
+        "/catalog/venezuela-2026-home-jersey/image-06.webp",
+        "/catalog/venezuela-2026-home-jersey/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "venezuela-2026-home-jersey",
+      "siteCategory": "national",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "2026 FIFA World Cup"
+      ],
+      "sourceTitle": "Venezuela 2026 Home Jersey S-4XL",
+      "updatedAt": "2026-10-10T23:48:19.820Z"
+    },
+    {
+      "id": "yupoo-219700459",
+      "name": "Venezuela 2026 Home Kids Kit Jerseys",
+      "category": "2026 FIFA World Cup",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/219700459?uid=1",
+      "coverImage": "/catalog/venezuela-2026-home-kids-kit-jerseys/cover.webp",
+      "images": [
+        "/catalog/venezuela-2026-home-kids-kit-jerseys/image-01.webp",
+        "/catalog/venezuela-2026-home-kids-kit-jerseys/image-02.webp",
+        "/catalog/venezuela-2026-home-kids-kit-jerseys/image-03.webp",
+        "/catalog/venezuela-2026-home-kids-kit-jerseys/image-04.webp",
+        "/catalog/venezuela-2026-home-kids-kit-jerseys/image-05.webp",
+        "/catalog/venezuela-2026-home-kids-kit-jerseys/image-06.webp",
+        "/catalog/venezuela-2026-home-kids-kit-jerseys/image-07.webp",
+        "/catalog/venezuela-2026-home-kids-kit-jerseys/image-08.webp",
+        "/catalog/venezuela-2026-home-kids-kit-jerseys/image-09.webp",
+        "/catalog/venezuela-2026-home-kids-kit-jerseys/image-10.webp",
+        "/catalog/venezuela-2026-home-kids-kit-jerseys/image-11.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "venezuela-2026-home-kids-kit-jerseys",
+      "siteCategory": "national",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026",
+      "type": "Shirt",
+      "variant": "Kids",
+      "sourceCategories": [
+        "2026 FIFA World Cup"
+      ],
+      "sourceTitle": "Venezuela 2026 Home Kids Kit Jerseys Size 16-28",
+      "updatedAt": "2026-10-10T23:48:11.198Z"
     }
   ]
 }
