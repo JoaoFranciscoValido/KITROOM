@@ -38,6 +38,7 @@ const writeJsonAtomic = async (file, data) => {
   await writeFile(tmp, JSON.stringify(data, null, 2) + '\n');
   await rename(tmp, file);
 };
+const CHECKPOINT = 25; // albums between intermediate saves of catalog.json and state.json
 const pad = n => String(n).padStart(2, '0');
 const log = (...m) => console.log(new Date().toISOString().slice(11, 19), ...m);
 
@@ -127,6 +128,20 @@ async function main() {
     for (const it of prevItems) if (it.slug) taken.add(it.slug);
     const nextItems = new Map(prevItems.map(it => [it.id, it]));
 
+    // Writes catalog.json and state.json. Also called every CHECKPOINT albums, so a long run that stops halfway
+    // keeps what it imported and the next run does not download those photos again.
+    const save = async () => {
+      const items = applyOverrides([...nextItems.values()], overrides).sort((x, y) => x.name.localeCompare(y.name));
+      await writeJsonAtomic(catalogPath, {
+        generatedAt: new Date().toISOString(),
+        source: { name: 'Supplier catalogue', url: config.source.baseUrl + config.source.albumsPath },
+        count: items.length,
+        items,
+      });
+      await writeJsonAtomic(statePath, state);
+      return items.length;
+    };
+
     // 3. Each album -> product
     for (const [idx, a] of queue.entries()) {
       const id = `yupoo-${a.albumId}`;
@@ -172,6 +187,7 @@ async function main() {
         report.errors.push({ scope: 'album', id, url: a.url, message: e.message });
         log(`${tag}: ERROR ${e.message}`);
       }
+      if (!args.dryRun && (idx + 1) % CHECKPOINT === 0 && idx + 1 < queue.length) await save();
     }
 
     // 4. Products that disappeared from the source (only judged on a complete, unfiltered crawl)
@@ -187,15 +203,8 @@ async function main() {
 
     // 5. Write catalog.json
     if (!args.dryRun) {
-      const items = applyOverrides([...nextItems.values()], overrides).sort((x, y) => x.name.localeCompare(y.name));
-      await writeJsonAtomic(catalogPath, {
-        generatedAt: new Date().toISOString(),
-        source: { name: 'Supplier catalogue', url: config.source.baseUrl + config.source.albumsPath },
-        count: items.length,
-        items,
-      });
-      await writeJsonAtomic(statePath, state);
-      log(`Wrote ${path.relative(process.cwd(), catalogPath)} (${items.length} products)`);
+      const count = await save();
+      log(`Wrote ${path.relative(process.cwd(), catalogPath)} (${count} products)`);
     }
   } finally {
     await client.close();
