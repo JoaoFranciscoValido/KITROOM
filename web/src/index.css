@@ -1,0 +1,18 @@
+* { box-sizing: border-box; }
+html, body { margin: 0; padding: 0; background: #fff; -webkit-font-smoothing: antialiased; }
+body { font-family: 'DM Sans', system-ui, sans-serif; color: #111; }
+button { font: inherit; color: inherit; cursor: pointer; }
+input, textarea { font: inherit; color: inherit; }
+a { color: #111; text-decoration: none; }
+a:hover { color: #4a4a46; }
+.no-scrollbar { scrollbar-width: none; }
+.no-scrollbar::-webkit-scrollbar { display: none; }
+
+/* Hover / focus states from the design */
+.focus-dark:focus { border-color: #111 !important; }
+.hover-tile:hover { background: #e9e9e5 !important; }
+.hover-dark-border:hover { border-color: #111 !important; }
+.hover-lime:hover { background: #b8e63c !important; }
+a.btn-dark, a.btn-dark:hover { color: #fff; }
+
+.mono { font-family: 'DM Mono', monospace; }
