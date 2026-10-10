@@ -24,7 +24,7 @@ Yupoo blocks plain HTTP scraping and image hotlinking, so the importer loads the
 
 ```sh
 npm run import                          # full import
-npm run import -- --limit 10            # first 10 albums only (good for a first try)
+npm run import -- --limit 10            # first 10 albums only (good for a first try; stops listing once it has 10)
 npm run import -- --category "retro"    # only Yupoo categories whose name contains "retro"
 npm run import -- --album 123456789     # one album by its Yupoo id
 npm run import -- --dry-run --limit 5   # list what would be imported; downloads and writes nothing
@@ -35,9 +35,10 @@ npm test                                # offline end-to-end test against a loca
 ## What it does
 
 1. Opens `https://minkang.x.yupoo.com/albums`, reads the category links, then every album in every category (following `?page=N`), and finally the full album list to catch albums outside any category.
+   With `--limit N` it stops listing as soon as it knows N albums, so a trial run takes a minute or two instead of crawling the whole store; those albums only carry the categories seen so far, and the next full run fills in the rest.
 2. Opens each album, scrolls to load every photo and reads the full-size photo URLs. Password-protected albums and albums without photos are skipped and listed in the report.
 3. Downloads each photo with the album page as Referer, hashes it (SHA-1) and stores identical photos only once per album.
-4. Converts to WebP (max 1200 px wide; cover 640 px) and saves through the storage driver.
+4. Converts to WebP (max 1200 px wide; cover 640 px) and saves through the storage driver. Size charts (a table on a white page) are moved to the end of the gallery, so the cover and the first photo are always a product photo when the album has one.
 5. Builds one catalogue item per album and writes `catalog.json` atomically.
 
 Each item has the requested fields, plus the fields the website uses for its filters:

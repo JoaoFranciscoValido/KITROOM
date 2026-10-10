@@ -73,10 +73,14 @@ export class YupooClient {
     return [...seen.values()];
   }
 
-  /** All albums in a listing (category page or /albums), following ?page=N until a page adds nothing new. */
-  async albumsIn(listUrl) {
+  /**
+   * All albums in a listing (category page or /albums), following ?page=N until a page adds nothing new.
+   * With stopAfter, stops paging once that many albums were found.
+   */
+  async albumsIn(listUrl, { stopAfter = 0 } = {}) {
     const found = new Map();
     for (let n = 1; n <= this.config.source.maxListPages; n++) {
+      if (stopAfter && found.size >= stopAfter) break;
       await this.goto(withPage(listUrl, n));
       const links = await this.page.$$eval(this.sel.albumLinks.join(','), as =>
         as.map(a => ({
@@ -105,7 +109,16 @@ export class YupooClient {
       if (n === 1) {
         const locked = await this.page.$(this.sel.passwordMarkers.join(','));
         if (locked) return { title: '', imageUrls: [], passwordProtected: true };
-        title = await this.page.$$eval(this.sel.albumTitle.join(','), els => (els[0]?.textContent || '').replace(/\s+/g, ' ').trim()).catch(() => '');
+        // Selectors in priority order. Yupoo wraps the title and the photo count in one <h1>, so a generic
+        // selector must not win just by coming first in the document.
+        title = await this.page.evaluate(sels => {
+          for (const s of sels) {
+            const el = document.querySelector(s);
+            const t = (el?.getAttribute('data-name') || el?.textContent || '').replace(/\s+/g, ' ').trim();
+            if (t) return t;
+          }
+          return '';
+        }, this.sel.albumTitle).catch(() => '');
       }
       await this.autoScroll();
       const pageUrls = await this.page.$$eval(

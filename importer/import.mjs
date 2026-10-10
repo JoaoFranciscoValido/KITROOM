@@ -6,7 +6,7 @@ import { readFile, rename, writeFile, mkdir } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { applyOverrides, assignSlug, buildItem } from './lib/catalog.mjs';
-import { sha1, toWebp } from './lib/images.mjs';
+import { isSizeChart, sha1, toWebp } from './lib/images.mjs';
 import { createReport, writeReport } from './lib/report.mjs';
 import { createStorage } from './lib/storage/index.mjs';
 import { YupooClient } from './lib/yupoo.mjs';
@@ -86,10 +86,14 @@ async function main() {
       listingComplete = false;
       report.errors.push({ scope: 'categories', message: e.message });
     }
+    // With --limit (and no --album), stop listing as soon as enough albums are known instead of crawling the whole store.
+    const wanted = args.limit && !args.album ? args.limit : 0;
+    const enough = () => wanted && albums.size >= wanted;
     for (const c of cats) {
+      if (enough()) break;
       if (args.category && !c.name.toLowerCase().includes(args.category)) continue;
       try {
-        const list = await client.albumsIn(c.url);
+        const list = await client.albumsIn(c.url, { stopAfter: wanted && wanted - albums.size });
         log(`  ${c.name}: ${list.length} albums`);
         for (const a of list) {
           const cur = albums.get(a.albumId) || { ...a, categories: [] };
@@ -102,9 +106,9 @@ async function main() {
       }
     }
     // 2. All albums (catches albums outside any category)
-    if (!args.category) {
+    if (!args.category && !enough()) {
       try {
-        const all = await client.albumsIn(config.source.baseUrl + config.source.albumsPath);
+        const all = await client.albumsIn(config.source.baseUrl + config.source.albumsPath, { stopAfter: wanted && wanted - albums.size });
         log(`All albums listing: ${all.length} albums`);
         for (const a of all) if (!albums.has(a.albumId)) albums.set(a.albumId, { ...a, categories: [] });
       } catch (e) {
@@ -221,26 +225,27 @@ async function importImages({ client, storage, config, prefix, slug, album, imag
   // Fetch what is needed, keeping source order.
   const fetched = await mapLimit(imageUrls, config.requests.imageConcurrency, async src => {
     const p = prevBySrc.get(src);
-    if (p && (await storage.exists(p.key))) return { src, hash: p.hash, reuseKey: p.key };
+    if (p && (await storage.exists(p.key))) return { src, hash: p.hash, reuseKey: p.key, chart: !!p.chart };
     const known = prevSources[src] && prevByHash.get(prevSources[src]);
-    if (known && (await storage.exists(known.key))) return { src, hash: known.hash, reuseKey: known.key };
+    if (known && (await storage.exists(known.key))) return { src, hash: known.hash, reuseKey: known.key, chart: !!known.chart };
     try {
       const buf = await client.download(src, album.url);
       downloaded++;
-      return { src, hash: sha1(buf), buf };
+      return { src, hash: sha1(buf), buf, chart: await isSizeChart(buf).catch(() => false) };
     } catch (e) {
       errors.push({ url: src, message: e.message });
       return null;
     }
   });
 
+  // Size charts go after the product photos, so neither the cover nor the first gallery photo is a table.
+  const ordered = [...fetched.filter(f => f && !f.chart), ...fetched.filter(f => f?.chart)];
   const seen = new Set();
   const entries = [];
   const images = [];
   let duplicates = 0;
   let coverSource = null;
-  for (const f of fetched) {
-    if (!f) continue;
+  for (const f of ordered) {
     if (seen.has(f.hash)) { duplicates++; continue; }
     seen.add(f.hash);
     const key = `${prefix}/${slug}/image-${pad(entries.length + 1)}.webp`;
@@ -254,14 +259,14 @@ async function importImages({ client, storage, config, prefix, slug, album, imag
         images.push(await storage.put(key, webp, 'image/webp'));
         if (entries.length === 0) coverSource = buf;
       }
-      entries.push({ src: f.src, hash: f.hash, key });
+      entries.push({ src: f.src, hash: f.hash, key, ...(f.chart ? { chart: true } : {}) });
     } catch (e) {
       seen.delete(f.hash);
       errors.push({ url: f.src, message: `Could not convert: ${e.message}` });
     }
   }
 
-  // Cover: a smaller copy of the first photo, regenerated when the first photo changed or the cover is missing.
+  // Cover: a smaller copy of the first photo (a product photo whenever the album has one), regenerated when the first photo changed or the cover is missing.
   const coverKey = `${prefix}/${slug}/cover.webp`;
   let cover = storage.url(coverKey);
   if (entries.length) {

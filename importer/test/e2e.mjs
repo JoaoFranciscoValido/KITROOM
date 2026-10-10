@@ -21,12 +21,16 @@ const PHOTOS = {
   b1: await color(240, 200, 20), c1: await color(30, 30, 30), d1: await color(250, 250, 250), new1: await color(120, 0, 120),
 };
 PHOTOS.a2dup = PHOTOS.a2; // same content under another URL
+// A size chart: black table lines and text on a white page.
+const rows = Array.from({ length: 8 }, (_, r) => `<line x1="40" y1="${120 + r * 80}" x2="860" y2="${120 + r * 80}" stroke="#000" stroke-width="3"/>` +
+  Array.from({ length: 6 }, (_, c) => `<text x="${70 + c * 135}" y="${170 + r * 80}" font-size="30" font-family="sans-serif">${r ? 40 + r * 2 + c : 'SIZE'}</text>`).join('')).join('');
+PHOTOS.chart = await sharp(Buffer.from(`<svg xmlns="http://www.w3.org/2000/svg" width="900" height="760"><rect width="100%" height="100%" fill="#fff"/><text x="330" y="80" font-size="44" font-family="sans-serif">SIZE CHART</text>${rows}</svg>`)).jpeg().toBuffer();
 
 // Mutable store so the test can add photos / remove albums between runs.
 const store = {
   categories: [{ id: '10', name: '⚽🌍 National Teams' }, { id: '11', name: 'Retro football shirt' }],
   albums: {
-    '1001': { title: 'Portugal 2026 Home Jersey S-4XL', cats: ['10'], photos: ['a1', 'a2', 'a2dup', 'a3'] },
+    '1001': { title: 'Portugal 2026 Home Jersey S-4XL', cats: ['10'], photos: ['chart', 'a1', 'a2', 'a2dup', 'a3'] },
     '1002': { title: 'Barcelona 80/81 Home Retro Jersey S-XXL', cats: ['11'], photos: ['b1'] },
     '1003': { title: 'Secret Album', cats: ['11'], photos: ['c1'], password: true },
     '1004': { title: 'Benfica 26/27 Third Kids kit Size 16-28', cats: [], photos: ['d1'] },
@@ -54,7 +58,8 @@ const server = http.createServer((req, res) => {
     if (!a) return send(404, 'not found');
     if (a.password) return send(200, page('<div class="showalbum__password"><input type="password"></div>'));
     const photos = n === 1 ? a.photos : [];
-    return send(200, page(`<h1 class="showalbumheader__gallerytitle">${a.title}</h1><div class="showalbum__children">${photos.map(p => `<div class="image__imagewrap"><img src="data:image/gif;base64,R0lGODlhAQABAAAAACw=" data-origin-src="//${req.headers.host}/photo/${p}.jpg"></div>`).join('')}</div>`));
+    // Like Yupoo: the <h1> holds the title and the photo count.
+    return send(200, page(`<h1><span class="showalbumheader__gallerytitle" data-name="${a.title}">${a.title}</span><span><i class="showalbumheader__separator"></i>${a.photos.length}</span></h1><div class="showalbum__children">${photos.map(p => `<div class="image__imagewrap"><img src="data:image/gif;base64,R0lGODlhAQABAAAAACw=" data-origin-src="//${req.headers.host}/photo/${p}.jpg"></div>`).join('')}</div>`));
   }
   if ((m = u.pathname.match(/^\/photo\/(\w+)\.jpg$/))) {
     // Like Yupoo: refuse requests without a Referer from the store (hotlink protection).
@@ -101,12 +106,17 @@ try {
   assert.equal(pt.siteCategory, 'national');
   assert.equal(pt.sourceUrl, `${base}/albums/1001?uid=1`);
   assert.equal(pt.coverImage, '/catalog/portugal-2026-home-jersey/cover.webp');
-  assert.deepEqual(pt.images, [1, 2, 3].map(i => `/catalog/portugal-2026-home-jersey/image-0${i}.webp`), '4 photos, 1 duplicate -> 3 images');
+  assert.deepEqual(pt.images, [1, 2, 3, 4].map(i => `/catalog/portugal-2026-home-jersey/image-0${i}.webp`), '5 photos, 1 duplicate -> 4 images');
   assert.deepEqual(pt.availableSizes, ['S', 'M', 'L', 'XL', 'XXL']);
   assert.equal(pt.availability, 'unknown');
   assert.ok(!JSON.stringify(cat).includes('/photo/'), 'no source image URLs in catalog.json');
   const files = await readdir(path.join(tmp, 'public', 'catalog', 'portugal-2026-home-jersey'));
-  assert.deepEqual(files.sort(), ['cover.webp', 'image-01.webp', 'image-02.webp', 'image-03.webp']);
+  assert.deepEqual(files.sort(), ['cover.webp', 'image-01.webp', 'image-02.webp', 'image-03.webp', 'image-04.webp']);
+  // The size chart (first in the album) moves to the end; cover and first photo are the red shirt.
+  const red = async f => (await sharp(path.join(tmp, 'public', 'catalog', 'portugal-2026-home-jersey', f)).stats()).channels.map(c => Math.round(c.mean));
+  for (const f of ['cover.webp', 'image-01.webp']) { const [r, g, b] = await red(f); assert.ok(r > 150 && g < 80 && b < 80, `${f} is the first product photo, not the size chart`); }
+  const [cr, cg, cb] = await red('image-04.webp');
+  assert.ok(cr > 200 && cg > 200 && cb > 200, 'size chart is last');
   const meta = await sharp(path.join(tmp, 'public', 'catalog', 'portugal-2026-home-jersey', 'image-01.webp')).metadata();
   assert.equal(meta.format, 'webp');
   assert.ok(meta.width <= 1200);
@@ -137,8 +147,10 @@ try {
 
   // Run 4: limited run does not mark anything unavailable and dry run writes nothing
   const before = JSON.stringify(await catalog());
-  await importer('--dry-run', '--limit', '1');
+  const { stdout } = await importer('--dry-run', '--limit', '1');
   assert.equal(JSON.stringify(await catalog()), before, 'dry run leaves catalog.json untouched');
+  assert.match(stdout, /Processing 1 of 1 albums/, '--limit stops listing once it has enough albums');
+  assert.doesNotMatch(stdout, /All albums listing|Retro football shirt/, '--limit skips the remaining listings');
 
   console.log('e2e: all checks passed');
   // E2E_KEEP=<dir>: keep the generated catalog.json + images (e.g. to view them in the site).
