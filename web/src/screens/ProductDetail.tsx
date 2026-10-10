@@ -73,7 +73,7 @@ function ProductDetail({ p }: { p: Product }) {
         <div style={{ display: 'flex', flexDirection: 'column', gap: 10 }}>
           <span className="mono" style={{ fontSize: 11.5, letterSpacing: '0.08em', textTransform: 'uppercase', color: '#6b6b67' }}>{categoryLabel(p.cat)} · {p.league}</span>
           <h1 style={{ margin: 0, fontWeight: 400, fontSize: 'clamp(30px,4.4cqw,48px)', lineHeight: 1.04, textTransform: 'uppercase', letterSpacing: '-0.02em', textWrap: 'balance' } as React.CSSProperties}>{p.name}</h1>
-          <span style={{ fontSize: 15, color: '#5d5d59' }}>{p.team} · {p.country} · Season {p.season}</span>
+          <span style={{ fontSize: 15, color: '#5d5d59' }}>{[p.team, p.country, p.season && 'Season ' + p.season].filter(Boolean).join(' · ')}</span>
           <div style={{ display: 'flex', alignItems: 'center', gap: 14, flexWrap: 'wrap', marginTop: 4 }}>
             <span style={{ display: 'flex', alignItems: 'center', gap: 6, padding: '6px 12px', borderRadius: 999, background: '#f1f1ee', fontSize: 13, fontWeight: 500 }}>
               <span style={{ width: 8, height: 8, borderRadius: '50%', background: AV[p.av].dot }} />{AV[p.av].label}

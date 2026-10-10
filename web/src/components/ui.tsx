@@ -1,6 +1,6 @@
 import type { CSSProperties, ReactNode } from 'react';
 import { useNavigate } from 'react-router-dom';
-import { findAlbum, leagues, products } from '../data/catalogue';
+import { leagueRep, leagues, products } from '../data/catalogue';
 import type { Product } from '../data/types';
 import { kitOf, LIME, TILE_CHAMFER } from '../lib/constants';
 import KitArt from './KitArt';
@@ -114,7 +114,7 @@ export function LeagueTiles() {
           style={{ position: 'relative', height: 160, border: 0, padding: 16, background: '#f1f1ee', clipPath: TILE_CHAMFER, textAlign: 'left', overflow: 'hidden', display: 'flex', flexDirection: 'column', justifyContent: 'flex-end' }}
         >
           <div style={{ position: 'absolute', right: '-16%', top: '-8%', width: '76%', height: '86%' }}>
-            <KitArt kit={kitOf(findAlbum(L.rep))} tone="bare" artH="88%" style={{ position: 'absolute', inset: 0 }} />
+            <KitArt kit={kitOf(leagueRep(L))} tone="bare" artH="88%" style={{ position: 'absolute', inset: 0 }} />
           </div>
           <div style={{ position: 'relative', fontSize: 16, fontWeight: 500 }}>{L.key}</div>
           <div className="mono" style={{ position: 'relative', fontSize: 10.5, color: '#6b6b67', textTransform: 'uppercase', letterSpacing: '0.05em', marginTop: 4 }}>

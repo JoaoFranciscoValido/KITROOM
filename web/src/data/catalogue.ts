@@ -1,4 +1,6 @@
 /* Catalogue data — kept separate from the website interface.
+   At startup the site loads the importer's generated catalog.json (see ../../importer). The hand-written list below
+   is only a fallback for when catalog.json does not exist yet.
    Album names, categories and size ranges come from the supplier's public album listing (retrieved 10 Oct 2026).
    Photos: put self-hosted photo URLs in a product's `images` (the first one is the cover). Without photos the site
    draws a colour illustration of the kit from `kit`. No prices are shown anywhere on the site. */
@@ -69,7 +71,7 @@ const T = {
   nts: { team: 'Originals x NTS Radio', league: 'Other leagues', country: 'International' }
 };
 
-export const products: Product[] = [
+const STATIC_PRODUCTS: Product[] = [
   // ⚽🌍 National Teams / 2026 FIFA World Cup
   P('Spain 2026 2 Stars Special Edition Jersey - Blue S-4XL', { ...T.spain, season: '2026', cat: 'national', variant: 'Special edition', photos: 8, src: '2026 FIFA World Cup', kit: K('solid', ['#1d3d8f'], '#e8c547') }),
   P('Spain 2026 Special Edition 2-Star - Red Jersey S-4XL', { ...T.spain, season: '2026', cat: 'national', variant: 'Special edition', photos: 2, src: '2026 FIFA World Cup', kit: K('solid', ['#c4122f'], '#e8c547') }),
@@ -166,7 +168,7 @@ export const products: Product[] = [
 ];
 
 // Website categories ← Yupoo source categories
-export const categories: Category[] = [
+const STATIC_CATEGORIES: Category[] = [
   { key: 'club', label: 'Club shirts', desc: 'Current-season and special edition club jerseys, including player versions, long sleeve, kids and women’s.', rep: '24/25 Barcelona joint', sources: ['La Liga', 'Premier League', 'Ligue 1', 'Brasileiro Série A', 'Worldwide Other League', '⚽💪🏻Player Version', '⚽Long sleeve shirt', '⚽👦🏻kids kit', '⚽💁🏻‍♀️Women\'s shirt', '⚽🧤Goalkeeper kit'] },
   { key: 'national', label: 'National team shirts', desc: 'World Cup 2026 and international jerseys.', rep: 'Spain 2026 2 Stars', sources: ['⚽🌍 National Teams', '2026 FIFA World Cup'] },
   { key: 'retro', label: 'Retro shirts', desc: 'Classic shirts from memorable seasons.', rep: 'Barcelona 80/81', sources: ['Retro football shirt'] },
@@ -176,7 +178,7 @@ export const categories: Category[] = [
   { key: 'other', label: 'Other clothing', desc: 'Casual T-shirts and lifestyle shirts.', rep: 'Celtic Originals', sources: ['👕Casual T-shirt', '⚽Polos'] }
 ];
 
-export const leagues: League[] = [
+const STATIC_LEAGUES: League[] = [
   { key: 'Liga Portugal', desc: 'Sporting CP, FC Porto, SL Benfica and Vitória SC.', rep: 'Sporting CP 26/27 Home' },
   { key: 'La Liga', desc: 'Real Madrid, Barcelona, Atlético, Betis and more, current and retro.', rep: '24/25 Barcelona joint' },
   { key: 'Premier League', desc: 'Arsenal, Manchester United, Manchester City and Liverpool.', rep: '24/25 Arsenal joint' },
@@ -189,7 +191,83 @@ export const leagues: League[] = [
 ];
 
 
-export const productById: Record<string, Product> = Object.fromEntries(products.map(p => [p.id, p]));
+// ---------------------------------------------------------------------------------------------------------------
+// Live catalogue: set by loadCatalogue() before the app renders. ES module bindings, so importers see the update.
+
+export let products: Product[] = STATIC_PRODUCTS;
+export let categories: Category[] = STATIC_CATEGORIES;
+export let leagues: League[] = STATIC_LEAGUES;
+export let productById: Record<string, Product> = Object.fromEntries(products.map(p => [p.id, p]));
+/** Where the current catalogue came from. */
+export let catalogueSource: 'catalog.json' | 'built-in' = 'built-in';
+
 /** First product whose album title contains `q` (used to pick representative products). */
 export const findAlbum = (q: string): Product => products.find(p => p.album.includes(q)) || products[0];
 export const categoryLabel = (key: string) => categories.find(c => c.key === key)?.label ?? '';
+/** Product used as a category's thumbnail. */
+export const categoryRep = (c: Category): Product =>
+  products.find(p => p.cat === c.key && p.album.includes(c.rep)) || products.find(p => p.cat === c.key) || products[0];
+/** Product used as a league's thumbnail. */
+export const leagueRep = (l: League): Product =>
+  products.find(p => p.league === l.key && p.album.includes(l.rep)) || products.find(p => p.league === l.key) || products[0];
+
+/** One item of the importer's catalog.json. */
+export interface CatalogItem {
+  id: string; name: string; category: string; sourceUrl?: string; coverImage: string; images: string[];
+  description?: string; availableSizes?: string[]; availability?: string;
+  slug?: string; siteCategory?: string; team?: string; league?: string; country?: string; season?: string;
+  type?: string; variant?: string; sourceTitle?: string; hidden?: boolean;
+}
+
+const TYPES: ProductType[] = ['Shirt', 'Shorts', 'Jacket', 'Training', 'Casual'];
+const VARIANTS: Variant[] = ['Fan version', 'Player version', 'Special edition', 'Retro', 'Long sleeve', 'Kids', "Women's", 'Goalkeeper'];
+const AVAIL: Record<string, Avail> = { in: 'in', in_stock: 'in', low: 'low', low_stock: 'low', unknown: 'req', on_request: 'req', req: 'req' };
+const NEUTRAL_KIT: Kit = { p: 'solid', c: ['#bdbdb9'], trim: '#ffffff', ink: '#ffffff' };
+
+export function fromCatalogItem(it: CatalogItem): Product | null {
+  if (!it || !it.id || !it.name || it.hidden || it.availability === 'unavailable') return null;
+  const gallery = (it.images || []).filter(Boolean);
+  return {
+    id: it.slug || slug(it.id),
+    album: it.sourceTitle || it.name,
+    name: it.name,
+    team: it.team || 'Other',
+    league: it.league || 'Other leagues',
+    country: it.country || 'International',
+    season: it.season || '',
+    cat: it.siteCategory && STATIC_CATEGORIES.some(c => c.key === it.siteCategory) ? it.siteCategory : 'club',
+    variant: VARIANTS.includes(it.variant as Variant) ? (it.variant as Variant) : 'Fan version',
+    type: TYPES.includes(it.type as ProductType) ? (it.type as ProductType) : 'Shirt',
+    av: AVAIL[it.availability || 'unknown'] || 'req',
+    sizes: it.availableSizes && it.availableSizes.length ? it.availableSizes : SIZES,
+    images: gallery.length ? gallery : it.coverImage ? [it.coverImage] : [],
+    cover: it.coverImage || gallery[0],
+    description: it.description || '',
+    kit: NEUTRAL_KIT,
+    src: it.category,
+  };
+}
+
+function setCatalogue(list: Product[], source: typeof catalogueSource) {
+  products = list;
+  productById = Object.fromEntries(list.map(p => [p.id, p]));
+  categories = STATIC_CATEGORIES.filter(c => list.some(p => p.cat === c.key));
+  const known = STATIC_LEAGUES.filter(l => list.some(p => p.league === l.key));
+  const extra = [...new Set(list.map(p => p.league))].filter(k => !known.some(l => l.key === k)).map(k => ({ key: k, desc: '', rep: '' }));
+  leagues = [...known, ...extra];
+  catalogueSource = source;
+}
+
+/** Loads catalog.json; keeps the built-in catalogue if it is missing, empty or invalid. */
+export async function loadCatalogue(): Promise<void> {
+  try {
+    const res = await fetch(import.meta.env.BASE_URL + 'catalog.json', { cache: 'no-cache' });
+    if (!res.ok) return;
+    const data = await res.json();
+    const items: CatalogItem[] = Array.isArray(data) ? data : data.items || [];
+    const list = items.map(fromCatalogItem).filter((p): p is Product => !!p);
+    if (list.length) setCatalogue(list, 'catalog.json');
+  } catch {
+    /* no catalog.json yet: keep the built-in list */
+  }
+}

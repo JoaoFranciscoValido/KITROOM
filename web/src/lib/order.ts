@@ -1,7 +1,7 @@
 import { productById } from '../data/catalogue';
 import type { ArtKit } from '../components/KitArt';
 import { SELLER_WHATSAPP } from '../config';
-import { kitOf } from './constants';
+import { kitOf, teamSeason } from './constants';
 import type { Customer, Line } from './store';
 
 export interface KV { k: string; v: string }
@@ -31,7 +31,7 @@ export function lineView(l: Line, idx: number): LineView {
   const sp = !!l.special;
   const p = sp ? null : productById[l.productId];
   const name = sp ? (l.title ? l.title + ' (special request)' : 'Special shirt request') : p!.name;
-  const meta = sp ? 'Special request · customer photo' : p!.team + ' · ' + p!.season;
+  const meta = sp ? 'Special request · customer photo' : teamSeason(p!);
   const isShirt = sp || p!.type === 'Shirt';
 
   const specs: KV[] = [{ k: 'Size', v: l.size }];

@@ -28,8 +28,12 @@ export interface Product {
   sizes: string[];
   /** Sizes currently unavailable (rendered struck through). */
   out?: string[];
-  /** Self-hosted photo URLs; the first is the cover. */
+  /** Self-hosted photo URLs for the gallery. */
   images: string[];
+  /** Smaller cover photo for cards and thumbnails (defaults to the first gallery photo). */
+  cover?: string;
+  /** Description written by the seller; generated from the product data when empty. */
+  description?: string;
   kit: Kit;
   /** Supplier album category; reference only. */
   src: string;

@@ -1,0 +1,17 @@
+{
+  "name": "kitroom-importer",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Imports the supplier's Yupoo albums into catalog.json and self-hosted WebP images for the KITROOM site.",
+  "scripts": {
+    "import": "node import.mjs",
+    "import:dry": "node import.mjs --dry-run --limit 5",
+    "test": "node test/e2e.mjs"
+  },
+  "dependencies": {
+    "playwright": "1.56.1",
+    "sharp": "^0.33.5"
+  },
+  "engines": { "node": ">=18.17" }
+}

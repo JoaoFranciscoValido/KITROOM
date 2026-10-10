@@ -1,5 +1,5 @@
 import { useNavigate } from 'react-router-dom';
-import { categories, findAlbum, products } from '../data/catalogue';
+import { categories, categoryRep, products } from '../data/catalogue';
 import { ChevronRightIcon } from '../components/Icons';
 import KitArt from '../components/KitArt';
 import { categoryPath, H1, H2, LeagueTiles, PAGE } from '../components/ui';
@@ -18,7 +18,7 @@ export default function Categories() {
             style={{ display: 'flex', alignItems: 'center', gap: 16, padding: '14px 0', border: 0, borderBottom: '1px solid #ececea', background: 'none', textAlign: 'left', width: '100%' }}
           >
             <div style={{ position: 'relative', width: 72, aspectRatio: '4 / 5', flex: '0 0 auto', clipPath: CHAMFER }}>
-              <KitArt kit={kitOf(findAlbum(c.rep))} style={{ position: 'absolute', inset: 0 }} />
+              <KitArt kit={kitOf(categoryRep(c))} style={{ position: 'absolute', inset: 0 }} />
             </div>
             <div style={{ flex: 1, minWidth: 0, display: 'flex', flexDirection: 'column', gap: 3 }}>
               <span style={{ fontSize: 17, fontWeight: 500 }}>{c.label}</span>

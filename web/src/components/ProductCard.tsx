@@ -38,7 +38,7 @@ export default function ProductCard({ p }: { p: Product }) {
       <div style={{ display: 'flex', gap: 10, alignItems: 'flex-start' }}>
         <div style={{ flex: 1, minWidth: 0, display: 'flex', flexDirection: 'column', gap: 3 }}>
           <div className="mono" style={{ fontSize: 10.5, letterSpacing: '0.05em', textTransform: 'uppercase', color: '#7a7a76', whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' }}>
-            {categoryLabel(p.cat)} · {p.season}
+            {[categoryLabel(p.cat), p.season].filter(Boolean).join(' · ')}
           </div>
           <div onClick={open} style={{ fontSize: 15, fontWeight: 500, lineHeight: 1.25, cursor: 'pointer', textWrap: 'pretty' } as React.CSSProperties}>{p.name}</div>
           <div style={{ fontSize: 13, color: '#6f6f6b' }}>{p.team}</div>

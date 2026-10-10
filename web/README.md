@@ -19,7 +19,7 @@ Copy `.env.example` to `.env` and set `VITE_SELLER_WHATSAPP` to the seller's num
 
 ## Structure
 
-- `src/data/catalogue.ts`: the catalogue data, kept separate from the UI. To show real photos, add self-hosted URLs to a product's `images` (the first one is the cover). Without photos the site draws a colour illustration of the kit from `kit`.
+- `src/data/catalogue.ts`: loads `public/catalog.json` at startup. The importer in `../importer` generates that file and the photos in `public/catalog/`. If `catalog.json` is missing, the site uses the hand-written list in the same file, with colour illustrations instead of photos.
 - `src/lib/store.tsx`: cart, favourites, customer details and the submitted order. The cart, favourites and customer details are saved in localStorage.
 - `src/lib/order.ts`: builds the order preview and the WhatsApp text. The first message has the shirt image with size, name and Nº. The second message has everything else.
 - `src/screens/*`: one file per screen. `src/components/*`: shared UI, the product card, KitArt, the sheets and the header/nav.

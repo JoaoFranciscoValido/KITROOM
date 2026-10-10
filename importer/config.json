@@ -1,0 +1,63 @@
+{
+  "source": {
+    "baseUrl": "https://minkang.x.yupoo.com",
+    "albumsPath": "/albums",
+    "maxListPages": 200,
+    "maxAlbumPages": 20
+  },
+  "output": {
+    "dir": "../web/public",
+    "catalogFile": "catalog.json",
+    "imagesPrefix": "catalog"
+  },
+  "storage": {
+    "driver": "local",
+    "local": { "publicBase": "/" }
+  },
+  "images": {
+    "maxWidth": 1200,
+    "coverWidth": 640,
+    "quality": 80,
+    "maxPerAlbum": 40
+  },
+  "requests": {
+    "delayMs": 800,
+    "retries": 3,
+    "timeoutMs": 45000,
+    "imageConcurrency": 3
+  },
+  "defaultSizes": ["S", "M", "L", "XL", "XXL"],
+  "selectors": {
+    "categoryLinks": ["a[href*='/categories/']"],
+    "albumLinks": ["a.album__main", "a[href*='/albums/'][title]", ".album__list a[href*='/albums/']"],
+    "albumTitle": [".showalbumheader__gallerytitle", ".showalbumheader__title", "h1"],
+    "albumImages": [".showalbum__children img", ".image__imagewrap img", "img[data-origin-src]"],
+    "imageAttrs": ["data-origin-src", "data-src", "src"],
+    "passwordMarkers": ["input[type='password']", ".showalbum__password", ".album__password"]
+  },
+  "categoryMap": {
+    "_comment": "Yupoo category name (lower case, substring match) -> site category key. First match wins; albums in no mapped category fall back to name rules.",
+    "national": "national",
+    "world cup": "national",
+    "retro": "retro",
+    "short": "shorts",
+    "windbreaker": "tracksuits",
+    "training": "training",
+    "casual": "other",
+    "t-shirt": "other",
+    "polo": "other",
+    "player version": "club",
+    "long sleeve": "club",
+    "kids": "club",
+    "women": "club",
+    "goalkeeper": "club",
+    "la liga": "club",
+    "premier league": "club",
+    "ligue 1": "club",
+    "serie a": "club",
+    "bundesliga": "club",
+    "brasileiro": "club",
+    "other league": "club",
+    "new season": "club"
+  }
+}

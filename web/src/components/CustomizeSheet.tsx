@@ -1,6 +1,6 @@
 import { useCallback, type ChangeEvent } from 'react';
 import { productById } from '../data/catalogue';
-import { appendChip, CHAMFER, cleanName, cleanNum, kitOf, OTHER_CHIPS, RED, SPECIAL_SIZES } from '../lib/constants';
+import { appendChip, teamSeason, CHAMFER, cleanName, cleanNum, kitOf, OTHER_CHIPS, RED, SPECIAL_SIZES } from '../lib/constants';
 import { useStore } from '../lib/store';
 import { CameraIcon } from './Icons';
 import KitArt from './KitArt';
@@ -122,7 +122,7 @@ export default function CustomizeSheet({ isDesktop }: { isDesktop: boolean }) {
           </div>
           <div style={{ minWidth: 0, display: 'flex', flexDirection: 'column', gap: 3 }}>
             <span style={{ fontSize: 16, fontWeight: 500, lineHeight: 1.25 }}>{product!.name}</span>
-            <span style={{ fontSize: 13, color: '#6b6b67' }}>{product!.team} · {product!.season}</span>
+            <span style={{ fontSize: 13, color: '#6b6b67' }}>{teamSeason(product!)}</span>
           </div>
         </div>
       )}

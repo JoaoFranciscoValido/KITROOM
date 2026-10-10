@@ -27,7 +27,7 @@ const VDESC: Record<string, string> = {
 };
 
 export const descOf = (p: Product) =>
-  [
+  p.description || [
     p.name + '.',
     VDESC[p.variant] || '',
     'Sizes ' + p.sizes[0] + ' to ' + p.sizes[p.sizes.length - 1] + '.',
@@ -37,7 +37,7 @@ export const descOf = (p: Product) =>
 export const kitOf = (p: Product): ArtKit => ({
   ...p.kit,
   type: p.variant === 'Long sleeve' ? 'LongShirt' : p.type,
-  image: p.images[0] || null,
+  image: p.cover || p.images[0] || null,
 });
 
 /** Shirt names: uppercase letters, spaces, dots, apostrophes and hyphens, max 14 characters. */
@@ -45,3 +45,6 @@ export const cleanName = (v: string) => v.toUpperCase().replace(/[^A-ZÀ-ÖØ-Þ
 /** Shirt numbers: up to two digits. */
 export const cleanNum = (v: string) => v.replace(/\D/g, '').slice(0, 2);
 export const appendChip = (cur: string, t: string) => (cur ? (cur.includes(t) ? cur : cur + ', ' + t) : t);
+
+/** "Team · Season", leaving out an unknown season. */
+export const teamSeason = (p: Product) => [p.team, p.season].filter(Boolean).join(' · ');

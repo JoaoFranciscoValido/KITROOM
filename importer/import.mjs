@@ -1,0 +1,293 @@
+#!/usr/bin/env node
+// KITROOM catalogue importer: Yupoo albums -> self-hosted WebP images + catalog.json.
+// Usage: node import.mjs [--limit N] [--category "text"] [--album <albumId>] [--dry-run] [--headed] [--config path]
+import { existsSync } from 'node:fs';
+import { readFile, rename, writeFile, mkdir } from 'node:fs/promises';
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
+import { applyOverrides, assignSlug, buildItem } from './lib/catalog.mjs';
+import { sha1, toWebp } from './lib/images.mjs';
+import { createReport, writeReport } from './lib/report.mjs';
+import { createStorage } from './lib/storage/index.mjs';
+import { YupooClient } from './lib/yupoo.mjs';
+
+const HERE = path.dirname(fileURLToPath(import.meta.url));
+
+function parseArgs(argv) {
+  const a = { limit: 0, category: '', album: '', dryRun: false, headed: false, config: path.join(HERE, 'config.json') };
+  for (let i = 0; i < argv.length; i++) {
+    const k = argv[i];
+    if (k === '--limit') a.limit = Number(argv[++i]) || 0;
+    else if (k === '--category') a.category = String(argv[++i] || '').toLowerCase();
+    else if (k === '--album') a.album = String(argv[++i] || '');
+    else if (k === '--dry-run') a.dryRun = true;
+    else if (k === '--headed') a.headed = true;
+    else if (k === '--config') a.config = path.resolve(argv[++i]);
+    else if (k === '--help' || k === '-h') { console.log('Usage: node import.mjs [--limit N] [--category "text"] [--album <albumId>] [--dry-run] [--headed] [--config path]'); process.exit(0); }
+    else { console.error(`Unknown option ${k}`); process.exit(2); }
+  }
+  return a;
+}
+
+const readJson = async (file, fallback) => {
+  try { return JSON.parse(await readFile(file, 'utf8')); } catch { return fallback; }
+};
+const writeJsonAtomic = async (file, data) => {
+  await mkdir(path.dirname(file), { recursive: true });
+  const tmp = file + '.tmp';
+  await writeFile(tmp, JSON.stringify(data, null, 2) + '\n');
+  await rename(tmp, file);
+};
+const pad = n => String(n).padStart(2, '0');
+const log = (...m) => console.log(new Date().toISOString().slice(11, 19), ...m);
+
+/** Runs async tasks with a concurrency limit, preserving result order. */
+async function mapLimit(items, limit, fn) {
+  const out = new Array(items.length);
+  let next = 0;
+  await Promise.all(Array.from({ length: Math.min(limit, items.length) }, async () => {
+    while (next < items.length) { const i = next++; out[i] = await fn(items[i], i); }
+  }));
+  return out;
+}
+
+async function main() {
+  const args = parseArgs(process.argv.slice(2));
+  const configDir = path.dirname(args.config);
+  const config = JSON.parse(await readFile(args.config, 'utf8'));
+  const outDir = path.resolve(configDir, config.output.dir);
+  const catalogPath = path.join(outDir, config.output.catalogFile);
+  const statePath = path.join(configDir, 'state.json');
+  const overridesPath = path.join(configDir, 'overrides.json');
+  const prefix = config.output.imagesPrefix;
+
+  const previous = await readJson(catalogPath, { items: [] });
+  const prevItems = Array.isArray(previous) ? previous : previous.items || [];
+  const prevById = new Map(prevItems.map(it => [it.id, it]));
+  const state = await readJson(statePath, { albums: {} });
+  const overrides = await readJson(overridesPath, {});
+  const storage = createStorage(config, configDir);
+  const report = createReport({ ...args, config: path.relative(process.cwd(), args.config) });
+  const fullRun = !args.limit && !args.category && !args.album;
+
+  const client = new YupooClient(config, { headed: args.headed });
+  log(`Opening ${config.source.baseUrl}${config.source.albumsPath}`);
+  await client.open();
+  let listingComplete = true;
+  const albums = new Map(); // albumId -> { albumId, title, url, categories[] }
+
+  try {
+    // 1. Categories and their albums
+    let cats = [];
+    try {
+      cats = await client.categories();
+      log(`Found ${cats.length} categories`);
+    } catch (e) {
+      listingComplete = false;
+      report.errors.push({ scope: 'categories', message: e.message });
+    }
+    for (const c of cats) {
+      if (args.category && !c.name.toLowerCase().includes(args.category)) continue;
+      try {
+        const list = await client.albumsIn(c.url);
+        log(`  ${c.name}: ${list.length} albums`);
+        for (const a of list) {
+          const cur = albums.get(a.albumId) || { ...a, categories: [] };
+          if (!cur.categories.includes(c.name)) cur.categories.push(c.name);
+          albums.set(a.albumId, cur);
+        }
+      } catch (e) {
+        listingComplete = false;
+        report.errors.push({ scope: 'category', id: c.id, url: c.url, message: e.message });
+      }
+    }
+    // 2. All albums (catches albums outside any category)
+    if (!args.category) {
+      try {
+        const all = await client.albumsIn(config.source.baseUrl + config.source.albumsPath);
+        log(`All albums listing: ${all.length} albums`);
+        for (const a of all) if (!albums.has(a.albumId)) albums.set(a.albumId, { ...a, categories: [] });
+      } catch (e) {
+        listingComplete = false;
+        report.errors.push({ scope: 'albums', message: e.message });
+      }
+    }
+
+    let queue = [...albums.values()];
+    if (args.album) queue = queue.filter(a => a.albumId === args.album);
+    if (args.limit) queue = queue.slice(0, args.limit);
+    log(`Processing ${queue.length} of ${albums.size} albums${args.dryRun ? ' (dry run: nothing is downloaded or written)' : ''}`);
+
+    // Slugs already used by products we keep
+    const taken = new Set();
+    for (const it of prevItems) if (it.slug) taken.add(it.slug);
+    const nextItems = new Map(prevItems.map(it => [it.id, it]));
+
+    // 3. Each album -> product
+    for (const [idx, a] of queue.entries()) {
+      const id = `yupoo-${a.albumId}`;
+      const prev = prevById.get(id);
+      const tag = `[${idx + 1}/${queue.length}] ${a.title}`;
+      try {
+        const detail = await client.readAlbum(a.url);
+        if (detail.passwordProtected) {
+          report.skipped.push({ id, title: a.title, url: a.url, reason: 'Password-protected album' });
+          log(`${tag}: skipped (password)`);
+          continue;
+        }
+        if (!detail.imageUrls.length) {
+          report.skipped.push({ id, title: a.title, url: a.url, reason: 'No photos found in album' });
+          log(`${tag}: skipped (no photos)`);
+          continue;
+        }
+        const album = { id, title: detail.title || a.title, url: a.url, category: a.categories[0] || '', categories: a.categories };
+        taken.delete(prev?.slug);
+        const slug = assignSlug(a.albumId, album.title, taken, prev?.slug);
+
+        if (args.dryRun) {
+          report.imported.push({ id, name: album.title, images: detail.imageUrls.length });
+          log(`${tag}: ${detail.imageUrls.length} photos (dry run)`);
+          continue;
+        }
+
+        const res = await importImages({ client, storage, config, prefix, slug, album, imageUrls: detail.imageUrls, prevState: state.albums[a.albumId] });
+        for (const err of res.errors) report.errors.push({ scope: 'image', id, url: err.url, message: err.message });
+        if (!res.images.length) {
+          report.skipped.push({ id, title: album.title, url: a.url, reason: 'None of the photos could be downloaded' });
+          continue;
+        }
+        state.albums[a.albumId] = { slug, entries: res.entries, sources: res.sources, checkedAt: new Date().toISOString() };
+        const item = buildItem({ album, slug, coverImage: res.cover, images: res.images, previous: prev, defaultSizes: config.defaultSizes, categoryMap: config.categoryMap });
+        const changed = !prev || res.downloaded > 0 || JSON.stringify(stripVolatile(prev)) !== JSON.stringify(stripVolatile(item));
+        if (!changed) item.updatedAt = prev.updatedAt;
+        nextItems.set(id, item);
+        const entry = { id, name: item.name, images: res.images.length, downloaded: res.downloaded, duplicates: res.duplicates };
+        (!prev ? report.imported : changed ? report.updated : report.unchanged).push(entry);
+        log(`${tag}: ${!prev ? 'imported' : changed ? 'updated' : 'unchanged'} (${res.images.length} photos, ${res.downloaded} downloaded, ${res.duplicates} duplicates)`);
+      } catch (e) {
+        report.errors.push({ scope: 'album', id, url: a.url, message: e.message });
+        log(`${tag}: ERROR ${e.message}`);
+      }
+    }
+
+    // 4. Products that disappeared from the source (only judged on a complete, unfiltered crawl)
+    if (fullRun && listingComplete && albums.size > 0) {
+      for (const [id, it] of nextItems) {
+        const albumId = id.replace(/^yupoo-/, '');
+        if (!albums.has(albumId) && it.availability !== 'unavailable') {
+          nextItems.set(id, { ...it, availability: 'unavailable', updatedAt: new Date().toISOString() });
+          report.unavailable.push({ id, name: it.name });
+        }
+      }
+    }
+
+    // 5. Write catalog.json
+    if (!args.dryRun) {
+      const items = applyOverrides([...nextItems.values()], overrides).sort((x, y) => x.name.localeCompare(y.name));
+      await writeJsonAtomic(catalogPath, {
+        generatedAt: new Date().toISOString(),
+        source: { name: 'Supplier catalogue', url: config.source.baseUrl + config.source.albumsPath },
+        count: items.length,
+        items,
+      });
+      await writeJsonAtomic(statePath, state);
+      log(`Wrote ${path.relative(process.cwd(), catalogPath)} (${items.length} products)`);
+    }
+  } finally {
+    await client.close();
+    const { mdPath } = await writeReport(report, path.join(configDir, 'reports'));
+    const t = report.totals;
+    log(`Done: ${t.imported} imported, ${t.updated} updated, ${t.unchanged} unchanged, ${t.skipped} skipped, ${t.unavailable} unavailable, ${t.errors} errors`);
+    log(`Report: ${path.relative(process.cwd(), mdPath)}`);
+  }
+}
+
+const stripVolatile = it => { const { updatedAt, ...rest } = it; return rest; };
+
+/**
+ * Downloads (or reuses) an album's photos and stores them as cover.webp + image-NN.webp.
+ * Reuse: a photo whose source URL was already stored at the same position, with the file still present, is not downloaded again.
+ * Duplicates: photos with identical content (SHA-1) inside one album are stored once.
+ */
+async function importImages({ client, storage, config, prefix, slug, album, imageUrls, prevState }) {
+  const prevEntries = prevState?.slug === slug ? prevState.entries || [] : [];
+  const prevBySrc = new Map(prevEntries.map(e => [e.src, e]));
+  const prevByHash = new Map(prevEntries.map(e => [e.hash, e]));
+  // Every source URL seen last time (including duplicates that were not stored) -> content hash.
+  const prevSources = prevState?.slug === slug ? prevState.sources || {} : {};
+  const errors = [];
+  let downloaded = 0;
+
+  // Fetch what is needed, keeping source order.
+  const fetched = await mapLimit(imageUrls, config.requests.imageConcurrency, async src => {
+    const p = prevBySrc.get(src);
+    if (p && (await storage.exists(p.key))) return { src, hash: p.hash, reuseKey: p.key };
+    const known = prevSources[src] && prevByHash.get(prevSources[src]);
+    if (known && (await storage.exists(known.key))) return { src, hash: known.hash, reuseKey: known.key };
+    try {
+      const buf = await client.download(src, album.url);
+      downloaded++;
+      return { src, hash: sha1(buf), buf };
+    } catch (e) {
+      errors.push({ url: src, message: e.message });
+      return null;
+    }
+  });
+
+  const seen = new Set();
+  const entries = [];
+  const images = [];
+  let duplicates = 0;
+  let coverSource = null;
+  for (const f of fetched) {
+    if (!f) continue;
+    if (seen.has(f.hash)) { duplicates++; continue; }
+    seen.add(f.hash);
+    const key = `${prefix}/${slug}/image-${pad(entries.length + 1)}.webp`;
+    try {
+      if (f.reuseKey === key) {
+        images.push(storage.url(key));
+      } else {
+        // New photo, or its position changed: (re)encode from the original.
+        const buf = f.buf || (downloaded++, await client.download(f.src, album.url));
+        const webp = await toWebp(buf, { maxWidth: config.images.maxWidth, quality: config.images.quality });
+        images.push(await storage.put(key, webp, 'image/webp'));
+        if (entries.length === 0) coverSource = buf;
+      }
+      entries.push({ src: f.src, hash: f.hash, key });
+    } catch (e) {
+      seen.delete(f.hash);
+      errors.push({ url: f.src, message: `Could not convert: ${e.message}` });
+    }
+  }
+
+  // Cover: a smaller copy of the first photo, regenerated when the first photo changed or the cover is missing.
+  const coverKey = `${prefix}/${slug}/cover.webp`;
+  let cover = storage.url(coverKey);
+  if (entries.length) {
+    const firstChanged = prevEntries[0]?.hash !== entries[0].hash;
+    if (coverSource || firstChanged || !(await storage.exists(coverKey))) {
+      try {
+        const src = coverSource || (downloaded++, await client.download(entries[0].src, album.url));
+        cover = await storage.put(coverKey, await toWebp(src, { maxWidth: config.images.coverWidth, quality: config.images.quality }), 'image/webp');
+      } catch (e) {
+        errors.push({ url: entries[0].src, message: `Cover: ${e.message}` });
+        cover = images[0];
+      }
+    }
+  }
+
+  // Remove photos left over from a previous, longer gallery.
+  if (storage.list) {
+    const keep = new Set([coverKey, ...entries.map(e => e.key)]);
+    for (const k of await storage.list(`${prefix}/${slug}`)) if (!keep.has(k)) await storage.remove(k);
+  }
+
+  const sources = Object.fromEntries(fetched.filter(f => f && seen.has(f.hash)).map(f => [f.src, f.hash]));
+  return { cover, images, entries, sources, downloaded, duplicates, errors };
+}
+
+main().catch(e => {
+  console.error(e);
+  process.exit(1);
+});
