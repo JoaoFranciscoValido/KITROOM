@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<div style="display:flex; flex-direction:column; gap:12px; min-width:0; font-family:'DM Sans', system-ui, sans-serif; color:#111;">
+  <div style="position:relative;">
+    <button onClick="{{ p.open }}" aria-label="Open product" style="display:block; position:relative; width:100%; aspect-ratio:4/5; padding:0; border:0; background:#d6d6d3; clip-path:polygon(16% 0, 100% 0, 100% 100%, 0 100%, 0 12.8%); cursor:pointer; overflow:hidden;">
+      <dc-import name="KitArt" kit="{{ p.kit }}" view="front" hint-size="100%,100%" style="position:absolute; inset:0;"></dc-import>
+      <span style="position:absolute; left:10px; bottom:10px; display:flex; align-items:center; gap:6px; padding:5px 10px; border-radius:999px; background:rgba(255,255,255,0.94); font-size:11.5px; font-weight:500; color:#111;"><span style="width:7px; height:7px; border-radius:50%; background:{{ p.availDot }};"></span>{{ p.availLabel }}</span>
+    </button>
+    <button onClick="{{ p.toggleFav }}" aria-label="Favourite" style="position:absolute; top:10px; right:10px; width:40px; height:40px; border-radius:50%; border:0; background:#fff; display:flex; align-items:center; justify-content:center; cursor:pointer; box-shadow:0 2px 8px rgba(0,0,0,0.08);">
+      <svg width="19" height="19" viewBox="0 0 24 24" fill="{{ p.favFill }}" stroke="#111" strokeWidth="1.8" strokeLinejoin="round"><path d="M12 20.5s-7.5-4.6-9.3-9.2C1.4 7.9 3.6 4.5 7 4.5c2.1 0 3.6 1.2 5 3 1.4-1.8 2.9-3 5-3 3.4 0 5.6 3.4 4.3 6.8-1.8 4.6-9.3 9.2-9.3 9.2z"></path></svg>
+    </button>
+  </div>
+  <div style="display:flex; gap:10px; align-items:flex-start;">
+    <div style="flex:1; min-width:0; display:flex; flex-direction:column; gap:3px;">
+      <div style="font-family:'DM Mono', monospace; font-size:10.5px; letter-spacing:0.05em; text-transform:uppercase; color:#7a7a76; white-space:nowrap; overflow:hidden; text-overflow:ellipsis;">{{ p.categoryLabel }} · {{ p.season }}</div>
+      <div onClick="{{ p.open }}" style="font-size:15px; font-weight:500; line-height:1.25; cursor:pointer; text-wrap:pretty;">{{ p.name }}</div>
+      <div style="font-size:13px; color:#6f6f6b;">{{ p.team }}</div>
+    </div>
+    <button onClick="{{ p.add }}" aria-label="Add to cart" style="flex:0 0 auto; width:44px; height:44px; border-radius:50%; border:1px solid {{ p.cartBorder }}; background:{{ p.cartBg }}; display:flex; align-items:center; justify-content:center; cursor:pointer;" style-hover="border-color:#111;">
+      <svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="#111" strokeWidth="1.8" strokeLinejoin="round" strokeLinecap="round"><path d="M5.5 8.5h13l-1.1 11.2a1.5 1.5 0 0 1-1.5 1.3H8.1a1.5 1.5 0 0 1-1.5-1.3z"></path><path d="M9 8.5V7a3 3 0 0 1 6 0v1.5"></path></svg>
+    </button>
+  </div>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props="{&quot;$preview&quot;:{&quot;width&quot;:240,&quot;height&quot;:400},&quot;p&quot;:{&quot;editor&quot;:null,&quot;tsType&quot;:&quot;object&quot;}}"></script>
+</body>
+</html>

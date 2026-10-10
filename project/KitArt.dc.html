@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<div style="position:relative; width:100%; height:100%; overflow:hidden; background:{{ bgFill }};">
+  <sc-if value="{{ hasImg }}" hint-placeholder-val="{{ false }}"><img src="{{ img }}" alt="" style="position:absolute; inset:0; width:100%; height:100%; object-fit:cover; transform:{{ imgTransform }};"></sc-if>
+  <sc-if value="{{ noImg }}" hint-placeholder-val="{{ true }}">
+  <div style="position:absolute; left:50%; top:50%; height:{{ artH }}; aspect-ratio:1/1; transform:{{ artTransform }}; transform-origin:{{ artOrigin }}; container-type:size; filter:drop-shadow(0 10px 14px rgba(0,0,0,0.22));">
+    <div style="position:absolute; inset:0; clip-path:{{ clip }}; background:{{ bodyBg }};"></div>
+    <sc-if value="{{ showCollar }}" hint-placeholder-val="{{ false }}"><div style="position:absolute; left:39.5%; top:2.6%; width:21%; height:7.6%; clip-path:polygon(0 0, 21% 0, 50% 62%, 79% 0, 100% 0, 50% 100%); background:{{ trim }};"></div></sc-if>
+    <sc-if value="{{ showZip }}" hint-placeholder-val="{{ false }}"><div style="position:absolute; left:49.6%; width:0.8%; top:9%; bottom:3%; background:{{ trim }};"></div></sc-if>
+    <sc-if value="{{ showBand }}" hint-placeholder-val="{{ false }}"><div style="position:absolute; left:14%; right:14%; top:12%; height:6%; background:{{ trim }};"></div></sc-if>
+    <sc-if value="{{ showCrest }}" hint-placeholder-val="{{ false }}"><div style="position:absolute; left:{{ crestX }}; top:{{ crestY }}; width:7%; height:8.5%; border-radius:30% 30% 50% 50%; background:{{ trim }}; box-shadow:inset 0 0 0 1.5px rgba(0,0,0,0.18);"></div></sc-if>
+    <sc-if value="{{ showPrint }}" hint-placeholder-val="{{ false }}">
+      <div style="position:absolute; left:0; right:0; top:18.5%; text-align:center; font-family:'Barlow Condensed', sans-serif; font-weight:600; font-size:7.5cqh; letter-spacing:0.08em; line-height:1; color:{{ ink }};">{{ nameTxt }}</div>
+      <div style="position:absolute; left:0; right:0; top:27%; text-align:center; font-family:'Barlow Condensed', sans-serif; font-weight:600; font-size:31cqh; line-height:1; color:{{ ink }};">{{ numTxt }}</div>
+    </sc-if>
+  </div>
+  </sc-if>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props="{&quot;$preview&quot;:{&quot;width&quot;:320,&quot;height&quot;:400},&quot;kit&quot;:{&quot;editor&quot;:null,&quot;tsType&quot;:&quot;object&quot;},&quot;view&quot;:{&quot;editor&quot;:&quot;enum&quot;,&quot;options&quot;:[&quot;front&quot;,&quot;back&quot;,&quot;detail&quot;],&quot;default&quot;:&quot;front&quot;,&quot;tsType&quot;:&quot;string&quot;},&quot;cname&quot;:{&quot;editor&quot;:&quot;text&quot;,&quot;default&quot;:&quot;&quot;,&quot;tsType&quot;:&quot;string&quot;},&quot;cnum&quot;:{&quot;editor&quot;:&quot;text&quot;,&quot;default&quot;:&quot;&quot;,&quot;tsType&quot;:&quot;string&quot;},&quot;tone&quot;:{&quot;editor&quot;:&quot;enum&quot;,&quot;options&quot;:[&quot;light&quot;,&quot;dark&quot;,&quot;bare&quot;],&quot;default&quot;:&quot;light&quot;,&quot;tsType&quot;:&quot;string&quot;},&quot;artH&quot;:{&quot;editor&quot;:null,&quot;tsType&quot;:&quot;string&quot;}}">
+class Component extends DCLogic {
+  renderVals() {
+    const k = this.props.kit || {};
+    const c = k.c || ['#bdbdb9'];
+    const c1 = c[1] || c[0];
+    const view = this.props.view || 'front';
+    const type = k.type || 'Shirt';
+    const pats = {
+      stripes: `repeating-linear-gradient(90deg, ${c[0]} 0 11.1%, ${c1} 11.1% 22.2%)`,
+      hoops: `repeating-linear-gradient(180deg, ${c[0]} 0 11%, ${c1} 11% 22%)`,
+      sleeves: `linear-gradient(90deg, ${c1} 0 24.5%, ${c[0]} 24.5% 75.5%, ${c1} 75.5%)`,
+      halves: `linear-gradient(90deg, ${c[0]} 0 50%, ${c1} 50%)`,
+      sash: `linear-gradient(125deg, ${c[0]} 0 44%, ${c1} 44% 56%, ${c[0]} 56%)`,
+      yoke: `linear-gradient(180deg, ${c1} 0 21%, ${c[0]} 21%)`
+    };
+    const base = pats[k.p] || `linear-gradient(${c[0]}, ${c[0]})`;
+    const shade = 'linear-gradient(90deg, rgba(0,0,0,.24), rgba(0,0,0,0) 30%, rgba(255,255,255,.08) 50%, rgba(0,0,0,0) 70%, rgba(0,0,0,.24)), linear-gradient(180deg, rgba(255,255,255,.10), rgba(0,0,0,0) 40%, rgba(0,0,0,.14))';
+    const isShorts = type === 'Shorts';
+    const isLong = type === 'Tracksuit' || type === 'Jacket' || type === 'LongShirt';
+    const hasZip = type === 'Tracksuit' || type === 'Jacket';
+    const clip = isShorts
+      ? 'polygon(14% 12%, 86% 12%, 95% 84%, 56% 90%, 50% 46%, 44% 90%, 5% 84%)'
+      : isLong
+        ? 'polygon(31% 5%, 41% 3%, 50% 8%, 59% 3%, 69% 5%, 86% 13%, 97% 85%, 86% 88%, 77% 35%, 78% 97%, 22% 97%, 23% 35%, 14% 88%, 3% 85%, 14% 13%)'
+        : 'polygon(31% 5%, 41% 3%, 50% 8%, 59% 3%, 69% 5%, 97% 19%, 88% 39%, 76% 34%, 77% 97%, 23% 97%, 24% 34%, 12% 39%, 3% 19%)';
+    const tone = this.props.tone || 'light';
+    const bgFill = tone === 'bare' ? 'transparent' : tone === 'dark'
+      ? 'linear-gradient(180deg, #5d5e5b, #313230)'
+      : 'linear-gradient(180deg, #e3e3e0, #c9c9c5)';
+    const name = (this.props.cname || '').trim();
+    const num = (this.props.cnum || '').trim();
+    return {
+      bgFill,
+      artH: this.props.artH || '76%',
+      artTransform: view === 'detail' ? 'translate(-50%,-50%) scale(2.6)' : 'translate(-50%,-50%)',
+      artOrigin: '60% 22%',
+      clip,
+      bodyBg: `${shade}, ${base}`,
+      trim: k.trim || '#ffffff',
+      ink: k.ink || '#ffffff',
+      showCollar: !isShorts,
+      showZip: hasZip && view !== 'back', hasImg: !!k.image, noImg: !k.image, img: k.image || '', imgTransform: view === 'detail' ? 'scale(2)' : 'none',
+      showBand: isShorts,
+      showCrest: view !== 'back',
+      crestX: isShorts ? '64%' : '59%',
+      crestY: isShorts ? '28%' : '18.5%',
+      showPrint: view === 'back' && !isShorts && type !== 'Casual' && !!(name || num),
+      nameTxt: name,
+      numTxt: num
+    };
+  }
+}
+</script>
+</body>
+</html>
