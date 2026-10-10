@@ -45,7 +45,7 @@ export function Header({ isDesktop }: { isDesktop: boolean }) {
   );
 
   return (
-    <header style={{ position: 'sticky', top: 0, zIndex: 20, background: 'rgba(255,255,255,0.94)', backdropFilter: 'blur(10px)', WebkitBackdropFilter: 'blur(10px)', borderBottom: '1px solid #ededea' }}>
+    <header style={{ position: 'sticky', top: 'env(safe-area-inset-top, 0px)', zIndex: 20, background: 'rgba(255,255,255,0.94)', backdropFilter: 'blur(10px)', WebkitBackdropFilter: 'blur(10px)', borderBottom: '1px solid #ededea' }}>
       <div style={{ maxWidth: 1240, margin: '0 auto', padding: '0 clamp(16px,4cqw,40px)', height: 60, display: 'flex', alignItems: 'center', gap: 14 }}>
         {showBack && (
           <button onClick={goBack} aria-label="Back" style={{ width: 40, height: 40, marginLeft: -8, border: 0, background: 'none', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>

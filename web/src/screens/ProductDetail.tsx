@@ -39,7 +39,7 @@ function ProductDetail({ p }: { p: Product }) {
   const thumbs = hasPhotos
     ? photos.map((u, i) => ({ key: u + i, view: 'front' as View, kit: { ...kit, image: u }, cname: '', cnum: '', on: pi === i, clip: CHAMFER, label: `Photo ${i + 1}`, pick: () => setImgIdx(i) }))
     : (isShirt ? (['front', 'back', 'detail'] as View[]) : (['front', 'detail'] as View[])).map(v => ({
-        key: v, view: v, kit, cname: name, cnum: number, on: view === v, clip: v === 'detail' ? OVAL : CHAMFER, label: v, pick: () => setView(v),
+        key: v, view: v, kit, cname: name, cnum: number, on: view === v, clip: v === 'detail' ? OVAL : CHAMFER, label: v[0].toUpperCase() + v.slice(1) + ' view', pick: () => setView(v),
       }));
   const viewLabel = hasPhotos
     ? `Photo ${pi + 1} of ${photos.length}`
