@@ -1,5 +1,129 @@
 {
   "albums": {
+    "64039421": {
+      "slug": "19-20-brazil-home-made-in-indonesia-1-1",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/187b591a/d9a5c1b3.jpeg",
+          "hash": "eec825903155d7e5028e8fd742d7954df8b84aa9",
+          "key": "catalog/19-20-brazil-home-made-in-indonesia-1-1/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/f83de275/4eef78a8.jpeg",
+          "hash": "1d794be76cc8b9a939ffe6bc07431d2806bb6656",
+          "key": "catalog/19-20-brazil-home-made-in-indonesia-1-1/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/628dee27/60d56eb5.jpeg",
+          "hash": "f86c8c6d12f3d3b672145986f0a0dee77a771312",
+          "key": "catalog/19-20-brazil-home-made-in-indonesia-1-1/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/68cc81b2/5607e4de.jpeg",
+          "hash": "f051be4a93638f5bd5be6f09c03cc45bb60da5b1",
+          "key": "catalog/19-20-brazil-home-made-in-indonesia-1-1/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/6dd267ac/4a1dd0e2.jpeg",
+          "hash": "6257e5477470ac72d3aeb890d841175f89d599c8",
+          "key": "catalog/19-20-brazil-home-made-in-indonesia-1-1/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/3958b1cc/2a7d8e2d.jpeg",
+          "hash": "006ac98fc569e02e09784d64283d531e703d682f",
+          "key": "catalog/19-20-brazil-home-made-in-indonesia-1-1/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/27188aff/d64633be.jpeg",
+          "hash": "c48bd2b757ee47df8cedd8b36c0a0c2c7e55e53c",
+          "key": "catalog/19-20-brazil-home-made-in-indonesia-1-1/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/145d2c0e/7992b9bb.jpeg",
+          "hash": "00e872c4692f193c068da6aab25c5530b3215cd2",
+          "key": "catalog/19-20-brazil-home-made-in-indonesia-1-1/image-08.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/18df5a0f/b768e22b.jpeg",
+          "hash": "c278866b0ca00c33e9e6af1211b73ed14ac9fcc4",
+          "key": "catalog/19-20-brazil-home-made-in-indonesia-1-1/image-09.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/7e58de7a/335b0b56.jpeg",
+          "hash": "83eeb3d2795dc3038eed0cc20ad678ada03fa340",
+          "key": "catalog/19-20-brazil-home-made-in-indonesia-1-1/image-10.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/8d9b2c76/1ac9335a.jpeg",
+          "hash": "a9503e92e5b0d7c8f4bf670ead78777ceb802d6b",
+          "key": "catalog/19-20-brazil-home-made-in-indonesia-1-1/image-11.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/25dde20f/5141f3af.jpeg",
+          "hash": "61c56aca037d871ceb501dd1d91d2f8fd772ed0d",
+          "key": "catalog/19-20-brazil-home-made-in-indonesia-1-1/image-12.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/187b591a/d9a5c1b3.jpeg": "eec825903155d7e5028e8fd742d7954df8b84aa9",
+        "https://photo.yupoo.com/minkang/f83de275/4eef78a8.jpeg": "1d794be76cc8b9a939ffe6bc07431d2806bb6656",
+        "https://photo.yupoo.com/minkang/628dee27/60d56eb5.jpeg": "f86c8c6d12f3d3b672145986f0a0dee77a771312",
+        "https://photo.yupoo.com/minkang/68cc81b2/5607e4de.jpeg": "f051be4a93638f5bd5be6f09c03cc45bb60da5b1",
+        "https://photo.yupoo.com/minkang/6dd267ac/4a1dd0e2.jpeg": "6257e5477470ac72d3aeb890d841175f89d599c8",
+        "https://photo.yupoo.com/minkang/3958b1cc/2a7d8e2d.jpeg": "006ac98fc569e02e09784d64283d531e703d682f",
+        "https://photo.yupoo.com/minkang/27188aff/d64633be.jpeg": "c48bd2b757ee47df8cedd8b36c0a0c2c7e55e53c",
+        "https://photo.yupoo.com/minkang/145d2c0e/7992b9bb.jpeg": "00e872c4692f193c068da6aab25c5530b3215cd2",
+        "https://photo.yupoo.com/minkang/18df5a0f/b768e22b.jpeg": "c278866b0ca00c33e9e6af1211b73ed14ac9fcc4",
+        "https://photo.yupoo.com/minkang/7e58de7a/335b0b56.jpeg": "83eeb3d2795dc3038eed0cc20ad678ada03fa340",
+        "https://photo.yupoo.com/minkang/8d9b2c76/1ac9335a.jpeg": "a9503e92e5b0d7c8f4bf670ead78777ceb802d6b",
+        "https://photo.yupoo.com/minkang/25dde20f/5141f3af.jpeg": "61c56aca037d871ceb501dd1d91d2f8fd772ed0d"
+      },
+      "checkedAt": "2026-10-11T00:29:42.824Z"
+    },
+    "64707998": {
+      "slug": "2019-brazil-away",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/3f3970e5/33373f1a.jpg",
+          "hash": "9556529fbf900e6e950e8997d8212709ad510b45",
+          "key": "catalog/2019-brazil-away/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/34e2c5e6/ae4e97a8.jpg",
+          "hash": "a8714a18b422877e851a79673c1c36ddf69f4552",
+          "key": "catalog/2019-brazil-away/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/4de855e6/d122a46a.jpg",
+          "hash": "99fc54df6c24a49fb55991e6be21803a347f60dc",
+          "key": "catalog/2019-brazil-away/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/f211292e/3e8bf30a.jpg",
+          "hash": "c1bc0a052b6dfa8395a43603e0ad79fd653ffdec",
+          "key": "catalog/2019-brazil-away/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/70d8fd4e/0ce69245.jpg",
+          "hash": "bf27d38e73e186d34ec1d69effe50de39cc3886a",
+          "key": "catalog/2019-brazil-away/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/16904d13/65f8a7f0.jpg",
+          "hash": "611c93f1f8c6a0b236aefd7181cfa7440adad85d",
+          "key": "catalog/2019-brazil-away/image-06.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/3f3970e5/33373f1a.jpg": "9556529fbf900e6e950e8997d8212709ad510b45",
+        "https://photo.yupoo.com/minkang/34e2c5e6/ae4e97a8.jpg": "a8714a18b422877e851a79673c1c36ddf69f4552",
+        "https://photo.yupoo.com/minkang/4de855e6/d122a46a.jpg": "99fc54df6c24a49fb55991e6be21803a347f60dc",
+        "https://photo.yupoo.com/minkang/f211292e/3e8bf30a.jpg": "c1bc0a052b6dfa8395a43603e0ad79fd653ffdec",
+        "https://photo.yupoo.com/minkang/70d8fd4e/0ce69245.jpg": "bf27d38e73e186d34ec1d69effe50de39cc3886a",
+        "https://photo.yupoo.com/minkang/16904d13/65f8a7f0.jpg": "611c93f1f8c6a0b236aefd7181cfa7440adad85d"
+      },
+      "checkedAt": "2026-10-11T00:24:56.082Z"
+    },
     "78484596": {
       "slug": "2020-brazil-home-s-xxxl-2",
       "entries": [
@@ -50,6 +174,62 @@
       },
       "checkedAt": "2026-10-11T00:22:36.979Z"
     },
+    "78484600": {
+      "slug": "2020-brazil-away-s-xxxl",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/687fe0df/2c547d49.jpg",
+          "hash": "3824447d2a1ea1ff08f052018b06010473809100",
+          "key": "catalog/2020-brazil-away-s-xxxl/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/3fa26bd1/127335f8.jpg",
+          "hash": "4223fa84a6c356890cb791c4917e9b69aa40043d",
+          "key": "catalog/2020-brazil-away-s-xxxl/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/a9c36cc4/e7b88b55.jpg",
+          "hash": "78e3bfac9cb15c5a96237972c0231c4b98b085da",
+          "key": "catalog/2020-brazil-away-s-xxxl/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/27d0726c/3364911a.jpg",
+          "hash": "d3460a0809ba46b814b1ed256d58fe8a0a8e97dc",
+          "key": "catalog/2020-brazil-away-s-xxxl/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/bb52683e/c1579c11.jpg",
+          "hash": "155308a17aab789f0f404e4f0afaa79f4c9aec4b",
+          "key": "catalog/2020-brazil-away-s-xxxl/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/32969ff7/9a9b21fa.jpg",
+          "hash": "2c02f4b9b1097379afee7be6fbf97c83c609d67c",
+          "key": "catalog/2020-brazil-away-s-xxxl/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/59697b3d/8f190315.jpg",
+          "hash": "37aa7aa32f89281359e039fc9c97f0c47cd3d2a9",
+          "key": "catalog/2020-brazil-away-s-xxxl/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/1f7bcba9/a09ba59f.jpg",
+          "hash": "0f7430547b341ab36828c39d54e2192ea6d162d8",
+          "key": "catalog/2020-brazil-away-s-xxxl/image-08.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/687fe0df/2c547d49.jpg": "3824447d2a1ea1ff08f052018b06010473809100",
+        "https://photo.yupoo.com/minkang/3fa26bd1/127335f8.jpg": "4223fa84a6c356890cb791c4917e9b69aa40043d",
+        "https://photo.yupoo.com/minkang/a9c36cc4/e7b88b55.jpg": "78e3bfac9cb15c5a96237972c0231c4b98b085da",
+        "https://photo.yupoo.com/minkang/27d0726c/3364911a.jpg": "d3460a0809ba46b814b1ed256d58fe8a0a8e97dc",
+        "https://photo.yupoo.com/minkang/bb52683e/c1579c11.jpg": "155308a17aab789f0f404e4f0afaa79f4c9aec4b",
+        "https://photo.yupoo.com/minkang/32969ff7/9a9b21fa.jpg": "2c02f4b9b1097379afee7be6fbf97c83c609d67c",
+        "https://photo.yupoo.com/minkang/59697b3d/8f190315.jpg": "37aa7aa32f89281359e039fc9c97f0c47cd3d2a9",
+        "https://photo.yupoo.com/minkang/1f7bcba9/a09ba59f.jpg": "0f7430547b341ab36828c39d54e2192ea6d162d8"
+      },
+      "checkedAt": "2026-10-11T00:24:02.279Z"
+    },
     "81519979": {
       "slug": "retro-2002-brazil-home",
       "entries": [
@@ -93,6 +273,124 @@
         "https://photo.yupoo.com/minkang/b3c11b7a/9ace45ac.jpg": "d03f50edd13de69590a1882a2051fa936bd13d54"
       },
       "checkedAt": "2026-10-11T00:19:31.697Z"
+    },
+    "81521087": {
+      "slug": "retro-93-94-brazil-home",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/9da9aa0d/08e920f2.jpg",
+          "hash": "92cd97b4b60a3a18f86a9f6729387dd09a011974",
+          "key": "catalog/retro-93-94-brazil-home/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/ce82639a/a4f07907.jpg",
+          "hash": "5f35e01123edb75a58b53be049909444d4348c62",
+          "key": "catalog/retro-93-94-brazil-home/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/9b13438a/b3092d5f.jpg",
+          "hash": "6ee757b768833cc11d8f9c09a1d7902685959eb5",
+          "key": "catalog/retro-93-94-brazil-home/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/75dfc9f3/9b48e90c.jpg",
+          "hash": "eb5ca3e5012c38be4a4e767545b4e8bce424a010",
+          "key": "catalog/retro-93-94-brazil-home/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/4be9bd46/cac94ee3.jpg",
+          "hash": "dc66d0cdeda18abb9cbcedf52da04b0d72e99219",
+          "key": "catalog/retro-93-94-brazil-home/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/10649a1e/358b041e.jpg",
+          "hash": "242b62ca10a0b6f60f00805095f6fb5f87e4e6e8",
+          "key": "catalog/retro-93-94-brazil-home/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/8dd39327/0ce2ce1d.jpg",
+          "hash": "21340dd777f7b67d3311d36763d2db4af03b5cb2",
+          "key": "catalog/retro-93-94-brazil-home/image-07.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/9da9aa0d/08e920f2.jpg": "92cd97b4b60a3a18f86a9f6729387dd09a011974",
+        "https://photo.yupoo.com/minkang/ce82639a/a4f07907.jpg": "5f35e01123edb75a58b53be049909444d4348c62",
+        "https://photo.yupoo.com/minkang/9b13438a/b3092d5f.jpg": "6ee757b768833cc11d8f9c09a1d7902685959eb5",
+        "https://photo.yupoo.com/minkang/75dfc9f3/9b48e90c.jpg": "eb5ca3e5012c38be4a4e767545b4e8bce424a010",
+        "https://photo.yupoo.com/minkang/4be9bd46/cac94ee3.jpg": "dc66d0cdeda18abb9cbcedf52da04b0d72e99219",
+        "https://photo.yupoo.com/minkang/10649a1e/358b041e.jpg": "242b62ca10a0b6f60f00805095f6fb5f87e4e6e8",
+        "https://photo.yupoo.com/minkang/8dd39327/0ce2ce1d.jpg": "21340dd777f7b67d3311d36763d2db4af03b5cb2"
+      },
+      "checkedAt": "2026-10-11T00:23:03.342Z"
+    },
+    "82311491": {
+      "slug": "brazil-training-suit",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/677e5930/b9a1b6f0.jpg",
+          "hash": "1e6bac17383ab27b250a80ddfc6def3736539089",
+          "key": "catalog/brazil-training-suit/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/e920a9c0/13a19386.jpg",
+          "hash": "6cd1d23f7e0c82204ca4fbe338b20bfb5362517c",
+          "key": "catalog/brazil-training-suit/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/01dc3439/f929eada.jpg",
+          "hash": "2a9c03023b3536f33c2ac90f8bc585ddb2262d67",
+          "key": "catalog/brazil-training-suit/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/bb2246ed/79e74a99.jpg",
+          "hash": "a01debe1b411660de356272e99bf335fc6704952",
+          "key": "catalog/brazil-training-suit/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/ca87e5a7/374de53d.jpg",
+          "hash": "4a6ef211883d536109649b930a09df4b960a82b8",
+          "key": "catalog/brazil-training-suit/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/5e55276d/704327a6.jpg",
+          "hash": "1678128aa91f886107b2534fec9cc6910421ca62",
+          "key": "catalog/brazil-training-suit/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/8aa8668c/4650c8c3.jpg",
+          "hash": "57f620f307835934b7926f0abb3307a51ee88cb1",
+          "key": "catalog/brazil-training-suit/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/1612a7e5/72a8fd79.jpg",
+          "hash": "4ea632cee341f4e534f5e4bdf800a81bba74aa39",
+          "key": "catalog/brazil-training-suit/image-08.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/3a52a899/cc1d0e61.jpg",
+          "hash": "fd88b73d23712a9ba764bc9568ff9a241ecec7f1",
+          "key": "catalog/brazil-training-suit/image-09.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/4dadf4b7/b5ef1127.jpg",
+          "hash": "664f8bef7d5ac6fa3f9c23c7f717619c6e9877b2",
+          "key": "catalog/brazil-training-suit/image-10.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/677e5930/b9a1b6f0.jpg": "1e6bac17383ab27b250a80ddfc6def3736539089",
+        "https://photo.yupoo.com/minkang/e920a9c0/13a19386.jpg": "6cd1d23f7e0c82204ca4fbe338b20bfb5362517c",
+        "https://photo.yupoo.com/minkang/01dc3439/f929eada.jpg": "2a9c03023b3536f33c2ac90f8bc585ddb2262d67",
+        "https://photo.yupoo.com/minkang/bb2246ed/79e74a99.jpg": "a01debe1b411660de356272e99bf335fc6704952",
+        "https://photo.yupoo.com/minkang/ca87e5a7/374de53d.jpg": "4a6ef211883d536109649b930a09df4b960a82b8",
+        "https://photo.yupoo.com/minkang/5e55276d/704327a6.jpg": "1678128aa91f886107b2534fec9cc6910421ca62",
+        "https://photo.yupoo.com/minkang/8aa8668c/4650c8c3.jpg": "57f620f307835934b7926f0abb3307a51ee88cb1",
+        "https://photo.yupoo.com/minkang/1612a7e5/72a8fd79.jpg": "4ea632cee341f4e534f5e4bdf800a81bba74aa39",
+        "https://photo.yupoo.com/minkang/3a52a899/cc1d0e61.jpg": "fd88b73d23712a9ba764bc9568ff9a241ecec7f1",
+        "https://photo.yupoo.com/minkang/4dadf4b7/b5ef1127.jpg": "664f8bef7d5ac6fa3f9c23c7f717619c6e9877b2"
+      },
+      "checkedAt": "2026-10-11T00:28:36.867Z"
     },
     "83449108": {
       "slug": "retro-2002-brazil-away",
@@ -182,6 +480,62 @@
       },
       "checkedAt": "2026-10-11T00:22:45.037Z"
     },
+    "90837020": {
+      "slug": "brazil-training-suit-fluorescent-green",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/59e3ffa0/be9f4f5a.jpg",
+          "hash": "e0b5943020b1923912b63e910f473bc382cf42bd",
+          "key": "catalog/brazil-training-suit-fluorescent-green/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/0b5220b5/cf194068.jpg",
+          "hash": "27210c985f0ee5f2b7912ccb0f98e515c0c159bd",
+          "key": "catalog/brazil-training-suit-fluorescent-green/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/9ebf8553/cb76deb0.jpg",
+          "hash": "ed85965bc94169223ebe2e1eaf7c4e0186557eb4",
+          "key": "catalog/brazil-training-suit-fluorescent-green/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/0ec1d799/d68a8e0e.jpg",
+          "hash": "d8b1515a9a5620e210b1f0003532088dc584a6a2",
+          "key": "catalog/brazil-training-suit-fluorescent-green/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/38fcaeaf/f4d99b75.jpg",
+          "hash": "469e9c3d8e9a6f2241438f542dd43735f4c36c60",
+          "key": "catalog/brazil-training-suit-fluorescent-green/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/c2faad14/04acc3a7.jpg",
+          "hash": "ae50dafa61326cd9d6690e25e5e8e8c2ce982cdf",
+          "key": "catalog/brazil-training-suit-fluorescent-green/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/22abb20c/991e5257.jpg",
+          "hash": "435d20a36a5cdf498f0299e49158a293aa72b3a9",
+          "key": "catalog/brazil-training-suit-fluorescent-green/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/8781e542/ee186d22.jpg",
+          "hash": "0f5474f9ff2706497d06a7c1025a2e2c979db10e",
+          "key": "catalog/brazil-training-suit-fluorescent-green/image-08.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/59e3ffa0/be9f4f5a.jpg": "e0b5943020b1923912b63e910f473bc382cf42bd",
+        "https://photo.yupoo.com/minkang/0b5220b5/cf194068.jpg": "27210c985f0ee5f2b7912ccb0f98e515c0c159bd",
+        "https://photo.yupoo.com/minkang/9ebf8553/cb76deb0.jpg": "ed85965bc94169223ebe2e1eaf7c4e0186557eb4",
+        "https://photo.yupoo.com/minkang/0ec1d799/d68a8e0e.jpg": "d8b1515a9a5620e210b1f0003532088dc584a6a2",
+        "https://photo.yupoo.com/minkang/38fcaeaf/f4d99b75.jpg": "469e9c3d8e9a6f2241438f542dd43735f4c36c60",
+        "https://photo.yupoo.com/minkang/c2faad14/04acc3a7.jpg": "ae50dafa61326cd9d6690e25e5e8e8c2ce982cdf",
+        "https://photo.yupoo.com/minkang/22abb20c/991e5257.jpg": "435d20a36a5cdf498f0299e49158a293aa72b3a9",
+        "https://photo.yupoo.com/minkang/8781e542/ee186d22.jpg": "0f5474f9ff2706497d06a7c1025a2e2c979db10e"
+      },
+      "checkedAt": "2026-10-11T00:28:25.335Z"
+    },
     "94445533": {
       "slug": "retro-brazil-1998-home",
       "entries": [
@@ -237,6 +591,106 @@
         "https://photo.yupoo.com/minkang/bd0ba979/1a5aa7e6.jpg": "6a12bd73071394bed3583b92102d51ec3386d395"
       },
       "checkedAt": "2026-10-11T00:18:43.882Z"
+    },
+    "100858264": {
+      "slug": "2021-brazil-pre-match-blue",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/2d899845/0b844eb9.jpg",
+          "hash": "b26e370e5bb0de01b8ccbf745d83fb529327242d",
+          "key": "catalog/2021-brazil-pre-match-blue/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/71d26765/dd03064c.jpg",
+          "hash": "aa4d7e29080898092386dc3af6727ca883147e31",
+          "key": "catalog/2021-brazil-pre-match-blue/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/a4724f14/ed69dcac.jpg",
+          "hash": "9a24abeaba80d594a6fcb5a3fd4dea87cdf94900",
+          "key": "catalog/2021-brazil-pre-match-blue/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/884fc70b/af11c073.jpg",
+          "hash": "071005717237e1dae13d850d5454bed0d1945147",
+          "key": "catalog/2021-brazil-pre-match-blue/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/40628d29/0c9d265b.jpg",
+          "hash": "9f8c9fe1bfcae36098fabe9fd20a5ac40de35b6a",
+          "key": "catalog/2021-brazil-pre-match-blue/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/71a84fc3/5163974d.jpg",
+          "hash": "be01440554b52d6be6475896bb7355d773b8dc50",
+          "key": "catalog/2021-brazil-pre-match-blue/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/9d7d166a/939f27ca.jpg",
+          "hash": "1545a1d88e6e3adc3eea804d70e70245fc7b84c3",
+          "key": "catalog/2021-brazil-pre-match-blue/image-07.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/2d899845/0b844eb9.jpg": "b26e370e5bb0de01b8ccbf745d83fb529327242d",
+        "https://photo.yupoo.com/minkang/71d26765/dd03064c.jpg": "aa4d7e29080898092386dc3af6727ca883147e31",
+        "https://photo.yupoo.com/minkang/a4724f14/ed69dcac.jpg": "9a24abeaba80d594a6fcb5a3fd4dea87cdf94900",
+        "https://photo.yupoo.com/minkang/884fc70b/af11c073.jpg": "071005717237e1dae13d850d5454bed0d1945147",
+        "https://photo.yupoo.com/minkang/40628d29/0c9d265b.jpg": "9f8c9fe1bfcae36098fabe9fd20a5ac40de35b6a",
+        "https://photo.yupoo.com/minkang/71a84fc3/5163974d.jpg": "be01440554b52d6be6475896bb7355d773b8dc50",
+        "https://photo.yupoo.com/minkang/9d7d166a/939f27ca.jpg": "1545a1d88e6e3adc3eea804d70e70245fc7b84c3"
+      },
+      "checkedAt": "2026-10-11T00:28:14.677Z"
+    },
+    "103233805": {
+      "slug": "2021-brazil-training-suit-blue",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/c302be17/0cb0fbdb.jpg",
+          "hash": "c801d7abda87443cd79f72fcbf86a7a481e8b990",
+          "key": "catalog/2021-brazil-training-suit-blue/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/b97a1725/90f0f3ed.jpg",
+          "hash": "7c0b0bf7f17668710858e3760f17701cb2afcefa",
+          "key": "catalog/2021-brazil-training-suit-blue/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/aac00560/79838401.jpg",
+          "hash": "fef983c2d3d8d94db8fc7307955261ace6ab6084",
+          "key": "catalog/2021-brazil-training-suit-blue/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/cee75c2b/1f3f5cf3.jpg",
+          "hash": "ee710d294c518c618061b03eea54eb5678a5699c",
+          "key": "catalog/2021-brazil-training-suit-blue/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/183ab626/40b25aa5.jpg",
+          "hash": "cfbbec75f4ecbe30227b33e4783db07c21793dc9",
+          "key": "catalog/2021-brazil-training-suit-blue/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/fb44ace9/9644526d.jpg",
+          "hash": "b2b1a9067a04d5f1f850b9d71300fcbee46d0a36",
+          "key": "catalog/2021-brazil-training-suit-blue/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/432e15b1/c8dca779.jpg",
+          "hash": "8bc1edfd49a6081e873eb062147565f0910e1fdc",
+          "key": "catalog/2021-brazil-training-suit-blue/image-07.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/c302be17/0cb0fbdb.jpg": "c801d7abda87443cd79f72fcbf86a7a481e8b990",
+        "https://photo.yupoo.com/minkang/b97a1725/90f0f3ed.jpg": "7c0b0bf7f17668710858e3760f17701cb2afcefa",
+        "https://photo.yupoo.com/minkang/aac00560/79838401.jpg": "fef983c2d3d8d94db8fc7307955261ace6ab6084",
+        "https://photo.yupoo.com/minkang/cee75c2b/1f3f5cf3.jpg": "ee710d294c518c618061b03eea54eb5678a5699c",
+        "https://photo.yupoo.com/minkang/183ab626/40b25aa5.jpg": "cfbbec75f4ecbe30227b33e4783db07c21793dc9",
+        "https://photo.yupoo.com/minkang/fb44ace9/9644526d.jpg": "b2b1a9067a04d5f1f850b9d71300fcbee46d0a36",
+        "https://photo.yupoo.com/minkang/432e15b1/c8dca779.jpg": "8bc1edfd49a6081e873eb062147565f0910e1fdc"
+      },
+      "checkedAt": "2026-10-11T00:28:04.366Z"
     },
     "110373353": {
       "slug": "retro-1998-brazil-away",
@@ -382,6 +836,316 @@
       },
       "checkedAt": "2026-10-11T00:19:57.935Z"
     },
+    "111031878": {
+      "slug": "2022-brazil-black",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/2a3e4f69/aebffbb8.jpg",
+          "hash": "95702a9320aa45cad63561f6e9dbfb6042723121",
+          "key": "catalog/2022-brazil-black/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/5888fb57/6a5008c4.jpg",
+          "hash": "f4303271e9a8cb6062050805b2da81081c3c1cbd",
+          "key": "catalog/2022-brazil-black/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/3f0ef16f/a241c982.jpg",
+          "hash": "bcff46272d857e643bff7c56236db6dea8996c9f",
+          "key": "catalog/2022-brazil-black/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/dc14f000/e617a6e8.jpg",
+          "hash": "2a3eec7d2d2610be6930f3085d272790847f6bb2",
+          "key": "catalog/2022-brazil-black/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/be270b93/3eb6f98b.jpg",
+          "hash": "a3a714f82e6d682576ac1d5e155e6ceb603e3e8e",
+          "key": "catalog/2022-brazil-black/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/5ddbcf5c/ceeb75fd.jpg",
+          "hash": "dbf0f3b10ee9b27641ead7bf2863477397b16480",
+          "key": "catalog/2022-brazil-black/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/4f0e46d5/2d1f602a.jpg",
+          "hash": "d491c07827353d6baf63867021c5b0234e4eec44",
+          "key": "catalog/2022-brazil-black/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/17dd96a1/eab8fe44.jpg",
+          "hash": "8be1a830b1571e96cd397c2610869f9bfa2040f3",
+          "key": "catalog/2022-brazil-black/image-08.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/3f394230/b41389ab.jpg",
+          "hash": "80a108a3458e357101f4b5274afe258c31ff8ba6",
+          "key": "catalog/2022-brazil-black/image-09.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/2a3e4f69/aebffbb8.jpg": "95702a9320aa45cad63561f6e9dbfb6042723121",
+        "https://photo.yupoo.com/minkang/5888fb57/6a5008c4.jpg": "f4303271e9a8cb6062050805b2da81081c3c1cbd",
+        "https://photo.yupoo.com/minkang/3f0ef16f/a241c982.jpg": "bcff46272d857e643bff7c56236db6dea8996c9f",
+        "https://photo.yupoo.com/minkang/dc14f000/e617a6e8.jpg": "2a3eec7d2d2610be6930f3085d272790847f6bb2",
+        "https://photo.yupoo.com/minkang/be270b93/3eb6f98b.jpg": "a3a714f82e6d682576ac1d5e155e6ceb603e3e8e",
+        "https://photo.yupoo.com/minkang/5ddbcf5c/ceeb75fd.jpg": "dbf0f3b10ee9b27641ead7bf2863477397b16480",
+        "https://photo.yupoo.com/minkang/4f0e46d5/2d1f602a.jpg": "d491c07827353d6baf63867021c5b0234e4eec44",
+        "https://photo.yupoo.com/minkang/17dd96a1/eab8fe44.jpg": "8be1a830b1571e96cd397c2610869f9bfa2040f3",
+        "https://photo.yupoo.com/minkang/3f394230/b41389ab.jpg": "80a108a3458e357101f4b5274afe258c31ff8ba6"
+      },
+      "checkedAt": "2026-10-11T00:27:41.176Z"
+    },
+    "112810873": {
+      "slug": "2018-brazil-away",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/bd641ebe/42ac6915.jpg",
+          "hash": "30204b4abfaa9418dcd462a54b44e191f5a85fa9",
+          "key": "catalog/2018-brazil-away/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/17e90873/220b29a3.jpg",
+          "hash": "f084c56c3ccf30aa53e84ee2d6c9849fe07aa82c",
+          "key": "catalog/2018-brazil-away/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/532a7a5f/dd4b8cdd.jpg",
+          "hash": "d0429c9b5c901bee78ba07391ed11354cb857256",
+          "key": "catalog/2018-brazil-away/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/c91ebfb5/d6b9d302.jpg",
+          "hash": "099d7c11bf04619afb36c53d81edf197f67b419f",
+          "key": "catalog/2018-brazil-away/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/c473aeab/fd5a3a02.jpg",
+          "hash": "c2076c9e16d4a3d3bfabb3813aba802691f1c4af",
+          "key": "catalog/2018-brazil-away/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/6ad098f4/45bfb1a7.jpg",
+          "hash": "25b1cbb41e77286cce71080c4bd2422f7a12971b",
+          "key": "catalog/2018-brazil-away/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/9faf430f/2bc7ea43.jpg",
+          "hash": "d87fd7759397d402b80520855e2a8cfcf4ada1b7",
+          "key": "catalog/2018-brazil-away/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/bd22d112/175e513a.jpg",
+          "hash": "912ebc3c65557e7e89485be1c3524ef3ad2b5421",
+          "key": "catalog/2018-brazil-away/image-08.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/a62f50c8/2088e136.jpg",
+          "hash": "7bde1cbb71853b37ab45330a2e241fddcbdc7ccc",
+          "key": "catalog/2018-brazil-away/image-09.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/bd641ebe/42ac6915.jpg": "30204b4abfaa9418dcd462a54b44e191f5a85fa9",
+        "https://photo.yupoo.com/minkang/17e90873/220b29a3.jpg": "f084c56c3ccf30aa53e84ee2d6c9849fe07aa82c",
+        "https://photo.yupoo.com/minkang/532a7a5f/dd4b8cdd.jpg": "d0429c9b5c901bee78ba07391ed11354cb857256",
+        "https://photo.yupoo.com/minkang/c91ebfb5/d6b9d302.jpg": "099d7c11bf04619afb36c53d81edf197f67b419f",
+        "https://photo.yupoo.com/minkang/c473aeab/fd5a3a02.jpg": "c2076c9e16d4a3d3bfabb3813aba802691f1c4af",
+        "https://photo.yupoo.com/minkang/6ad098f4/45bfb1a7.jpg": "25b1cbb41e77286cce71080c4bd2422f7a12971b",
+        "https://photo.yupoo.com/minkang/9faf430f/2bc7ea43.jpg": "d87fd7759397d402b80520855e2a8cfcf4ada1b7",
+        "https://photo.yupoo.com/minkang/bd22d112/175e513a.jpg": "912ebc3c65557e7e89485be1c3524ef3ad2b5421",
+        "https://photo.yupoo.com/minkang/a62f50c8/2088e136.jpg": "7bde1cbb71853b37ab45330a2e241fddcbdc7ccc"
+      },
+      "checkedAt": "2026-10-11T00:27:54.444Z"
+    },
+    "115379284": {
+      "slug": "2022-brazil-all-black",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/917f7838/c6ae9432.jpg",
+          "hash": "5224e28e6eb2e0f4c319754f3f144e24fe51f933",
+          "key": "catalog/2022-brazil-all-black/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/480d2b33/7d4504af.jpg",
+          "hash": "080de216fed83691b8de3278166c678010ebe09c",
+          "key": "catalog/2022-brazil-all-black/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/62782e3a/81264d5b.jpg",
+          "hash": "2912aaa81ce42d6c61715cefef0321b4ec98d75e",
+          "key": "catalog/2022-brazil-all-black/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/3ef778d6/164e9f5d.jpg",
+          "hash": "a63092a68d50db3c82a202ef8ae5344cd2419d9d",
+          "key": "catalog/2022-brazil-all-black/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/b8c86c9f/a502c1ea.jpg",
+          "hash": "9b093633fe631d233d1aed02be59f89430f78131",
+          "key": "catalog/2022-brazil-all-black/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/ba617f5a/97168fc2.jpg",
+          "hash": "f089700b28ec1a697fdd302e87d3bc259fd77bbb",
+          "key": "catalog/2022-brazil-all-black/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/da772a63/de43c766.jpg",
+          "hash": "5ab6668317c262bcf22d69e78e2a940e2af5fb46",
+          "key": "catalog/2022-brazil-all-black/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/41266986/0999097b.jpg",
+          "hash": "cd0bca603115fffbb49440befe11544ab836d6bc",
+          "key": "catalog/2022-brazil-all-black/image-08.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/210d7f5c/d50f451c.jpg",
+          "hash": "309867bcfb685e66436cbbfd84c29211ea9d2db7",
+          "key": "catalog/2022-brazil-all-black/image-09.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/917f7838/c6ae9432.jpg": "5224e28e6eb2e0f4c319754f3f144e24fe51f933",
+        "https://photo.yupoo.com/minkang/480d2b33/7d4504af.jpg": "080de216fed83691b8de3278166c678010ebe09c",
+        "https://photo.yupoo.com/minkang/62782e3a/81264d5b.jpg": "2912aaa81ce42d6c61715cefef0321b4ec98d75e",
+        "https://photo.yupoo.com/minkang/3ef778d6/164e9f5d.jpg": "a63092a68d50db3c82a202ef8ae5344cd2419d9d",
+        "https://photo.yupoo.com/minkang/b8c86c9f/a502c1ea.jpg": "9b093633fe631d233d1aed02be59f89430f78131",
+        "https://photo.yupoo.com/minkang/ba617f5a/97168fc2.jpg": "f089700b28ec1a697fdd302e87d3bc259fd77bbb",
+        "https://photo.yupoo.com/minkang/da772a63/de43c766.jpg": "5ab6668317c262bcf22d69e78e2a940e2af5fb46",
+        "https://photo.yupoo.com/minkang/41266986/0999097b.jpg": "cd0bca603115fffbb49440befe11544ab836d6bc",
+        "https://photo.yupoo.com/minkang/210d7f5c/d50f451c.jpg": "309867bcfb685e66436cbbfd84c29211ea9d2db7"
+      },
+      "checkedAt": "2026-10-11T00:27:27.191Z"
+    },
+    "118785423": {
+      "slug": "2022-brazil-concept-black",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/d48daeb1/8be68c7b.jpg",
+          "hash": "e87d44b80dfaebd88b6a911199b93ed92f534f85",
+          "key": "catalog/2022-brazil-concept-black/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/74a646a9/36c3fb7b.jpg",
+          "hash": "9e9948adbb3c68c850b741d16c55178ce66a5676",
+          "key": "catalog/2022-brazil-concept-black/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/be2cb7cf/b0375888.jpg",
+          "hash": "414e06f17c9c87ef5ea0d3b22db15d1c899cd55f",
+          "key": "catalog/2022-brazil-concept-black/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/db7d7743/11a54750.jpg",
+          "hash": "f4c10de11829c0c3c20d75d9cfee7a682f3ed2e3",
+          "key": "catalog/2022-brazil-concept-black/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/fc9a6503/72cce3e9.jpg",
+          "hash": "437368edaa2fc0573aa4da9710c06ff043f7cc26",
+          "key": "catalog/2022-brazil-concept-black/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/2991fb86/5aa57860.jpg",
+          "hash": "a39356b65dbd3ea384d49b32f1d211e264ab4017",
+          "key": "catalog/2022-brazil-concept-black/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/be332171/382dfae4.jpg",
+          "hash": "242f6bfca7bf0fdb6ba40b11aa7e662ecc43aa21",
+          "key": "catalog/2022-brazil-concept-black/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/047f3ac3/ae71bb8d.jpg",
+          "hash": "4e6a396e60ca668e1946a7bf27cc369e27191a7e",
+          "key": "catalog/2022-brazil-concept-black/image-08.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/c18682ff/c121b7bf.jpg",
+          "hash": "6a9d16c06c6e45375ebf1cce72d11e41e23478db",
+          "key": "catalog/2022-brazil-concept-black/image-09.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/32e2592c/9277cad8.jpg",
+          "hash": "9536611090f46bc5414b11df1428e20ea22522bf",
+          "key": "catalog/2022-brazil-concept-black/image-10.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/d48daeb1/8be68c7b.jpg": "e87d44b80dfaebd88b6a911199b93ed92f534f85",
+        "https://photo.yupoo.com/minkang/74a646a9/36c3fb7b.jpg": "9e9948adbb3c68c850b741d16c55178ce66a5676",
+        "https://photo.yupoo.com/minkang/be2cb7cf/b0375888.jpg": "414e06f17c9c87ef5ea0d3b22db15d1c899cd55f",
+        "https://photo.yupoo.com/minkang/db7d7743/11a54750.jpg": "f4c10de11829c0c3c20d75d9cfee7a682f3ed2e3",
+        "https://photo.yupoo.com/minkang/fc9a6503/72cce3e9.jpg": "437368edaa2fc0573aa4da9710c06ff043f7cc26",
+        "https://photo.yupoo.com/minkang/2991fb86/5aa57860.jpg": "a39356b65dbd3ea384d49b32f1d211e264ab4017",
+        "https://photo.yupoo.com/minkang/be332171/382dfae4.jpg": "242f6bfca7bf0fdb6ba40b11aa7e662ecc43aa21",
+        "https://photo.yupoo.com/minkang/047f3ac3/ae71bb8d.jpg": "4e6a396e60ca668e1946a7bf27cc369e27191a7e",
+        "https://photo.yupoo.com/minkang/c18682ff/c121b7bf.jpg": "6a9d16c06c6e45375ebf1cce72d11e41e23478db",
+        "https://photo.yupoo.com/minkang/32e2592c/9277cad8.jpg": "9536611090f46bc5414b11df1428e20ea22522bf"
+      },
+      "checkedAt": "2026-10-11T00:27:08.578Z"
+    },
+    "118924354": {
+      "slug": "retro-goalkeeper-brazil-1998-dark-green",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/ca026cb7/d1a115c6.jpg",
+          "hash": "6268ad20dac5faf29e1ce3b06cf2e17e184555b0",
+          "key": "catalog/retro-goalkeeper-brazil-1998-dark-green/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/97856b65/c7652e06.jpg",
+          "hash": "6796fb90587dcd1696f87e1108e53acd80f2cf73",
+          "key": "catalog/retro-goalkeeper-brazil-1998-dark-green/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/5d05366e/09eaa4ba.jpg",
+          "hash": "5022526bdffd002e9ad95e0de58af858b239e28d",
+          "key": "catalog/retro-goalkeeper-brazil-1998-dark-green/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/83bc89d0/c4e3a964.jpg",
+          "hash": "f3aa9fc75377c3e417883ea02d77eb378b39910c",
+          "key": "catalog/retro-goalkeeper-brazil-1998-dark-green/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/adb3a3fb/63f01ecf.jpg",
+          "hash": "90aa81854b9ddf1b8f6cd747f0c401fb77d76aa0",
+          "key": "catalog/retro-goalkeeper-brazil-1998-dark-green/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/1bafeb58/daec2a1f.jpg",
+          "hash": "25287e2c3f1b56e35420f9eac33fd1dbe27b69a9",
+          "key": "catalog/retro-goalkeeper-brazil-1998-dark-green/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/dec1a726/bb4f75b6.jpg",
+          "hash": "26bc6ae1e140d85dabdbf1868ff00662d61e1349",
+          "key": "catalog/retro-goalkeeper-brazil-1998-dark-green/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/81af350d/8017b25b.jpg",
+          "hash": "9be5473d6e0fd354a610135488d54319403aa84c",
+          "key": "catalog/retro-goalkeeper-brazil-1998-dark-green/image-08.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/ca026cb7/d1a115c6.jpg": "6268ad20dac5faf29e1ce3b06cf2e17e184555b0",
+        "https://photo.yupoo.com/minkang/97856b65/c7652e06.jpg": "6796fb90587dcd1696f87e1108e53acd80f2cf73",
+        "https://photo.yupoo.com/minkang/5d05366e/09eaa4ba.jpg": "5022526bdffd002e9ad95e0de58af858b239e28d",
+        "https://photo.yupoo.com/minkang/83bc89d0/c4e3a964.jpg": "f3aa9fc75377c3e417883ea02d77eb378b39910c",
+        "https://photo.yupoo.com/minkang/adb3a3fb/63f01ecf.jpg": "90aa81854b9ddf1b8f6cd747f0c401fb77d76aa0",
+        "https://photo.yupoo.com/minkang/1bafeb58/daec2a1f.jpg": "25287e2c3f1b56e35420f9eac33fd1dbe27b69a9",
+        "https://photo.yupoo.com/minkang/dec1a726/bb4f75b6.jpg": "26bc6ae1e140d85dabdbf1868ff00662d61e1349",
+        "https://photo.yupoo.com/minkang/81af350d/8017b25b.jpg": "9be5473d6e0fd354a610135488d54319403aa84c"
+      },
+      "checkedAt": "2026-10-11T00:24:12.500Z"
+    },
     "119815884": {
       "slug": "retro-1988-brazil-home",
       "entries": [
@@ -425,6 +1189,330 @@
         "https://photo.yupoo.com/minkang/4d73b27c/f949f250.jpg": "50c4b238a45a5b636b4068e6cc0412fd628737b7"
       },
       "checkedAt": "2026-10-11T00:22:53.436Z"
+    },
+    "120626328": {
+      "slug": "2022-brazil-world-cup-jersey-home",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/a3a13aa6/c66d0ea7.jpg",
+          "hash": "2ec4989bba3046834fc49b773bb5241685991e9d",
+          "key": "catalog/2022-brazil-world-cup-jersey-home/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/36d1090f/69a72853.jpg",
+          "hash": "2b56eab7ff890d9fd6cf4f1e626a3ff5c5e8aec6",
+          "key": "catalog/2022-brazil-world-cup-jersey-home/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/91149b21/dc45cb5c.jpg",
+          "hash": "4853ffbfbe55828fa34c6ddf14960cd312f60a9f",
+          "key": "catalog/2022-brazil-world-cup-jersey-home/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/34c3a267/86ecac95.jpg",
+          "hash": "948ced734d9e33178fb2f4ff045d37aeace2994f",
+          "key": "catalog/2022-brazil-world-cup-jersey-home/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/5117715d/624ba76f.jpg",
+          "hash": "068772cc13d9533f6cf23dff8d938a3660cd725c",
+          "key": "catalog/2022-brazil-world-cup-jersey-home/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/8bf3cf4e/dca6dc9f.jpg",
+          "hash": "4cd8e93900fd790c4e6c8e4fdc44587bda62441c",
+          "key": "catalog/2022-brazil-world-cup-jersey-home/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/4b88ace5/75f2dab8.jpg",
+          "hash": "b5cd5da886c926b190c333e364fb99cfa8113764",
+          "key": "catalog/2022-brazil-world-cup-jersey-home/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/bb4d42c5/f0722f9b.jpg",
+          "hash": "dfb8f5f3d26efbfe921e127d5c3f803ebb17af92",
+          "key": "catalog/2022-brazil-world-cup-jersey-home/image-08.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/58a46b56/a2f83cac.jpg",
+          "hash": "5d533fc08313132c409c60d96bd42af7d61d9a20",
+          "key": "catalog/2022-brazil-world-cup-jersey-home/image-09.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/1f401cc7/d439dd13.jpg",
+          "hash": "127cde8fb52dc420a58847cdafb4a25281ce4451",
+          "key": "catalog/2022-brazil-world-cup-jersey-home/image-10.webp"
+        },
+        {
+          "src": "https://uvd.yupoo.com/minkang/23159816_4040af65f05441b9da461f0924efbd10.jpg",
+          "hash": "40f439bd67b1a5251e9145d86534ee0de72ad630",
+          "key": "catalog/2022-brazil-world-cup-jersey-home/image-11.webp"
+        },
+        {
+          "src": "https://s.yupoo.com/website/4.33.7/imgs/ic_play.png",
+          "hash": "1b0701edb3be110088e8706d027c57ca00ef0f52",
+          "key": "catalog/2022-brazil-world-cup-jersey-home/image-12.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/9cc283dd/ac1f344c.jpg",
+          "hash": "0fdc64e80fea4c6a8a257f93bfc09c0d0c9b2424",
+          "key": "catalog/2022-brazil-world-cup-jersey-home/image-13.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/6ed954a7/125c24ca.jpg",
+          "hash": "9ac300cd3ec701fcee0cabde315063051334879e",
+          "key": "catalog/2022-brazil-world-cup-jersey-home/image-14.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/fd54e0dd/4b3e9d22.jpg",
+          "hash": "cc2508fb36aedf5ae172a18d24a73cca6ea5239f",
+          "key": "catalog/2022-brazil-world-cup-jersey-home/image-15.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/8ea77de8/f857395a.jpg",
+          "hash": "d970baf813ab5b4554129995b52f1fed351e8ac6",
+          "key": "catalog/2022-brazil-world-cup-jersey-home/image-16.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/8cdb57a6/d064526b.jpg",
+          "hash": "bd3a39812d8f956e1f037900949aba26a9066037",
+          "key": "catalog/2022-brazil-world-cup-jersey-home/image-17.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/e5e5b21a/f1712d1b.jpg",
+          "hash": "8c18bba58e72f6d131cdcfd010fc2f48eb084b6a",
+          "key": "catalog/2022-brazil-world-cup-jersey-home/image-18.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/b01b5643/810f0a94.jpg",
+          "hash": "48f5325c1fef5522908032578ea64c3fd668958e",
+          "key": "catalog/2022-brazil-world-cup-jersey-home/image-19.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/b8350166/b0116ced.jpg",
+          "hash": "d6ce01c9c1e79d378daf76784b884287aca79300",
+          "key": "catalog/2022-brazil-world-cup-jersey-home/image-20.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/59a68f24/ec42d4d1.jpg",
+          "hash": "49ac7af55a93f5f7f849baa742b1c4ce47a49a4a",
+          "key": "catalog/2022-brazil-world-cup-jersey-home/image-21.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/3636574e/15c31602.jpg",
+          "hash": "08f199e720523bb33016bf64c8f7b22b825947a6",
+          "key": "catalog/2022-brazil-world-cup-jersey-home/image-22.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/a1da74cc/59d501af.jpg",
+          "hash": "112f811c037a4594da0448e9d6b3a59bc87d21ab",
+          "key": "catalog/2022-brazil-world-cup-jersey-home/image-23.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/80fdb923/740f44b0.jpg",
+          "hash": "3591825e66fb085f1b9b9ff6e631f35a5cd477cf",
+          "key": "catalog/2022-brazil-world-cup-jersey-home/image-24.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/43e742ec/3fefbd4d.jpg",
+          "hash": "c30636b541779a744565e8a9240787a07e2b11ea",
+          "key": "catalog/2022-brazil-world-cup-jersey-home/image-25.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/a3a13aa6/c66d0ea7.jpg": "2ec4989bba3046834fc49b773bb5241685991e9d",
+        "https://photo.yupoo.com/minkang/36d1090f/69a72853.jpg": "2b56eab7ff890d9fd6cf4f1e626a3ff5c5e8aec6",
+        "https://photo.yupoo.com/minkang/91149b21/dc45cb5c.jpg": "4853ffbfbe55828fa34c6ddf14960cd312f60a9f",
+        "https://photo.yupoo.com/minkang/34c3a267/86ecac95.jpg": "948ced734d9e33178fb2f4ff045d37aeace2994f",
+        "https://photo.yupoo.com/minkang/5117715d/624ba76f.jpg": "068772cc13d9533f6cf23dff8d938a3660cd725c",
+        "https://photo.yupoo.com/minkang/8bf3cf4e/dca6dc9f.jpg": "4cd8e93900fd790c4e6c8e4fdc44587bda62441c",
+        "https://photo.yupoo.com/minkang/4b88ace5/75f2dab8.jpg": "b5cd5da886c926b190c333e364fb99cfa8113764",
+        "https://photo.yupoo.com/minkang/bb4d42c5/f0722f9b.jpg": "dfb8f5f3d26efbfe921e127d5c3f803ebb17af92",
+        "https://photo.yupoo.com/minkang/58a46b56/a2f83cac.jpg": "5d533fc08313132c409c60d96bd42af7d61d9a20",
+        "https://photo.yupoo.com/minkang/1f401cc7/d439dd13.jpg": "127cde8fb52dc420a58847cdafb4a25281ce4451",
+        "https://uvd.yupoo.com/minkang/23159816_4040af65f05441b9da461f0924efbd10.jpg": "40f439bd67b1a5251e9145d86534ee0de72ad630",
+        "https://s.yupoo.com/website/4.33.7/imgs/ic_play.png": "1b0701edb3be110088e8706d027c57ca00ef0f52",
+        "https://photo.yupoo.com/minkang/9cc283dd/ac1f344c.jpg": "0fdc64e80fea4c6a8a257f93bfc09c0d0c9b2424",
+        "https://photo.yupoo.com/minkang/6ed954a7/125c24ca.jpg": "9ac300cd3ec701fcee0cabde315063051334879e",
+        "https://photo.yupoo.com/minkang/fd54e0dd/4b3e9d22.jpg": "cc2508fb36aedf5ae172a18d24a73cca6ea5239f",
+        "https://photo.yupoo.com/minkang/8ea77de8/f857395a.jpg": "d970baf813ab5b4554129995b52f1fed351e8ac6",
+        "https://photo.yupoo.com/minkang/8cdb57a6/d064526b.jpg": "bd3a39812d8f956e1f037900949aba26a9066037",
+        "https://photo.yupoo.com/minkang/e5e5b21a/f1712d1b.jpg": "8c18bba58e72f6d131cdcfd010fc2f48eb084b6a",
+        "https://photo.yupoo.com/minkang/b01b5643/810f0a94.jpg": "48f5325c1fef5522908032578ea64c3fd668958e",
+        "https://photo.yupoo.com/minkang/b8350166/b0116ced.jpg": "d6ce01c9c1e79d378daf76784b884287aca79300",
+        "https://photo.yupoo.com/minkang/59a68f24/ec42d4d1.jpg": "49ac7af55a93f5f7f849baa742b1c4ce47a49a4a",
+        "https://photo.yupoo.com/minkang/3636574e/15c31602.jpg": "08f199e720523bb33016bf64c8f7b22b825947a6",
+        "https://photo.yupoo.com/minkang/a1da74cc/59d501af.jpg": "112f811c037a4594da0448e9d6b3a59bc87d21ab",
+        "https://photo.yupoo.com/minkang/80fdb923/740f44b0.jpg": "3591825e66fb085f1b9b9ff6e631f35a5cd477cf",
+        "https://photo.yupoo.com/minkang/43e742ec/3fefbd4d.jpg": "c30636b541779a744565e8a9240787a07e2b11ea"
+      },
+      "checkedAt": "2026-10-11T00:29:10.779Z"
+    },
+    "120626371": {
+      "slug": "2022-brazil-world-cup-jersey-away",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/fdcde535/c4848235.jpg",
+          "hash": "866880b574ac8b176c30193b3f9d6993ffd44c90",
+          "key": "catalog/2022-brazil-world-cup-jersey-away/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/f2842363/72d0c604.jpg",
+          "hash": "770dd42a2dec3643d29d1cbb4e180164006ffe38",
+          "key": "catalog/2022-brazil-world-cup-jersey-away/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/eaaf37d3/cb805534.jpg",
+          "hash": "eef4587b2ade5fad070ab4518276ca2347b9ddd1",
+          "key": "catalog/2022-brazil-world-cup-jersey-away/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/8699592b/0b3054a1.jpg",
+          "hash": "40afe88914c50bc9c2ad15062f8622f381e8efd7",
+          "key": "catalog/2022-brazil-world-cup-jersey-away/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/5f450a0c/8ebfd691.jpg",
+          "hash": "d6238ea9c822e2bed2e53cc6d30306c869f3f4f5",
+          "key": "catalog/2022-brazil-world-cup-jersey-away/image-05.webp"
+        },
+        {
+          "src": "https://uvd.yupoo.com/minkang/23159764_78d35167c0129ac3fb522bd0543eec2d.jpg",
+          "hash": "259b8579b81b784f50df5ede2d0b3872dda5fdd6",
+          "key": "catalog/2022-brazil-world-cup-jersey-away/image-06.webp"
+        },
+        {
+          "src": "https://s.yupoo.com/website/4.33.7/imgs/ic_play.png",
+          "hash": "1b0701edb3be110088e8706d027c57ca00ef0f52",
+          "key": "catalog/2022-brazil-world-cup-jersey-away/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/728dc396/1456f505.jpg",
+          "hash": "39a6557950a97610f0db539343de4069ca4703fd",
+          "key": "catalog/2022-brazil-world-cup-jersey-away/image-08.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/65052240/a1a3fd44.jpg",
+          "hash": "3b4762c7263367bbea21c3b08a370a5c4e7e1f5e",
+          "key": "catalog/2022-brazil-world-cup-jersey-away/image-09.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/3bad45eb/4015923e.jpg",
+          "hash": "c72e6cef94f733c491491648407dda1497ccb9d1",
+          "key": "catalog/2022-brazil-world-cup-jersey-away/image-10.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/281004cc/6aa7f451.jpg",
+          "hash": "981403d758fc77fc4f5b578d3ff12537628d5bd6",
+          "key": "catalog/2022-brazil-world-cup-jersey-away/image-11.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/0ec28f47/2e1dbda8.jpg",
+          "hash": "a6ece18d03255dbbf0d9690b4b2074b2613ba4d8",
+          "key": "catalog/2022-brazil-world-cup-jersey-away/image-12.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/98762f0f/10d32520.jpg",
+          "hash": "ba52696d40eb3044d93844b04952cbc0b3b615f8",
+          "key": "catalog/2022-brazil-world-cup-jersey-away/image-13.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/3afdeded/545f0612.jpg",
+          "hash": "22297917df7969ea7438f10f40eeb27d2e560923",
+          "key": "catalog/2022-brazil-world-cup-jersey-away/image-14.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/aeb7c94a/49beeca1.jpg",
+          "hash": "c96903e89e1bdd74d3dc21f492a22947970f6206",
+          "key": "catalog/2022-brazil-world-cup-jersey-away/image-15.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/bbace4ce/f326e9ae.jpg",
+          "hash": "78aaa4938856b7697800fb86b19bd01fce08db6f",
+          "key": "catalog/2022-brazil-world-cup-jersey-away/image-16.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/d79666eb/a1baddb9.jpg",
+          "hash": "00474137ad3e883c61a979b164debaeabc044839",
+          "key": "catalog/2022-brazil-world-cup-jersey-away/image-17.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/fdcde535/c4848235.jpg": "866880b574ac8b176c30193b3f9d6993ffd44c90",
+        "https://photo.yupoo.com/minkang/f2842363/72d0c604.jpg": "770dd42a2dec3643d29d1cbb4e180164006ffe38",
+        "https://photo.yupoo.com/minkang/eaaf37d3/cb805534.jpg": "eef4587b2ade5fad070ab4518276ca2347b9ddd1",
+        "https://photo.yupoo.com/minkang/8699592b/0b3054a1.jpg": "40afe88914c50bc9c2ad15062f8622f381e8efd7",
+        "https://photo.yupoo.com/minkang/5f450a0c/8ebfd691.jpg": "d6238ea9c822e2bed2e53cc6d30306c869f3f4f5",
+        "https://uvd.yupoo.com/minkang/23159764_78d35167c0129ac3fb522bd0543eec2d.jpg": "259b8579b81b784f50df5ede2d0b3872dda5fdd6",
+        "https://s.yupoo.com/website/4.33.7/imgs/ic_play.png": "1b0701edb3be110088e8706d027c57ca00ef0f52",
+        "https://photo.yupoo.com/minkang/728dc396/1456f505.jpg": "39a6557950a97610f0db539343de4069ca4703fd",
+        "https://photo.yupoo.com/minkang/65052240/a1a3fd44.jpg": "3b4762c7263367bbea21c3b08a370a5c4e7e1f5e",
+        "https://photo.yupoo.com/minkang/3bad45eb/4015923e.jpg": "c72e6cef94f733c491491648407dda1497ccb9d1",
+        "https://photo.yupoo.com/minkang/281004cc/6aa7f451.jpg": "981403d758fc77fc4f5b578d3ff12537628d5bd6",
+        "https://photo.yupoo.com/minkang/0ec28f47/2e1dbda8.jpg": "a6ece18d03255dbbf0d9690b4b2074b2613ba4d8",
+        "https://photo.yupoo.com/minkang/98762f0f/10d32520.jpg": "ba52696d40eb3044d93844b04952cbc0b3b615f8",
+        "https://photo.yupoo.com/minkang/3afdeded/545f0612.jpg": "22297917df7969ea7438f10f40eeb27d2e560923",
+        "https://photo.yupoo.com/minkang/aeb7c94a/49beeca1.jpg": "c96903e89e1bdd74d3dc21f492a22947970f6206",
+        "https://photo.yupoo.com/minkang/bbace4ce/f326e9ae.jpg": "78aaa4938856b7697800fb86b19bd01fce08db6f",
+        "https://photo.yupoo.com/minkang/d79666eb/a1baddb9.jpg": "00474137ad3e883c61a979b164debaeabc044839"
+      },
+      "checkedAt": "2026-10-11T00:29:30.977Z"
+    },
+    "121146582": {
+      "slug": "retro-2006-brazil-away",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/2f94caa5/41781346.jpg",
+          "hash": "4a3b243c1c4cf54b0fb07498a108c2825dbd485e",
+          "key": "catalog/retro-2006-brazil-away/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/2a810aab/4acdae18.jpg",
+          "hash": "62a47da43a157c02dc6b799b59d341958c98f147",
+          "key": "catalog/retro-2006-brazil-away/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/4605be5b/b57e6ea8.jpg",
+          "hash": "a784d7f85258bddd3b893d76ee9d6d4c221d17f7",
+          "key": "catalog/retro-2006-brazil-away/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/44fa2f61/d231ac69.jpg",
+          "hash": "436a85b98df51a0b2d3bad571abffe5687b48d34",
+          "key": "catalog/retro-2006-brazil-away/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/34b5a1e4/8da393de.jpg",
+          "hash": "0431001560c822c73622b47fff084b0941f88677",
+          "key": "catalog/retro-2006-brazil-away/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/259e8d37/189f1de8.jpg",
+          "hash": "272715736372f5c8c00d6ffed1068b4e25c79e35",
+          "key": "catalog/retro-2006-brazil-away/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/23d1c50b/4858f877.jpg",
+          "hash": "c6bc00e528d38b79ede68b1e80bb8e6cfcbdde37",
+          "key": "catalog/retro-2006-brazil-away/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/44f8ba10/52a5623e.jpg",
+          "hash": "7988024ec0d4df1001e5276e47b7c7bd819afe98",
+          "key": "catalog/retro-2006-brazil-away/image-08.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/2f94caa5/41781346.jpg": "4a3b243c1c4cf54b0fb07498a108c2825dbd485e",
+        "https://photo.yupoo.com/minkang/2a810aab/4acdae18.jpg": "62a47da43a157c02dc6b799b59d341958c98f147",
+        "https://photo.yupoo.com/minkang/4605be5b/b57e6ea8.jpg": "a784d7f85258bddd3b893d76ee9d6d4c221d17f7",
+        "https://photo.yupoo.com/minkang/44fa2f61/d231ac69.jpg": "436a85b98df51a0b2d3bad571abffe5687b48d34",
+        "https://photo.yupoo.com/minkang/34b5a1e4/8da393de.jpg": "0431001560c822c73622b47fff084b0941f88677",
+        "https://photo.yupoo.com/minkang/259e8d37/189f1de8.jpg": "272715736372f5c8c00d6ffed1068b4e25c79e35",
+        "https://photo.yupoo.com/minkang/23d1c50b/4858f877.jpg": "c6bc00e528d38b79ede68b1e80bb8e6cfcbdde37",
+        "https://photo.yupoo.com/minkang/44f8ba10/52a5623e.jpg": "7988024ec0d4df1001e5276e47b7c7bd819afe98"
+      },
+      "checkedAt": "2026-10-11T00:23:51.347Z"
     },
     "130120892": {
       "slug": "retro-brazil-2006-home",
@@ -482,6 +1570,68 @@
       },
       "checkedAt": "2026-10-11T00:20:18.198Z"
     },
+    "131739703": {
+      "slug": "retro-13-14-brazilian-black",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/695f8c73/33fe6d83.jpeg",
+          "hash": "54042ce09db3e81d003c7371499f2256d205af5d",
+          "key": "catalog/retro-13-14-brazilian-black/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/c431d9ba/4d445153.jpeg",
+          "hash": "284dd5d4abf2882033905c240008a027c5b4419c",
+          "key": "catalog/retro-13-14-brazilian-black/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/d49da9fd/b64e2f6c.jpeg",
+          "hash": "36af5d4d4eef8029404f156616c7d53bd012b15a",
+          "key": "catalog/retro-13-14-brazilian-black/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/4f1e5581/5fdd95f5.jpeg",
+          "hash": "3be3e032dcd1b0d4140313e439cf1468573289d9",
+          "key": "catalog/retro-13-14-brazilian-black/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/d0f9c473/f24d0f91.jpeg",
+          "hash": "2757129f1e8458d49d68747dda2c3aba1e5abbbd",
+          "key": "catalog/retro-13-14-brazilian-black/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/f135c28b/aa012a9b.jpeg",
+          "hash": "58564d741120305e65f2c7f75229dfde8aaefd40",
+          "key": "catalog/retro-13-14-brazilian-black/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/f3d4f2f9/4b15170f.jpeg",
+          "hash": "5365c4343c6528f62bf910afa674f66b9e77c65d",
+          "key": "catalog/retro-13-14-brazilian-black/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/741f0caf/007701a0.jpeg",
+          "hash": "bf7b3287cc51334a09c6a9f5fcf35da861b38799",
+          "key": "catalog/retro-13-14-brazilian-black/image-08.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/97711635/79dc2eb3.jpeg",
+          "hash": "5bae5751be69a538c6043bd62b27fce168e3b4c4",
+          "key": "catalog/retro-13-14-brazilian-black/image-09.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/695f8c73/33fe6d83.jpeg": "54042ce09db3e81d003c7371499f2256d205af5d",
+        "https://photo.yupoo.com/minkang/c431d9ba/4d445153.jpeg": "284dd5d4abf2882033905c240008a027c5b4419c",
+        "https://photo.yupoo.com/minkang/d49da9fd/b64e2f6c.jpeg": "36af5d4d4eef8029404f156616c7d53bd012b15a",
+        "https://photo.yupoo.com/minkang/4f1e5581/5fdd95f5.jpeg": "3be3e032dcd1b0d4140313e439cf1468573289d9",
+        "https://photo.yupoo.com/minkang/d0f9c473/f24d0f91.jpeg": "2757129f1e8458d49d68747dda2c3aba1e5abbbd",
+        "https://photo.yupoo.com/minkang/f135c28b/aa012a9b.jpeg": "58564d741120305e65f2c7f75229dfde8aaefd40",
+        "https://photo.yupoo.com/minkang/f3d4f2f9/4b15170f.jpeg": "5365c4343c6528f62bf910afa674f66b9e77c65d",
+        "https://photo.yupoo.com/minkang/741f0caf/007701a0.jpeg": "bf7b3287cc51334a09c6a9f5fcf35da861b38799",
+        "https://photo.yupoo.com/minkang/97711635/79dc2eb3.jpeg": "5bae5751be69a538c6043bd62b27fce168e3b4c4"
+      },
+      "checkedAt": "2026-10-11T00:26:48.723Z"
+    },
     "140887999": {
       "slug": "retro-long-sleeve-brazil-1998-home",
       "entries": [
@@ -537,6 +1687,292 @@
         "https://photo.yupoo.com/minkang/b35a4084/2e92d9c2.jpg": "64f876ba205b070bc2019ff0db01db2bbcea6330"
       },
       "checkedAt": "2026-10-11T00:18:54.971Z"
+    },
+    "160609341": {
+      "slug": "2024-brazil-away",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/395734f2/2a68b441.jpeg",
+          "hash": "c78819079378407196d9e30684281c5f622fe1e1",
+          "key": "catalog/2024-brazil-away/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/17047928/d4ca2809.jpeg",
+          "hash": "732a1ce5dfea615405d2c3ebce3597b3a22cac17",
+          "key": "catalog/2024-brazil-away/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/8aa385c4/d72162b0.jpeg",
+          "hash": "0ebf219753cad79a8458dc5a8e1186d073c80c10",
+          "key": "catalog/2024-brazil-away/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/40c2d98e/80f8a643.jpeg",
+          "hash": "18b319cf29d29a657d83f8eb2a864a7e7291626a",
+          "key": "catalog/2024-brazil-away/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/f1f2e271/e81e723a.jpeg",
+          "hash": "b61598b8abda3a514c057fd67f993b69fa8d03d3",
+          "key": "catalog/2024-brazil-away/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/a6016218/735b4690.jpeg",
+          "hash": "d8171c52ca38882cf44a1808cb77844bb98a5305",
+          "key": "catalog/2024-brazil-away/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/bcce7316/4ff1ab34.jpeg",
+          "hash": "70ae0f5bad466d9a918af8268f02bd3874a9dae3",
+          "key": "catalog/2024-brazil-away/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/75c2e74a/84aaacd6.jpeg",
+          "hash": "c916af8ba4ec5a490d1ef0a6d0637bea71f2cd2c",
+          "key": "catalog/2024-brazil-away/image-08.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/e9ad4e7d/9351d7a0.jpeg",
+          "hash": "fd1b20958a0a1d88de727e9404525a5b20243a39",
+          "key": "catalog/2024-brazil-away/image-09.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/395734f2/2a68b441.jpeg": "c78819079378407196d9e30684281c5f622fe1e1",
+        "https://photo.yupoo.com/minkang/17047928/d4ca2809.jpeg": "732a1ce5dfea615405d2c3ebce3597b3a22cac17",
+        "https://photo.yupoo.com/minkang/8aa385c4/d72162b0.jpeg": "0ebf219753cad79a8458dc5a8e1186d073c80c10",
+        "https://photo.yupoo.com/minkang/40c2d98e/80f8a643.jpeg": "18b319cf29d29a657d83f8eb2a864a7e7291626a",
+        "https://photo.yupoo.com/minkang/f1f2e271/e81e723a.jpeg": "b61598b8abda3a514c057fd67f993b69fa8d03d3",
+        "https://photo.yupoo.com/minkang/a6016218/735b4690.jpeg": "d8171c52ca38882cf44a1808cb77844bb98a5305",
+        "https://photo.yupoo.com/minkang/bcce7316/4ff1ab34.jpeg": "70ae0f5bad466d9a918af8268f02bd3874a9dae3",
+        "https://photo.yupoo.com/minkang/75c2e74a/84aaacd6.jpeg": "c916af8ba4ec5a490d1ef0a6d0637bea71f2cd2c",
+        "https://photo.yupoo.com/minkang/e9ad4e7d/9351d7a0.jpeg": "fd1b20958a0a1d88de727e9404525a5b20243a39"
+      },
+      "checkedAt": "2026-10-11T00:28:49.336Z"
+    },
+    "167585899": {
+      "slug": "brazil-2024-25-special-edition-jersey",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/02fd0803/f8e22581.png",
+          "hash": "c2025a51558908b0e767b3a68bdbfa93651fdc7a",
+          "key": "catalog/brazil-2024-25-special-edition-jersey/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/15f23d1f/d5213c67.png",
+          "hash": "2eca6ccc5b727d55ab81e69cbd565d2bbe80e779",
+          "key": "catalog/brazil-2024-25-special-edition-jersey/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/ab9ef25b/cd090d53.png",
+          "hash": "61bf5a9cf48be8f8187e73656a118cf0772fecbc",
+          "key": "catalog/brazil-2024-25-special-edition-jersey/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/e48fdbdb/0ee6a17c.png",
+          "hash": "aae33a7a67a9ada66517d8e9727db5b7d860dc4d",
+          "key": "catalog/brazil-2024-25-special-edition-jersey/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/0036032c/c0326aac.png",
+          "hash": "83e87079a90b78449b5867c1820ac37ebf9bd66c",
+          "key": "catalog/brazil-2024-25-special-edition-jersey/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/5820bc83/89c311dc.png",
+          "hash": "cbc1c8093677f0aaf7e4813aa5b9b269a502ee57",
+          "key": "catalog/brazil-2024-25-special-edition-jersey/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/b6e7c27d/d606ff5c.png",
+          "hash": "d73ee9266dda9126aa44459e43a14c7f9ecc6e75",
+          "key": "catalog/brazil-2024-25-special-edition-jersey/image-07.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/02fd0803/f8e22581.png": "c2025a51558908b0e767b3a68bdbfa93651fdc7a",
+        "https://photo.yupoo.com/minkang/15f23d1f/d5213c67.png": "2eca6ccc5b727d55ab81e69cbd565d2bbe80e779",
+        "https://photo.yupoo.com/minkang/ab9ef25b/cd090d53.png": "61bf5a9cf48be8f8187e73656a118cf0772fecbc",
+        "https://photo.yupoo.com/minkang/e48fdbdb/0ee6a17c.png": "aae33a7a67a9ada66517d8e9727db5b7d860dc4d",
+        "https://photo.yupoo.com/minkang/0036032c/c0326aac.png": "83e87079a90b78449b5867c1820ac37ebf9bd66c",
+        "https://photo.yupoo.com/minkang/5820bc83/89c311dc.png": "cbc1c8093677f0aaf7e4813aa5b9b269a502ee57",
+        "https://photo.yupoo.com/minkang/b6e7c27d/d606ff5c.png": "d73ee9266dda9126aa44459e43a14c7f9ecc6e75"
+      },
+      "checkedAt": "2026-10-11T00:26:10.963Z"
+    },
+    "170004912": {
+      "slug": "2024-kids-brazil-special-edition-3",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/6fc69c6d/2c9ff554.jpeg",
+          "hash": "29b928980ee19fb55f6cb9a388034125c15957f2",
+          "key": "catalog/2024-kids-brazil-special-edition-3/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/029c6b10/bf91e91a.jpeg",
+          "hash": "b1c1687c17e9e1eaf1925acfa50ce24078f249fc",
+          "key": "catalog/2024-kids-brazil-special-edition-3/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/58f96bc4/3305b0e7.jpeg",
+          "hash": "1089b60750a13a973e1a8668bb4cb99caa59d903",
+          "key": "catalog/2024-kids-brazil-special-edition-3/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/b48fa967/058badfe.jpeg",
+          "hash": "74331a79d7dedab9f91f642716fcbe5417dffe19",
+          "key": "catalog/2024-kids-brazil-special-edition-3/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/162f6141/4fa94839.jpeg",
+          "hash": "11bcc2035c033c47ef6e34a9ac529050c86d8130",
+          "key": "catalog/2024-kids-brazil-special-edition-3/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/0812bb25/30bf92d5.jpeg",
+          "hash": "87f81bdbe4d6585feda0376d35acca4228fc27dc",
+          "key": "catalog/2024-kids-brazil-special-edition-3/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/69a785dd/5957704b.jpeg",
+          "hash": "149dea66c5fcccec3eb9ddc254522f62dbc9ade9",
+          "key": "catalog/2024-kids-brazil-special-edition-3/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/7df04314/c9a751cc.jpeg",
+          "hash": "5b9ed5815ea363cad471015f3f0c984f58773207",
+          "key": "catalog/2024-kids-brazil-special-edition-3/image-08.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/6fc69c6d/2c9ff554.jpeg": "29b928980ee19fb55f6cb9a388034125c15957f2",
+        "https://photo.yupoo.com/minkang/029c6b10/bf91e91a.jpeg": "b1c1687c17e9e1eaf1925acfa50ce24078f249fc",
+        "https://photo.yupoo.com/minkang/58f96bc4/3305b0e7.jpeg": "1089b60750a13a973e1a8668bb4cb99caa59d903",
+        "https://photo.yupoo.com/minkang/b48fa967/058badfe.jpeg": "74331a79d7dedab9f91f642716fcbe5417dffe19",
+        "https://photo.yupoo.com/minkang/162f6141/4fa94839.jpeg": "11bcc2035c033c47ef6e34a9ac529050c86d8130",
+        "https://photo.yupoo.com/minkang/0812bb25/30bf92d5.jpeg": "87f81bdbe4d6585feda0376d35acca4228fc27dc",
+        "https://photo.yupoo.com/minkang/69a785dd/5957704b.jpeg": "149dea66c5fcccec3eb9ddc254522f62dbc9ade9",
+        "https://photo.yupoo.com/minkang/7df04314/c9a751cc.jpeg": "5b9ed5815ea363cad471015f3f0c984f58773207"
+      },
+      "checkedAt": "2026-10-11T00:26:34.276Z"
+    },
+    "170004938": {
+      "slug": "2024-kids-brazil-special-edition-2",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/0094ae75/605afb07.jpeg",
+          "hash": "7a62b0ac27c333f2e53b5f24f340e79a60bd6702",
+          "key": "catalog/2024-kids-brazil-special-edition-2/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/dd55bae7/a1ac7d36.jpeg",
+          "hash": "3c8d82b98f64625a11944b4f17080f9dfc18763e",
+          "key": "catalog/2024-kids-brazil-special-edition-2/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/6e623346/dd83d82f.jpeg",
+          "hash": "b08a69fd76535a802d972cfadc6d5b110e717e9e",
+          "key": "catalog/2024-kids-brazil-special-edition-2/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/06336f08/d2012a22.jpeg",
+          "hash": "664b39bcfb355023e0acfa5b252bcce0ec031461",
+          "key": "catalog/2024-kids-brazil-special-edition-2/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/5d31bb3b/195442ce.jpeg",
+          "hash": "2bc5936e5f597cb009c8674d1539736a05382378",
+          "key": "catalog/2024-kids-brazil-special-edition-2/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/ca3d287b/ed4c2e7c.jpeg",
+          "hash": "2a371e8a90f7d4b91a0cf96b01cf38a3203ec58c",
+          "key": "catalog/2024-kids-brazil-special-edition-2/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/1773d4ba/bfe76eb6.jpeg",
+          "hash": "c9efae35918ed23f8280f12b7d8ec4ce41413a66",
+          "key": "catalog/2024-kids-brazil-special-edition-2/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/d4ec690c/2976afc7.jpeg",
+          "hash": "4dbf4d773263ab3c4277167a78284bdbc993ec91",
+          "key": "catalog/2024-kids-brazil-special-edition-2/image-08.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/0094ae75/605afb07.jpeg": "7a62b0ac27c333f2e53b5f24f340e79a60bd6702",
+        "https://photo.yupoo.com/minkang/dd55bae7/a1ac7d36.jpeg": "3c8d82b98f64625a11944b4f17080f9dfc18763e",
+        "https://photo.yupoo.com/minkang/6e623346/dd83d82f.jpeg": "b08a69fd76535a802d972cfadc6d5b110e717e9e",
+        "https://photo.yupoo.com/minkang/06336f08/d2012a22.jpeg": "664b39bcfb355023e0acfa5b252bcce0ec031461",
+        "https://photo.yupoo.com/minkang/5d31bb3b/195442ce.jpeg": "2bc5936e5f597cb009c8674d1539736a05382378",
+        "https://photo.yupoo.com/minkang/ca3d287b/ed4c2e7c.jpeg": "2a371e8a90f7d4b91a0cf96b01cf38a3203ec58c",
+        "https://photo.yupoo.com/minkang/1773d4ba/bfe76eb6.jpeg": "c9efae35918ed23f8280f12b7d8ec4ce41413a66",
+        "https://photo.yupoo.com/minkang/d4ec690c/2976afc7.jpeg": "4dbf4d773263ab3c4277167a78284bdbc993ec91"
+      },
+      "checkedAt": "2026-10-11T00:25:54.538Z"
+    },
+    "170004970": {
+      "slug": "2024-kids-brazil-special-edition",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/b211dee9/8a898d49.jpeg",
+          "hash": "5eb4024cab7dcf8be1bc50062d3909a4b4a9beb6",
+          "key": "catalog/2024-kids-brazil-special-edition/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/3e66e4dc/87922520.jpeg",
+          "hash": "23f07265a5562f02ab630019194838203a9cd421",
+          "key": "catalog/2024-kids-brazil-special-edition/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/a3b29226/af4a2ea1.jpeg",
+          "hash": "6a4f0251dc8e8db1483231e3d2b25fad6a932acd",
+          "key": "catalog/2024-kids-brazil-special-edition/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/e0b9f1c0/da3a30e6.jpeg",
+          "hash": "0e3a1cc75660b28d4e95698910bf1997a3f2f064",
+          "key": "catalog/2024-kids-brazil-special-edition/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/5295ffb9/331b695d.jpeg",
+          "hash": "c00a25c4683ef39ebd67889bab78122bb0a8a569",
+          "key": "catalog/2024-kids-brazil-special-edition/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/4dd78422/927f7314.jpeg",
+          "hash": "787da17d8de6c898bc91d2fbd2f01e5a31e625c4",
+          "key": "catalog/2024-kids-brazil-special-edition/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/95012b4d/f44e5012.jpeg",
+          "hash": "23f4ca3dcdd2d0d42d5ddc2d22fc0144ea001b5a",
+          "key": "catalog/2024-kids-brazil-special-edition/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/4d58a482/e64146fa.jpeg",
+          "hash": "170bf98a0df4d331b967256a66d2de2de9e68db7",
+          "key": "catalog/2024-kids-brazil-special-edition/image-08.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/d467e863/397bc4df.jpeg",
+          "hash": "79c5c5cbc233d340e7d2cd3631617fa5782d7c73",
+          "key": "catalog/2024-kids-brazil-special-edition/image-09.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/b211dee9/8a898d49.jpeg": "5eb4024cab7dcf8be1bc50062d3909a4b4a9beb6",
+        "https://photo.yupoo.com/minkang/3e66e4dc/87922520.jpeg": "23f07265a5562f02ab630019194838203a9cd421",
+        "https://photo.yupoo.com/minkang/a3b29226/af4a2ea1.jpeg": "6a4f0251dc8e8db1483231e3d2b25fad6a932acd",
+        "https://photo.yupoo.com/minkang/e0b9f1c0/da3a30e6.jpeg": "0e3a1cc75660b28d4e95698910bf1997a3f2f064",
+        "https://photo.yupoo.com/minkang/5295ffb9/331b695d.jpeg": "c00a25c4683ef39ebd67889bab78122bb0a8a569",
+        "https://photo.yupoo.com/minkang/4dd78422/927f7314.jpeg": "787da17d8de6c898bc91d2fbd2f01e5a31e625c4",
+        "https://photo.yupoo.com/minkang/95012b4d/f44e5012.jpeg": "23f4ca3dcdd2d0d42d5ddc2d22fc0144ea001b5a",
+        "https://photo.yupoo.com/minkang/4d58a482/e64146fa.jpeg": "170bf98a0df4d331b967256a66d2de2de9e68db7",
+        "https://photo.yupoo.com/minkang/d467e863/397bc4df.jpeg": "79c5c5cbc233d340e7d2cd3631617fa5782d7c73"
+      },
+      "checkedAt": "2026-10-11T00:25:40.931Z"
     },
     "196260536": {
       "slug": "guatemala-2026-home",
@@ -637,6 +2073,112 @@
         "https://photo.yupoo.com/minkang/cc919dec/3e93ea40.jpg": "f360556391862385d9a3df43c71e9868b6116e54"
       },
       "checkedAt": "2026-10-11T00:05:59.209Z"
+    },
+    "209263755": {
+      "slug": "retro-brazil-1998-goalkeeper-green",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/87950731/70819148.jpeg",
+          "hash": "12f5ce04779999ca8a14e34f97223d6fd49038fd",
+          "key": "catalog/retro-brazil-1998-goalkeeper-green/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/ee7d8373/1cfc2ba6.jpeg",
+          "hash": "831b7f70912bb40a6b866d065a274104f732ee7d",
+          "key": "catalog/retro-brazil-1998-goalkeeper-green/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/241bbadf/8f6d0a24.jpeg",
+          "hash": "34ac145e93bd45b422ccc1564d0f412437390026",
+          "key": "catalog/retro-brazil-1998-goalkeeper-green/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/0a5c4e42/c9c9baec.jpeg",
+          "hash": "636ce311ed770c4d2ae557c0cb513ed7bf8967fe",
+          "key": "catalog/retro-brazil-1998-goalkeeper-green/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/3dbd706b/1d9a8f68.jpeg",
+          "hash": "4e49047a1f01e5e7d6beccf7e6b783f0046a0502",
+          "key": "catalog/retro-brazil-1998-goalkeeper-green/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/7089c7fc/84056d71.jpeg",
+          "hash": "098b90c36216650075b4b4690e1b0fd48b495343",
+          "key": "catalog/retro-brazil-1998-goalkeeper-green/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/57d0c1f1/4b90c7cc.jpeg",
+          "hash": "b5d1cda1dccf5b999d8780b55bd2a6be8df4a23d",
+          "key": "catalog/retro-brazil-1998-goalkeeper-green/image-07.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/87950731/70819148.jpeg": "12f5ce04779999ca8a14e34f97223d6fd49038fd",
+        "https://photo.yupoo.com/minkang/ee7d8373/1cfc2ba6.jpeg": "831b7f70912bb40a6b866d065a274104f732ee7d",
+        "https://photo.yupoo.com/minkang/241bbadf/8f6d0a24.jpeg": "34ac145e93bd45b422ccc1564d0f412437390026",
+        "https://photo.yupoo.com/minkang/0a5c4e42/c9c9baec.jpeg": "636ce311ed770c4d2ae557c0cb513ed7bf8967fe",
+        "https://photo.yupoo.com/minkang/3dbd706b/1d9a8f68.jpeg": "4e49047a1f01e5e7d6beccf7e6b783f0046a0502",
+        "https://photo.yupoo.com/minkang/7089c7fc/84056d71.jpeg": "098b90c36216650075b4b4690e1b0fd48b495343",
+        "https://photo.yupoo.com/minkang/57d0c1f1/4b90c7cc.jpeg": "b5d1cda1dccf5b999d8780b55bd2a6be8df4a23d"
+      },
+      "checkedAt": "2026-10-11T00:25:18.088Z"
+    },
+    "212193834": {
+      "slug": "retro-brazil-1957-62-away-jersey",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/74c19fbc/bf72abc6.jpg",
+          "hash": "ebcb4f1c23b98b0c358e84ad3453f56cb4e93b76",
+          "key": "catalog/retro-brazil-1957-62-away-jersey/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/fffd9cb9/9fd0b592.jpg",
+          "hash": "72f778b7202acea265ea27d29b0d2df28a75157e",
+          "key": "catalog/retro-brazil-1957-62-away-jersey/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/93f85e91/ebd45d17.jpg",
+          "hash": "8f1aa5a9e6a84a3742089dd3264cf8640262203b",
+          "key": "catalog/retro-brazil-1957-62-away-jersey/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/e77376d3/19df2f07.jpg",
+          "hash": "fcec60ccba13e1ab984f0732b3f0512252d9b62d",
+          "key": "catalog/retro-brazil-1957-62-away-jersey/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/f001c700/976a5b4d.jpg",
+          "hash": "7570de53af92d8e0a431fba38312e19c36d89eca",
+          "key": "catalog/retro-brazil-1957-62-away-jersey/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/816a73f7/5dd0c438.jpg",
+          "hash": "396b40e9af4de4f70263b1a74dd061587c99658b",
+          "key": "catalog/retro-brazil-1957-62-away-jersey/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/f9c28e2b/f06c5b62.jpg",
+          "hash": "afd1ca398d15434b2b40f4dadd55fa79d210da3d",
+          "key": "catalog/retro-brazil-1957-62-away-jersey/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/50ce62de/ee4d46ef.jpg",
+          "hash": "1b99b0364efe135d751a49db78f4ddae3782fd5b",
+          "key": "catalog/retro-brazil-1957-62-away-jersey/image-08.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/74c19fbc/bf72abc6.jpg": "ebcb4f1c23b98b0c358e84ad3453f56cb4e93b76",
+        "https://photo.yupoo.com/minkang/fffd9cb9/9fd0b592.jpg": "72f778b7202acea265ea27d29b0d2df28a75157e",
+        "https://photo.yupoo.com/minkang/93f85e91/ebd45d17.jpg": "8f1aa5a9e6a84a3742089dd3264cf8640262203b",
+        "https://photo.yupoo.com/minkang/e77376d3/19df2f07.jpg": "fcec60ccba13e1ab984f0732b3f0512252d9b62d",
+        "https://photo.yupoo.com/minkang/f001c700/976a5b4d.jpg": "7570de53af92d8e0a431fba38312e19c36d89eca",
+        "https://photo.yupoo.com/minkang/816a73f7/5dd0c438.jpg": "396b40e9af4de4f70263b1a74dd061587c99658b",
+        "https://photo.yupoo.com/minkang/f9c28e2b/f06c5b62.jpg": "afd1ca398d15434b2b40f4dadd55fa79d210da3d",
+        "https://photo.yupoo.com/minkang/50ce62de/ee4d46ef.jpg": "1b99b0364efe135d751a49db78f4ddae3782fd5b"
+      },
+      "checkedAt": "2026-10-11T00:23:42.252Z"
     },
     "212194483": {
       "slug": "brazil-1958-home-retro-jersey-2",
@@ -938,6 +2480,56 @@
       },
       "checkedAt": "2026-10-11T00:21:09.251Z"
     },
+    "212386936": {
+      "slug": "brazil-13-14-black-retro-jersey",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/67d925c6/92cef513.jpg",
+          "hash": "34a451604e88c53f665b2e896ae9cd721c9b5fca",
+          "key": "catalog/brazil-13-14-black-retro-jersey/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/883387a9/f408825d.jpg",
+          "hash": "f59b45db975cab1170dd61aee1f2747fdadba657",
+          "key": "catalog/brazil-13-14-black-retro-jersey/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/86823aef/8091f026.jpg",
+          "hash": "2c625865ab777ad6c00ae8249eef859e228f8f74",
+          "key": "catalog/brazil-13-14-black-retro-jersey/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/c669f011/82b7fa9f.jpg",
+          "hash": "2a16de3a87bc13c85503df15269116a176baabf3",
+          "key": "catalog/brazil-13-14-black-retro-jersey/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/1a583095/35a14d12.jpg",
+          "hash": "c06c17d99c0d91600405b5635e23b5e83a85de1f",
+          "key": "catalog/brazil-13-14-black-retro-jersey/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/397980bd/3597f411.jpg",
+          "hash": "4809a1ad2c4d0bf289b0012287efcf811684ba73",
+          "key": "catalog/brazil-13-14-black-retro-jersey/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/a9cff211/028c05ca.jpg",
+          "hash": "bc6dc32d99f15239ab4bfa2f490ee4c28f923e25",
+          "key": "catalog/brazil-13-14-black-retro-jersey/image-07.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/67d925c6/92cef513.jpg": "34a451604e88c53f665b2e896ae9cd721c9b5fca",
+        "https://photo.yupoo.com/minkang/883387a9/f408825d.jpg": "f59b45db975cab1170dd61aee1f2747fdadba657",
+        "https://photo.yupoo.com/minkang/86823aef/8091f026.jpg": "2c625865ab777ad6c00ae8249eef859e228f8f74",
+        "https://photo.yupoo.com/minkang/c669f011/82b7fa9f.jpg": "2a16de3a87bc13c85503df15269116a176baabf3",
+        "https://photo.yupoo.com/minkang/1a583095/35a14d12.jpg": "c06c17d99c0d91600405b5635e23b5e83a85de1f",
+        "https://photo.yupoo.com/minkang/397980bd/3597f411.jpg": "4809a1ad2c4d0bf289b0012287efcf811684ba73",
+        "https://photo.yupoo.com/minkang/a9cff211/028c05ca.jpg": "bc6dc32d99f15239ab4bfa2f490ee4c28f923e25"
+      },
+      "checkedAt": "2026-10-11T00:24:48.106Z"
+    },
     "212388148": {
       "slug": "brazil-2014-home-retro-jersey",
       "entries": [
@@ -988,6 +2580,50 @@
       },
       "checkedAt": "2026-10-11T00:21:54.891Z"
     },
+    "212388810": {
+      "slug": "brazil-94-96-away-retro-jersey",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/822da688/b795431b.jpg",
+          "hash": "a679127306ee847845229d8d3d4e7f4f946619d0",
+          "key": "catalog/brazil-94-96-away-retro-jersey/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/b4f8d39d/b7a8f8d3.jpg",
+          "hash": "ec7b08675db8b867ffa3fd44268c99dc79e1c3a8",
+          "key": "catalog/brazil-94-96-away-retro-jersey/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/347fe9b7/e635e6c3.jpg",
+          "hash": "ee19068a888e9799f3336efa6146a60a326efad2",
+          "key": "catalog/brazil-94-96-away-retro-jersey/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/c3be668b/c085c151.jpg",
+          "hash": "e40f76762005656d5e35f7f522008bd4caecb7f9",
+          "key": "catalog/brazil-94-96-away-retro-jersey/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/b7aaf7cc/ab15aae0.jpg",
+          "hash": "c3f958cd62f38637deec9d2c57197c48e174f0bc",
+          "key": "catalog/brazil-94-96-away-retro-jersey/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/ca825cf3/2e0be906.jpg",
+          "hash": "76cfa81b5b0b3a54701adbc5c0fdd1c1f616c8cb",
+          "key": "catalog/brazil-94-96-away-retro-jersey/image-06.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/822da688/b795431b.jpg": "a679127306ee847845229d8d3d4e7f4f946619d0",
+        "https://photo.yupoo.com/minkang/b4f8d39d/b7a8f8d3.jpg": "ec7b08675db8b867ffa3fd44268c99dc79e1c3a8",
+        "https://photo.yupoo.com/minkang/347fe9b7/e635e6c3.jpg": "ee19068a888e9799f3336efa6146a60a326efad2",
+        "https://photo.yupoo.com/minkang/c3be668b/c085c151.jpg": "e40f76762005656d5e35f7f522008bd4caecb7f9",
+        "https://photo.yupoo.com/minkang/b7aaf7cc/ab15aae0.jpg": "c3f958cd62f38637deec9d2c57197c48e174f0bc",
+        "https://photo.yupoo.com/minkang/ca825cf3/2e0be906.jpg": "76cfa81b5b0b3a54701adbc5c0fdd1c1f616c8cb"
+      },
+      "checkedAt": "2026-10-11T00:23:22.027Z"
+    },
     "212388945": {
       "slug": "brazil-1997-home-retro-jersey",
       "entries": [
@@ -1037,6 +2673,56 @@
         "https://photo.yupoo.com/minkang/0c843a24/3c018f25.jpg": "816b70769fffcb7c6d74e8726de5404e3dea0c4b"
       },
       "checkedAt": "2026-10-11T00:22:04.035Z"
+    },
+    "212390220": {
+      "slug": "brazil-2020-training-suit-green-retro-jersey",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/a20a0e38/ee11201c.jpg",
+          "hash": "c9761de2cee0ec76ac15136862dd32fa5a771c8a",
+          "key": "catalog/brazil-2020-training-suit-green-retro-jersey/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/1f427e1c/43838aab.jpg",
+          "hash": "12aab7648af7cb5723e79e434b36271bc6557997",
+          "key": "catalog/brazil-2020-training-suit-green-retro-jersey/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/bd680f3d/680e9e4a.jpg",
+          "hash": "6e9f2963e23d57a9da83190c15021fcdcfab5a30",
+          "key": "catalog/brazil-2020-training-suit-green-retro-jersey/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/8f42986f/e62a1482.jpg",
+          "hash": "600bca9d6fa34c4906b8866af7890a09e54de466",
+          "key": "catalog/brazil-2020-training-suit-green-retro-jersey/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/14545187/9a714931.jpg",
+          "hash": "496fb83cb7f240424fc5b4a752c10a3de4ee3686",
+          "key": "catalog/brazil-2020-training-suit-green-retro-jersey/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/4ae68a36/d685cad5.jpg",
+          "hash": "b4ea8cf6624fb1b48b3c34680960b5272572e67b",
+          "key": "catalog/brazil-2020-training-suit-green-retro-jersey/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/1153f8c3/cdf3b314.jpg",
+          "hash": "a08e2b280742f0947783c36f2dab9d8a34f2bc3b",
+          "key": "catalog/brazil-2020-training-suit-green-retro-jersey/image-07.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/a20a0e38/ee11201c.jpg": "c9761de2cee0ec76ac15136862dd32fa5a771c8a",
+        "https://photo.yupoo.com/minkang/1f427e1c/43838aab.jpg": "12aab7648af7cb5723e79e434b36271bc6557997",
+        "https://photo.yupoo.com/minkang/bd680f3d/680e9e4a.jpg": "6e9f2963e23d57a9da83190c15021fcdcfab5a30",
+        "https://photo.yupoo.com/minkang/8f42986f/e62a1482.jpg": "600bca9d6fa34c4906b8866af7890a09e54de466",
+        "https://photo.yupoo.com/minkang/14545187/9a714931.jpg": "496fb83cb7f240424fc5b4a752c10a3de4ee3686",
+        "https://photo.yupoo.com/minkang/4ae68a36/d685cad5.jpg": "b4ea8cf6624fb1b48b3c34680960b5272572e67b",
+        "https://photo.yupoo.com/minkang/1153f8c3/cdf3b314.jpg": "a08e2b280742f0947783c36f2dab9d8a34f2bc3b"
+      },
+      "checkedAt": "2026-10-11T00:24:29.178Z"
     },
     "212467690": {
       "slug": "brazil-1998-away-retro-long-sleeve-jersey",
@@ -1094,6 +2780,56 @@
       },
       "checkedAt": "2026-10-11T00:19:14.301Z"
     },
+    "212580211": {
+      "slug": "brazil-2014-away-retro-jersey",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/855c0313/35faa4ff.jpg",
+          "hash": "58a39b57787935f271e1e46d476c9c8742f382e1",
+          "key": "catalog/brazil-2014-away-retro-jersey/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/069e388e/dea145fc.jpg",
+          "hash": "639f2092cdf2db7954a202d0f8e76715ba678f33",
+          "key": "catalog/brazil-2014-away-retro-jersey/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/91d2ca91/3e86ed7f.jpg",
+          "hash": "6d881d3d99f69ed38b39f3b3f15568fbaff759be",
+          "key": "catalog/brazil-2014-away-retro-jersey/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/35e39c83/a67d42d8.jpg",
+          "hash": "9fa28323a0d79cc4eaed2ae40729e6e3f0d10e87",
+          "key": "catalog/brazil-2014-away-retro-jersey/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/605c6d58/e63a53f8.jpg",
+          "hash": "76b3b568edd333be73627186631d18a235b7b8b5",
+          "key": "catalog/brazil-2014-away-retro-jersey/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/292bfd51/846e8e78.jpg",
+          "hash": "95a36738af6fcfa4681d7e65cea860c1c67fa490",
+          "key": "catalog/brazil-2014-away-retro-jersey/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/1dbc1cc9/a044d6ca.jpg",
+          "hash": "3e1f2135f563c483cc65f976d0ff0a151a86d566",
+          "key": "catalog/brazil-2014-away-retro-jersey/image-07.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/855c0313/35faa4ff.jpg": "58a39b57787935f271e1e46d476c9c8742f382e1",
+        "https://photo.yupoo.com/minkang/069e388e/dea145fc.jpg": "639f2092cdf2db7954a202d0f8e76715ba678f33",
+        "https://photo.yupoo.com/minkang/91d2ca91/3e86ed7f.jpg": "6d881d3d99f69ed38b39f3b3f15568fbaff759be",
+        "https://photo.yupoo.com/minkang/35e39c83/a67d42d8.jpg": "9fa28323a0d79cc4eaed2ae40729e6e3f0d10e87",
+        "https://photo.yupoo.com/minkang/605c6d58/e63a53f8.jpg": "76b3b568edd333be73627186631d18a235b7b8b5",
+        "https://photo.yupoo.com/minkang/292bfd51/846e8e78.jpg": "95a36738af6fcfa4681d7e65cea860c1c67fa490",
+        "https://photo.yupoo.com/minkang/1dbc1cc9/a044d6ca.jpg": "3e1f2135f563c483cc65f976d0ff0a151a86d566"
+      },
+      "checkedAt": "2026-10-11T00:23:32.233Z"
+    },
     "212581162": {
       "slug": "brazil-1958-home-retro-jersey",
       "entries": [
@@ -1131,6 +2867,56 @@
         "https://photo.yupoo.com/minkang/89990754/2e09780e.jpg": "65867f5e65ece6b93a4ec3481074989292dafc59"
       },
       "checkedAt": "2026-10-11T00:22:11.862Z"
+    },
+    "212821591": {
+      "slug": "retro-brazil-1992-away",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/8467a857/93f7b89c.jpg",
+          "hash": "c0ffbd182d467d41f4e79395f7b627712cca7b02",
+          "key": "catalog/retro-brazil-1992-away/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/49f3ab9e/4389d6a9.jpg",
+          "hash": "fdc59c56c477c859a111b5b4bab866994b9ce953",
+          "key": "catalog/retro-brazil-1992-away/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/f0b234ef/54c2fa42.jpg",
+          "hash": "059eef829e7deb28b4f1c5c3e11a274a7bb91fab",
+          "key": "catalog/retro-brazil-1992-away/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/5394f711/c3598436.jpg",
+          "hash": "4f0d326f77699c3525866a0cbe1efc3ec79a5bdc",
+          "key": "catalog/retro-brazil-1992-away/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/abc7fecf/979d1d70.jpg",
+          "hash": "8502aa8b848c69037c1a27909770fc8d39138bc2",
+          "key": "catalog/retro-brazil-1992-away/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/47a17fda/ef2e08c9.jpg",
+          "hash": "fa3a5c2a0fa812b5463c5d32345b7b29cd7173c3",
+          "key": "catalog/retro-brazil-1992-away/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/14499017/e5eea33b.jpg",
+          "hash": "654f6c3d22fa9a686f58a0195b8f277d5721f7f9",
+          "key": "catalog/retro-brazil-1992-away/image-07.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/8467a857/93f7b89c.jpg": "c0ffbd182d467d41f4e79395f7b627712cca7b02",
+        "https://photo.yupoo.com/minkang/49f3ab9e/4389d6a9.jpg": "fdc59c56c477c859a111b5b4bab866994b9ce953",
+        "https://photo.yupoo.com/minkang/f0b234ef/54c2fa42.jpg": "059eef829e7deb28b4f1c5c3e11a274a7bb91fab",
+        "https://photo.yupoo.com/minkang/5394f711/c3598436.jpg": "4f0d326f77699c3525866a0cbe1efc3ec79a5bdc",
+        "https://photo.yupoo.com/minkang/abc7fecf/979d1d70.jpg": "8502aa8b848c69037c1a27909770fc8d39138bc2",
+        "https://photo.yupoo.com/minkang/47a17fda/ef2e08c9.jpg": "fa3a5c2a0fa812b5463c5d32345b7b29cd7173c3",
+        "https://photo.yupoo.com/minkang/14499017/e5eea33b.jpg": "654f6c3d22fa9a686f58a0195b8f277d5721f7f9"
+      },
+      "checkedAt": "2026-10-11T00:23:12.844Z"
     },
     "212824485": {
       "slug": "brazil-12-13-home-retro-jersey",
@@ -1369,6 +3155,50 @@
         "https://photo.yupoo.com/minkang/1926d66f/0681a454.jpg": "ac932f9a4c45bca7af7338d805c02527b2ee4649"
       },
       "checkedAt": "2026-10-11T00:01:34.178Z"
+    },
+    "213792516": {
+      "slug": "brazil-2002-goalkeeper-black-jersey",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/43cbf089/f93c137d.jpg",
+          "hash": "09c161bf7f12aeee04ba43598245dd1909698628",
+          "key": "catalog/brazil-2002-goalkeeper-black-jersey/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/ec7f72e5/baf47c75.jpg",
+          "hash": "910e64c6ef26ff7f332fbab7854c74a24f9fbcb4",
+          "key": "catalog/brazil-2002-goalkeeper-black-jersey/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/92bbaced/3e788474.jpg",
+          "hash": "f3005bb6a3a23ac81f768a0d9a0007b794695c13",
+          "key": "catalog/brazil-2002-goalkeeper-black-jersey/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/5b75c2eb/35c2ce9a.jpg",
+          "hash": "085fbe6bab2955e83d78e74e13f40a42df2e603c",
+          "key": "catalog/brazil-2002-goalkeeper-black-jersey/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/b5f36774/e4b70c53.jpg",
+          "hash": "5cd831a1fe8a869f069be25b60b3ae3e84d6d8a3",
+          "key": "catalog/brazil-2002-goalkeeper-black-jersey/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/c2b773fb/9cbda6c3.jpg",
+          "hash": "762c6c02d1ebe6f7a9ef4ac850429f4c2586b6f1",
+          "key": "catalog/brazil-2002-goalkeeper-black-jersey/image-06.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/43cbf089/f93c137d.jpg": "09c161bf7f12aeee04ba43598245dd1909698628",
+        "https://photo.yupoo.com/minkang/ec7f72e5/baf47c75.jpg": "910e64c6ef26ff7f332fbab7854c74a24f9fbcb4",
+        "https://photo.yupoo.com/minkang/92bbaced/3e788474.jpg": "f3005bb6a3a23ac81f768a0d9a0007b794695c13",
+        "https://photo.yupoo.com/minkang/5b75c2eb/35c2ce9a.jpg": "085fbe6bab2955e83d78e74e13f40a42df2e603c",
+        "https://photo.yupoo.com/minkang/b5f36774/e4b70c53.jpg": "5cd831a1fe8a869f069be25b60b3ae3e84d6d8a3",
+        "https://photo.yupoo.com/minkang/c2b773fb/9cbda6c3.jpg": "762c6c02d1ebe6f7a9ef4ac850429f4c2586b6f1"
+      },
+      "checkedAt": "2026-10-11T00:24:38.667Z"
     },
     "215020441": {
       "slug": "al-ahli-2026-home",
