@@ -19,7 +19,7 @@ export const TEAMS = [
   [['hungary'], 'Hungary', 'National teams', 'Hungary'],
   [['wales'], 'Wales', 'National teams', 'Wales'],
   [['scotland'], 'Scotland', 'National teams', 'Scotland'],
-  [['colombia'], 'Colombia', 'National teams', 'Colombia'],
+  [['colombia', 'columbia'], 'Colombia', 'National teams', 'Colombia'],
   [['uruguay'], 'Uruguay', 'National teams', 'Uruguay'],
   [['morocco'], 'Morocco', 'National teams', 'Morocco'],
   [['northern ireland'], 'Northern Ireland', 'National teams', 'Northern Ireland'],
