@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-11T04:21:07.050Z",
+  "generatedAt": "2026-10-11T04:26:00.772Z",
   "source": {
     "name": "Supplier catalogue",
     "url": "https://minkang.x.yupoo.com/albums"
   },
-  "count": 1050,
+  "count": 1056,
   "items": [
     {
       "id": "yupoo-64039421",
@@ -2822,7 +2822,7 @@
     {
       "id": "yupoo-216811184",
       "name": "Argentina 2026 Home Long-Sleeve Player Version Jersey",
-      "category": "2026 FIFA World Cup",
+      "category": "⚽🌍 National Teams",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/216811184?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/argentina-2026-home-long-sleeve-player-version-jersey/cover.webp",
       "images": [
@@ -2853,15 +2853,15 @@
       "type": "Shirt",
       "variant": "Long sleeve",
       "sourceCategories": [
-        "2026 FIFA World Cup"
+        "⚽🌍 National Teams"
       ],
       "sourceTitle": "Argentina 2026 Home Long-Sleeve Player Version Jersey S-4XL",
-      "updatedAt": "2026-10-10T23:00:49.826Z"
+      "updatedAt": "2026-10-11T04:23:25.563Z"
     },
     {
       "id": "yupoo-216811240",
       "name": "Argentina 2026 Home Player Version Jersey",
-      "category": "2026 FIFA World Cup",
+      "category": "⚽🌍 National Teams",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/216811240?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/argentina-2026-home-player-version-jersey/cover.webp",
       "images": [
@@ -2893,10 +2893,10 @@
       "type": "Shirt",
       "variant": "Player version",
       "sourceCategories": [
-        "2026 FIFA World Cup"
+        "⚽🌍 National Teams"
       ],
       "sourceTitle": "Argentina 2026 Home Player Version Jersey S-4XL",
-      "updatedAt": "2026-10-10T23:00:29.078Z"
+      "updatedAt": "2026-10-11T04:23:15.694Z"
     },
     {
       "id": "yupoo-226667242",
@@ -5028,7 +5028,7 @@
     {
       "id": "yupoo-216811468",
       "name": "Belgium 2026 Home Player Version Jersey",
-      "category": "2026 FIFA World Cup",
+      "category": "⚽🌍 National Teams",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/216811468?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/belgium-2026-home-player-version-jersey/cover.webp",
       "images": [
@@ -5059,10 +5059,10 @@
       "type": "Shirt",
       "variant": "Player version",
       "sourceCategories": [
-        "2026 FIFA World Cup"
+        "⚽🌍 National Teams"
       ],
       "sourceTitle": "Belgium 2026 Home Player Version Jersey S-4XL",
-      "updatedAt": "2026-10-10T23:25:09.711Z"
+      "updatedAt": "2026-10-11T04:23:07.847Z"
     },
     {
       "id": "yupoo-218946222",
@@ -6479,6 +6479,44 @@
       ],
       "sourceTitle": "Brazil 2024/25 Special Edition Jersey S-XXL",
       "updatedAt": "2026-10-11T00:26:10.966Z"
+    },
+    {
+      "id": "yupoo-216325784",
+      "name": "Brazil 2025 Home Jersey",
+      "category": "⚽🌍 National Teams",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/216325784?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/brazil-2025-home-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/brazil-2025-home-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/brazil-2025-home-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/brazil-2025-home-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/brazil-2025-home-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/brazil-2025-home-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/brazil-2025-home-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/brazil-2025-home-jersey/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "brazil-2025-home-jersey",
+      "siteCategory": "national",
+      "team": "Brazil",
+      "league": "National teams",
+      "country": "Brazil",
+      "season": "2025",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "⚽🌍 National Teams"
+      ],
+      "sourceTitle": "Brazil 2025 Home Jersey S-4XL",
+      "updatedAt": "2026-10-11T04:23:56.645Z"
     },
     {
       "id": "yupoo-219695301",
@@ -9263,9 +9301,49 @@
       "updatedAt": "2026-10-11T00:28:25.337Z"
     },
     {
+      "id": "yupoo-215946872",
+      "name": "Brazil Windproof Jacket - Black",
+      "category": "⚽🌍 National Teams",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/215946872?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/brazil-windproof-jacket-black/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/brazil-windproof-jacket-black/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/brazil-windproof-jacket-black/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/brazil-windproof-jacket-black/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/brazil-windproof-jacket-black/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/brazil-windproof-jacket-black/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/brazil-windproof-jacket-black/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/brazil-windproof-jacket-black/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/brazil-windproof-jacket-black/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/brazil-windproof-jacket-black/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "brazil-windproof-jacket-black",
+      "siteCategory": "tracksuits",
+      "team": "Brazil",
+      "league": "National teams",
+      "country": "Brazil",
+      "season": "",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "⚽🌍 National Teams"
+      ],
+      "sourceTitle": "Brazil Windproof Jacket - Black S-XXL",
+      "updatedAt": "2026-10-11T04:24:36.333Z"
+    },
+    {
       "id": "yupoo-215946779",
       "name": "Brazil Windproof Jacket - Light Mint Green, Sizes",
-      "category": "Brazil team column",
+      "category": "⚽🌍 National Teams",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/215946779?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/brazil-windproof-jacket-light-mint-green-sizes/cover.webp",
       "images": [
@@ -9297,15 +9375,15 @@
       "type": "Jacket",
       "variant": "Fan version",
       "sourceCategories": [
-        "Brazil team column"
+        "⚽🌍 National Teams"
       ],
       "sourceTitle": "Brazil Windproof Jacket - Light Mint Green, Sizes S-XXL",
-      "updatedAt": "2026-10-11T00:20:49.327Z"
+      "updatedAt": "2026-10-11T04:24:15.183Z"
     },
     {
       "id": "yupoo-215946866",
       "name": "Brazil Windproof Jacket-Off White",
-      "category": "Brazil team column",
+      "category": "⚽🌍 National Teams",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/215946866?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/brazil-windproof-jacket-off-white/cover.webp",
       "images": [
@@ -9337,10 +9415,10 @@
       "type": "Jacket",
       "variant": "Fan version",
       "sourceCategories": [
-        "Brazil team column"
+        "⚽🌍 National Teams"
       ],
       "sourceTitle": "Brazil Windproof Jacket-Off White S-XXL",
-      "updatedAt": "2026-10-11T00:20:58.949Z"
+      "updatedAt": "2026-10-11T04:24:22.956Z"
     },
     {
       "id": "yupoo-236818587",
@@ -10729,7 +10807,7 @@
     {
       "id": "yupoo-216811708",
       "name": "Colombia 2026 Away Jersey",
-      "category": "2026 FIFA World Cup",
+      "category": "⚽🌍 National Teams",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/216811708?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/colombia-2026-away-jersey/cover.webp",
       "images": [
@@ -10760,10 +10838,10 @@
       "type": "Shirt",
       "variant": "Fan version",
       "sourceCategories": [
-        "2026 FIFA World Cup"
+        "⚽🌍 National Teams"
       ],
       "sourceTitle": "Colombia 2026 Away Jersey S-4XL",
-      "updatedAt": "2026-10-10T23:23:33.082Z"
+      "updatedAt": "2026-10-11T04:22:58.399Z"
     },
     {
       "id": "yupoo-219695679",
@@ -10997,7 +11075,7 @@
     {
       "id": "yupoo-216811780",
       "name": "Colombia 2026 Home Long-Sleeve Player Version Jersey",
-      "category": "2026 FIFA World Cup",
+      "category": "⚽🌍 National Teams",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/216811780?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/colombia-2026-home-long-sleeve-player-version-jersey/cover.webp",
       "images": [
@@ -11028,15 +11106,15 @@
       "type": "Shirt",
       "variant": "Long sleeve",
       "sourceCategories": [
-        "2026 FIFA World Cup"
+        "⚽🌍 National Teams"
       ],
       "sourceTitle": "Colombia 2026 Home Long-Sleeve Player Version Jersey S-4XL",
-      "updatedAt": "2026-10-10T23:23:05.442Z"
+      "updatedAt": "2026-10-11T04:22:48.723Z"
     },
     {
       "id": "yupoo-216811847",
       "name": "Colombia 2026 Home Player Version Jersey",
-      "category": "2026 FIFA World Cup",
+      "category": "⚽🌍 National Teams",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/216811847?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/colombia-2026-home-player-version-jersey/cover.webp",
       "images": [
@@ -11067,10 +11145,10 @@
       "type": "Shirt",
       "variant": "Player version",
       "sourceCategories": [
-        "2026 FIFA World Cup"
+        "⚽🌍 National Teams"
       ],
       "sourceTitle": "Colombia 2026 Home Player Version Jersey S-4XL",
-      "updatedAt": "2026-10-10T23:22:47.556Z"
+      "updatedAt": "2026-10-11T04:22:39.245Z"
     },
     {
       "id": "yupoo-218946307",
@@ -12499,6 +12577,48 @@
       ],
       "sourceTitle": "Croatia 26/27 Baby Home Jersey Size 9/12",
       "updatedAt": "2026-10-10T23:34:08.186Z"
+    },
+    {
+      "id": "yupoo-215949742",
+      "name": "Croatian Reversible Jacket Windbreaker - Navy Blue & Sky Blue",
+      "category": "⚽🌍 National Teams",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/215949742?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/croatian-reversible-jacket-windbreaker-navy-blue-sky-blue/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/croatian-reversible-jacket-windbreaker-navy-blue-sky-blue/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/croatian-reversible-jacket-windbreaker-navy-blue-sky-blue/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/croatian-reversible-jacket-windbreaker-navy-blue-sky-blue/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/croatian-reversible-jacket-windbreaker-navy-blue-sky-blue/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/croatian-reversible-jacket-windbreaker-navy-blue-sky-blue/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/croatian-reversible-jacket-windbreaker-navy-blue-sky-blue/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/croatian-reversible-jacket-windbreaker-navy-blue-sky-blue/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/croatian-reversible-jacket-windbreaker-navy-blue-sky-blue/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/croatian-reversible-jacket-windbreaker-navy-blue-sky-blue/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/croatian-reversible-jacket-windbreaker-navy-blue-sky-blue/image-10.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/croatian-reversible-jacket-windbreaker-navy-blue-sky-blue/image-11.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "croatian-reversible-jacket-windbreaker-navy-blue-sky-blue",
+      "siteCategory": "tracksuits",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "⚽🌍 National Teams"
+      ],
+      "sourceTitle": "Croatian Reversible Jacket Windbreaker - Navy Blue & Sky Blue S-XXL",
+      "updatedAt": "2026-10-11T04:26:00.769Z"
     },
     {
       "id": "yupoo-223116297",
@@ -13965,7 +14085,7 @@
     {
       "id": "yupoo-216811908",
       "name": "England 2026 Home Jersey",
-      "category": "2026 FIFA World Cup",
+      "category": "⚽🌍 National Teams",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/216811908?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/england-2026-home-jersey/cover.webp",
       "images": [
@@ -13995,10 +14115,10 @@
       "type": "Shirt",
       "variant": "Fan version",
       "sourceCategories": [
-        "2026 FIFA World Cup"
+        "⚽🌍 National Teams"
       ],
       "sourceTitle": "England 2026 Home Jersey S-4XL",
-      "updatedAt": "2026-10-10T23:17:32.996Z"
+      "updatedAt": "2026-10-11T04:22:31.061Z"
     },
     {
       "id": "yupoo-235529672",
@@ -16070,6 +16190,48 @@
       "updatedAt": "2026-10-11T03:01:12.806Z"
     },
     {
+      "id": "yupoo-215947769",
+      "name": "French Reversible Jacket Windbreaker - White & Blue",
+      "category": "⚽🌍 National Teams",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/215947769?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/french-reversible-jacket-windbreaker-white-blue/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/french-reversible-jacket-windbreaker-white-blue/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/french-reversible-jacket-windbreaker-white-blue/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/french-reversible-jacket-windbreaker-white-blue/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/french-reversible-jacket-windbreaker-white-blue/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/french-reversible-jacket-windbreaker-white-blue/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/french-reversible-jacket-windbreaker-white-blue/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/french-reversible-jacket-windbreaker-white-blue/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/french-reversible-jacket-windbreaker-white-blue/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/french-reversible-jacket-windbreaker-white-blue/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/french-reversible-jacket-windbreaker-white-blue/image-10.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/french-reversible-jacket-windbreaker-white-blue/image-11.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "french-reversible-jacket-windbreaker-white-blue",
+      "siteCategory": "tracksuits",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "⚽🌍 National Teams"
+      ],
+      "sourceTitle": "French Reversible Jacket Windbreaker - White & Blue S-XXL",
+      "updatedAt": "2026-10-11T04:24:53.710Z"
+    },
+    {
       "id": "yupoo-221175925",
       "name": "German 1996 Retro Windbreaker - White",
       "category": "⚽🌍 National Teams",
@@ -16396,6 +16558,48 @@
       ],
       "sourceTitle": "German Originals Retro Casual T-shirt S-3XL",
       "updatedAt": "2026-10-11T01:10:41.508Z"
+    },
+    {
+      "id": "yupoo-215947772",
+      "name": "German Reversible Jacket Windbreaker - Green & Purple",
+      "category": "⚽🌍 National Teams",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/215947772?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/german-reversible-jacket-windbreaker-green-purple/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/german-reversible-jacket-windbreaker-green-purple/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/german-reversible-jacket-windbreaker-green-purple/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/german-reversible-jacket-windbreaker-green-purple/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/german-reversible-jacket-windbreaker-green-purple/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/german-reversible-jacket-windbreaker-green-purple/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/german-reversible-jacket-windbreaker-green-purple/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/german-reversible-jacket-windbreaker-green-purple/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/german-reversible-jacket-windbreaker-green-purple/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/german-reversible-jacket-windbreaker-green-purple/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/german-reversible-jacket-windbreaker-green-purple/image-10.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/german-reversible-jacket-windbreaker-green-purple/image-11.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "german-reversible-jacket-windbreaker-green-purple",
+      "siteCategory": "tracksuits",
+      "team": "Germany",
+      "league": "National teams",
+      "country": "Germany",
+      "season": "",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "⚽🌍 National Teams"
+      ],
+      "sourceTitle": "German Reversible Jacket Windbreaker - Green & Purple S-XXL",
+      "updatedAt": "2026-10-11T04:25:14.016Z"
     },
     {
       "id": "yupoo-218960631",
@@ -17375,7 +17579,7 @@
     {
       "id": "yupoo-216709387",
       "name": "Germany 2026 Home Jersey",
-      "category": "2026 FIFA World Cup",
+      "category": "⚽🌍 National Teams",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/216709387?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/germany-2026-home-jersey/cover.webp",
       "images": [
@@ -17406,10 +17610,10 @@
       "type": "Shirt",
       "variant": "Fan version",
       "sourceCategories": [
-        "2026 FIFA World Cup"
+        "⚽🌍 National Teams"
       ],
       "sourceTitle": "Germany 2026 Home Jersey S-4XL",
-      "updatedAt": "2026-10-10T23:05:31.004Z"
+      "updatedAt": "2026-10-11T04:23:42.786Z"
     },
     {
       "id": "yupoo-215723035",
@@ -17529,7 +17733,7 @@
     {
       "id": "yupoo-216812069",
       "name": "Germany 2026 Home Long-Sleeve Player Version Jersey",
-      "category": "2026 FIFA World Cup",
+      "category": "⚽🌍 National Teams",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/216812069?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/germany-2026-home-long-sleeve-player-version-jersey/cover.webp",
       "images": [
@@ -17560,15 +17764,15 @@
       "type": "Shirt",
       "variant": "Long sleeve",
       "sourceCategories": [
-        "2026 FIFA World Cup"
+        "⚽🌍 National Teams"
       ],
       "sourceTitle": "Germany 2026 Home Long-Sleeve Player Version Jersey S-4XL",
-      "updatedAt": "2026-10-10T23:06:11.209Z"
+      "updatedAt": "2026-10-11T04:22:12.071Z"
     },
     {
       "id": "yupoo-216812125",
       "name": "Germany 2026 Home Player Version Jersey",
-      "category": "2026 FIFA World Cup",
+      "category": "⚽🌍 National Teams",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/216812125?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/germany-2026-home-player-version-jersey/cover.webp",
       "images": [
@@ -17599,10 +17803,10 @@
       "type": "Shirt",
       "variant": "Player version",
       "sourceCategories": [
-        "2026 FIFA World Cup"
+        "⚽🌍 National Teams"
       ],
       "sourceTitle": "Germany 2026 Home Player Version Jersey S-4XL",
-      "updatedAt": "2026-10-10T23:05:51.032Z"
+      "updatedAt": "2026-10-11T04:22:02.971Z"
     },
     {
       "id": "yupoo-218946381",
@@ -20817,7 +21021,7 @@
     {
       "id": "yupoo-216812248",
       "name": "Italy 2026 Away Player Version Jersey",
-      "category": "2026 FIFA World Cup",
+      "category": "⚽🌍 National Teams",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/216812248?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/italy-2026-away-player-version-jersey/cover.webp",
       "images": [
@@ -20848,10 +21052,10 @@
       "type": "Shirt",
       "variant": "Player version",
       "sourceCategories": [
-        "2026 FIFA World Cup"
+        "⚽🌍 National Teams"
       ],
       "sourceTitle": "Italy 2026 Away Player Version Jersey S-4XL",
-      "updatedAt": "2026-10-10T23:21:21.061Z"
+      "updatedAt": "2026-10-11T04:21:52.316Z"
     },
     {
       "id": "yupoo-235528045",
@@ -20927,7 +21131,7 @@
     {
       "id": "yupoo-216709471",
       "name": "Italy 2026 Home Jersey",
-      "category": "2026 FIFA World Cup",
+      "category": "⚽🌍 National Teams",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/216709471?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/italy-2026-home-jersey/cover.webp",
       "images": [
@@ -20957,10 +21161,10 @@
       "type": "Shirt",
       "variant": "Fan version",
       "sourceCategories": [
-        "2026 FIFA World Cup"
+        "⚽🌍 National Teams"
       ],
       "sourceTitle": "Italy 2026 Home Jersey S-4XL",
-      "updatedAt": "2026-10-10T23:20:24.834Z"
+      "updatedAt": "2026-10-11T04:23:34.565Z"
     },
     {
       "id": "yupoo-217110317",
@@ -21006,7 +21210,7 @@
     {
       "id": "yupoo-216812337",
       "name": "Italy 2026 Home Player Version Jersey",
-      "category": "2026 FIFA World Cup",
+      "category": "⚽🌍 National Teams",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/216812337?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/italy-2026-home-player-version-jersey/cover.webp",
       "images": [
@@ -21037,10 +21241,10 @@
       "type": "Shirt",
       "variant": "Player version",
       "sourceCategories": [
-        "2026 FIFA World Cup"
+        "⚽🌍 National Teams"
       ],
       "sourceTitle": "Italy 2026 Home Player Version Jersey S-4XL",
-      "updatedAt": "2026-10-10T23:20:33.866Z"
+      "updatedAt": "2026-10-11T04:21:43.345Z"
     },
     {
       "id": "yupoo-226511419",
@@ -22632,7 +22836,7 @@
     {
       "id": "yupoo-216812396",
       "name": "Japan 2026 Home Jersey",
-      "category": "2026 FIFA World Cup",
+      "category": "⚽🌍 National Teams",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/216812396?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/japan-2026-home-jersey/cover.webp",
       "images": [
@@ -22661,10 +22865,10 @@
       "type": "Shirt",
       "variant": "Fan version",
       "sourceCategories": [
-        "2026 FIFA World Cup"
+        "⚽🌍 National Teams"
       ],
       "sourceTitle": "Japan 2026 Home Jersey S-4XL",
-      "updatedAt": "2026-10-10T23:27:07.691Z"
+      "updatedAt": "2026-10-11T04:21:34.736Z"
     },
     {
       "id": "yupoo-219397403",
@@ -24897,7 +25101,7 @@
     {
       "id": "yupoo-216481172",
       "name": "Mexico 2026 Home Player Version Jersey",
-      "category": "2026 FIFA World Cup",
+      "category": "⚽🌍 National Teams",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/216481172?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/mexico-2026-home-player-version-jersey/cover.webp",
       "images": [
@@ -24927,10 +25131,10 @@
       "type": "Shirt",
       "variant": "Player version",
       "sourceCategories": [
-        "2026 FIFA World Cup"
+        "⚽🌍 National Teams"
       ],
       "sourceTitle": "Mexico 2026 Home Player Version Jersey S-4XL",
-      "updatedAt": "2026-10-10T23:12:21.382Z"
+      "updatedAt": "2026-10-11T04:24:06.746Z"
     },
     {
       "id": "yupoo-226511989",
@@ -25974,6 +26178,48 @@
       ],
       "sourceTitle": "Mexico 26/27 Baby Home jersey size 9/12",
       "updatedAt": "2026-10-10T23:11:25.331Z"
+    },
+    {
+      "id": "yupoo-215949740",
+      "name": "Mexico Reversible Jacket Windbreaker - White & Blue",
+      "category": "⚽🌍 National Teams",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/215949740?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/mexico-reversible-jacket-windbreaker-white-blue/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/mexico-reversible-jacket-windbreaker-white-blue/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/mexico-reversible-jacket-windbreaker-white-blue/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/mexico-reversible-jacket-windbreaker-white-blue/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/mexico-reversible-jacket-windbreaker-white-blue/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/mexico-reversible-jacket-windbreaker-white-blue/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/mexico-reversible-jacket-windbreaker-white-blue/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/mexico-reversible-jacket-windbreaker-white-blue/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/mexico-reversible-jacket-windbreaker-white-blue/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/mexico-reversible-jacket-windbreaker-white-blue/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/mexico-reversible-jacket-windbreaker-white-blue/image-10.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/mexico-reversible-jacket-windbreaker-white-blue/image-11.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "mexico-reversible-jacket-windbreaker-white-blue",
+      "siteCategory": "tracksuits",
+      "team": "Mexico",
+      "league": "National teams",
+      "country": "Mexico",
+      "season": "",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "⚽🌍 National Teams"
+      ],
+      "sourceTitle": "Mexico Reversible Jacket Windbreaker - White & Blue S-XXL",
+      "updatedAt": "2026-10-11T04:25:37.027Z"
     },
     {
       "id": "yupoo-227760937",
@@ -32306,7 +32552,7 @@
     {
       "id": "yupoo-216812673",
       "name": "Scotland 2026 Away Jersey",
-      "category": "2026 FIFA World Cup",
+      "category": "⚽🌍 National Teams",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/216812673?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/scotland-2026-away-jersey/cover.webp",
       "images": [
@@ -32336,10 +32582,10 @@
       "type": "Shirt",
       "variant": "Fan version",
       "sourceCategories": [
-        "2026 FIFA World Cup"
+        "⚽🌍 National Teams"
       ],
       "sourceTitle": "Scotland 2026 Away Jersey S-4XL",
-      "updatedAt": "2026-10-10T23:32:42.463Z"
+      "updatedAt": "2026-10-11T04:21:25.954Z"
     },
     {
       "id": "yupoo-221734177",
@@ -32540,7 +32786,7 @@
     {
       "id": "yupoo-216812714",
       "name": "Senegal 2026 Away Jersey",
-      "category": "2026 FIFA World Cup",
+      "category": "⚽🌍 National Teams",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/216812714?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/senegal-2026-away-jersey/cover.webp",
       "images": [
@@ -32564,17 +32810,17 @@
       "availability": "unknown",
       "slug": "senegal-2026-away-jersey",
       "siteCategory": "national",
-      "team": "Other",
-      "league": "Other leagues",
-      "country": "International",
+      "team": "Senegal",
+      "league": "National teams",
+      "country": "Senegal",
       "season": "2026",
       "type": "Shirt",
       "variant": "Fan version",
       "sourceCategories": [
-        "2026 FIFA World Cup"
+        "⚽🌍 National Teams"
       ],
       "sourceTitle": "Senegal 2026 Away Jersey S-4XL",
-      "updatedAt": "2026-10-11T00:05:40.660Z"
+      "updatedAt": "2026-10-11T04:21:17.186Z"
     },
     {
       "id": "yupoo-256661373",
