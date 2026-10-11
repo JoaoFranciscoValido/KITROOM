@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 // KITROOM catalogue importer: Yupoo albums -> self-hosted WebP images + catalog.json.
-// Usage: node import.mjs [--limit N] [--category "text"] [--album <albumId>] [--dry-run] [--headed] [--config path]
+// Usage: node import.mjs [--limit N] [--category "text"] [--album <albumId>] [--skip-checked <hours>] [--dry-run] [--headed] [--config path]
 import { existsSync } from 'node:fs';
 import { readFile, rename, writeFile, mkdir } from 'node:fs/promises';
 import path from 'node:path';
@@ -14,16 +14,17 @@ import { photoIdOf, YupooClient } from './lib/yupoo.mjs';
 const HERE = path.dirname(fileURLToPath(import.meta.url));
 
 function parseArgs(argv) {
-  const a = { limit: 0, category: '', album: '', dryRun: false, headed: false, config: path.join(HERE, 'config.json') };
+  const a = { limit: 0, category: '', album: '', skipCheckedHours: 0, dryRun: false, headed: false, config: path.join(HERE, 'config.json') };
   for (let i = 0; i < argv.length; i++) {
     const k = argv[i];
     if (k === '--limit') a.limit = Number(argv[++i]) || 0;
     else if (k === '--category') a.category = String(argv[++i] || '').toLowerCase();
     else if (k === '--album') a.album = String(argv[++i] || '');
+    else if (k === '--skip-checked') a.skipCheckedHours = Number(argv[++i]) || 0;
     else if (k === '--dry-run') a.dryRun = true;
     else if (k === '--headed') a.headed = true;
     else if (k === '--config') a.config = path.resolve(argv[++i]);
-    else if (k === '--help' || k === '-h') { console.log('Usage: node import.mjs [--limit N] [--category "text"] [--album <albumId>] [--dry-run] [--headed] [--config path]'); process.exit(0); }
+    else if (k === '--help' || k === '-h') { console.log('Usage: node import.mjs [--limit N] [--category "text"] [--album <albumId>] [--skip-checked <hours>] [--dry-run] [--headed] [--config path]'); process.exit(0); }
     else { console.error(`Unknown option ${k}`); process.exit(2); }
   }
   return a;
@@ -147,6 +148,13 @@ async function main() {
       const id = `yupoo-${a.albumId}`;
       const prev = prevById.get(id);
       const tag = `[${idx + 1}/${queue.length}] ${a.title}`;
+      // --skip-checked: an album checked recently, still in the same categories, keeps its product as is (no page visit).
+      const checkedAt = Date.parse(state.albums[a.albumId]?.checkedAt || '');
+      if (args.skipCheckedHours && prev && Date.now() - checkedAt < args.skipCheckedHours * 3600e3 && sameSet(prev.sourceCategories, a.categories)) {
+        report.unchanged.push({ id, name: prev.name, images: prev.images?.length || 0, downloaded: 0, duplicates: 0 });
+        log(`${tag}: skipped (checked ${((Date.now() - checkedAt) / 3600e3).toFixed(1)} h ago)`);
+        continue;
+      }
       try {
         const detail = await client.readAlbum(a.url);
         if (detail.passwordProtected) {
@@ -215,6 +223,7 @@ async function main() {
   }
 }
 
+const sameSet = (x = [], y = []) => x.length === y.length && x.every(v => y.includes(v));
 const stripVolatile = it => { const { updatedAt, ...rest } = it; return rest; };
 
 /**

@@ -27,6 +27,7 @@ npm run import                          # full import
 npm run import -- --limit 10            # first 10 albums only (good for a first try; stops listing once it has 10)
 npm run import -- --category "retro"    # only Yupoo categories whose name contains "retro"
 npm run import -- --album 123456789     # one album by its Yupoo id
+npm run import -- --skip-checked 24     # resume a long run: albums checked in the last 24 h (same categories) are not opened again
 npm run import -- --dry-run --limit 5   # list what would be imported; downloads and writes nothing
 npm run import -- --headed              # show the browser window (useful if Yupoo changes its pages)
 npm test                                # offline end-to-end test against a local mock store

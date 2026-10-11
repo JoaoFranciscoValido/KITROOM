@@ -37,6 +37,7 @@ const store = {
   },
 };
 let downloads = 0;
+let albumVisits = 0;
 const PER_PAGE = 2;
 
 const page = (body, title = 'Store') => `<!doctype html><html><head><title>${title}</title></head><body>
@@ -55,6 +56,7 @@ const server = http.createServer((req, res) => {
     return send(200, page(albumList(pageOf(Object.keys(store.albums).filter(id => store.albums[id].cats.includes(m[1]))))));
   }
   if ((m = u.pathname.match(/^\/albums\/(\d+)$/))) {
+    albumVisits++;
     const a = store.albums[m[1]];
     if (!a) return send(404, 'not found');
     if (a.password) return send(200, page('<div class="showalbum__password"><input type="password"></div>'));
@@ -138,6 +140,14 @@ try {
   rep = await lastReport();
   assert.equal(downloads, firstDownloads, 'no re-downloads on an unchanged store');
   assert.equal(rep.totals.unchanged, 3);
+
+  // Run 2b: --skip-checked keeps recently checked albums without visiting them; only the password album (no product) is opened.
+  const visitsBefore = albumVisits;
+  await importer('--skip-checked', '24');
+  rep = await lastReport();
+  assert.equal(albumVisits - visitsBefore, 1, 'recently checked albums are not visited again');
+  assert.equal(rep.totals.unchanged, 3);
+  assert.equal((await catalog()).items.length, 3, 'skipped albums stay in the catalogue');
 
   // Run 2b: the supplier picks another cover -> photos reordered and cover remade, without downloading anything
   store.albums['1001'].cover = 'a1';
