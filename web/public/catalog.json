@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-11T02:45:51.534Z",
+  "generatedAt": "2026-10-11T02:59:25.561Z",
   "source": {
     "name": "Supplier catalogue",
     "url": "https://minkang.x.yupoo.com/albums"
   },
-  "count": 863,
+  "count": 887,
   "items": [
     {
       "id": "yupoo-64039421",
@@ -1002,6 +1002,45 @@
       "updatedAt": "2026-10-10T23:57:26.869Z"
     },
     {
+      "id": "yupoo-233046569",
+      "name": "Albania 2026 Third Jersey",
+      "category": "⚽🌍 National Teams",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/233046569?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/albania-2026-third-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/albania-2026-third-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/albania-2026-third-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/albania-2026-third-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/albania-2026-third-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/albania-2026-third-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/albania-2026-third-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/albania-2026-third-jersey/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/albania-2026-third-jersey/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "albania-2026-third-jersey",
+      "siteCategory": "national",
+      "team": "Albania",
+      "league": "National teams",
+      "country": "Albania",
+      "season": "2026",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "⚽🌍 National Teams"
+      ],
+      "sourceTitle": "Albania 2026 Third Jersey S-XXL",
+      "updatedAt": "2026-10-11T02:50:32.631Z"
+    },
+    {
       "id": "yupoo-246278890",
       "name": "Algeria 1986 Away Retro Jersey",
       "category": "⚽🌍 National Teams",
@@ -1856,7 +1895,7 @@
     {
       "id": "yupoo-231476699",
       "name": "Argentina 2026 Away Jersey",
-      "category": "2026 FIFA World Cup",
+      "category": "⚽🌍 National Teams",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/231476699?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/argentina-2026-away-jersey/cover.webp",
       "images": [
@@ -1888,10 +1927,10 @@
       "type": "Shirt",
       "variant": "Fan version",
       "sourceCategories": [
-        "2026 FIFA World Cup"
+        "⚽🌍 National Teams"
       ],
       "sourceTitle": "Argentina 2026 Away Jersey S-4XL",
-      "updatedAt": "2026-10-10T23:01:50.405Z"
+      "updatedAt": "2026-10-11T02:55:20.322Z"
     },
     {
       "id": "yupoo-235529945",
@@ -1939,7 +1978,7 @@
     {
       "id": "yupoo-234181592",
       "name": "Argentina 2026 Away Long Sleeve Jersey",
-      "category": "2026 FIFA World Cup",
+      "category": "⚽🌍 National Teams",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/234181592?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/argentina-2026-away-long-sleeve-jersey/cover.webp",
       "images": [
@@ -1971,15 +2010,15 @@
       "type": "Shirt",
       "variant": "Long sleeve",
       "sourceCategories": [
-        "2026 FIFA World Cup"
+        "⚽🌍 National Teams"
       ],
       "sourceTitle": "Argentina 2026 Away Long Sleeve Jersey S-4XL",
-      "updatedAt": "2026-10-10T23:01:59.768Z"
+      "updatedAt": "2026-10-11T02:47:54.119Z"
     },
     {
       "id": "yupoo-231476758",
       "name": "Argentina 2026 Away Player Version Jersey",
-      "category": "2026 FIFA World Cup",
+      "category": "⚽🌍 National Teams",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/231476758?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/argentina-2026-away-player-version-jersey/cover.webp",
       "images": [
@@ -2013,10 +2052,10 @@
       "type": "Shirt",
       "variant": "Player version",
       "sourceCategories": [
-        "2026 FIFA World Cup"
+        "⚽🌍 National Teams"
       ],
       "sourceTitle": "Argentina 2026 Away Player Version Jersey S-4XL",
-      "updatedAt": "2026-10-10T23:02:09.916Z"
+      "updatedAt": "2026-10-11T02:55:11.311Z"
     },
     {
       "id": "yupoo-235528591",
@@ -3188,7 +3227,7 @@
     {
       "id": "yupoo-234136862",
       "name": "Argentina 26/27 Away Women's Jersey",
-      "category": "2026 FIFA World Cup",
+      "category": "⚽🌍 National Teams",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/234136862?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/argentina-26-27-away-women-s-jersey/cover.webp",
       "images": [
@@ -3220,10 +3259,10 @@
       "type": "Shirt",
       "variant": "Women's",
       "sourceCategories": [
-        "2026 FIFA World Cup"
+        "⚽🌍 National Teams"
       ],
       "sourceTitle": "Argentina 26/27 Away Women's Jersey S-XXL",
-      "updatedAt": "2026-10-10T23:01:41.163Z"
+      "updatedAt": "2026-10-11T02:49:29.928Z"
     },
     {
       "id": "yupoo-257728134",
@@ -4420,7 +4459,7 @@
     {
       "id": "yupoo-234137424",
       "name": "Bosnia & Herzegovina 2026 Home Jersey",
-      "category": "2026 FIFA World Cup",
+      "category": "⚽🌍 National Teams",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/234137424?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/bosnia-herzegovina-2026-home-jersey/cover.webp",
       "images": [
@@ -4444,17 +4483,17 @@
       "availability": "unknown",
       "slug": "bosnia-herzegovina-2026-home-jersey",
       "siteCategory": "national",
-      "team": "Other",
-      "league": "Other leagues",
-      "country": "International",
+      "team": "Bosnia and Herzegovina",
+      "league": "National teams",
+      "country": "Bosnia and Herzegovina",
       "season": "2026",
       "type": "Shirt",
       "variant": "Fan version",
       "sourceCategories": [
-        "2026 FIFA World Cup"
+        "⚽🌍 National Teams"
       ],
       "sourceTitle": "Bosnia & Herzegovina 2026 Home Jersey S-XXL",
-      "updatedAt": "2026-10-10T23:35:21.540Z"
+      "updatedAt": "2026-10-11T02:49:22.055Z"
     },
     {
       "id": "yupoo-219523903",
@@ -5840,7 +5879,7 @@
     {
       "id": "yupoo-231426021",
       "name": "Brazil 2026 Away Shorts",
-      "category": "Brazil team column",
+      "category": "⚽🌍 National Teams",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/231426021?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/brazil-2026-away-shorts/cover.webp",
       "images": [
@@ -5869,10 +5908,10 @@
       "type": "Shorts",
       "variant": "Fan version",
       "sourceCategories": [
-        "Brazil team column"
+        "⚽🌍 National Teams"
       ],
       "sourceTitle": "Brazil 2026 Away Shorts S-XXL",
-      "updatedAt": "2026-10-11T00:15:30.091Z"
+      "updatedAt": "2026-10-11T02:56:42.004Z"
     },
     {
       "id": "yupoo-239479932",
@@ -5992,7 +6031,7 @@
     {
       "id": "yupoo-231416354",
       "name": "Brazil 2026 Basketball Shorts Red",
-      "category": "Brazil team column",
+      "category": "⚽🌍 National Teams",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/231416354?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/brazil-2026-basketball-shorts-red/cover.webp",
       "images": [
@@ -6024,15 +6063,15 @@
       "type": "Shorts",
       "variant": "Fan version",
       "sourceCategories": [
-        "Brazil team column"
+        "⚽🌍 National Teams"
       ],
       "sourceTitle": "Brazil 2026 Basketball Shorts Red S-4XL",
-      "updatedAt": "2026-10-11T00:15:57.717Z"
+      "updatedAt": "2026-10-11T02:56:59.418Z"
     },
     {
       "id": "yupoo-231416309",
       "name": "Brazil 2026 Basketball Shorts Yellow",
-      "category": "Brazil team column",
+      "category": "⚽🌍 National Teams",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/231416309?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/brazil-2026-basketball-shorts-yellow/cover.webp",
       "images": [
@@ -6064,10 +6103,10 @@
       "type": "Shorts",
       "variant": "Fan version",
       "sourceCategories": [
-        "Brazil team column"
+        "⚽🌍 National Teams"
       ],
       "sourceTitle": "Brazil 2026 Basketball Shorts Yellow S-4XL",
-      "updatedAt": "2026-10-11T00:15:23.129Z"
+      "updatedAt": "2026-10-11T02:57:07.291Z"
     },
     {
       "id": "yupoo-240193580",
@@ -6790,7 +6829,7 @@
     {
       "id": "yupoo-233497402",
       "name": "Brazil 2026 Home Women's crop top style Jersey",
-      "category": "Brazil team column",
+      "category": "⚽🌍 National Teams",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/233497402?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/brazil-2026-home-women-s-crop-top-style-jersey/cover.webp",
       "images": [
@@ -6820,10 +6859,10 @@
       "type": "Shirt",
       "variant": "Women's",
       "sourceCategories": [
-        "Brazil team column"
+        "⚽🌍 National Teams"
       ],
       "sourceTitle": "Brazil 2026 Home Women's crop top style Jersey S-XXL",
-      "updatedAt": "2026-10-11T00:09:21.719Z"
+      "updatedAt": "2026-10-11T02:50:09.739Z"
     },
     {
       "id": "yupoo-239252193",
@@ -6867,7 +6906,7 @@
     {
       "id": "yupoo-232203378",
       "name": "Brazil 2026 Jesus Rose Jersey",
-      "category": "Brazil team column",
+      "category": "⚽🌍 National Teams",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/232203378?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/brazil-2026-jesus-rose-jersey/cover.webp",
       "images": [
@@ -6897,10 +6936,10 @@
       "type": "Shirt",
       "variant": "Fan version",
       "sourceCategories": [
-        "Brazil team column"
+        "⚽🌍 National Teams"
       ],
       "sourceTitle": "Brazil 2026 Jesus Rose Jersey S-XXL",
-      "updatedAt": "2026-10-11T00:15:12.933Z"
+      "updatedAt": "2026-10-11T02:54:52.218Z"
     },
     {
       "id": "yupoo-234181710",
@@ -6944,7 +6983,7 @@
     {
       "id": "yupoo-233497538",
       "name": "Brazil 2026 Men's Football Anthem Jacket",
-      "category": "Brazil team column",
+      "category": "⚽🌍 National Teams",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/233497538?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/brazil-2026-men-s-football-anthem-jacket/cover.webp",
       "images": [
@@ -6975,10 +7014,10 @@
       "type": "Jacket",
       "variant": "Fan version",
       "sourceCategories": [
-        "Brazil team column"
+        "⚽🌍 National Teams"
       ],
       "sourceTitle": "Brazil 2026 Men's Football Anthem Jacket S-XXL",
-      "updatedAt": "2026-10-11T00:14:52.164Z"
+      "updatedAt": "2026-10-11T02:50:17.968Z"
     },
     {
       "id": "yupoo-242208172",
@@ -7060,7 +7099,7 @@
     {
       "id": "yupoo-231121676",
       "name": "Brazil 2026 Polo Black Jersey",
-      "category": "Brazil team column",
+      "category": "⚽🌍 National Teams",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/231121676?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/brazil-2026-polo-black-jersey/cover.webp",
       "images": [
@@ -7090,10 +7129,10 @@
       "type": "Casual",
       "variant": "Fan version",
       "sourceCategories": [
-        "Brazil team column"
+        "⚽🌍 National Teams"
       ],
       "sourceTitle": "Brazil 2026 Polo Black Jersey S-XXL",
-      "updatedAt": "2026-10-11T00:16:26.043Z"
+      "updatedAt": "2026-10-11T02:57:58.737Z"
     },
     {
       "id": "yupoo-236326154",
@@ -7173,7 +7212,7 @@
     {
       "id": "yupoo-232203469",
       "name": "Brazil 2026 Special Edition Jersey",
-      "category": "Brazil team column",
+      "category": "⚽🌍 National Teams",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/232203469?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/brazil-2026-special-edition-jersey/cover.webp",
       "images": [
@@ -7204,15 +7243,15 @@
       "type": "Shirt",
       "variant": "Special edition",
       "sourceCategories": [
-        "Brazil team column"
+        "⚽🌍 National Teams"
       ],
       "sourceTitle": "Brazil 2026 Special Edition Jersey S-XXL",
-      "updatedAt": "2026-10-11T00:15:02.453Z"
+      "updatedAt": "2026-10-11T02:54:43.977Z"
     },
     {
       "id": "yupoo-231121734",
       "name": "Brazil 2026 Special Edition Jersey",
-      "category": "Brazil team column",
+      "category": "⚽🌍 National Teams",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/231121734?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/brazil-2026-special-edition-jersey-2/cover.webp",
       "images": [
@@ -7241,10 +7280,10 @@
       "type": "Shirt",
       "variant": "Special edition",
       "sourceCategories": [
-        "Brazil team column"
+        "⚽🌍 National Teams"
       ],
       "sourceTitle": "Brazil 2026 Special Edition Jersey S-XXL",
-      "updatedAt": "2026-10-11T00:16:18.144Z"
+      "updatedAt": "2026-10-11T02:57:50.125Z"
     },
     {
       "id": "yupoo-236091704",
@@ -7319,7 +7358,7 @@
     {
       "id": "yupoo-234137619",
       "name": "Brazil 2026 Training Vest Blue",
-      "category": "Brazil team column",
+      "category": "⚽🌍 National Teams",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/234137619?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/brazil-2026-training-vest-blue/cover.webp",
       "images": [
@@ -7348,15 +7387,15 @@
       "type": "Training",
       "variant": "Fan version",
       "sourceCategories": [
-        "Brazil team column"
+        "⚽🌍 National Teams"
       ],
       "sourceTitle": "Brazil 2026 Training Vest Blue S-4XL",
-      "updatedAt": "2026-10-11T00:14:42.818Z"
+      "updatedAt": "2026-10-11T02:49:12.770Z"
     },
     {
       "id": "yupoo-234137769",
       "name": "Brazil 2026 Training Vest Yellow",
-      "category": "Brazil team column",
+      "category": "⚽🌍 National Teams",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/234137769?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/brazil-2026-training-vest-yellow/cover.webp",
       "images": [
@@ -7385,15 +7424,15 @@
       "type": "Training",
       "variant": "Fan version",
       "sourceCategories": [
-        "Brazil team column"
+        "⚽🌍 National Teams"
       ],
       "sourceTitle": "Brazil 2026 Training Vest Yellow S-4XL",
-      "updatedAt": "2026-10-11T00:09:39.555Z"
+      "updatedAt": "2026-10-11T02:49:04.972Z"
     },
     {
       "id": "yupoo-233497610",
       "name": "Brazil 2026 Women's Crop Tank Top Home Jersey",
-      "category": "Brazil team column",
+      "category": "⚽🌍 National Teams",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/233497610?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/brazil-2026-women-s-crop-tank-top-home-jersey/cover.webp",
       "images": [
@@ -7421,10 +7460,10 @@
       "type": "Shirt",
       "variant": "Women's",
       "sourceCategories": [
-        "Brazil team column"
+        "⚽🌍 National Teams"
       ],
       "sourceTitle": "Brazil 2026 Women's Crop Tank Top Home Jersey S-XXL",
-      "updatedAt": "2026-10-11T00:09:14.572Z"
+      "updatedAt": "2026-10-11T02:50:01.912Z"
     },
     {
       "id": "yupoo-237392139",
@@ -7811,7 +7850,7 @@
     {
       "id": "yupoo-231416257",
       "name": "Brazil 26/27 Special Edition Jersey",
-      "category": "Brazil team column",
+      "category": "⚽🌍 National Teams",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/231416257?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/brazil-26-27-special-edition-jersey/cover.webp",
       "images": [
@@ -7841,15 +7880,15 @@
       "type": "Shirt",
       "variant": "Special edition",
       "sourceCategories": [
-        "Brazil team column"
+        "⚽🌍 National Teams"
       ],
       "sourceTitle": "Brazil 26/27 Special Edition Jersey S-XXL",
-      "updatedAt": "2026-10-11T00:16:09.400Z"
+      "updatedAt": "2026-10-11T02:57:15.127Z"
     },
     {
       "id": "yupoo-231416197",
       "name": "Brazil 26/27 Special Edition Kids Kit Jersey",
-      "category": "Brazil team column",
+      "category": "⚽🌍 National Teams",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/231416197?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/brazil-26-27-special-edition-kids-kit-jersey/cover.webp",
       "images": [
@@ -7883,10 +7922,10 @@
       "type": "Shirt",
       "variant": "Kids",
       "sourceCategories": [
-        "Brazil team column"
+        "⚽🌍 National Teams"
       ],
       "sourceTitle": "Brazil 26/27 Special Edition Kids Kit Jersey SIZE 16-28",
-      "updatedAt": "2026-10-11T00:13:44.094Z"
+      "updatedAt": "2026-10-11T02:57:25.423Z"
     },
     {
       "id": "yupoo-227758257",
@@ -8967,7 +9006,7 @@
     {
       "id": "yupoo-232203629",
       "name": "Canada 2026 Home Kids Kit Jersey",
-      "category": "2026 FIFA World Cup",
+      "category": "⚽🌍 National Teams",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/232203629?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/canada-2026-home-kids-kit-jersey/cover.webp",
       "images": [
@@ -8993,17 +9032,17 @@
       "availability": "unknown",
       "slug": "canada-2026-home-kids-kit-jersey",
       "siteCategory": "national",
-      "team": "Other",
-      "league": "Other leagues",
-      "country": "International",
+      "team": "Canada",
+      "league": "National teams",
+      "country": "Canada",
       "season": "2026",
       "type": "Shirt",
       "variant": "Kids",
       "sourceCategories": [
-        "2026 FIFA World Cup"
+        "⚽🌍 National Teams"
       ],
       "sourceTitle": "Canada 2026 Home Kids Kit Jersey SIZE 16-28",
-      "updatedAt": "2026-10-10T23:32:51.476Z"
+      "updatedAt": "2026-10-11T02:54:32.715Z"
     },
     {
       "id": "yupoo-219695541",
@@ -9240,9 +9279,46 @@
       "updatedAt": "2026-10-10T23:57:55.468Z"
     },
     {
+      "id": "yupoo-230750968",
+      "name": "Chile 1994 Home Retro Jersey",
+      "category": "⚽🌍 National Teams",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/230750968?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/chile-1994-home-retro-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/chile-1994-home-retro-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/chile-1994-home-retro-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/chile-1994-home-retro-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/chile-1994-home-retro-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/chile-1994-home-retro-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/chile-1994-home-retro-jersey/image-06.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "chile-1994-home-retro-jersey",
+      "siteCategory": "retro",
+      "team": "Chile",
+      "league": "National teams",
+      "country": "Chile",
+      "season": "1994",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "⚽🌍 National Teams"
+      ],
+      "sourceTitle": "Chile 1994 Home Retro Jersey S-XXL",
+      "updatedAt": "2026-10-11T02:58:28.229Z"
+    },
+    {
       "id": "yupoo-231426526",
       "name": "Chile 2026 Away Jersey",
-      "category": "2026 FIFA World Cup",
+      "category": "⚽🌍 National Teams",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/231426526?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/chile-2026-away-jersey/cover.webp",
       "images": [
@@ -9266,22 +9342,22 @@
       "availability": "unknown",
       "slug": "chile-2026-away-jersey",
       "siteCategory": "national",
-      "team": "Other",
-      "league": "Other leagues",
-      "country": "International",
+      "team": "Chile",
+      "league": "National teams",
+      "country": "Chile",
       "season": "2026",
       "type": "Shirt",
       "variant": "Fan version",
       "sourceCategories": [
-        "2026 FIFA World Cup"
+        "⚽🌍 National Teams"
       ],
       "sourceTitle": "Chile 2026 Away Jersey S-4XL",
-      "updatedAt": "2026-10-10T23:54:50.113Z"
+      "updatedAt": "2026-10-11T02:55:28.718Z"
     },
     {
       "id": "yupoo-234181796",
       "name": "Chile 2026 Away Kids Kit Jersey",
-      "category": "2026 FIFA World Cup",
+      "category": "⚽🌍 National Teams",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/234181796?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/chile-2026-away-kids-kit-jersey/cover.webp",
       "images": [
@@ -9308,17 +9384,17 @@
       "availability": "unknown",
       "slug": "chile-2026-away-kids-kit-jersey",
       "siteCategory": "national",
-      "team": "Other",
-      "league": "Other leagues",
-      "country": "International",
+      "team": "Chile",
+      "league": "National teams",
+      "country": "Chile",
       "season": "2026",
       "type": "Shirt",
       "variant": "Kids",
       "sourceCategories": [
-        "2026 FIFA World Cup"
+        "⚽🌍 National Teams"
       ],
       "sourceTitle": "Chile 2026 Away Kids Kit Jersey Size 16-28",
-      "updatedAt": "2026-10-10T23:54:40.962Z"
+      "updatedAt": "2026-10-11T02:47:40.587Z"
     },
     {
       "id": "yupoo-216226069",
@@ -9437,6 +9513,117 @@
       ],
       "sourceTitle": "Chile 2026 Home Women Jersey S-XXL",
       "updatedAt": "2026-10-10T23:54:19.574Z"
+    },
+    {
+      "id": "yupoo-232203859",
+      "name": "Colombia 1990 Originals Retro Home Jersey",
+      "category": "⚽🌍 National Teams",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/232203859?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/colombia-1990-originals-retro-home-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/colombia-1990-originals-retro-home-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/colombia-1990-originals-retro-home-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/colombia-1990-originals-retro-home-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/colombia-1990-originals-retro-home-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/colombia-1990-originals-retro-home-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/colombia-1990-originals-retro-home-jersey/image-06.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "colombia-1990-originals-retro-home-jersey",
+      "siteCategory": "retro",
+      "team": "Colombia",
+      "league": "National teams",
+      "country": "Colombia",
+      "season": "1990",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "⚽🌍 National Teams"
+      ],
+      "sourceTitle": "Colombia 1990 Originals Retro Home Jersey S-XXL",
+      "updatedAt": "2026-10-11T02:54:23.795Z"
+    },
+    {
+      "id": "yupoo-232204003",
+      "name": "Colombia 1990 Originals Retro Home Long Sleeve Jersey",
+      "category": "⚽🌍 National Teams",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/232204003?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/colombia-1990-originals-retro-home-long-sleeve-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/colombia-1990-originals-retro-home-long-sleeve-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/colombia-1990-originals-retro-home-long-sleeve-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/colombia-1990-originals-retro-home-long-sleeve-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/colombia-1990-originals-retro-home-long-sleeve-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/colombia-1990-originals-retro-home-long-sleeve-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/colombia-1990-originals-retro-home-long-sleeve-jersey/image-06.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "colombia-1990-originals-retro-home-long-sleeve-jersey",
+      "siteCategory": "retro",
+      "team": "Colombia",
+      "league": "National teams",
+      "country": "Colombia",
+      "season": "1990",
+      "type": "Shirt",
+      "variant": "Long sleeve",
+      "sourceCategories": [
+        "⚽🌍 National Teams"
+      ],
+      "sourceTitle": "Colombia 1990 Originals Retro Home Long Sleeve Jersey S-XXL",
+      "updatedAt": "2026-10-11T02:54:09.486Z"
+    },
+    {
+      "id": "yupoo-232204090",
+      "name": "Colombia 1994 Home Retro Long Sleeve Jersey",
+      "category": "⚽🌍 National Teams",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/232204090?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/colombia-1994-home-retro-long-sleeve-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/colombia-1994-home-retro-long-sleeve-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/colombia-1994-home-retro-long-sleeve-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/colombia-1994-home-retro-long-sleeve-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/colombia-1994-home-retro-long-sleeve-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/colombia-1994-home-retro-long-sleeve-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/colombia-1994-home-retro-long-sleeve-jersey/image-06.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "colombia-1994-home-retro-long-sleeve-jersey",
+      "siteCategory": "retro",
+      "team": "Colombia",
+      "league": "National teams",
+      "country": "Colombia",
+      "season": "1994",
+      "type": "Shirt",
+      "variant": "Long sleeve",
+      "sourceCategories": [
+        "⚽🌍 National Teams"
+      ],
+      "sourceTitle": "Colombia 1994 Home Retro Long Sleeve Jersey S-XXL",
+      "updatedAt": "2026-10-11T02:53:55.833Z"
     },
     {
       "id": "yupoo-237218237",
@@ -10122,7 +10309,7 @@
     {
       "id": "yupoo-234137930",
       "name": "Colombia 26/27 Away Women's Jersey",
-      "category": "2026 FIFA World Cup",
+      "category": "⚽🌍 National Teams",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/234137930?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/colombia-26-27-away-women-s-jersey/cover.webp",
       "images": [
@@ -10153,10 +10340,10 @@
       "type": "Shirt",
       "variant": "Women's",
       "sourceCategories": [
-        "2026 FIFA World Cup"
+        "⚽🌍 National Teams"
       ],
       "sourceTitle": "Colombia 26/27 Away Women's Jersey S-XXL",
-      "updatedAt": "2026-10-10T23:23:24.437Z"
+      "updatedAt": "2026-10-11T02:48:57.003Z"
     },
     {
       "id": "yupoo-232738130",
@@ -10606,6 +10793,44 @@
       "updatedAt": "2026-10-11T00:02:45.160Z"
     },
     {
+      "id": "yupoo-234179064",
+      "name": "Croatia 2018 Away Retro Jersey",
+      "category": "⚽🌍 National Teams",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/234179064?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/croatia-2018-away-retro-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/croatia-2018-away-retro-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/croatia-2018-away-retro-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/croatia-2018-away-retro-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/croatia-2018-away-retro-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/croatia-2018-away-retro-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/croatia-2018-away-retro-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/croatia-2018-away-retro-jersey/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "croatia-2018-away-retro-jersey",
+      "siteCategory": "retro",
+      "team": "Croatia",
+      "league": "National teams",
+      "country": "Croatia",
+      "season": "2018",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "⚽🌍 National Teams"
+      ],
+      "sourceTitle": "Croatia 2018 Away Retro Jersey S-XXL",
+      "updatedAt": "2026-10-11T02:48:48.665Z"
+    },
+    {
       "id": "yupoo-256508720",
       "name": "Croatia 2018 Home Retro Jersey",
       "category": "⚽🌍 National Teams",
@@ -10948,7 +11173,7 @@
     {
       "id": "yupoo-234181993",
       "name": "Curacao 2026 Away Kids Kit Jersey",
-      "category": "2026 FIFA World Cup",
+      "category": "⚽🌍 National Teams",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/234181993?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/curacao-2026-away-kids-kit-jersey/cover.webp",
       "images": [
@@ -10975,17 +11200,17 @@
       "availability": "unknown",
       "slug": "curacao-2026-away-kids-kit-jersey",
       "siteCategory": "national",
-      "team": "Other",
-      "league": "Other leagues",
-      "country": "International",
+      "team": "Curaçao",
+      "league": "National teams",
+      "country": "Curaçao",
       "season": "2026",
       "type": "Shirt",
       "variant": "Kids",
       "sourceCategories": [
-        "2026 FIFA World Cup"
+        "⚽🌍 National Teams"
       ],
       "sourceTitle": "Curacao 2026 Away Kids Kit Jersey SIZE 16-28",
-      "updatedAt": "2026-10-10T23:48:41.574Z"
+      "updatedAt": "2026-10-11T02:47:32.340Z"
     },
     {
       "id": "yupoo-223119551",
@@ -11386,7 +11611,7 @@
     {
       "id": "yupoo-231115259",
       "name": "Ecuador 2026 World Cup Away Jersey",
-      "category": "2026 FIFA World Cup",
+      "category": "⚽🌍 National Teams",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/231115259?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ecuador-2026-world-cup-away-jersey/cover.webp",
       "images": [
@@ -11410,22 +11635,22 @@
       "availability": "unknown",
       "slug": "ecuador-2026-world-cup-away-jersey",
       "siteCategory": "national",
-      "team": "Other",
-      "league": "Other leagues",
-      "country": "International",
+      "team": "Ecuador",
+      "league": "National teams",
+      "country": "Ecuador",
       "season": "2026",
       "type": "Shirt",
       "variant": "Fan version",
       "sourceCategories": [
-        "2026 FIFA World Cup"
+        "⚽🌍 National Teams"
       ],
       "sourceTitle": "Ecuador 2026 World Cup Away Jersey S-4XL",
-      "updatedAt": "2026-10-10T23:39:37.034Z"
+      "updatedAt": "2026-10-11T02:58:15.699Z"
     },
     {
       "id": "yupoo-231115322",
       "name": "Ecuador 2026 World Cup Home Jersey",
-      "category": "2026 FIFA World Cup",
+      "category": "⚽🌍 National Teams",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/231115322?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ecuador-2026-world-cup-home-jersey/cover.webp",
       "images": [
@@ -11449,17 +11674,17 @@
       "availability": "unknown",
       "slug": "ecuador-2026-world-cup-home-jersey",
       "siteCategory": "national",
-      "team": "Other",
-      "league": "Other leagues",
-      "country": "International",
+      "team": "Ecuador",
+      "league": "National teams",
+      "country": "Ecuador",
       "season": "2026",
       "type": "Shirt",
       "variant": "Fan version",
       "sourceCategories": [
-        "2026 FIFA World Cup"
+        "⚽🌍 National Teams"
       ],
       "sourceTitle": "Ecuador 2026 World Cup Home Jersey S-4XL",
-      "updatedAt": "2026-10-10T23:39:15.972Z"
+      "updatedAt": "2026-10-11T02:58:06.871Z"
     },
     {
       "id": "yupoo-222820817",
@@ -11876,7 +12101,7 @@
     {
       "id": "yupoo-234182085",
       "name": "England 2026 Away Kids Kit Jersey",
-      "category": "2026 FIFA World Cup",
+      "category": "⚽🌍 National Teams",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/234182085?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/england-2026-away-kids-kit-jersey/cover.webp",
       "images": [
@@ -11908,15 +12133,15 @@
       "type": "Shirt",
       "variant": "Kids",
       "sourceCategories": [
-        "2026 FIFA World Cup"
+        "⚽🌍 National Teams"
       ],
       "sourceTitle": "England 2026 Away Kids Kit Jersey Size 16-28",
-      "updatedAt": "2026-10-10T23:18:20.497Z"
+      "updatedAt": "2026-10-11T02:47:23.766Z"
     },
     {
       "id": "yupoo-233497808",
       "name": "England 2026 Away Long Sleeve Jersey",
-      "category": "2026 FIFA World Cup",
+      "category": "⚽🌍 National Teams",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/233497808?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/england-2026-away-long-sleeve-jersey/cover.webp",
       "images": [
@@ -11945,10 +12170,10 @@
       "type": "Shirt",
       "variant": "Long sleeve",
       "sourceCategories": [
-        "2026 FIFA World Cup"
+        "⚽🌍 National Teams"
       ],
       "sourceTitle": "England 2026 Away Long Sleeve Jersey S-3XL",
-      "updatedAt": "2026-10-10T23:18:47.707Z"
+      "updatedAt": "2026-10-11T02:49:45.878Z"
     },
     {
       "id": "yupoo-229206028",
@@ -12222,7 +12447,7 @@
     {
       "id": "yupoo-233497965",
       "name": "England 2026 Home Long Sleeve Jersey",
-      "category": "2026 FIFA World Cup",
+      "category": "⚽🌍 National Teams",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/233497965?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/england-2026-home-long-sleeve-jersey/cover.webp",
       "images": [
@@ -12252,10 +12477,10 @@
       "type": "Shirt",
       "variant": "Long sleeve",
       "sourceCategories": [
-        "2026 FIFA World Cup"
+        "⚽🌍 National Teams"
       ],
       "sourceTitle": "England 2026 Home Long Sleeve Jersey S-3XL",
-      "updatedAt": "2026-10-10T23:17:52.092Z"
+      "updatedAt": "2026-10-11T02:49:54.303Z"
     },
     {
       "id": "yupoo-218963405",
@@ -12337,7 +12562,7 @@
     {
       "id": "yupoo-231426067",
       "name": "England 2026 Home Shorts",
-      "category": "2026 FIFA World Cup",
+      "category": "⚽🌍 National Teams",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/231426067?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/england-2026-home-shorts-2/cover.webp",
       "images": [
@@ -12367,10 +12592,10 @@
       "type": "Shorts",
       "variant": "Fan version",
       "sourceCategories": [
-        "2026 FIFA World Cup"
+        "⚽🌍 National Teams"
       ],
       "sourceTitle": "England 2026 Home Shorts S-XXL",
-      "updatedAt": "2026-10-10T23:18:01.208Z"
+      "updatedAt": "2026-10-11T02:56:33.937Z"
     },
     {
       "id": "yupoo-239480408",
@@ -12992,6 +13217,45 @@
       "updatedAt": "2026-10-11T01:16:59.860Z"
     },
     {
+      "id": "yupoo-231415931",
+      "name": "France 2014 Home Jacket Jersey",
+      "category": "⚽🌍 National Teams",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/231415931?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/france-2014-home-jacket-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/france-2014-home-jacket-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/france-2014-home-jacket-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/france-2014-home-jacket-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/france-2014-home-jacket-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/france-2014-home-jacket-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/france-2014-home-jacket-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/france-2014-home-jacket-jersey/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/france-2014-home-jacket-jersey/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "france-2014-home-jacket-jersey",
+      "siteCategory": "tracksuits",
+      "team": "France",
+      "league": "National teams",
+      "country": "France",
+      "season": "2014",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "⚽🌍 National Teams"
+      ],
+      "sourceTitle": "France 2014 Home Jacket Jersey S-XXL",
+      "updatedAt": "2026-10-11T02:57:42.449Z"
+    },
+    {
       "id": "yupoo-236110753",
       "name": "France 2026 Away Jersey",
       "category": "⚽🌍 National Teams",
@@ -13368,7 +13632,7 @@
     {
       "id": "yupoo-229932705",
       "name": "France 2026 Home Jersey",
-      "category": "2026 FIFA World Cup",
+      "category": "⚽🌍 National Teams",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/229932705?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/france-2026-home-jersey/cover.webp",
       "images": [
@@ -13398,10 +13662,10 @@
       "type": "Shirt",
       "variant": "Fan version",
       "sourceCategories": [
-        "2026 FIFA World Cup"
+        "⚽🌍 National Teams"
       ],
       "sourceTitle": "France 2026 Home Jersey S-4XL",
-      "updatedAt": "2026-10-10T23:09:25.814Z"
+      "updatedAt": "2026-10-11T02:59:25.559Z"
     },
     {
       "id": "yupoo-239480697",
@@ -13927,6 +14191,84 @@
       "updatedAt": "2026-10-11T01:10:41.508Z"
     },
     {
+      "id": "yupoo-232204274",
+      "name": "Germany 12/13 Away Retro Jersey",
+      "category": "⚽🌍 National Teams",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/232204274?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/germany-12-13-away-retro-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/germany-12-13-away-retro-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/germany-12-13-away-retro-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/germany-12-13-away-retro-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/germany-12-13-away-retro-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/germany-12-13-away-retro-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/germany-12-13-away-retro-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/germany-12-13-away-retro-jersey/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/germany-12-13-away-retro-jersey/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "germany-12-13-away-retro-jersey",
+      "siteCategory": "retro",
+      "team": "Germany",
+      "league": "National teams",
+      "country": "Germany",
+      "season": "2012/13",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "⚽🌍 National Teams"
+      ],
+      "sourceTitle": "Germany 12/13 Away Retro Jersey S-XXL",
+      "updatedAt": "2026-10-11T02:53:41.231Z"
+    },
+    {
+      "id": "yupoo-232204372",
+      "name": "Germany 12/13 Away Retro Long Sleeve Jersey",
+      "category": "⚽🌍 National Teams",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/232204372?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/germany-12-13-away-retro-long-sleeve-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/germany-12-13-away-retro-long-sleeve-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/germany-12-13-away-retro-long-sleeve-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/germany-12-13-away-retro-long-sleeve-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/germany-12-13-away-retro-long-sleeve-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/germany-12-13-away-retro-long-sleeve-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/germany-12-13-away-retro-long-sleeve-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/germany-12-13-away-retro-long-sleeve-jersey/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/germany-12-13-away-retro-long-sleeve-jersey/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "germany-12-13-away-retro-long-sleeve-jersey",
+      "siteCategory": "retro",
+      "team": "Germany",
+      "league": "National teams",
+      "country": "Germany",
+      "season": "2012/13",
+      "type": "Shirt",
+      "variant": "Long sleeve",
+      "sourceCategories": [
+        "⚽🌍 National Teams"
+      ],
+      "sourceTitle": "Germany 12/13 Away Retro Long Sleeve Jersey S-XXL",
+      "updatedAt": "2026-10-11T02:53:23.568Z"
+    },
+    {
       "id": "yupoo-240192991",
       "name": "Germany 1988 Home Retro Jersey",
       "category": "⚽🌍 National Teams",
@@ -14365,7 +14707,7 @@
     {
       "id": "yupoo-231426103",
       "name": "Germany 2026 Away Shorts",
-      "category": "2026 FIFA World Cup",
+      "category": "⚽🌍 National Teams",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/231426103?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/germany-2026-away-shorts/cover.webp",
       "images": [
@@ -14396,10 +14738,10 @@
       "type": "Shorts",
       "variant": "Fan version",
       "sourceCategories": [
-        "2026 FIFA World Cup"
+        "⚽🌍 National Teams"
       ],
       "sourceTitle": "Germany 2026 Away Shorts S-XXL",
-      "updatedAt": "2026-10-10T23:06:20.893Z"
+      "updatedAt": "2026-10-11T02:56:26.064Z"
     },
     {
       "id": "yupoo-252314153",
@@ -15473,6 +15815,80 @@
       "updatedAt": "2026-10-10T23:04:42.914Z"
     },
     {
+      "id": "yupoo-232204454",
+      "name": "Germany 90/91 Away Retro Jersey",
+      "category": "⚽🌍 National Teams",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/232204454?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/germany-90-91-away-retro-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/germany-90-91-away-retro-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/germany-90-91-away-retro-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/germany-90-91-away-retro-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/germany-90-91-away-retro-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/germany-90-91-away-retro-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/germany-90-91-away-retro-jersey/image-06.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "germany-90-91-away-retro-jersey",
+      "siteCategory": "retro",
+      "team": "Germany",
+      "league": "National teams",
+      "country": "Germany",
+      "season": "1990/91",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "⚽🌍 National Teams"
+      ],
+      "sourceTitle": "Germany 90/91 Away Retro Jersey S-XXL",
+      "updatedAt": "2026-10-11T02:53:05.955Z"
+    },
+    {
+      "id": "yupoo-232204535",
+      "name": "Germany 90/91 Away Retro Long Sleeve Jersey",
+      "category": "⚽🌍 National Teams",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/232204535?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/germany-90-91-away-retro-long-sleeve-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/germany-90-91-away-retro-long-sleeve-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/germany-90-91-away-retro-long-sleeve-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/germany-90-91-away-retro-long-sleeve-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/germany-90-91-away-retro-long-sleeve-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/germany-90-91-away-retro-long-sleeve-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/germany-90-91-away-retro-long-sleeve-jersey/image-06.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "germany-90-91-away-retro-long-sleeve-jersey",
+      "siteCategory": "retro",
+      "team": "Germany",
+      "league": "National teams",
+      "country": "Germany",
+      "season": "1990/91",
+      "type": "Shirt",
+      "variant": "Long sleeve",
+      "sourceCategories": [
+        "⚽🌍 National Teams"
+      ],
+      "sourceTitle": "Germany 90/91 Away Retro Long Sleeve Jersey S-XXL",
+      "updatedAt": "2026-10-11T02:52:52.683Z"
+    },
+    {
       "id": "yupoo-235265006",
       "name": "Ghana 2026 Away Jersey",
       "category": "⚽🌍 National Teams",
@@ -15671,6 +16087,45 @@
       "updatedAt": "2026-10-11T00:05:59.212Z"
     },
     {
+      "id": "yupoo-232204607",
+      "name": "Guatemala 2026 Away Jersey",
+      "category": "⚽🌍 National Teams",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/232204607?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/guatemala-2026-away-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/guatemala-2026-away-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/guatemala-2026-away-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/guatemala-2026-away-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/guatemala-2026-away-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/guatemala-2026-away-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/guatemala-2026-away-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/guatemala-2026-away-jersey/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/guatemala-2026-away-jersey/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "guatemala-2026-away-jersey",
+      "siteCategory": "national",
+      "team": "Guatemala",
+      "league": "National teams",
+      "country": "Guatemala",
+      "season": "2026",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "⚽🌍 National Teams"
+      ],
+      "sourceTitle": "Guatemala 2026 Away Jersey S-XXL",
+      "updatedAt": "2026-10-11T02:52:37.147Z"
+    },
+    {
       "id": "yupoo-196260536",
       "name": "Guatemala 2026 Home",
       "category": "2026 FIFA World Cup",
@@ -15707,6 +16162,45 @@
       ],
       "sourceTitle": "Guatemala 2026 Home S-4XL",
       "updatedAt": "2026-10-11T00:06:07.491Z"
+    },
+    {
+      "id": "yupoo-232204677",
+      "name": "Guatemala 2026 Home Jersey",
+      "category": "⚽🌍 National Teams",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/232204677?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/guatemala-2026-home-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/guatemala-2026-home-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/guatemala-2026-home-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/guatemala-2026-home-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/guatemala-2026-home-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/guatemala-2026-home-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/guatemala-2026-home-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/guatemala-2026-home-jersey/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/guatemala-2026-home-jersey/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "guatemala-2026-home-jersey",
+      "siteCategory": "national",
+      "team": "Guatemala",
+      "league": "National teams",
+      "country": "Guatemala",
+      "season": "2026",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "⚽🌍 National Teams"
+      ],
+      "sourceTitle": "Guatemala 2026 Home Jersey S-XXL",
+      "updatedAt": "2026-10-11T02:52:23.018Z"
     },
     {
       "id": "yupoo-215045276",
@@ -17988,7 +18482,7 @@
     {
       "id": "yupoo-230750452",
       "name": "Jamaica 2026 x Bob Marley Away Kids Kit Jersey",
-      "category": "2026 FIFA World Cup",
+      "category": "⚽🌍 National Teams",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/230750452?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/jamaica-2026-x-bob-marley-away-kids-kit-jersey/cover.webp",
       "images": [
@@ -18015,17 +18509,17 @@
       "availability": "unknown",
       "slug": "jamaica-2026-x-bob-marley-away-kids-kit-jersey",
       "siteCategory": "national",
-      "team": "Other",
-      "league": "Other leagues",
-      "country": "International",
+      "team": "Jamaica",
+      "league": "National teams",
+      "country": "Jamaica",
       "season": "2026",
       "type": "Shirt",
       "variant": "Kids",
       "sourceCategories": [
-        "2026 FIFA World Cup"
+        "⚽🌍 National Teams"
       ],
       "sourceTitle": "Jamaica 2026 x Bob Marley Away Kids Kit Jersey Size 16-28",
-      "updatedAt": "2026-10-10T23:42:31.878Z"
+      "updatedAt": "2026-10-11T02:58:39.029Z"
     },
     {
       "id": "yupoo-248665292",
@@ -18106,6 +18600,44 @@
       ],
       "sourceTitle": "Japan 1998 Away Retro Kids Kit Jersey SIZE 16-28",
       "updatedAt": "2026-10-11T01:14:16.124Z"
+    },
+    {
+      "id": "yupoo-230750378",
+      "name": "Japan 1998 Retro GK Long Sleeve Jersey",
+      "category": "⚽🌍 National Teams",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/230750378?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/japan-1998-retro-gk-long-sleeve-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/japan-1998-retro-gk-long-sleeve-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/japan-1998-retro-gk-long-sleeve-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/japan-1998-retro-gk-long-sleeve-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/japan-1998-retro-gk-long-sleeve-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/japan-1998-retro-gk-long-sleeve-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/japan-1998-retro-gk-long-sleeve-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/japan-1998-retro-gk-long-sleeve-jersey/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "japan-1998-retro-gk-long-sleeve-jersey",
+      "siteCategory": "retro",
+      "team": "Japan",
+      "league": "National teams",
+      "country": "Japan",
+      "season": "1998",
+      "type": "Shirt",
+      "variant": "Goalkeeper",
+      "sourceCategories": [
+        "⚽🌍 National Teams"
+      ],
+      "sourceTitle": "Japan 1998 Retro GK Long Sleeve Jersey S-XXL",
+      "updatedAt": "2026-10-11T02:58:52.773Z"
     },
     {
       "id": "yupoo-245507045",
@@ -18267,7 +18799,7 @@
     {
       "id": "yupoo-234179965",
       "name": "Japan 2026 Away Jersey",
-      "category": "2026 FIFA World Cup",
+      "category": "⚽🌍 National Teams",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/234179965?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/japan-2026-away-jersey/cover.webp",
       "images": [
@@ -18298,10 +18830,10 @@
       "type": "Shirt",
       "variant": "Fan version",
       "sourceCategories": [
-        "2026 FIFA World Cup"
+        "⚽🌍 National Teams"
       ],
       "sourceTitle": "Japan 2026 Away Jersey S-4XL",
-      "updatedAt": "2026-10-10T23:27:58.771Z"
+      "updatedAt": "2026-10-11T02:48:33.320Z"
     },
     {
       "id": "yupoo-240053208",
@@ -19185,6 +19717,45 @@
       ],
       "sourceTitle": "Mexico 1998 Home Retro Kids Kit Jersey Size 16-28",
       "updatedAt": "2026-10-11T01:14:04.902Z"
+    },
+    {
+      "id": "yupoo-232204884",
+      "name": "Mexico 1999 Home Retro Jersey",
+      "category": "⚽🌍 National Teams",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/232204884?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/mexico-1999-home-retro-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/mexico-1999-home-retro-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/mexico-1999-home-retro-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/mexico-1999-home-retro-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/mexico-1999-home-retro-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/mexico-1999-home-retro-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/mexico-1999-home-retro-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/mexico-1999-home-retro-jersey/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/mexico-1999-home-retro-jersey/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "mexico-1999-home-retro-jersey",
+      "siteCategory": "retro",
+      "team": "Mexico",
+      "league": "National teams",
+      "country": "Mexico",
+      "season": "1999",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "⚽🌍 National Teams"
+      ],
+      "sourceTitle": "Mexico 1999 Home Retro Jersey S-XXL",
+      "updatedAt": "2026-10-11T02:52:09.204Z"
     },
     {
       "id": "yupoo-246278836",
@@ -21309,9 +21880,46 @@
       "updatedAt": "2026-10-11T00:38:26.827Z"
     },
     {
+      "id": "yupoo-232204966",
+      "name": "Netherlands 1994 Home Retro Jersey",
+      "category": "⚽🌍 National Teams",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/232204966?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/netherlands-1994-home-retro-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/netherlands-1994-home-retro-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/netherlands-1994-home-retro-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/netherlands-1994-home-retro-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/netherlands-1994-home-retro-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/netherlands-1994-home-retro-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/netherlands-1994-home-retro-jersey/image-06.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "netherlands-1994-home-retro-jersey",
+      "siteCategory": "retro",
+      "team": "Netherlands",
+      "league": "National teams",
+      "country": "Netherlands",
+      "season": "1994",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "⚽🌍 National Teams"
+      ],
+      "sourceTitle": "Netherlands 1994 Home Retro Jersey S-XXL",
+      "updatedAt": "2026-10-11T02:51:53.678Z"
+    },
+    {
       "id": "yupoo-234834774",
       "name": "Netherlands 2026 Away Jersey",
-      "category": "2026 FIFA World Cup",
+      "category": "⚽🌍 National Teams",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/234834774?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/netherlands-2026-away-jersey/cover.webp",
       "images": [
@@ -21341,10 +21949,10 @@
       "type": "Shirt",
       "variant": "Fan version",
       "sourceCategories": [
-        "2026 FIFA World Cup"
+        "⚽🌍 National Teams"
       ],
       "sourceTitle": "Netherlands 2026 Away Jersey S-4XL",
-      "updatedAt": "2026-10-10T23:29:49.793Z"
+      "updatedAt": "2026-10-11T02:46:01.151Z"
     },
     {
       "id": "yupoo-235532308",
@@ -21736,6 +22344,43 @@
       "updatedAt": "2026-10-11T00:58:47.607Z"
     },
     {
+      "id": "yupoo-232205096",
+      "name": "Netherlands 78/80 Home Retro Jersey",
+      "category": "⚽🌍 National Teams",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/232205096?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/netherlands-78-80-home-retro-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/netherlands-78-80-home-retro-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/netherlands-78-80-home-retro-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/netherlands-78-80-home-retro-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/netherlands-78-80-home-retro-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/netherlands-78-80-home-retro-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/netherlands-78-80-home-retro-jersey/image-06.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "netherlands-78-80-home-retro-jersey",
+      "siteCategory": "retro",
+      "team": "Netherlands",
+      "league": "National teams",
+      "country": "Netherlands",
+      "season": "",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "⚽🌍 National Teams"
+      ],
+      "sourceTitle": "Netherlands 78/80 Home Retro Jersey S-XXL",
+      "updatedAt": "2026-10-11T02:51:40.909Z"
+    },
+    {
       "id": "yupoo-239061292",
       "name": "Netherlands x Patta 2026 Special Edition Jersey",
       "category": "⚽🌍 National Teams",
@@ -22083,6 +22728,45 @@
       "updatedAt": "2026-10-10T23:41:21.764Z"
     },
     {
+      "id": "yupoo-231426137",
+      "name": "Northern Ireland 2026 Home Shorts",
+      "category": "⚽🌍 National Teams",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/231426137?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/northern-ireland-2026-home-shorts/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/northern-ireland-2026-home-shorts/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/northern-ireland-2026-home-shorts/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/northern-ireland-2026-home-shorts/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/northern-ireland-2026-home-shorts/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/northern-ireland-2026-home-shorts/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/northern-ireland-2026-home-shorts/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/northern-ireland-2026-home-shorts/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/northern-ireland-2026-home-shorts/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "northern-ireland-2026-home-shorts",
+      "siteCategory": "shorts",
+      "team": "Northern Ireland",
+      "league": "National teams",
+      "country": "Northern Ireland",
+      "season": "2026",
+      "type": "Shorts",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "⚽🌍 National Teams"
+      ],
+      "sourceTitle": "Northern Ireland 2026 Home Shorts S-XXL",
+      "updatedAt": "2026-10-11T02:56:18.201Z"
+    },
+    {
       "id": "yupoo-235266335",
       "name": "Norway 2026 Away Jersey",
       "category": "⚽🌍 National Teams",
@@ -22123,7 +22807,7 @@
     {
       "id": "yupoo-234182293",
       "name": "Norway 2026 Away Kids Kit Jersey",
-      "category": "2026 FIFA World Cup",
+      "category": "⚽🌍 National Teams",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/234182293?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/norway-2026-away-kids-kit-jersey/cover.webp",
       "images": [
@@ -22149,17 +22833,17 @@
       "availability": "unknown",
       "slug": "norway-2026-away-kids-kit-jersey",
       "siteCategory": "national",
-      "team": "Other",
-      "league": "Other leagues",
-      "country": "International",
+      "team": "Norway",
+      "league": "National teams",
+      "country": "Norway",
       "season": "2026",
       "type": "Shirt",
       "variant": "Kids",
       "sourceCategories": [
-        "2026 FIFA World Cup"
+        "⚽🌍 National Teams"
       ],
       "sourceTitle": "Norway 2026 Away Kids Kit Jersey Size 16-28",
-      "updatedAt": "2026-10-10T23:46:33.133Z"
+      "updatedAt": "2026-10-11T02:47:15.575Z"
     },
     {
       "id": "yupoo-229898302",
@@ -22239,7 +22923,7 @@
     {
       "id": "yupoo-234182389",
       "name": "Norway 2026 Home Kids Kit Jersey",
-      "category": "2026 FIFA World Cup",
+      "category": "⚽🌍 National Teams",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/234182389?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/norway-2026-home-kids-kit-jersey/cover.webp",
       "images": [
@@ -22265,17 +22949,17 @@
       "availability": "unknown",
       "slug": "norway-2026-home-kids-kit-jersey",
       "siteCategory": "national",
-      "team": "Other",
-      "league": "Other leagues",
-      "country": "International",
+      "team": "Norway",
+      "league": "National teams",
+      "country": "Norway",
       "season": "2026",
       "type": "Shirt",
       "variant": "Kids",
       "sourceCategories": [
-        "2026 FIFA World Cup"
+        "⚽🌍 National Teams"
       ],
       "sourceTitle": "Norway 2026 Home Kids Kit Jersey Size 16-28",
-      "updatedAt": "2026-10-10T23:46:13.018Z"
+      "updatedAt": "2026-10-11T02:47:07.194Z"
     },
     {
       "id": "yupoo-242209270",
@@ -23934,6 +24618,45 @@
       "updatedAt": "2026-10-11T00:01:44.022Z"
     },
     {
+      "id": "yupoo-234180199",
+      "name": "Portugal 2026 Concept Jersey",
+      "category": "⚽🌍 National Teams",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/234180199?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/portugal-2026-concept-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/portugal-2026-concept-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/portugal-2026-concept-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/portugal-2026-concept-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/portugal-2026-concept-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/portugal-2026-concept-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/portugal-2026-concept-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/portugal-2026-concept-jersey/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/portugal-2026-concept-jersey/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "portugal-2026-concept-jersey",
+      "siteCategory": "national",
+      "team": "Portugal",
+      "league": "National teams",
+      "country": "Portugal",
+      "season": "2026",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "⚽🌍 National Teams"
+      ],
+      "sourceTitle": "Portugal 2026 Concept Jersey S-XXL",
+      "updatedAt": "2026-10-11T02:48:24.555Z"
+    },
+    {
       "id": "yupoo-215046299",
       "name": "Portugal 2026 Home",
       "category": "2026 FIFA World Cup",
@@ -24783,6 +25506,43 @@
       ],
       "sourceTitle": "Portugal 2026 Special Edition Jersey Black S-4XL",
       "updatedAt": "2026-10-11T00:57:57.572Z"
+    },
+    {
+      "id": "yupoo-234180299",
+      "name": "Portugal 2026 Special Edition Jersey White",
+      "category": "⚽🌍 National Teams",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/234180299?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/portugal-2026-special-edition-jersey-white/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/portugal-2026-special-edition-jersey-white/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/portugal-2026-special-edition-jersey-white/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/portugal-2026-special-edition-jersey-white/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/portugal-2026-special-edition-jersey-white/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/portugal-2026-special-edition-jersey-white/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/portugal-2026-special-edition-jersey-white/image-06.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "portugal-2026-special-edition-jersey-white",
+      "siteCategory": "national",
+      "team": "Portugal",
+      "league": "National teams",
+      "country": "Portugal",
+      "season": "2026",
+      "type": "Shirt",
+      "variant": "Special edition",
+      "sourceCategories": [
+        "⚽🌍 National Teams"
+      ],
+      "sourceTitle": "Portugal 2026 Special Edition Jersey White S-4XL",
+      "updatedAt": "2026-10-11T02:48:09.128Z"
     },
     {
       "id": "yupoo-236820290",
@@ -25941,6 +26701,84 @@
       "updatedAt": "2026-10-11T00:01:03.372Z"
     },
     {
+      "id": "yupoo-232205399",
+      "name": "Scotland 16/17 Away Retro Jersey",
+      "category": "⚽🌍 National Teams",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/232205399?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/scotland-16-17-away-retro-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/scotland-16-17-away-retro-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/scotland-16-17-away-retro-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/scotland-16-17-away-retro-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/scotland-16-17-away-retro-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/scotland-16-17-away-retro-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/scotland-16-17-away-retro-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/scotland-16-17-away-retro-jersey/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/scotland-16-17-away-retro-jersey/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "scotland-16-17-away-retro-jersey",
+      "siteCategory": "retro",
+      "team": "Scotland",
+      "league": "National teams",
+      "country": "Scotland",
+      "season": "2016/17",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "⚽🌍 National Teams"
+      ],
+      "sourceTitle": "Scotland 16/17 Away Retro Jersey S-XXL",
+      "updatedAt": "2026-10-11T02:51:28.051Z"
+    },
+    {
+      "id": "yupoo-232205547",
+      "name": "Scotland 16/17 Home Retro Jersey",
+      "category": "⚽🌍 National Teams",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/232205547?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/scotland-16-17-home-retro-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/scotland-16-17-home-retro-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/scotland-16-17-home-retro-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/scotland-16-17-home-retro-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/scotland-16-17-home-retro-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/scotland-16-17-home-retro-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/scotland-16-17-home-retro-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/scotland-16-17-home-retro-jersey/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/scotland-16-17-home-retro-jersey/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "scotland-16-17-home-retro-jersey",
+      "siteCategory": "retro",
+      "team": "Scotland",
+      "league": "National teams",
+      "country": "Scotland",
+      "season": "2016/17",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "⚽🌍 National Teams"
+      ],
+      "sourceTitle": "Scotland 16/17 Home Retro Jersey S-XXL",
+      "updatedAt": "2026-10-11T02:51:13.052Z"
+    },
+    {
       "id": "yupoo-216812673",
       "name": "Scotland 2026 Away Jersey",
       "category": "2026 FIFA World Cup",
@@ -26093,6 +26931,45 @@
       ],
       "sourceTitle": "Scotland 2026 Home Player Version Jersey S-4XL",
       "updatedAt": "2026-10-10T23:31:40.404Z"
+    },
+    {
+      "id": "yupoo-231426168",
+      "name": "Scotland 2026 Home Shorts",
+      "category": "⚽🌍 National Teams",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/231426168?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/scotland-2026-home-shorts/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/scotland-2026-home-shorts/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/scotland-2026-home-shorts/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/scotland-2026-home-shorts/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/scotland-2026-home-shorts/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/scotland-2026-home-shorts/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/scotland-2026-home-shorts/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/scotland-2026-home-shorts/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/scotland-2026-home-shorts/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "scotland-2026-home-shorts",
+      "siteCategory": "shorts",
+      "team": "Scotland",
+      "league": "National teams",
+      "country": "Scotland",
+      "season": "2026",
+      "type": "Shorts",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "⚽🌍 National Teams"
+      ],
+      "sourceTitle": "Scotland 2026 Home Shorts S-XXL",
+      "updatedAt": "2026-10-11T02:56:02.320Z"
     },
     {
       "id": "yupoo-216812714",
@@ -26578,7 +27455,7 @@
     {
       "id": "yupoo-234834508",
       "name": "South Korea 2026 Away Jersey",
-      "category": "2026 FIFA World Cup",
+      "category": "⚽🌍 National Teams",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/234834508?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/south-korea-2026-away-jersey/cover.webp",
       "images": [
@@ -26601,17 +27478,17 @@
       "availability": "unknown",
       "slug": "south-korea-2026-away-jersey",
       "siteCategory": "national",
-      "team": "Other",
-      "league": "Other leagues",
-      "country": "International",
+      "team": "South Korea",
+      "league": "National teams",
+      "country": "South Korea",
       "season": "2026",
       "type": "Shirt",
       "variant": "Fan version",
       "sourceCategories": [
-        "2026 FIFA World Cup"
+        "⚽🌍 National Teams"
       ],
       "sourceTitle": "South Korea 2026 Away Jersey S-4XL",
-      "updatedAt": "2026-10-10T23:47:28.488Z"
+      "updatedAt": "2026-10-11T02:46:19.058Z"
     },
     {
       "id": "yupoo-235529289",
@@ -26657,7 +27534,7 @@
     {
       "id": "yupoo-229933324",
       "name": "South Korea 2026 Away Player Version Jersey",
-      "category": "2026 FIFA World Cup",
+      "category": "⚽🌍 National Teams",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/229933324?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/south-korea-2026-away-player-version-jersey/cover.webp",
       "images": [
@@ -26681,22 +27558,22 @@
       "availability": "unknown",
       "slug": "south-korea-2026-away-player-version-jersey",
       "siteCategory": "national",
-      "team": "Other",
-      "league": "Other leagues",
-      "country": "International",
+      "team": "South Korea",
+      "league": "National teams",
+      "country": "South Korea",
       "season": "2026",
       "type": "Shirt",
       "variant": "Player version",
       "sourceCategories": [
-        "2026 FIFA World Cup"
+        "⚽🌍 National Teams"
       ],
       "sourceTitle": "South Korea 2026 Away Player Version Jersey S-XXL",
-      "updatedAt": "2026-10-10T23:47:38.069Z"
+      "updatedAt": "2026-10-11T02:59:12.906Z"
     },
     {
       "id": "yupoo-234834703",
       "name": "South Korea 2026 Home Jersey",
-      "category": "2026 FIFA World Cup",
+      "category": "⚽🌍 National Teams",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/234834703?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/south-korea-2026-home-jersey/cover.webp",
       "images": [
@@ -26719,17 +27596,17 @@
       "availability": "unknown",
       "slug": "south-korea-2026-home-jersey",
       "siteCategory": "national",
-      "team": "Other",
-      "league": "Other leagues",
-      "country": "International",
+      "team": "South Korea",
+      "league": "National teams",
+      "country": "South Korea",
       "season": "2026",
       "type": "Shirt",
       "variant": "Fan version",
       "sourceCategories": [
-        "2026 FIFA World Cup"
+        "⚽🌍 National Teams"
       ],
       "sourceTitle": "South Korea 2026 Home Jersey S-4XL",
-      "updatedAt": "2026-10-10T23:47:08.337Z"
+      "updatedAt": "2026-10-11T02:46:10.457Z"
     },
     {
       "id": "yupoo-235527724",
@@ -26945,6 +27822,45 @@
       ],
       "sourceTitle": "Spain 06/07 Windbreaker - Red S-XXL",
       "updatedAt": "2026-10-11T01:16:27.061Z"
+    },
+    {
+      "id": "yupoo-232205667",
+      "name": "Spain 1996 Away Retro Long Sleeve Jersey",
+      "category": "⚽🌍 National Teams",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/232205667?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/spain-1996-away-retro-long-sleeve-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/spain-1996-away-retro-long-sleeve-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/spain-1996-away-retro-long-sleeve-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/spain-1996-away-retro-long-sleeve-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/spain-1996-away-retro-long-sleeve-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/spain-1996-away-retro-long-sleeve-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/spain-1996-away-retro-long-sleeve-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/spain-1996-away-retro-long-sleeve-jersey/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/spain-1996-away-retro-long-sleeve-jersey/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "spain-1996-away-retro-long-sleeve-jersey",
+      "siteCategory": "retro",
+      "team": "Spain",
+      "league": "National teams",
+      "country": "Spain",
+      "season": "1996",
+      "type": "Shirt",
+      "variant": "Long sleeve",
+      "sourceCategories": [
+        "⚽🌍 National Teams"
+      ],
+      "sourceTitle": "Spain 1996 Away Retro Long Sleeve Jersey S-XXL",
+      "updatedAt": "2026-10-11T02:50:55.845Z"
     },
     {
       "id": "yupoo-245838462",
@@ -27674,7 +28590,7 @@
     {
       "id": "yupoo-231476896",
       "name": "Spain 2026 Away Jersey",
-      "category": "2026 FIFA World Cup",
+      "category": "⚽🌍 National Teams",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/231476896?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/spain-2026-away-jersey/cover.webp",
       "images": [
@@ -27707,15 +28623,15 @@
       "type": "Shirt",
       "variant": "Fan version",
       "sourceCategories": [
-        "2026 FIFA World Cup"
+        "⚽🌍 National Teams"
       ],
       "sourceTitle": "Spain 2026 Away Jersey S-4XL",
-      "updatedAt": "2026-10-10T22:49:36.544Z"
+      "updatedAt": "2026-10-11T02:55:02.016Z"
     },
     {
       "id": "yupoo-234793692",
       "name": "Spain 2026 Away Kids Kit Jersey",
-      "category": "2026 FIFA World Cup",
+      "category": "⚽🌍 National Teams",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/234793692?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/spain-2026-away-kids-kit-jersey/cover.webp",
       "images": [
@@ -27751,15 +28667,15 @@
       "type": "Shirt",
       "variant": "Kids",
       "sourceCategories": [
-        "2026 FIFA World Cup"
+        "⚽🌍 National Teams"
       ],
       "sourceTitle": "Spain 2026 Away Kids Kit Jersey Size 16-28",
-      "updatedAt": "2026-10-10T22:48:57.440Z"
+      "updatedAt": "2026-10-11T02:46:38.485Z"
     },
     {
       "id": "yupoo-233498495",
       "name": "Spain 2026 Away Long Sleeve Jersey",
-      "category": "2026 FIFA World Cup",
+      "category": "⚽🌍 National Teams",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/233498495?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/spain-2026-away-long-sleeve-jersey/cover.webp",
       "images": [
@@ -27792,10 +28708,10 @@
       "type": "Shirt",
       "variant": "Long sleeve",
       "sourceCategories": [
-        "2026 FIFA World Cup"
+        "⚽🌍 National Teams"
       ],
       "sourceTitle": "Spain 2026 Away Long Sleeve Jersey S-3XL",
-      "updatedAt": "2026-10-10T22:49:46.892Z"
+      "updatedAt": "2026-10-11T02:49:37.906Z"
     },
     {
       "id": "yupoo-256216272",
@@ -27833,7 +28749,7 @@
     {
       "id": "yupoo-231421137",
       "name": "Spain 2026 Away Player Version Jersey",
-      "category": "2026 FIFA World Cup",
+      "category": "⚽🌍 National Teams",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/231421137?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/spain-2026-away-player-version-jersey/cover.webp",
       "images": [
@@ -27869,15 +28785,15 @@
       "type": "Shirt",
       "variant": "Player version",
       "sourceCategories": [
-        "2026 FIFA World Cup"
+        "⚽🌍 National Teams"
       ],
       "sourceTitle": "Spain 2026 Away Player Version Jersey S-4XL",
-      "updatedAt": "2026-10-10T22:49:57.168Z"
+      "updatedAt": "2026-10-11T02:56:51.375Z"
     },
     {
       "id": "yupoo-234793843",
       "name": "Spain 2026 Away Player Version Long Sleeve Jersey",
-      "category": "2026 FIFA World Cup",
+      "category": "⚽🌍 National Teams",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/234793843?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/spain-2026-away-player-version-long-sleeve-jersey/cover.webp",
       "images": [
@@ -27910,15 +28826,15 @@
       "type": "Shirt",
       "variant": "Long sleeve",
       "sourceCategories": [
-        "2026 FIFA World Cup"
+        "⚽🌍 National Teams"
       ],
       "sourceTitle": "Spain 2026 Away Player Version Long Sleeve Jersey S-4XL",
-      "updatedAt": "2026-10-10T22:50:06.929Z"
+      "updatedAt": "2026-10-11T02:46:28.085Z"
     },
     {
       "id": "yupoo-231426214",
       "name": "Spain 2026 Away Shorts",
-      "category": "2026 FIFA World Cup",
+      "category": "⚽🌍 National Teams",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/231426214?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/spain-2026-away-shorts/cover.webp",
       "images": [
@@ -27948,15 +28864,15 @@
       "type": "Shorts",
       "variant": "Fan version",
       "sourceCategories": [
-        "2026 FIFA World Cup"
+        "⚽🌍 National Teams"
       ],
       "sourceTitle": "Spain 2026 Away Shorts S-XXL",
-      "updatedAt": "2026-10-10T22:48:41.473Z"
+      "updatedAt": "2026-10-11T02:55:44.876Z"
     },
     {
       "id": "yupoo-232206457",
       "name": "Spain 2026 Away Women's Jersey",
-      "category": "2026 FIFA World Cup",
+      "category": "⚽🌍 National Teams",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/232206457?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/spain-2026-away-women-s-jersey/cover.webp",
       "images": [
@@ -27989,10 +28905,10 @@
       "type": "Shirt",
       "variant": "Women's",
       "sourceCategories": [
-        "2026 FIFA World Cup"
+        "⚽🌍 National Teams"
       ],
       "sourceTitle": "Spain 2026 Away Women's Jersey S-XXL",
-      "updatedAt": "2026-10-10T22:49:16.485Z"
+      "updatedAt": "2026-10-11T02:50:41.734Z"
     },
     {
       "id": "yupoo-252315472",
@@ -31150,7 +32066,7 @@
     {
       "id": "yupoo-234182687",
       "name": "Turkey 2026 Away Kids Kit Jersey",
-      "category": "2026 FIFA World Cup",
+      "category": "⚽🌍 National Teams",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/234182687?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/turkey-2026-away-kids-kit-jersey/cover.webp",
       "images": [
@@ -31176,22 +32092,22 @@
       "availability": "unknown",
       "slug": "turkey-2026-away-kids-kit-jersey",
       "siteCategory": "national",
-      "team": "Other",
-      "league": "Other leagues",
-      "country": "International",
+      "team": "Turkey",
+      "league": "National teams",
+      "country": "Turkey",
       "season": "2026",
       "type": "Shirt",
       "variant": "Kids",
       "sourceCategories": [
-        "2026 FIFA World Cup"
+        "⚽🌍 National Teams"
       ],
       "sourceTitle": "Turkey 2026 Away Kids Kit Jersey Size 16-28",
-      "updatedAt": "2026-10-10T23:49:54.273Z"
+      "updatedAt": "2026-10-11T02:46:57.069Z"
     },
     {
       "id": "yupoo-234182765",
       "name": "Turkey 2026 Home Kids Kit Jersey",
-      "category": "2026 FIFA World Cup",
+      "category": "⚽🌍 National Teams",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/234182765?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/turkey-2026-home-kids-kit-jersey/cover.webp",
       "images": [
@@ -31217,17 +32133,17 @@
       "availability": "unknown",
       "slug": "turkey-2026-home-kids-kit-jersey",
       "siteCategory": "national",
-      "team": "Other",
-      "league": "Other leagues",
-      "country": "International",
+      "team": "Turkey",
+      "league": "National teams",
+      "country": "Turkey",
       "season": "2026",
       "type": "Shirt",
       "variant": "Kids",
       "sourceCategories": [
-        "2026 FIFA World Cup"
+        "⚽🌍 National Teams"
       ],
       "sourceTitle": "Turkey 2026 Home Kids Kit Jersey Size 16-28",
-      "updatedAt": "2026-10-10T23:50:14.394Z"
+      "updatedAt": "2026-10-11T02:46:47.482Z"
     },
     {
       "id": "yupoo-236329000",
@@ -32367,7 +33283,7 @@
     {
       "id": "yupoo-231426260",
       "name": "USA 2026 Home Jersey",
-      "category": "2026 FIFA World Cup",
+      "category": "⚽🌍 National Teams",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/231426260?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/usa-2026-home-jersey/cover.webp",
       "images": [
@@ -32397,10 +33313,10 @@
       "type": "Shirt",
       "variant": "Fan version",
       "sourceCategories": [
-        "2026 FIFA World Cup"
+        "⚽🌍 National Teams"
       ],
       "sourceTitle": "USA 2026 Home Jersey S-4XL",
-      "updatedAt": "2026-10-10T23:44:27.649Z"
+      "updatedAt": "2026-10-11T02:55:36.897Z"
     },
     {
       "id": "yupoo-235531228",
@@ -32831,7 +33747,7 @@
     {
       "id": "yupoo-230749524",
       "name": "Venezuela 2026 Away Jersey",
-      "category": "2026 FIFA World Cup",
+      "category": "⚽🌍 National Teams",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/230749524?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/venezuela-2026-away-jersey/cover.webp",
       "images": [
@@ -32855,17 +33771,17 @@
       "availability": "unknown",
       "slug": "venezuela-2026-away-jersey",
       "siteCategory": "national",
-      "team": "Other",
-      "league": "Other leagues",
-      "country": "International",
+      "team": "Venezuela",
+      "league": "National teams",
+      "country": "Venezuela",
       "season": "2026",
       "type": "Shirt",
       "variant": "Fan version",
       "sourceCategories": [
-        "2026 FIFA World Cup"
+        "⚽🌍 National Teams"
       ],
       "sourceTitle": "Venezuela 2026 Away Jersey S-XXL",
-      "updatedAt": "2026-10-10T23:45:54.013Z"
+      "updatedAt": "2026-10-11T02:59:01.437Z"
     },
     {
       "id": "yupoo-238464194",
