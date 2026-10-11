@@ -167,10 +167,15 @@ export class YupooClient {
   async download(imageUrl, referer) {
     return withRetry(async () => {
       const res = await this.context.request.get(imageUrl, { headers: { Referer: referer }, timeout: this.req.timeoutMs });
-      if (!res.ok()) throw new Error(`HTTP ${res.status()}`);
-      const type = res.headers()['content-type'] || '';
-      if (type && !type.startsWith('image/')) throw new Error(`Not an image (${type})`);
-      return await res.body();
+      // Playwright keeps every response body in memory until dispose(); without it a long run grows until it is OOM-killed.
+      try {
+        if (!res.ok()) throw new Error(`HTTP ${res.status()}`);
+        const type = res.headers()['content-type'] || '';
+        if (type && !type.startsWith('image/')) throw new Error(`Not an image (${type})`);
+        return await res.body();
+      } finally {
+        await res.dispose().catch(() => {});
+      }
     }, { retries: this.req.retries, delayMs: this.req.delayMs, label: `Image ${imageUrl}` });
   }
 }

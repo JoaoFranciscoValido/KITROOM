@@ -77,6 +77,8 @@ const tmp = await mkdtemp(path.join(os.tmpdir(), 'kitroom-import-'));
 const config = JSON.parse(await readFile(path.join(HERE, '..', 'config.json'), 'utf8'));
 config.source.baseUrl = base;
 config.output.dir = path.join(tmp, 'public');
+// Always local files: config.json may point at the real R2/S3 bucket, and the test's albums would overwrite real photos.
+config.storage = { driver: 'local', local: { publicBase: '/' } };
 config.requests.delayMs = 0;
 config.requests.retries = 2;
 await writeFile(path.join(tmp, 'config.json'), JSON.stringify(config));
