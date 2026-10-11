@@ -30,7 +30,7 @@ PHOTOS.chart = await sharp(Buffer.from(`<svg xmlns="http://www.w3.org/2000/svg" 
 const store = {
   categories: [{ id: '10', name: '⚽🌍 National Teams' }, { id: '11', name: 'Retro football shirt' }],
   albums: {
-    '1001': { title: 'Portugal 2026 Home Jersey S-4XL', cats: ['10'], photos: ['chart', 'a1', 'a2', 'a2dup', 'a3'] },
+    '1001': { title: 'Portugal 2026 Home Jersey S-4XL', cats: ['10'], photos: ['chart', 'a1', 'a2', 'a2dup', 'a3'], cover: 'a3' },
     '1002': { title: 'Barcelona 80/81 Home Retro Jersey S-XXL', cats: ['11'], photos: ['b1'] },
     '1003': { title: 'Secret Album', cats: ['11'], photos: ['c1'], password: true },
     '1004': { title: 'Benfica 26/27 Third Kids kit Size 16-28', cats: [], photos: ['d1'] },
@@ -41,7 +41,8 @@ const PER_PAGE = 2;
 
 const page = (body, title = 'Store') => `<!doctype html><html><head><title>${title}</title></head><body>
 <nav>${store.categories.map(c => `<a href="/categories/${c.id}?isSubCate=false" title="${c.name}">${c.name}</a>`).join(' ')}</nav>${body}</body></html>`;
-const albumList = ids => `<div class="album__list">${ids.map(id => `<a class="album__main" href="/albums/${id}?uid=1" title="${store.albums[id].title}"><div class="album__title">${store.albums[id].title}</div></a>`).join('')}</div>`;
+// Like Yupoo: each album link shows the cover the supplier picked (store.albums[id].cover, else the first photo).
+const albumList = ids => `<div class="album__list">${ids.map(id => { const a = store.albums[id]; return `<a class="album__main" href="/albums/${id}?uid=1" title="${a.title}"><img class="album__img" src="/photo/${a.cover || a.photos[0]}/medium.jpg"><div class="album__title">${a.title}</div></a>`; }).join('')}</div>`;
 
 const server = http.createServer((req, res) => {
   const u = new URL(req.url, 'http://x');
@@ -59,9 +60,9 @@ const server = http.createServer((req, res) => {
     if (a.password) return send(200, page('<div class="showalbum__password"><input type="password"></div>'));
     const photos = n === 1 ? a.photos : [];
     // Like Yupoo: the <h1> holds the title and the photo count.
-    return send(200, page(`<h1><span class="showalbumheader__gallerytitle" data-name="${a.title}">${a.title}</span><span><i class="showalbumheader__separator"></i>${a.photos.length}</span></h1><div class="showalbum__children">${photos.map(p => `<div class="image__imagewrap"><img src="data:image/gif;base64,R0lGODlhAQABAAAAACw=" data-origin-src="//${req.headers.host}/photo/${p}.jpg"></div>`).join('')}</div>`));
+    return send(200, page(`<h1><span class="showalbumheader__gallerytitle" data-name="${a.title}">${a.title}</span><span><i class="showalbumheader__separator"></i>${a.photos.length}</span></h1><div class="showalbum__children">${photos.map(p => `<div class="image__imagewrap"><img src="data:image/gif;base64,R0lGODlhAQABAAAAACw=" data-origin-src="//${req.headers.host}/photo/${p}/big.jpg"></div>`).join('')}</div>`));
   }
-  if ((m = u.pathname.match(/^\/photo\/(\w+)\.jpg$/))) {
+  if ((m = u.pathname.match(/^\/photo\/(\w+)\/big\.jpg$/))) {
     // Like Yupoo: refuse requests without a Referer from the store (hotlink protection).
     if (!(req.headers.referer || '').includes(req.headers.host)) return send(403, 'hotlink', 'text/plain');
     downloads++;
@@ -112,10 +113,13 @@ try {
   assert.ok(!JSON.stringify(cat).includes('/photo/'), 'no source image URLs in catalog.json');
   const files = await readdir(path.join(tmp, 'public', 'catalog', 'portugal-2026-home-jersey'));
   assert.deepEqual(files.sort(), ['cover.webp', 'image-01.webp', 'image-02.webp', 'image-03.webp', 'image-04.webp']);
-  // The size chart (first in the album) moves to the end; cover and first photo are the red shirt.
-  const red = async f => (await sharp(path.join(tmp, 'public', 'catalog', 'portugal-2026-home-jersey', f)).stats()).channels.map(c => Math.round(c.mean));
-  for (const f of ['cover.webp', 'image-01.webp']) { const [r, g, b] = await red(f); assert.ok(r > 150 && g < 80 && b < 80, `${f} is the first product photo, not the size chart`); }
-  const [cr, cg, cb] = await red('image-04.webp');
+  // The supplier's album cover (green, last in the album) comes first; the size chart (first in the album) moves to the end.
+  const rgb = async f => (await sharp(path.join(tmp, 'public', 'catalog', 'portugal-2026-home-jersey', f)).stats()).channels.map(c => Math.round(c.mean));
+  const isGreen = ([r, g, b]) => g > 120 && r < 80 && b < 120;
+  const isRed = ([r, g, b]) => r > 150 && g < 80 && b < 80;
+  for (const f of ['cover.webp', 'image-01.webp']) assert.ok(isGreen(await rgb(f)), `${f} is the supplier's album cover`);
+  assert.ok(isRed(await rgb('image-02.webp')), 'then the album order');
+  const [cr, cg, cb] = await rgb('image-04.webp');
   assert.ok(cr > 200 && cg > 200 && cb > 200, 'size chart is last');
   const meta = await sharp(path.join(tmp, 'public', 'catalog', 'portugal-2026-home-jersey', 'image-01.webp')).metadata();
   assert.equal(meta.format, 'webp');
@@ -132,6 +136,14 @@ try {
   rep = await lastReport();
   assert.equal(downloads, firstDownloads, 'no re-downloads on an unchanged store');
   assert.equal(rep.totals.unchanged, 3);
+
+  // Run 2b: the supplier picks another cover -> photos reordered and cover remade, without downloading anything
+  store.albums['1001'].cover = 'a1';
+  await importer();
+  assert.equal(downloads, firstDownloads, 'reordering reuses the stored photos');
+  for (const f of ['cover.webp', 'image-01.webp']) assert.ok(isRed(await rgb(f)), `${f} follows the new album cover`);
+  assert.ok(isGreen(await rgb('image-03.webp')), 'previous cover back in its album position');
+  assert.equal((await readdir(path.join(tmp, 'public', 'catalog', 'portugal-2026-home-jersey'))).length, 5, 'no leftover files');
 
   // Run 3: a new photo in one album, one album removed from the store
   store.albums['1002'].photos.push('new1');

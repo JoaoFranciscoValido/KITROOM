@@ -1,4 +1,4 @@
-import { mkdir, readdir, rm, stat, writeFile } from 'node:fs/promises';
+import { mkdir, readFile, readdir, rm, stat, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 
 /**
@@ -6,7 +6,8 @@ import path from 'node:path';
  *   put(key, buffer, contentType) -> public URL
  *   exists(key) -> boolean
  *   url(key) -> public URL
- *   removePrefix(prefix) -> void   (optional cleanup)
+ *   list(prefix) -> keys, remove(key)  (optional cleanup)
+ *   get(key) -> Buffer             (optional; lets a re-import reorder stored photos without downloading them again)
  * A Cloudinary / Supabase / S3 driver only has to implement these; the catalogue keeps whatever URL put() returns.
  */
 export function createLocalStorage({ rootDir, publicBase = '/' }) {
@@ -26,6 +27,9 @@ export function createLocalStorage({ rootDir, publicBase = '/' }) {
     },
     async list(prefix) {
       try { return (await readdir(abs(prefix))).map(f => prefix.replace(/\/?$/, '/') + f); } catch { return []; }
+    },
+    async get(key) {
+      return readFile(abs(key));
     },
     async remove(key) {
       await rm(abs(key), { force: true });

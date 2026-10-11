@@ -20,6 +20,14 @@ export async function withRetry(fn, { retries = 3, delayMs = 1000, label = '' } 
 
 const albumIdOf = href => (href.match(/\/albums\/(\d+)/) || [])[1] || null;
 const categoryIdOf = href => (href.match(/\/categories\/(\d+)/) || [])[1] || null;
+/**
+ * Yupoo photo id: the folder holding a photo's sizes, e.g. 05b75aba in https://photo.yupoo.com/minkang/05b75aba/medium.jpg.
+ * The album's cover thumbnail and the full-size photo share it.
+ */
+export const photoIdOf = url => {
+  const parts = String(url || '').split(/[?#]/)[0].split('/').filter(Boolean);
+  return parts.length >= 3 ? parts[parts.length - 2] : null;
+};
 
 export function withPage(url, n) {
   const u = new URL(url);
@@ -86,13 +94,15 @@ export class YupooClient {
         as.map(a => ({
           href: a.href,
           title: (a.getAttribute('title') || a.querySelector('.album__title')?.textContent || a.textContent || '').replace(/\s+/g, ' ').trim(),
+          cover: a.querySelector('img')?.getAttribute('src') || '',
         })));
       let added = 0;
       for (const l of links) {
         const id = albumIdOf(l.href);
         if (!id || found.has(id) || !l.title) continue;
         const u = new URL(l.href);
-        found.set(id, { albumId: id, title: l.title, url: `${u.origin}${u.pathname}${u.searchParams.get('uid') ? '?uid=' + u.searchParams.get('uid') : ''}` });
+        // coverId: the photo the supplier picked as the album's cover (usually the whole shirt), shown first on the site.
+        found.set(id, { albumId: id, title: l.title, url: `${u.origin}${u.pathname}${u.searchParams.get('uid') ? '?uid=' + u.searchParams.get('uid') : ''}`, coverId: photoIdOf(l.cover) });
         added++;
       }
       if (!added) break;

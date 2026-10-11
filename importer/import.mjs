@@ -9,7 +9,7 @@ import { applyOverrides, assignSlug, buildItem } from './lib/catalog.mjs';
 import { isSizeChart, sha1, toWebp } from './lib/images.mjs';
 import { createReport, writeReport } from './lib/report.mjs';
 import { createStorage } from './lib/storage/index.mjs';
-import { YupooClient } from './lib/yupoo.mjs';
+import { photoIdOf, YupooClient } from './lib/yupoo.mjs';
 
 const HERE = path.dirname(fileURLToPath(import.meta.url));
 
@@ -159,7 +159,7 @@ async function main() {
           log(`${tag}: skipped (no photos)`);
           continue;
         }
-        const album = { id, title: detail.title || a.title, url: a.url, category: a.categories[0] || '', categories: a.categories };
+        const album = { id, title: detail.title || a.title, url: a.url, category: a.categories[0] || '', categories: a.categories, coverId: a.coverId };
         taken.delete(prev?.slug);
         const slug = assignSlug(a.albumId, album.title, taken, prev?.slug);
 
@@ -247,27 +247,47 @@ async function importImages({ client, storage, config, prefix, slug, album, imag
     }
   });
 
-  // Size charts go after the product photos, so neither the cover nor the first gallery photo is a table.
-  const ordered = [...fetched.filter(f => f && !f.chart), ...fetched.filter(f => f?.chart)];
+  // Order: the supplier's album cover first (usually the whole shirt), then the other product photos, then size charts,
+  // so neither the site's cover nor the first gallery photo is a close-up or a table.
+  const isAlbumCover = f => !!album.coverId && photoIdOf(f.src) === album.coverId;
+  const live = fetched.filter(Boolean);
+  const ordered = [
+    ...live.filter(f => !f.chart && isAlbumCover(f)),
+    ...live.filter(f => !f.chart && !isAlbumCover(f)),
+    ...live.filter(f => f.chart),
+  ];
+
+  // Positions: identical photos are stored once.
   const seen = new Set();
-  const entries = [];
-  const images = [];
+  const slots = [];
   let duplicates = 0;
-  let coverSource = null;
   for (const f of ordered) {
     if (seen.has(f.hash)) { duplicates++; continue; }
     seen.add(f.hash);
-    const key = `${prefix}/${slug}/image-${pad(entries.length + 1)}.webp`;
+    slots.push({ f, key: `${prefix}/${slug}/image-${pad(slots.length + 1)}.webp` });
+  }
+  // A stored photo that moves to another position is read before anything is overwritten, so it is not downloaded again.
+  if (storage.get) {
+    for (const s of slots) if (s.f.reuseKey && s.f.reuseKey !== s.key) s.stored = await storage.get(s.f.reuseKey).catch(() => null);
+  }
+
+  const entries = [];
+  const images = [];
+  let coverSource = null;
+  for (const { f, key, stored } of slots) {
     try {
+      let original = null;
       if (f.reuseKey === key) {
         images.push(storage.url(key));
+      } else if (stored) {
+        images.push(await storage.put(key, stored, 'image/webp'));
       } else {
-        // New photo, or its position changed: (re)encode from the original.
-        const buf = f.buf || (downloaded++, await client.download(f.src, album.url));
-        const webp = await toWebp(buf, { maxWidth: config.images.maxWidth, quality: config.images.quality });
+        // New photo, or a moved one the storage cannot read back: encode from the original.
+        original = f.buf || (downloaded++, await client.download(f.src, album.url));
+        const webp = await toWebp(original, { maxWidth: config.images.maxWidth, quality: config.images.quality });
         images.push(await storage.put(key, webp, 'image/webp'));
-        if (entries.length === 0) coverSource = buf;
       }
+      if (entries.length === 0) coverSource = original || stored || null;
       entries.push({ src: f.src, hash: f.hash, key, ...(f.chart ? { chart: true } : {}) });
     } catch (e) {
       seen.delete(f.hash);
@@ -275,14 +295,16 @@ async function importImages({ client, storage, config, prefix, slug, album, imag
     }
   }
 
-  // Cover: a smaller copy of the first photo (a product photo whenever the album has one), regenerated when the first photo changed or the cover is missing.
+  // Cover: a smaller copy of the first photo, regenerated when the first photo changed or the cover is missing.
   const coverKey = `${prefix}/${slug}/cover.webp`;
   let cover = storage.url(coverKey);
   if (entries.length) {
     const firstChanged = prevEntries[0]?.hash !== entries[0].hash;
     if (coverSource || firstChanged || !(await storage.exists(coverKey))) {
       try {
-        const src = coverSource || (downloaded++, await client.download(entries[0].src, album.url));
+        const src = coverSource
+          || (storage.get && (await storage.get(entries[0].key).catch(() => null)))
+          || (downloaded++, await client.download(entries[0].src, album.url));
         cover = await storage.put(coverKey, await toWebp(src, { maxWidth: config.images.coverWidth, quality: config.images.quality }), 'image/webp');
       } catch (e) {
         errors.push({ url: entries[0].src, message: `Cover: ${e.message}` });

@@ -38,7 +38,7 @@ npm test                                # offline end-to-end test against a loca
    With `--limit N` it stops listing as soon as it knows N albums, so a trial run takes a minute or two instead of crawling the whole store; those albums only carry the categories seen so far, and the next full run fills in the rest.
 2. Opens each album, scrolls to load every photo and reads the full-size photo URLs. Password-protected albums and albums without photos are skipped and listed in the report.
 3. Downloads each photo with the album page as Referer, hashes it (SHA-1) and stores identical photos only once per album.
-4. Converts to WebP (max 1200 px wide; cover 640 px) and saves through the storage driver. Size charts (a table on a white page) are moved to the end of the gallery, so the cover and the first photo are always a product photo when the album has one.
+4. Converts to WebP (max 1200 px wide; cover 640 px) and saves through the storage driver. Photos are ordered with the supplier's album cover first (the photo Yupoo shows on the album list, usually the whole shirt), then the rest in album order, then size charts (a table on a white page), so the site's cover and first photo are a product photo. If the supplier changes an album's cover, the next import reorders the stored photos without downloading them again.
 5. Builds one catalogue item per album and writes `catalog.json` atomically.
 
 Each item has the requested fields, plus the fields the website uses for its filters:
