@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-11T22:42:10.336Z",
+  "generatedAt": "2026-10-11T23:43:52.899Z",
   "source": {
     "name": "Supplier catalogue",
     "url": "https://minkang.x.yupoo.com/albums"
   },
-  "count": 3404,
+  "count": 3504,
   "items": [
     {
       "id": "yupoo-64039421",
@@ -86062,6 +86062,47 @@
       "updatedAt": "2026-10-11T20:06:37.244Z"
     },
     {
+      "id": "yupoo-86826729",
+      "name": "Retro 03/05 Chelsea away",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/86826729?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-03-05-chelsea-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-03-05-chelsea-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-03-05-chelsea-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-03-05-chelsea-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-03-05-chelsea-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-03-05-chelsea-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-03-05-chelsea-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-03-05-chelsea-away/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-03-05-chelsea-away",
+      "siteCategory": "retro",
+      "team": "Chelsea",
+      "league": "Premier League",
+      "country": "England",
+      "season": "",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Premier League",
+        "Chelsea"
+      ],
+      "sourceTitle": "Retro 03/05 Chelsea away S-XXL",
+      "updatedAt": "2026-10-11T23:43:52.897Z"
+    },
+    {
       "id": "yupoo-110373318",
       "name": "Retro 04/05 Atletico Madrid away",
       "category": "Retro football shirt",
@@ -86395,6 +86436,48 @@
       "updatedAt": "2026-10-11T16:47:25.514Z"
     },
     {
+      "id": "yupoo-91450156",
+      "name": "Retro 08/09 Inter Milan home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/91450156?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-08-09-inter-milan-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-08-09-inter-milan-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-08-09-inter-milan-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-08-09-inter-milan-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-08-09-inter-milan-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-08-09-inter-milan-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-08-09-inter-milan-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-08-09-inter-milan-home/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-08-09-inter-milan-home/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-08-09-inter-milan-home",
+      "siteCategory": "retro",
+      "team": "Inter",
+      "league": "Serie A",
+      "country": "Italy",
+      "season": "2008/09",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Serie A",
+        "Inter Milan"
+      ],
+      "sourceTitle": "Retro 08/09 Inter Milan home S-XXL",
+      "updatedAt": "2026-10-11T23:35:38.733Z"
+    },
+    {
       "id": "yupoo-115645341",
       "name": "Retro 08/09 Manchester City home",
       "category": "Retro football shirt",
@@ -86474,6 +86557,48 @@
       ],
       "sourceTitle": "Retro 09/10 Corinthians away S-XXL",
       "updatedAt": "2026-10-11T13:25:18.001Z"
+    },
+    {
+      "id": "yupoo-92537820",
+      "name": "Retro 09/10 Manchester United home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/92537820?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-09-10-manchester-united-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-09-10-manchester-united-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-09-10-manchester-united-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-09-10-manchester-united-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-09-10-manchester-united-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-09-10-manchester-united-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-09-10-manchester-united-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-09-10-manchester-united-home/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-09-10-manchester-united-home/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-09-10-manchester-united-home",
+      "siteCategory": "retro",
+      "team": "Manchester United",
+      "league": "Premier League",
+      "country": "England",
+      "season": "2009/10",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Premier League",
+        "M-U"
+      ],
+      "sourceTitle": "Retro 09/10 M-U home S-XXL",
+      "updatedAt": "2026-10-11T23:33:08.992Z"
     },
     {
       "id": "yupoo-212923017",
@@ -87499,6 +87624,45 @@
       ],
       "sourceTitle": "Retro 1988 Holland Home Retro",
       "updatedAt": "2026-10-11T04:55:14.019Z"
+    },
+    {
+      "id": "yupoo-92085149",
+      "name": "Retro 1988 Holland Home Retro(811)",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/92085149?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-1988-holland-home-retro-811/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-1988-holland-home-retro-811/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-1988-holland-home-retro-811/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-1988-holland-home-retro-811/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-1988-holland-home-retro-811/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-1988-holland-home-retro-811/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-1988-holland-home-retro-811/image-06.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-1988-holland-home-retro-811",
+      "siteCategory": "retro",
+      "team": "Netherlands",
+      "league": "National teams",
+      "country": "Netherlands",
+      "season": "1988",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "EREDIVISIE"
+      ],
+      "sourceTitle": "Retro 1988 Holland Home Retro S-XXL (811)",
+      "updatedAt": "2026-10-11T23:33:50.183Z"
     },
     {
       "id": "yupoo-110373305",
@@ -88539,6 +88703,50 @@
       ],
       "sourceTitle": "Retro 2000 Romania Home S-XXL",
       "updatedAt": "2026-10-11T17:12:56.639Z"
+    },
+    {
+      "id": "yupoo-89952377",
+      "name": "Retro 2001 Argentina Maradona #10 Commemorative Edition",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/89952377?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-2001-argentina-maradona-10-commemorative-edition/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-2001-argentina-maradona-10-commemorative-edition/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-2001-argentina-maradona-10-commemorative-edition/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-2001-argentina-maradona-10-commemorative-edition/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-2001-argentina-maradona-10-commemorative-edition/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-2001-argentina-maradona-10-commemorative-edition/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-2001-argentina-maradona-10-commemorative-edition/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-2001-argentina-maradona-10-commemorative-edition/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-2001-argentina-maradona-10-commemorative-edition/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-2001-argentina-maradona-10-commemorative-edition/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-2001-argentina-maradona-10-commemorative-edition/image-10.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-2001-argentina-maradona-10-commemorative-edition/image-11.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-2001-argentina-maradona-10-commemorative-edition",
+      "siteCategory": "retro",
+      "team": "Argentina",
+      "league": "National teams",
+      "country": "Argentina",
+      "season": "2001",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "Liga Profesional",
+        "new season"
+      ],
+      "sourceTitle": "Retro 2001 Argentina Maradona #10 Commemorative Edition S-XXL",
+      "updatedAt": "2026-10-11T23:39:28.313Z"
     },
     {
       "id": "yupoo-83449108",
@@ -89704,6 +89912,86 @@
       "updatedAt": "2026-10-11T17:17:46.000Z"
     },
     {
+      "id": "yupoo-91947412",
+      "name": "Retro 83/86 Arsenal away",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/91947412?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-83-86-arsenal-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-83-86-arsenal-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-83-86-arsenal-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-83-86-arsenal-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-83-86-arsenal-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-83-86-arsenal-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-83-86-arsenal-away/image-06.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-83-86-arsenal-away",
+      "siteCategory": "retro",
+      "team": "Arsenal",
+      "league": "Premier League",
+      "country": "England",
+      "season": "",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Premier League",
+        "Arsenal"
+      ],
+      "sourceTitle": "Retro 83/86 Arsenal away S-XXL",
+      "updatedAt": "2026-10-11T23:34:30.587Z"
+    },
+    {
+      "id": "yupoo-91946995",
+      "name": "Retro 84/86 Celtic home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/91946995?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-84-86-celtic-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-84-86-celtic-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-84-86-celtic-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-84-86-celtic-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-84-86-celtic-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-84-86-celtic-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-84-86-celtic-home/image-06.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-84-86-celtic-home",
+      "siteCategory": "retro",
+      "team": "Celtic",
+      "league": "Other leagues",
+      "country": "Scotland",
+      "season": "",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "Scottish League",
+        "Celtic F.C.",
+        "new season"
+      ],
+      "sourceTitle": "Retro 84/86 Celtic home S-XXL",
+      "updatedAt": "2026-10-11T23:35:25.038Z"
+    },
+    {
       "id": "yupoo-98680301",
       "name": "Retro 84/87 England home",
       "category": "Retro football shirt",
@@ -89824,6 +90112,47 @@
       ],
       "sourceTitle": "Retro 88/90 France home S-XXL",
       "updatedAt": "2026-10-11T19:40:36.005Z"
+    },
+    {
+      "id": "yupoo-89660952",
+      "name": "Retro 90/92 Arsenal home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/89660952?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-90-92-arsenal-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-90-92-arsenal-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-90-92-arsenal-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-90-92-arsenal-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-90-92-arsenal-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-90-92-arsenal-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-90-92-arsenal-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-90-92-arsenal-home/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-90-92-arsenal-home",
+      "siteCategory": "retro",
+      "team": "Arsenal",
+      "league": "Premier League",
+      "country": "England",
+      "season": "",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Premier League",
+        "Arsenal"
+      ],
+      "sourceTitle": "Retro 90/92 Arsenal home S-XXL",
+      "updatedAt": "2026-10-11T23:41:05.673Z"
     },
     {
       "id": "yupoo-81521087",
@@ -90195,6 +90524,48 @@
       "updatedAt": "2026-10-11T20:11:23.540Z"
     },
     {
+      "id": "yupoo-91947696",
+      "name": "Retro 95/96 Arsenal away",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/91947696?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-95-96-arsenal-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-95-96-arsenal-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-95-96-arsenal-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-95-96-arsenal-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-95-96-arsenal-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-95-96-arsenal-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-95-96-arsenal-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-95-96-arsenal-away/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-95-96-arsenal-away/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-95-96-arsenal-away",
+      "siteCategory": "retro",
+      "team": "Arsenal",
+      "league": "Premier League",
+      "country": "England",
+      "season": "1995/96",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Premier League",
+        "Arsenal"
+      ],
+      "sourceTitle": "Retro 95/96 Arsenal away S-XXL",
+      "updatedAt": "2026-10-11T23:34:05.174Z"
+    },
+    {
       "id": "yupoo-111657933",
       "name": "Retro 95/96 Inter Milan away",
       "category": "Retro football shirt",
@@ -90316,6 +90687,47 @@
       ],
       "sourceTitle": "Retro 95/97 AC Milan away S-XXL",
       "updatedAt": "2026-10-11T20:06:11.620Z"
+    },
+    {
+      "id": "yupoo-91947466",
+      "name": "Retro 95/97 Chelsea away",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/91947466?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-95-97-chelsea-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-95-97-chelsea-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-95-97-chelsea-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-95-97-chelsea-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-95-97-chelsea-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-95-97-chelsea-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-95-97-chelsea-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-95-97-chelsea-away/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-95-97-chelsea-away",
+      "siteCategory": "retro",
+      "team": "Chelsea",
+      "league": "Premier League",
+      "country": "England",
+      "season": "",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Premier League",
+        "Chelsea"
+      ],
+      "sourceTitle": "Retro 95/97 Chelsea away S-XXL",
+      "updatedAt": "2026-10-11T23:34:17.048Z"
     },
     {
       "id": "yupoo-128491821",
@@ -90644,6 +91056,48 @@
       "updatedAt": "2026-10-11T17:13:38.506Z"
     },
     {
+      "id": "yupoo-93559959",
+      "name": "Retro 97/99 Newcastle United home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/93559959?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-97-99-newcastle-united-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-97-99-newcastle-united-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-97-99-newcastle-united-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-97-99-newcastle-united-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-97-99-newcastle-united-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-97-99-newcastle-united-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-97-99-newcastle-united-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-97-99-newcastle-united-home/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-97-99-newcastle-united-home/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-97-99-newcastle-united-home",
+      "siteCategory": "retro",
+      "team": "Newcastle United",
+      "league": "Premier League",
+      "country": "England",
+      "season": "",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Premier League",
+        "Newcastle United"
+      ],
+      "sourceTitle": "Retro 97/99 Newcastle United home S-XXL",
+      "updatedAt": "2026-10-11T23:30:51.267Z"
+    },
+    {
       "id": "yupoo-199189824",
       "name": "Retro 98/00 Leganes Home",
       "category": "Retro football shirt",
@@ -90930,6 +91384,47 @@
       "updatedAt": "2026-10-11T16:43:09.640Z"
     },
     {
+      "id": "yupoo-92125824",
+      "name": "Retro 98/99 Marseille away yellow(811)",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/92125824?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-98-99-marseille-away-yellow-811/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-98-99-marseille-away-yellow-811/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-98-99-marseille-away-yellow-811/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-98-99-marseille-away-yellow-811/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-98-99-marseille-away-yellow-811/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-98-99-marseille-away-yellow-811/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-98-99-marseille-away-yellow-811/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-98-99-marseille-away-yellow-811/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-98-99-marseille-away-yellow-811",
+      "siteCategory": "retro",
+      "team": "Olympique de Marseille",
+      "league": "Ligue 1",
+      "country": "France",
+      "season": "1998/99",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Ligue 1",
+        "Olympique de Marseille"
+      ],
+      "sourceTitle": "Retro 98/99 Marseille away yellow S-XXL (811)",
+      "updatedAt": "2026-10-11T23:33:36.458Z"
+    },
+    {
       "id": "yupoo-199190188",
       "name": "Retro 98/99 Tenerife away",
       "category": "Retro football shirt",
@@ -90970,6 +91465,47 @@
       ],
       "sourceTitle": "Retro 98/99 Tenerife away S-XXL",
       "updatedAt": "2026-10-11T17:11:46.336Z"
+    },
+    {
+      "id": "yupoo-88946255",
+      "name": "Retro 99/00 AC Milan home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/88946255?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-99-00-ac-milan-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-99-00-ac-milan-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-99-00-ac-milan-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-99-00-ac-milan-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-99-00-ac-milan-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-99-00-ac-milan-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-99-00-ac-milan-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-99-00-ac-milan-home/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-99-00-ac-milan-home",
+      "siteCategory": "retro",
+      "team": "AC Milan",
+      "league": "Serie A",
+      "country": "Italy",
+      "season": "1999/00",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Serie A",
+        "AC Milan"
+      ],
+      "sourceTitle": "Retro 99/00 AC Milan home S-XXL",
+      "updatedAt": "2026-10-11T23:41:50.027Z"
     },
     {
       "id": "yupoo-200072620",
@@ -91848,6 +92384,48 @@
       "updatedAt": "2026-10-11T19:46:56.292Z"
     },
     {
+      "id": "yupoo-93988011",
+      "name": "Retro AC Milan 14/15 home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/93988011?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-ac-milan-14-15-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-ac-milan-14-15-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-ac-milan-14-15-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-ac-milan-14-15-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-ac-milan-14-15-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-ac-milan-14-15-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-ac-milan-14-15-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-ac-milan-14-15-home/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-ac-milan-14-15-home/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-ac-milan-14-15-home",
+      "siteCategory": "retro",
+      "team": "AC Milan",
+      "league": "Serie A",
+      "country": "Italy",
+      "season": "2014/15",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Serie A",
+        "AC Milan"
+      ],
+      "sourceTitle": "Retro AC Milan 14/15 home S-XXL",
+      "updatedAt": "2026-10-11T23:27:27.310Z"
+    },
+    {
       "id": "yupoo-200463122",
       "name": "Retro AC Milan 15/16 Home",
       "category": "Retro football shirt",
@@ -92555,6 +93133,45 @@
       ],
       "sourceTitle": "Retro America Team 13/14 Yellow S-XXL",
       "updatedAt": "2026-10-11T16:47:57.184Z"
+    },
+    {
+      "id": "yupoo-89921632",
+      "name": "Retro Argentina 1986 away",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/89921632?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-argentina-1986-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-argentina-1986-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-argentina-1986-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-argentina-1986-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-argentina-1986-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-argentina-1986-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-argentina-1986-away/image-06.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-argentina-1986-away",
+      "siteCategory": "retro",
+      "team": "Argentina",
+      "league": "National teams",
+      "country": "Argentina",
+      "season": "1986",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "Liga Profesional",
+        "new season"
+      ],
+      "sourceTitle": "Retro Argentina 1986 away S-XXL",
+      "updatedAt": "2026-10-11T23:40:05.480Z"
     },
     {
       "id": "yupoo-114011612",
@@ -93872,6 +94489,49 @@
       "updatedAt": "2026-10-11T16:55:49.354Z"
     },
     {
+      "id": "yupoo-93987580",
+      "name": "Retro Atletico Madrid 04/05 home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/93987580?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-atletico-madrid-04-05-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-atletico-madrid-04-05-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-atletico-madrid-04-05-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-atletico-madrid-04-05-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-atletico-madrid-04-05-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-atletico-madrid-04-05-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-atletico-madrid-04-05-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-atletico-madrid-04-05-home/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-atletico-madrid-04-05-home/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-atletico-madrid-04-05-home/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-atletico-madrid-04-05-home",
+      "siteCategory": "retro",
+      "team": "Atlético Madrid",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2004/05",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "La Liga",
+        "Atletico Madrid"
+      ],
+      "sourceTitle": "Retro Atletico Madrid 04/05 home S-XXL",
+      "updatedAt": "2026-10-11T23:28:06.920Z"
+    },
+    {
       "id": "yupoo-207536234",
       "name": "Retro Atletico Madrid 10/11 Away",
       "category": "Retro football shirt",
@@ -94781,6 +95441,52 @@
       "updatedAt": "2026-10-11T17:21:36.347Z"
     },
     {
+      "id": "yupoo-93560039",
+      "name": "Retro Barcelona 05/06 away",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/93560039?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-barcelona-05-06-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-barcelona-05-06-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-barcelona-05-06-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-barcelona-05-06-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-barcelona-05-06-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-barcelona-05-06-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-barcelona-05-06-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-barcelona-05-06-away/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-barcelona-05-06-away/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-barcelona-05-06-away/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-barcelona-05-06-away/image-10.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-barcelona-05-06-away/image-11.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-barcelona-05-06-away/image-12.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-barcelona-05-06-away",
+      "siteCategory": "retro",
+      "team": "FC Barcelona",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2005/06",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "La Liga",
+        "Barcelona"
+      ],
+      "sourceTitle": "Retro Barcelona 05/06 away S-XXL",
+      "updatedAt": "2026-10-11T23:30:37.553Z"
+    },
+    {
       "id": "yupoo-211563268",
       "name": "Retro Barcelona 05/06 home",
       "category": "Retro football shirt",
@@ -94985,6 +95691,48 @@
       ],
       "sourceTitle": "Retro Barcelona 07/08 Home S-XXL",
       "updatedAt": "2026-10-11T19:32:50.875Z"
+    },
+    {
+      "id": "yupoo-93987732",
+      "name": "Retro Barcelona 08/09 away",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/93987732?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-barcelona-08-09-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-barcelona-08-09-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-barcelona-08-09-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-barcelona-08-09-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-barcelona-08-09-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-barcelona-08-09-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-barcelona-08-09-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-barcelona-08-09-away/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-barcelona-08-09-away/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-barcelona-08-09-away",
+      "siteCategory": "retro",
+      "team": "FC Barcelona",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2008/09",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "La Liga",
+        "Barcelona"
+      ],
+      "sourceTitle": "Retro Barcelona 08/09 away S-XXL",
+      "updatedAt": "2026-10-11T23:27:40.906Z"
     },
     {
       "id": "yupoo-133690582",
@@ -96095,6 +96843,47 @@
       "updatedAt": "2026-10-11T17:51:03.497Z"
     },
     {
+      "id": "yupoo-96245269",
+      "name": "Retro Bayern Munich 00/01 home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/96245269?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-bayern-munich-00-01-home-2/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-bayern-munich-00-01-home-2/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-bayern-munich-00-01-home-2/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-bayern-munich-00-01-home-2/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-bayern-munich-00-01-home-2/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-bayern-munich-00-01-home-2/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-bayern-munich-00-01-home-2/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-bayern-munich-00-01-home-2/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-bayern-munich-00-01-home-2",
+      "siteCategory": "retro",
+      "team": "Bayern Munich",
+      "league": "Bundesliga",
+      "country": "Germany",
+      "season": "2000/01",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Bundesliga",
+        "Bayern Munich"
+      ],
+      "sourceTitle": "Retro Bayern Munich 00/01 home S-XXL",
+      "updatedAt": "2026-10-11T23:20:27.404Z"
+    },
+    {
       "id": "yupoo-201768372",
       "name": "Retro Bayern Munich 00/01 Home",
       "category": "Retro football shirt",
@@ -96801,6 +97590,49 @@
       "updatedAt": "2026-10-11T17:49:24.000Z"
     },
     {
+      "id": "yupoo-89417313",
+      "name": "Retro Boca Juniors 03/04 home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/89417313?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-boca-juniors-03-04-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-boca-juniors-03-04-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-boca-juniors-03-04-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-boca-juniors-03-04-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-boca-juniors-03-04-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-boca-juniors-03-04-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-boca-juniors-03-04-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-boca-juniors-03-04-home/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-boca-juniors-03-04-home/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-boca-juniors-03-04-home/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-boca-juniors-03-04-home",
+      "siteCategory": "retro",
+      "team": "Boca Juniors",
+      "league": "Other leagues",
+      "country": "Argentina",
+      "season": "2003/04",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "Liga Profesional",
+        "Boca Juniors",
+        "new season"
+      ],
+      "sourceTitle": "Retro Boca Juniors 03/04 home S-XXL",
+      "updatedAt": "2026-10-11T23:41:36.288Z"
+    },
+    {
       "id": "yupoo-190497022",
       "name": "Retro Boca Juniors 04/05 Home",
       "category": "Retro football shirt",
@@ -97266,6 +98098,47 @@
       ],
       "sourceTitle": "Retro Boca Juniors 97/98 Away S-XXL",
       "updatedAt": "2026-10-11T13:43:46.226Z"
+    },
+    {
+      "id": "yupoo-89418137",
+      "name": "Retro Boca Juniors 99/00 home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/89418137?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-boca-juniors-99-00-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-boca-juniors-99-00-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-boca-juniors-99-00-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-boca-juniors-99-00-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-boca-juniors-99-00-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-boca-juniors-99-00-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-boca-juniors-99-00-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-boca-juniors-99-00-home/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-boca-juniors-99-00-home",
+      "siteCategory": "retro",
+      "team": "Boca Juniors",
+      "league": "Other leagues",
+      "country": "Argentina",
+      "season": "1999/00",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "Liga Profesional",
+        "Boca Juniors",
+        "new season"
+      ],
+      "sourceTitle": "Retro Boca Juniors 99/00 home S-XXL",
+      "updatedAt": "2026-10-11T23:41:19.136Z"
     },
     {
       "id": "yupoo-141365459",
@@ -98247,6 +99120,91 @@
       "updatedAt": "2026-10-11T20:16:23.926Z"
     },
     {
+      "id": "yupoo-93580317",
+      "name": "Retro Chelsea 12/13 home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/93580317?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-chelsea-12-13-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-chelsea-12-13-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-chelsea-12-13-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-chelsea-12-13-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-chelsea-12-13-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-chelsea-12-13-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-chelsea-12-13-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-chelsea-12-13-home/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-chelsea-12-13-home/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-chelsea-12-13-home/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-chelsea-12-13-home",
+      "siteCategory": "retro",
+      "team": "Chelsea",
+      "league": "Premier League",
+      "country": "England",
+      "season": "2012/13",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Premier League",
+        "Chelsea"
+      ],
+      "sourceTitle": "Retro Chelsea 12/13 home S-XXL",
+      "updatedAt": "2026-10-11T23:29:52.340Z"
+    },
+    {
+      "id": "yupoo-94445262",
+      "name": "Retro Chelsea 12/13 third away",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/94445262?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-chelsea-12-13-third-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-chelsea-12-13-third-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-chelsea-12-13-third-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-chelsea-12-13-third-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-chelsea-12-13-third-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-chelsea-12-13-third-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-chelsea-12-13-third-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-chelsea-12-13-third-away/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-chelsea-12-13-third-away/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-chelsea-12-13-third-away",
+      "siteCategory": "retro",
+      "team": "Chelsea",
+      "league": "Premier League",
+      "country": "England",
+      "season": "2012/13",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Premier League",
+        "Chelsea"
+      ],
+      "sourceTitle": "Retro Chelsea 12/13 third away S-XXL",
+      "updatedAt": "2026-10-11T23:27:13.229Z"
+    },
+    {
       "id": "yupoo-134284537",
       "name": "Retro Chelsea 1990",
       "category": "Retro football shirt",
@@ -98409,6 +99367,48 @@
       ],
       "sourceTitle": "Retro Chelsea 95/97 home S-XXL",
       "updatedAt": "2026-10-11T20:01:46.054Z"
+    },
+    {
+      "id": "yupoo-93560441",
+      "name": "Retro Chelsea 97/99 home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/93560441?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-chelsea-97-99-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-chelsea-97-99-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-chelsea-97-99-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-chelsea-97-99-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-chelsea-97-99-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-chelsea-97-99-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-chelsea-97-99-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-chelsea-97-99-home/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-chelsea-97-99-home/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-chelsea-97-99-home",
+      "siteCategory": "retro",
+      "team": "Chelsea",
+      "league": "Premier League",
+      "country": "England",
+      "season": "",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Premier League",
+        "Chelsea"
+      ],
+      "sourceTitle": "Retro Chelsea 97/99 home S-XXL",
+      "updatedAt": "2026-10-11T23:30:20.949Z"
     },
     {
       "id": "yupoo-102106804",
@@ -98860,6 +99860,44 @@
       ],
       "sourceTitle": "Retro Colombia 1990 Away S-XXL",
       "updatedAt": "2026-10-11T19:02:22.618Z"
+    },
+    {
+      "id": "yupoo-92918420",
+      "name": "Retro Colombia 1990 home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/92918420?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-colombia-1990-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-colombia-1990-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-colombia-1990-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-colombia-1990-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-colombia-1990-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-colombia-1990-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-colombia-1990-home/image-06.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-colombia-1990-home",
+      "siteCategory": "retro",
+      "team": "Colombia",
+      "league": "National teams",
+      "country": "Colombia",
+      "season": "1990",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season"
+      ],
+      "sourceTitle": "Retro Colombia 1990 home S-XXL",
+      "updatedAt": "2026-10-11T23:32:55.386Z"
     },
     {
       "id": "yupoo-193040431",
@@ -99498,6 +100536,44 @@
       ],
       "sourceTitle": "Retro Crystal Palace 96/98 Home Jersey S-XXL",
       "updatedAt": "2026-10-11T10:55:35.285Z"
+    },
+    {
+      "id": "yupoo-95019700",
+      "name": "Retro Denmark 1986 home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/95019700?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-denmark-1986-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-denmark-1986-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-denmark-1986-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-denmark-1986-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-denmark-1986-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-denmark-1986-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-denmark-1986-home/image-06.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-denmark-1986-home",
+      "siteCategory": "retro",
+      "team": "Denmark",
+      "league": "National teams",
+      "country": "Denmark",
+      "season": "1986",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season"
+      ],
+      "sourceTitle": "Retro Denmark 1986 home S-XXL",
+      "updatedAt": "2026-10-11T23:24:35.315Z"
     },
     {
       "id": "yupoo-167395951",
@@ -100203,6 +101279,47 @@
       "updatedAt": "2026-10-11T10:55:26.891Z"
     },
     {
+      "id": "yupoo-89874964",
+      "name": "Retro Dortmund 12/13 home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/89874964?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-dortmund-12-13-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-dortmund-12-13-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-dortmund-12-13-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-dortmund-12-13-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-dortmund-12-13-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-dortmund-12-13-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-dortmund-12-13-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-dortmund-12-13-home/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-dortmund-12-13-home",
+      "siteCategory": "retro",
+      "team": "Borussia Dortmund",
+      "league": "Bundesliga",
+      "country": "Germany",
+      "season": "2012/13",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Bundesliga",
+        "Borussia Dortmund"
+      ],
+      "sourceTitle": "Retro Dortmund 12/13 home S-XXL",
+      "updatedAt": "2026-10-11T23:40:37.423Z"
+    },
+    {
       "id": "yupoo-201768363",
       "name": "Retro Dortmund 19/20 Home",
       "category": "Retro football shirt",
@@ -100730,6 +101847,82 @@
       "updatedAt": "2026-10-11T18:27:41.148Z"
     },
     {
+      "id": "yupoo-87793959",
+      "name": "Retro England 1996 away",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/87793959?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-england-1996-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-england-1996-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-england-1996-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-england-1996-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-england-1996-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-england-1996-away/image-05.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-england-1996-away",
+      "siteCategory": "retro",
+      "team": "England",
+      "league": "National teams",
+      "country": "England",
+      "season": "1996",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Premier League"
+      ],
+      "sourceTitle": "Retro England 1996 away S-XXL",
+      "updatedAt": "2026-10-11T23:43:24.547Z"
+    },
+    {
+      "id": "yupoo-96144800",
+      "name": "Retro England 1996 home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/96144800?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-england-1996-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-england-1996-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-england-1996-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-england-1996-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-england-1996-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-england-1996-home/image-05.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-england-1996-home",
+      "siteCategory": "retro",
+      "team": "England",
+      "league": "National teams",
+      "country": "England",
+      "season": "1996",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Premier League"
+      ],
+      "sourceTitle": "Retro England 1996 home S-XXL",
+      "updatedAt": "2026-10-11T23:21:21.771Z"
+    },
+    {
       "id": "yupoo-192384511",
       "name": "Retro England 2002 Away",
       "category": "Retro football shirt",
@@ -101091,6 +102284,130 @@
       ],
       "sourceTitle": "Retro Finland 1982 Home S-XXL",
       "updatedAt": "2026-10-11T19:05:40.852Z"
+    },
+    {
+      "id": "yupoo-90327128",
+      "name": "Retro Fiorentina 89/90 home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/90327128?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-fiorentina-89-90-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-fiorentina-89-90-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-fiorentina-89-90-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-fiorentina-89-90-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-fiorentina-89-90-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-fiorentina-89-90-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-fiorentina-89-90-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-fiorentina-89-90-home/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-fiorentina-89-90-home",
+      "siteCategory": "retro",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "1989/90",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Serie A",
+        "Fiorentina"
+      ],
+      "sourceTitle": "Retro Fiorentina 89/90 home S-XXL",
+      "updatedAt": "2026-10-11T23:38:29.669Z"
+    },
+    {
+      "id": "yupoo-96144064",
+      "name": "Retro Fiorentina 95/96 away",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/96144064?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-fiorentina-95-96-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-fiorentina-95-96-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-fiorentina-95-96-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-fiorentina-95-96-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-fiorentina-95-96-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-fiorentina-95-96-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-fiorentina-95-96-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-fiorentina-95-96-away/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-fiorentina-95-96-away",
+      "siteCategory": "retro",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "1995/96",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Serie A",
+        "Fiorentina"
+      ],
+      "sourceTitle": "Retro Fiorentina 95/96 away S-XXL",
+      "updatedAt": "2026-10-11T23:22:45.756Z"
+    },
+    {
+      "id": "yupoo-96143977",
+      "name": "Retro Fiorentina 95/96 home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/96143977?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-fiorentina-95-96-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-fiorentina-95-96-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-fiorentina-95-96-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-fiorentina-95-96-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-fiorentina-95-96-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-fiorentina-95-96-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-fiorentina-95-96-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-fiorentina-95-96-home/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-fiorentina-95-96-home/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-fiorentina-95-96-home",
+      "siteCategory": "retro",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "1995/96",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Serie A",
+        "Fiorentina"
+      ],
+      "sourceTitle": "Retro Fiorentina 95/96 home S-XXL",
+      "updatedAt": "2026-10-11T23:23:00.735Z"
     },
     {
       "id": "yupoo-184675122",
@@ -101762,6 +103079,85 @@
       ],
       "sourceTitle": "Retro France 1996 Home S-XXL",
       "updatedAt": "2026-10-11T18:24:08.732Z"
+    },
+    {
+      "id": "yupoo-94445935",
+      "name": "Retro France 1998 away",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/94445935?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-france-1998-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-france-1998-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-france-1998-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-france-1998-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-france-1998-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-france-1998-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-france-1998-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-france-1998-away/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-france-1998-away",
+      "siteCategory": "retro",
+      "team": "France",
+      "league": "National teams",
+      "country": "France",
+      "season": "1998",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Ligue 1"
+      ],
+      "sourceTitle": "Retro France 1998 away S-XXL",
+      "updatedAt": "2026-10-11T23:25:13.087Z"
+    },
+    {
+      "id": "yupoo-94445838",
+      "name": "Retro France 2004 home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/94445838?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-france-2004-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-france-2004-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-france-2004-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-france-2004-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-france-2004-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-france-2004-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-france-2004-home/image-06.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-france-2004-home",
+      "siteCategory": "retro",
+      "team": "France",
+      "league": "National teams",
+      "country": "France",
+      "season": "2004",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Ligue 1"
+      ],
+      "sourceTitle": "Retro France 2004 home S-XXL",
+      "updatedAt": "2026-10-11T23:25:37.113Z"
     },
     {
       "id": "yupoo-184319725",
@@ -102960,6 +104356,45 @@
       "updatedAt": "2026-10-11T19:12:24.213Z"
     },
     {
+      "id": "yupoo-94445341",
+      "name": "Retro Holland 2002 home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/94445341?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-holland-2002-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-holland-2002-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-holland-2002-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-holland-2002-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-holland-2002-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-holland-2002-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-holland-2002-home/image-06.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-holland-2002-home",
+      "siteCategory": "retro",
+      "team": "Netherlands",
+      "league": "National teams",
+      "country": "Netherlands",
+      "season": "2002",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "EREDIVISIE"
+      ],
+      "sourceTitle": "Retro Holland 2002 home S-XXL",
+      "updatedAt": "2026-10-11T23:26:59.003Z"
+    },
+    {
       "id": "yupoo-107943594",
       "name": "Retro Holland 2008 home",
       "category": "Retro football shirt",
@@ -103578,6 +105013,47 @@
       "updatedAt": "2026-10-11T20:00:11.101Z"
     },
     {
+      "id": "yupoo-89874996",
+      "name": "Retro Inter Milan 97/98 away",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/89874996?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-inter-milan-97-98-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-inter-milan-97-98-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-inter-milan-97-98-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-inter-milan-97-98-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-inter-milan-97-98-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-inter-milan-97-98-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-inter-milan-97-98-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-inter-milan-97-98-away/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-inter-milan-97-98-away",
+      "siteCategory": "retro",
+      "team": "Inter",
+      "league": "Serie A",
+      "country": "Italy",
+      "season": "1997/98",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Serie A",
+        "Inter Milan"
+      ],
+      "sourceTitle": "Retro Inter Milan 97/98 away S-XXL",
+      "updatedAt": "2026-10-11T23:40:18.146Z"
+    },
+    {
       "id": "yupoo-152769945",
       "name": "Retro Inter Milan 99/00 Home",
       "category": "Retro football shirt",
@@ -103657,6 +105133,45 @@
       "updatedAt": "2026-10-11T11:11:44.810Z"
     },
     {
+      "id": "yupoo-96143860",
+      "name": "Retro Ireland 1994 away",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/96143860?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-ireland-1994-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-ireland-1994-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-ireland-1994-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-ireland-1994-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-ireland-1994-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-ireland-1994-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-ireland-1994-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-ireland-1994-away/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-ireland-1994-away",
+      "siteCategory": "retro",
+      "team": "Ireland",
+      "league": "National teams",
+      "country": "Ireland",
+      "season": "1994",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season"
+      ],
+      "sourceTitle": "Retro Ireland 1994 away S-XXL",
+      "updatedAt": "2026-10-11T23:23:30.923Z"
+    },
+    {
       "id": "yupoo-211959203",
       "name": "Retro Ireland 1997 Orange",
       "category": "Retro football shirt",
@@ -103733,6 +105248,284 @@
       ],
       "sourceTitle": "Retro Ireland 88/90 Home S-XXL",
       "updatedAt": "2026-10-11T19:06:09.676Z"
+    },
+    {
+      "id": "yupoo-96144854",
+      "name": "Retro Ireland 94/96 away",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/96144854?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-ireland-94-96-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-ireland-94-96-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-ireland-94-96-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-ireland-94-96-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-ireland-94-96-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-ireland-94-96-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-ireland-94-96-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-ireland-94-96-away/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-ireland-94-96-away",
+      "siteCategory": "retro",
+      "team": "Ireland",
+      "league": "National teams",
+      "country": "Ireland",
+      "season": "",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season"
+      ],
+      "sourceTitle": "Retro Ireland 94/96 away S-XXL",
+      "updatedAt": "2026-10-11T23:20:39.521Z"
+    },
+    {
+      "id": "yupoo-96144838",
+      "name": "Retro Ireland 94/96 home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/96144838?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-ireland-94-96-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-ireland-94-96-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-ireland-94-96-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-ireland-94-96-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-ireland-94-96-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-ireland-94-96-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-ireland-94-96-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-ireland-94-96-home/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-ireland-94-96-home",
+      "siteCategory": "retro",
+      "team": "Ireland",
+      "league": "National teams",
+      "country": "Ireland",
+      "season": "",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season"
+      ],
+      "sourceTitle": "Retro Ireland 94/96 home S-XXL",
+      "updatedAt": "2026-10-11T23:20:54.346Z"
+    },
+    {
+      "id": "yupoo-94445745",
+      "name": "Retro Italy 1982 home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/94445745?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-italy-1982-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-italy-1982-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-italy-1982-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-italy-1982-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-italy-1982-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-italy-1982-home/image-05.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-italy-1982-home",
+      "siteCategory": "retro",
+      "team": "Italy",
+      "league": "National teams",
+      "country": "Italy",
+      "season": "1982",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Serie A"
+      ],
+      "sourceTitle": "Retro Italy 1982 home S-XXL",
+      "updatedAt": "2026-10-11T23:25:49.715Z"
+    },
+    {
+      "id": "yupoo-94445676",
+      "name": "Retro Italy 1996 away",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/94445676?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-italy-1996-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-italy-1996-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-italy-1996-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-italy-1996-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-italy-1996-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-italy-1996-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-italy-1996-away/image-06.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-italy-1996-away",
+      "siteCategory": "retro",
+      "team": "Italy",
+      "league": "National teams",
+      "country": "Italy",
+      "season": "1996",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Serie A"
+      ],
+      "sourceTitle": "Retro Italy 1996 away S-XXL",
+      "updatedAt": "2026-10-11T23:26:01.634Z"
+    },
+    {
+      "id": "yupoo-94445641",
+      "name": "Retro Italy 1996 home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/94445641?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-italy-1996-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-italy-1996-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-italy-1996-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-italy-1996-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-italy-1996-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-italy-1996-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-italy-1996-home/image-06.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-italy-1996-home",
+      "siteCategory": "retro",
+      "team": "Italy",
+      "league": "National teams",
+      "country": "Italy",
+      "season": "1996",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Serie A"
+      ],
+      "sourceTitle": "Retro Italy 1996 home S-XXL",
+      "updatedAt": "2026-10-11T23:26:14.176Z"
+    },
+    {
+      "id": "yupoo-94445592",
+      "name": "Retro Italy 1998 away",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/94445592?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-italy-1998-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-italy-1998-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-italy-1998-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-italy-1998-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-italy-1998-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-italy-1998-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-italy-1998-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-italy-1998-away/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-italy-1998-away/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-italy-1998-away/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-italy-1998-away/image-10.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-italy-1998-away/image-11.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-italy-1998-away",
+      "siteCategory": "retro",
+      "team": "Italy",
+      "league": "National teams",
+      "country": "Italy",
+      "season": "1998",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Serie A"
+      ],
+      "sourceTitle": "Retro Italy 1998 away S-XXL",
+      "updatedAt": "2026-10-11T23:26:31.788Z"
+    },
+    {
+      "id": "yupoo-94445430",
+      "name": "Retro Italy 1998 home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/94445430?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-italy-1998-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-italy-1998-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-italy-1998-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-italy-1998-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-italy-1998-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-italy-1998-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-italy-1998-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-italy-1998-home/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-italy-1998-home",
+      "siteCategory": "retro",
+      "team": "Italy",
+      "league": "National teams",
+      "country": "Italy",
+      "season": "1998",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Serie A"
+      ],
+      "sourceTitle": "Retro Italy 1998 home S-XXL",
+      "updatedAt": "2026-10-11T23:26:46.240Z"
     },
     {
       "id": "yupoo-130120937",
@@ -105935,6 +107728,47 @@
       "updatedAt": "2026-10-11T18:30:15.310Z"
     },
     {
+      "id": "yupoo-93345079",
+      "name": "Retro long sleeve Real Madrid 05/06 home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/93345079?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-long-sleeve-real-madrid-05-06-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-long-sleeve-real-madrid-05-06-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-long-sleeve-real-madrid-05-06-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-long-sleeve-real-madrid-05-06-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-long-sleeve-real-madrid-05-06-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-long-sleeve-real-madrid-05-06-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-long-sleeve-real-madrid-05-06-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-long-sleeve-real-madrid-05-06-home/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-long-sleeve-real-madrid-05-06-home",
+      "siteCategory": "retro",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2005/06",
+      "type": "Shirt",
+      "variant": "Long sleeve",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "La Liga",
+        "Real Madrid"
+      ],
+      "sourceTitle": "Retro long sleeve Real Madrid 05/06 home S-XXL",
+      "updatedAt": "2026-10-11T23:32:02.283Z"
+    },
+    {
       "id": "yupoo-135065035",
       "name": "Retro Long Sleeve Real Madrid 06/07 Third Away",
       "category": "Retro football shirt",
@@ -106432,6 +108266,45 @@
       ],
       "sourceTitle": "Retro Long Sleeve Santos 11/12 Home S-XXL",
       "updatedAt": "2026-10-11T18:09:03.311Z"
+    },
+    {
+      "id": "yupoo-93345416",
+      "name": "Retro long sleeve Spain 2010 away",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/93345416?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-long-sleeve-spain-2010-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-long-sleeve-spain-2010-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-long-sleeve-spain-2010-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-long-sleeve-spain-2010-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-long-sleeve-spain-2010-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-long-sleeve-spain-2010-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-long-sleeve-spain-2010-away/image-06.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-long-sleeve-spain-2010-away",
+      "siteCategory": "retro",
+      "team": "Spain",
+      "league": "National teams",
+      "country": "Spain",
+      "season": "2010",
+      "type": "Shirt",
+      "variant": "Long sleeve",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "La Liga"
+      ],
+      "sourceTitle": "Retro long sleeve Spain 2010 away S-XXL",
+      "updatedAt": "2026-10-11T23:31:37.421Z"
     },
     {
       "id": "yupoo-142711978",
@@ -107050,6 +108923,49 @@
       "updatedAt": "2026-10-11T18:55:15.291Z"
     },
     {
+      "id": "yupoo-87793661",
+      "name": "Retro Manchester City 11/12 home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/87793661?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-manchester-city-11-12-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-manchester-city-11-12-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-manchester-city-11-12-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-manchester-city-11-12-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-manchester-city-11-12-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-manchester-city-11-12-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-manchester-city-11-12-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-manchester-city-11-12-home/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-manchester-city-11-12-home/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-manchester-city-11-12-home/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-manchester-city-11-12-home",
+      "siteCategory": "retro",
+      "team": "Manchester City",
+      "league": "Premier League",
+      "country": "England",
+      "season": "2011/12",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Premier League",
+        "Manchester City"
+      ],
+      "sourceTitle": "Retro Manchester City 11/12 home S-XXL",
+      "updatedAt": "2026-10-11T23:43:39.930Z"
+    },
+    {
       "id": "yupoo-184319838",
       "name": "Retro Manchester City 12/13 Away",
       "category": "Retro football shirt",
@@ -107347,6 +109263,46 @@
       "updatedAt": "2026-10-11T16:59:13.478Z"
     },
     {
+      "id": "yupoo-95620514",
+      "name": "Retro Manchester City 1972 home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/95620514?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-manchester-city-1972-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-manchester-city-1972-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-manchester-city-1972-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-manchester-city-1972-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-manchester-city-1972-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-manchester-city-1972-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-manchester-city-1972-home/image-06.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-manchester-city-1972-home",
+      "siteCategory": "retro",
+      "team": "Manchester City",
+      "league": "Premier League",
+      "country": "England",
+      "season": "1972",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Premier League",
+        "Manchester City"
+      ],
+      "sourceTitle": "Retro Manchester City 1972 home S-XXL",
+      "updatedAt": "2026-10-11T23:23:56.598Z"
+    },
+    {
       "id": "yupoo-113916313",
       "name": "Retro Manchester City 81/82 home",
       "category": "Retro football shirt",
@@ -107472,6 +109428,88 @@
       ],
       "sourceTitle": "Retro Manchester City 97/99 home S-XXL",
       "updatedAt": "2026-10-11T20:10:14.654Z"
+    },
+    {
+      "id": "yupoo-93580245",
+      "name": "Retro Manchester City 98/99 away",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/93580245?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-manchester-city-98-99-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-manchester-city-98-99-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-manchester-city-98-99-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-manchester-city-98-99-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-manchester-city-98-99-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-manchester-city-98-99-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-manchester-city-98-99-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-manchester-city-98-99-away/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-manchester-city-98-99-away/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-manchester-city-98-99-away",
+      "siteCategory": "retro",
+      "team": "Manchester City",
+      "league": "Premier League",
+      "country": "England",
+      "season": "1998/99",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Premier League",
+        "Manchester City"
+      ],
+      "sourceTitle": "Retro Manchester City 98/99 away S-XXL",
+      "updatedAt": "2026-10-11T23:30:06.162Z"
+    },
+    {
+      "id": "yupoo-96144734",
+      "name": "Retro Manchester City 99/01 home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/96144734?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-manchester-city-99-01-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-manchester-city-99-01-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-manchester-city-99-01-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-manchester-city-99-01-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-manchester-city-99-01-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-manchester-city-99-01-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-manchester-city-99-01-home/image-06.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-manchester-city-99-01-home",
+      "siteCategory": "retro",
+      "team": "Manchester City",
+      "league": "Premier League",
+      "country": "England",
+      "season": "",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Premier League",
+        "Manchester City"
+      ],
+      "sourceTitle": "Retro Manchester City 99/01 home S-XXL",
+      "updatedAt": "2026-10-11T23:21:33.714Z"
     },
     {
       "id": "yupoo-189379060",
@@ -108402,6 +110440,85 @@
       "updatedAt": "2026-10-11T14:53:47.271Z"
     },
     {
+      "id": "yupoo-95019693",
+      "name": "Retro Mexico 1986 home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/95019693?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-mexico-1986-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-mexico-1986-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-mexico-1986-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-mexico-1986-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-mexico-1986-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-mexico-1986-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-mexico-1986-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-mexico-1986-home/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-mexico-1986-home",
+      "siteCategory": "retro",
+      "team": "Mexico",
+      "league": "National teams",
+      "country": "Mexico",
+      "season": "1986",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "LIGA MX"
+      ],
+      "sourceTitle": "Retro Mexico 1986 home S-XXL",
+      "updatedAt": "2026-10-11T23:24:47.952Z"
+    },
+    {
+      "id": "yupoo-96144208",
+      "name": "Retro Mexico 1995 home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/96144208?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-mexico-1995-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-mexico-1995-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-mexico-1995-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-mexico-1995-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-mexico-1995-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-mexico-1995-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-mexico-1995-home/image-06.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-mexico-1995-home",
+      "siteCategory": "retro",
+      "team": "Mexico",
+      "league": "National teams",
+      "country": "Mexico",
+      "season": "1995",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "LIGA MX"
+      ],
+      "sourceTitle": "Retro Mexico 1995 home S-XXL",
+      "updatedAt": "2026-10-11T23:22:30.948Z"
+    },
+    {
       "id": "yupoo-96325976",
       "name": "Retro Mexico 2006 Home",
       "category": "Retro football shirt",
@@ -108602,6 +110719,86 @@
       "updatedAt": "2026-10-11T18:24:38.761Z"
     },
     {
+      "id": "yupoo-89874918",
+      "name": "Retro Naples 88/89 home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/89874918?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-naples-88-89-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-naples-88-89-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-naples-88-89-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-naples-88-89-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-naples-88-89-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-naples-88-89-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-naples-88-89-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-naples-88-89-home/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-naples-88-89-home",
+      "siteCategory": "retro",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "1988/89",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Serie A"
+      ],
+      "sourceTitle": "Retro Naples 88/89 home S-XXL",
+      "updatedAt": "2026-10-11T23:40:52.355Z"
+    },
+    {
+      "id": "yupoo-96143910",
+      "name": "Retro Naples 91/93 home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/96143910?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-naples-91-93-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-naples-91-93-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-naples-91-93-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-naples-91-93-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-naples-91-93-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-naples-91-93-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-naples-91-93-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-naples-91-93-home/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-naples-91-93-home",
+      "siteCategory": "retro",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Serie A"
+      ],
+      "sourceTitle": "Retro Naples 91/93 home S-XXL",
+      "updatedAt": "2026-10-11T23:23:16.628Z"
+    },
+    {
       "id": "yupoo-211959253",
       "name": "Retro Napoli 19/20 White",
       "category": "Retro football shirt",
@@ -108641,6 +110838,171 @@
       ],
       "sourceTitle": "Retro Napoli 19/20 White S-XXL",
       "updatedAt": "2026-10-11T16:45:47.518Z"
+    },
+    {
+      "id": "yupoo-90366970",
+      "name": "Retro Napoli 86/87 home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/90366970?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-napoli-86-87-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-napoli-86-87-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-napoli-86-87-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-napoli-86-87-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-napoli-86-87-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-napoli-86-87-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-napoli-86-87-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-napoli-86-87-home/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-napoli-86-87-home",
+      "siteCategory": "retro",
+      "team": "Napoli",
+      "league": "Serie A",
+      "country": "Italy",
+      "season": "1986/87",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Serie A",
+        "Napoli"
+      ],
+      "sourceTitle": "Retro Napoli 86/87 home S-XXL",
+      "updatedAt": "2026-10-11T23:37:35.820Z"
+    },
+    {
+      "id": "yupoo-90367050",
+      "name": "Retro Napoli 87/88 away",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/90367050?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-napoli-87-88-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-napoli-87-88-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-napoli-87-88-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-napoli-87-88-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-napoli-87-88-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-napoli-87-88-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-napoli-87-88-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-napoli-87-88-away/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-napoli-87-88-away",
+      "siteCategory": "retro",
+      "team": "Napoli",
+      "league": "Serie A",
+      "country": "Italy",
+      "season": "1987/88",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Serie A",
+        "Napoli"
+      ],
+      "sourceTitle": "Retro Napoli 87/88 away S-XXL",
+      "updatedAt": "2026-10-11T23:36:59.968Z"
+    },
+    {
+      "id": "yupoo-90628784",
+      "name": "Retro Napoli 87/88 home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/90628784?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-napoli-87-88-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-napoli-87-88-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-napoli-87-88-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-napoli-87-88-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-napoli-87-88-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-napoli-87-88-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-napoli-87-88-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-napoli-87-88-home/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-napoli-87-88-home",
+      "siteCategory": "retro",
+      "team": "Napoli",
+      "league": "Serie A",
+      "country": "Italy",
+      "season": "1987/88",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Serie A",
+        "Napoli"
+      ],
+      "sourceTitle": "Retro Napoli 87/88 home S-XXL",
+      "updatedAt": "2026-10-11T23:36:05.066Z"
+    },
+    {
+      "id": "yupoo-90367020",
+      "name": "Retro Napoli 88/89 away",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/90367020?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-napoli-88-89-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-napoli-88-89-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-napoli-88-89-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-napoli-88-89-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-napoli-88-89-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-napoli-88-89-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-napoli-88-89-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-napoli-88-89-away/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-napoli-88-89-away/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-napoli-88-89-away",
+      "siteCategory": "retro",
+      "team": "Napoli",
+      "league": "Serie A",
+      "country": "Italy",
+      "season": "1988/89",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Serie A",
+        "Napoli"
+      ],
+      "sourceTitle": "Retro Napoli 88/89 away S-XXL",
+      "updatedAt": "2026-10-11T23:37:22.441Z"
     },
     {
       "id": "yupoo-255160542",
@@ -108961,6 +111323,94 @@
       "updatedAt": "2026-10-11T16:54:06.449Z"
     },
     {
+      "id": "yupoo-93987370",
+      "name": "Retro Netherlands 2010 home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/93987370?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-netherlands-2010-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-netherlands-2010-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-netherlands-2010-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-netherlands-2010-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-netherlands-2010-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-netherlands-2010-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-netherlands-2010-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-netherlands-2010-home/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-netherlands-2010-home/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-netherlands-2010-home/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-netherlands-2010-home/image-10.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-netherlands-2010-home/image-11.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-netherlands-2010-home",
+      "siteCategory": "retro",
+      "team": "Netherlands",
+      "league": "National teams",
+      "country": "Netherlands",
+      "season": "2010",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "EREDIVISIE"
+      ],
+      "sourceTitle": "Retro Netherlands 2010 home S-XXL",
+      "updatedAt": "2026-10-11T23:29:07.455Z"
+    },
+    {
+      "id": "yupoo-93987414",
+      "name": "Retro Netherlands 2012 away",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/93987414?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-netherlands-2012-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-netherlands-2012-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-netherlands-2012-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-netherlands-2012-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-netherlands-2012-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-netherlands-2012-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-netherlands-2012-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-netherlands-2012-away/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-netherlands-2012-away/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-netherlands-2012-away/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-netherlands-2012-away/image-10.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-netherlands-2012-away/image-11.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-netherlands-2012-away",
+      "siteCategory": "retro",
+      "team": "Netherlands",
+      "league": "National teams",
+      "country": "Netherlands",
+      "season": "2012",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "EREDIVISIE"
+      ],
+      "sourceTitle": "Retro Netherlands 2012 away S-XXL",
+      "updatedAt": "2026-10-11T23:28:50.625Z"
+    },
+    {
       "id": "yupoo-186520558",
       "name": "Retro Netherlands 2014 Home",
       "category": "Retro football shirt",
@@ -109041,6 +111491,44 @@
       "updatedAt": "2026-10-11T18:45:01.638Z"
     },
     {
+      "id": "yupoo-89952324",
+      "name": "Retro Newell Old Boy 93/94 Red and Black",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/89952324?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-newell-old-boy-93-94-red-and-black/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-newell-old-boy-93-94-red-and-black/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-newell-old-boy-93-94-red-and-black/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-newell-old-boy-93-94-red-and-black/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-newell-old-boy-93-94-red-and-black/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-newell-old-boy-93-94-red-and-black/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-newell-old-boy-93-94-red-and-black/image-06.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-newell-old-boy-93-94-red-and-black",
+      "siteCategory": "retro",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "1993/94",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season"
+      ],
+      "sourceTitle": "Retro Newell Old Boy 93/94 Red and Black S-XXL",
+      "updatedAt": "2026-10-11T23:39:51.539Z"
+    },
+    {
       "id": "yupoo-113757433",
       "name": "Retro Nigeria 1994 away",
       "category": "Retro football shirt",
@@ -109078,6 +111566,44 @@
       ],
       "sourceTitle": "Retro Nigeria 1994 away S-XXL",
       "updatedAt": "2026-10-11T19:52:44.644Z"
+    },
+    {
+      "id": "yupoo-88416633",
+      "name": "Retro Nigeria 1996 home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/88416633?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-nigeria-1996-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-nigeria-1996-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-nigeria-1996-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-nigeria-1996-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-nigeria-1996-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-nigeria-1996-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-nigeria-1996-home/image-06.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-nigeria-1996-home",
+      "siteCategory": "retro",
+      "team": "Nigeria",
+      "league": "National teams",
+      "country": "Nigeria",
+      "season": "1996",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season"
+      ],
+      "sourceTitle": "Retro Nigeria 1996 home S-XXL",
+      "updatedAt": "2026-10-11T23:43:12.981Z"
     },
     {
       "id": "yupoo-186050980",
@@ -109120,6 +111646,50 @@
       "updatedAt": "2026-10-11T17:53:49.639Z"
     },
     {
+      "id": "yupoo-93559783",
+      "name": "Retro Nigeria 1998 home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/93559783?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-nigeria-1998-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-nigeria-1998-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-nigeria-1998-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-nigeria-1998-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-nigeria-1998-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-nigeria-1998-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-nigeria-1998-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-nigeria-1998-home/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-nigeria-1998-home/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-nigeria-1998-home/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-nigeria-1998-home/image-10.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-nigeria-1998-home/image-11.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-nigeria-1998-home/image-12.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-nigeria-1998-home",
+      "siteCategory": "retro",
+      "team": "Nigeria",
+      "league": "National teams",
+      "country": "Nigeria",
+      "season": "1998",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season"
+      ],
+      "sourceTitle": "Retro Nigeria 1998 home S-XXL",
+      "updatedAt": "2026-10-11T23:31:08.264Z"
+    },
+    {
       "id": "yupoo-182398192",
       "name": "Retro Nigeria 94/95 home",
       "category": "Retro football shirt",
@@ -109156,6 +111726,47 @@
       ],
       "sourceTitle": "Retro Nigeria 94/95 home S-XXL",
       "updatedAt": "2026-10-11T18:04:25.239Z"
+    },
+    {
+      "id": "yupoo-88416731",
+      "name": "Retro Nottingham Forest 94/95 Red",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/88416731?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-nottingham-forest-94-95-red/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-nottingham-forest-94-95-red/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-nottingham-forest-94-95-red/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-nottingham-forest-94-95-red/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-nottingham-forest-94-95-red/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-nottingham-forest-94-95-red/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-nottingham-forest-94-95-red/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-nottingham-forest-94-95-red/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-nottingham-forest-94-95-red",
+      "siteCategory": "retro",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "1994/95",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Premier League",
+        "Nottingham Forest"
+      ],
+      "sourceTitle": "Retro Nottingham Forest 94/95 Red S-XXL",
+      "updatedAt": "2026-10-11T23:42:04.423Z"
     },
     {
       "id": "yupoo-184319771",
@@ -109527,6 +112138,46 @@
       ],
       "sourceTitle": "Retro Osasuna 97/98 Away S-XXL",
       "updatedAt": "2026-10-11T14:31:15.319Z"
+    },
+    {
+      "id": "yupoo-89952432",
+      "name": "Retro Palma 95/97 White",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/89952432?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-palma-95-97-white/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-palma-95-97-white/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-palma-95-97-white/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-palma-95-97-white/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-palma-95-97-white/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-palma-95-97-white/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-palma-95-97-white/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-palma-95-97-white/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-palma-95-97-white/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-palma-95-97-white",
+      "siteCategory": "retro",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season"
+      ],
+      "sourceTitle": "Retro Palma 95/97 White S-XXL",
+      "updatedAt": "2026-10-11T23:38:52.566Z"
     },
     {
       "id": "yupoo-189879653",
@@ -109902,6 +112553,88 @@
       "updatedAt": "2026-10-11T19:51:11.848Z"
     },
     {
+      "id": "yupoo-88416696",
+      "name": "Retro Parma 01/02 home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/88416696?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-parma-01-02-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-parma-01-02-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-parma-01-02-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-parma-01-02-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-parma-01-02-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-parma-01-02-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-parma-01-02-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-parma-01-02-home/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-parma-01-02-home",
+      "siteCategory": "retro",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2001/02",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Serie A",
+        "Parma Calcio"
+      ],
+      "sourceTitle": "Retro Parma 01/02 home S-XXL",
+      "updatedAt": "2026-10-11T23:42:29.618Z"
+    },
+    {
+      "id": "yupoo-88416700",
+      "name": "Retro Parma 02/03 away",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/88416700?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-parma-02-03-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-parma-02-03-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-parma-02-03-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-parma-02-03-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-parma-02-03-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-parma-02-03-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-parma-02-03-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-parma-02-03-away/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-parma-02-03-away",
+      "siteCategory": "retro",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2002/03",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Serie A",
+        "Parma Calcio"
+      ],
+      "sourceTitle": "Retro Parma 02/03 away S-XXL",
+      "updatedAt": "2026-10-11T23:42:17.484Z"
+    },
+    {
       "id": "yupoo-190496779",
       "name": "Retro Parma 02/03 Home",
       "category": "Retro football shirt",
@@ -110108,6 +112841,47 @@
       ],
       "sourceTitle": "Retro Parma 95/97 Away S-XXL",
       "updatedAt": "2026-10-11T17:35:11.949Z"
+    },
+    {
+      "id": "yupoo-89952389",
+      "name": "Retro Parma 95/97 Yellow",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/89952389?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-parma-95-97-yellow/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-parma-95-97-yellow/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-parma-95-97-yellow/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-parma-95-97-yellow/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-parma-95-97-yellow/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-parma-95-97-yellow/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-parma-95-97-yellow/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-parma-95-97-yellow/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-parma-95-97-yellow",
+      "siteCategory": "retro",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Serie A",
+        "Parma Calcio"
+      ],
+      "sourceTitle": "Retro Parma 95/97 Yellow S-XXL",
+      "updatedAt": "2026-10-11T23:39:05.897Z"
     },
     {
       "id": "yupoo-113915893",
@@ -110354,6 +113128,47 @@
       ],
       "sourceTitle": "Retro Poland 2012 Home S-XXL",
       "updatedAt": "2026-10-11T18:27:14.794Z"
+    },
+    {
+      "id": "yupoo-92368465",
+      "name": "Retro Porto 03/04 home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/92368465?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-porto-03-04-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-porto-03-04-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-porto-03-04-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-porto-03-04-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-porto-03-04-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-porto-03-04-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-porto-03-04-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-porto-03-04-home/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-porto-03-04-home",
+      "siteCategory": "retro",
+      "team": "FC Porto",
+      "league": "Liga Portugal",
+      "country": "Portugal",
+      "season": "2003/04",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Primeira Liga",
+        "FC Porto"
+      ],
+      "sourceTitle": "Retro Porto 03/04 home S-XXL",
+      "updatedAt": "2026-10-11T23:33:22.449Z"
     },
     {
       "id": "yupoo-182399102",
@@ -110681,6 +113496,44 @@
       "updatedAt": "2026-10-11T18:28:25.508Z"
     },
     {
+      "id": "yupoo-94446130",
+      "name": "Retro Portugal 2002 home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/94446130?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-portugal-2002-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-portugal-2002-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-portugal-2002-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-portugal-2002-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-portugal-2002-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-portugal-2002-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-portugal-2002-home/image-06.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-portugal-2002-home",
+      "siteCategory": "retro",
+      "team": "Portugal",
+      "league": "National teams",
+      "country": "Portugal",
+      "season": "2002",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season"
+      ],
+      "sourceTitle": "Retro Portugal 2002 home S-XXL",
+      "updatedAt": "2026-10-11T23:24:59.518Z"
+    },
+    {
       "id": "yupoo-181124182",
       "name": "Retro Portugal 2004 Away",
       "category": "Retro football shirt",
@@ -110878,6 +113731,45 @@
       ],
       "sourceTitle": "Retro Portugal 2010 Away S-XXL",
       "updatedAt": "2026-10-11T17:26:27.095Z"
+    },
+    {
+      "id": "yupoo-93345503",
+      "name": "Retro Portugal 2012 away",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/93345503?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-portugal-2012-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-portugal-2012-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-portugal-2012-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-portugal-2012-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-portugal-2012-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-portugal-2012-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-portugal-2012-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-portugal-2012-away/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-portugal-2012-away",
+      "siteCategory": "retro",
+      "team": "Portugal",
+      "league": "National teams",
+      "country": "Portugal",
+      "season": "2012",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season"
+      ],
+      "sourceTitle": "Retro Portugal 2012 away S-XXL",
+      "updatedAt": "2026-10-11T23:31:22.624Z"
     },
     {
       "id": "yupoo-163509164",
@@ -111200,6 +114092,131 @@
       "updatedAt": "2026-10-11T16:53:18.573Z"
     },
     {
+      "id": "yupoo-93987255",
+      "name": "Retro PSG 01/02 away",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/93987255?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-psg-01-02-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-psg-01-02-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-psg-01-02-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-psg-01-02-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-psg-01-02-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-psg-01-02-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-psg-01-02-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-psg-01-02-away/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-psg-01-02-away/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-psg-01-02-away",
+      "siteCategory": "retro",
+      "team": "Paris Saint-Germain",
+      "league": "Ligue 1",
+      "country": "France",
+      "season": "2001/02",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Ligue 1",
+        "PSG"
+      ],
+      "sourceTitle": "Retro PSG 01/02 away S-XXL",
+      "updatedAt": "2026-10-11T23:29:37.561Z"
+    },
+    {
+      "id": "yupoo-90946866",
+      "name": "Retro PSG 01/02 home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/90946866?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-psg-01-02-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-psg-01-02-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-psg-01-02-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-psg-01-02-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-psg-01-02-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-psg-01-02-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-psg-01-02-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-psg-01-02-home/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-psg-01-02-home",
+      "siteCategory": "retro",
+      "team": "Paris Saint-Germain",
+      "league": "Ligue 1",
+      "country": "France",
+      "season": "2001/02",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Ligue 1",
+        "PSG"
+      ],
+      "sourceTitle": "Retro PSG 01/02 home S-XXL",
+      "updatedAt": "2026-10-11T23:35:51.466Z"
+    },
+    {
+      "id": "yupoo-93987300",
+      "name": "Retro PSG 01/02 third away",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/93987300?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-psg-01-02-third-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-psg-01-02-third-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-psg-01-02-third-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-psg-01-02-third-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-psg-01-02-third-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-psg-01-02-third-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-psg-01-02-third-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-psg-01-02-third-away/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-psg-01-02-third-away/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-psg-01-02-third-away",
+      "siteCategory": "retro",
+      "team": "Paris Saint-Germain",
+      "league": "Ligue 1",
+      "country": "France",
+      "season": "2001/02",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Ligue 1",
+        "PSG"
+      ],
+      "sourceTitle": "Retro PSG 01/02 third away S-XXL",
+      "updatedAt": "2026-10-11T23:29:22.818Z"
+    },
+    {
       "id": "yupoo-96649319",
       "name": "Retro PSG 02/03 away white",
       "category": "Retro football shirt",
@@ -111239,6 +114256,48 @@
       ],
       "sourceTitle": "Retro PSG 02/03 away white S-XXL",
       "updatedAt": "2026-10-11T20:14:50.777Z"
+    },
+    {
+      "id": "yupoo-96144687",
+      "name": "Retro PSG 02/03 home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/96144687?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-psg-02-03-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-psg-02-03-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-psg-02-03-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-psg-02-03-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-psg-02-03-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-psg-02-03-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-psg-02-03-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-psg-02-03-home/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-psg-02-03-home/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-psg-02-03-home",
+      "siteCategory": "retro",
+      "team": "Paris Saint-Germain",
+      "league": "Ligue 1",
+      "country": "France",
+      "season": "2002/03",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Ligue 1",
+        "PSG"
+      ],
+      "sourceTitle": "Retro PSG 02/03 home S-XXL",
+      "updatedAt": "2026-10-11T23:21:48.858Z"
     },
     {
       "id": "yupoo-138763723",
@@ -111452,6 +114511,88 @@
       "updatedAt": "2026-10-11T19:19:42.966Z"
     },
     {
+      "id": "yupoo-93344811",
+      "name": "Retro PSG 92/93 home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/93344811?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-psg-92-93-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-psg-92-93-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-psg-92-93-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-psg-92-93-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-psg-92-93-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-psg-92-93-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-psg-92-93-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-psg-92-93-home/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-psg-92-93-home",
+      "siteCategory": "retro",
+      "team": "Paris Saint-Germain",
+      "league": "Ligue 1",
+      "country": "France",
+      "season": "1992/93",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Ligue 1",
+        "PSG"
+      ],
+      "sourceTitle": "Retro PSG 92/93 home S-XXL",
+      "updatedAt": "2026-10-11T23:32:28.567Z"
+    },
+    {
+      "id": "yupoo-90366855",
+      "name": "Retro PSG 93/94 away",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/90366855?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-psg-93-94-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-psg-93-94-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-psg-93-94-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-psg-93-94-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-psg-93-94-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-psg-93-94-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-psg-93-94-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-psg-93-94-away/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-psg-93-94-away",
+      "siteCategory": "retro",
+      "team": "Paris Saint-Germain",
+      "league": "Ligue 1",
+      "country": "France",
+      "season": "1993/94",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Ligue 1",
+        "PSG"
+      ],
+      "sourceTitle": "Retro PSG 93/94 away S-XXL",
+      "updatedAt": "2026-10-11T23:37:49.305Z"
+    },
+    {
       "id": "yupoo-209263814",
       "name": "Retro PSG 94/95 Away",
       "category": "Retro football shirt",
@@ -111490,6 +114631,47 @@
       ],
       "sourceTitle": "Retro PSG 94/95 Away S-XXL",
       "updatedAt": "2026-10-11T16:49:59.792Z"
+    },
+    {
+      "id": "yupoo-93344765",
+      "name": "Retro PSG 95/96 home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/93344765?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-psg-95-96-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-psg-95-96-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-psg-95-96-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-psg-95-96-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-psg-95-96-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-psg-95-96-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-psg-95-96-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-psg-95-96-home/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-psg-95-96-home",
+      "siteCategory": "retro",
+      "team": "Paris Saint-Germain",
+      "league": "Ligue 1",
+      "country": "France",
+      "season": "1995/96",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Ligue 1",
+        "PSG"
+      ],
+      "sourceTitle": "Retro PSG 95/96 home S-XXL",
+      "updatedAt": "2026-10-11T23:32:42.956Z"
     },
     {
       "id": "yupoo-139626948",
@@ -112784,6 +115966,47 @@
       "updatedAt": "2026-10-11T18:55:44.075Z"
     },
     {
+      "id": "yupoo-93344951",
+      "name": "Retro Real Madrid 05/06 home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/93344951?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-real-madrid-05-06-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-real-madrid-05-06-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-real-madrid-05-06-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-real-madrid-05-06-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-real-madrid-05-06-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-real-madrid-05-06-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-real-madrid-05-06-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-real-madrid-05-06-home/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-real-madrid-05-06-home/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-real-madrid-05-06-home",
+      "siteCategory": "retro",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2005/06",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "La Liga"
+      ],
+      "sourceTitle": "Retro Real Madrid 05/06 home S-XXL",
+      "updatedAt": "2026-10-11T23:32:15.139Z"
+    },
+    {
       "id": "yupoo-189378938",
       "name": "Retro Real Madrid 06/07 Third away",
       "category": "Retro football shirt",
@@ -114025,6 +117248,46 @@
       "updatedAt": "2026-10-11T17:03:31.283Z"
     },
     {
+      "id": "yupoo-95019714",
+      "name": "Retro Real Madrid 96/97 away",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/95019714?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-real-madrid-96-97-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-real-madrid-96-97-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-real-madrid-96-97-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-real-madrid-96-97-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-real-madrid-96-97-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-real-madrid-96-97-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-real-madrid-96-97-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-real-madrid-96-97-away/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-real-madrid-96-97-away",
+      "siteCategory": "retro",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "1996/97",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "La Liga"
+      ],
+      "sourceTitle": "Retro Real Madrid 96/97 away S-XXL",
+      "updatedAt": "2026-10-11T23:24:22.402Z"
+    },
+    {
       "id": "yupoo-96245962",
       "name": "Retro Real Madrid 96/97 home",
       "category": "Retro football shirt",
@@ -114063,6 +117326,46 @@
       ],
       "sourceTitle": "Retro Real Madrid 96/97 home S-XXL",
       "updatedAt": "2026-10-11T20:17:59.317Z"
+    },
+    {
+      "id": "yupoo-95019727",
+      "name": "Retro Real Madrid 96/97 third away",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/95019727?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-real-madrid-96-97-third-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-real-madrid-96-97-third-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-real-madrid-96-97-third-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-real-madrid-96-97-third-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-real-madrid-96-97-third-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-real-madrid-96-97-third-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-real-madrid-96-97-third-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-real-madrid-96-97-third-away/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-real-madrid-96-97-third-away",
+      "siteCategory": "retro",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "1996/97",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "La Liga"
+      ],
+      "sourceTitle": "Retro Real Madrid 96/97 third away S-XXL",
+      "updatedAt": "2026-10-11T23:24:09.881Z"
     },
     {
       "id": "yupoo-114715816",
@@ -114759,6 +118062,46 @@
       "updatedAt": "2026-10-11T17:43:03.799Z"
     },
     {
+      "id": "yupoo-90366818",
+      "name": "Retro River Plate 95/96 away",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/90366818?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-river-plate-95-96-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-river-plate-95-96-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-river-plate-95-96-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-river-plate-95-96-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-river-plate-95-96-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-river-plate-95-96-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-river-plate-95-96-away/image-06.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-river-plate-95-96-away",
+      "siteCategory": "retro",
+      "team": "River Plate",
+      "league": "Other leagues",
+      "country": "Argentina",
+      "season": "1995/96",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "Liga Profesional",
+        "River Plate",
+        "new season"
+      ],
+      "sourceTitle": "Retro River Plate 95/96 away S-XXL",
+      "updatedAt": "2026-10-11T23:38:02.021Z"
+    },
+    {
       "id": "yupoo-113162672",
       "name": "Retro River Plate 95/96 home",
       "category": "Retro football shirt",
@@ -114798,6 +118141,47 @@
       ],
       "sourceTitle": "Retro River Plate 95/96 home S-XXL",
       "updatedAt": "2026-10-11T19:54:24.726Z"
+    },
+    {
+      "id": "yupoo-90366809",
+      "name": "Retro River Plate 95/96 home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/90366809?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-river-plate-95-96-home-2/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-river-plate-95-96-home-2/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-river-plate-95-96-home-2/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-river-plate-95-96-home-2/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-river-plate-95-96-home-2/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-river-plate-95-96-home-2/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-river-plate-95-96-home-2/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-river-plate-95-96-home-2/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-river-plate-95-96-home-2",
+      "siteCategory": "retro",
+      "team": "River Plate",
+      "league": "Other leagues",
+      "country": "Argentina",
+      "season": "1995/96",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "Liga Profesional",
+        "River Plate",
+        "new season"
+      ],
+      "sourceTitle": "Retro River Plate 95/96 home S-XXL",
+      "updatedAt": "2026-10-11T23:38:16.351Z"
     },
     {
       "id": "yupoo-165364017",
@@ -115414,6 +118798,51 @@
       "updatedAt": "2026-10-11T17:17:19.360Z"
     },
     {
+      "id": "yupoo-90367091",
+      "name": "Retro Roman 00/01 away",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/90367091?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-roman-00-01-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-roman-00-01-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-roman-00-01-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-roman-00-01-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-roman-00-01-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-roman-00-01-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-roman-00-01-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-roman-00-01-away/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-roman-00-01-away/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-roman-00-01-away/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-roman-00-01-away/image-10.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-roman-00-01-away/image-11.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-roman-00-01-away/image-12.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-roman-00-01-away",
+      "siteCategory": "retro",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2000/01",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Serie A"
+      ],
+      "sourceTitle": "Retro Roman 00/01 away S-XXL",
+      "updatedAt": "2026-10-11T23:36:47.230Z"
+    },
+    {
       "id": "yupoo-182398847",
       "name": "Retro Romania 1994 Home",
       "category": "Retro football shirt",
@@ -115954,6 +119383,123 @@
       "updatedAt": "2026-10-11T18:27:00.494Z"
     },
     {
+      "id": "yupoo-91947066",
+      "name": "Retro Scotland 1988/89 away",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/91947066?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-scotland-1988-89-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-scotland-1988-89-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-scotland-1988-89-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-scotland-1988-89-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-scotland-1988-89-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-scotland-1988-89-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-scotland-1988-89-away/image-06.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-scotland-1988-89-away",
+      "siteCategory": "retro",
+      "team": "Scotland",
+      "league": "National teams",
+      "country": "Scotland",
+      "season": "1988/89",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "Scottish League",
+        "new season"
+      ],
+      "sourceTitle": "Retro Scotland 1988/89 away S-XXL",
+      "updatedAt": "2026-10-11T23:35:12.838Z"
+    },
+    {
+      "id": "yupoo-91947151",
+      "name": "Retro Scotland 1988/89 third away",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/91947151?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-scotland-1988-89-third-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-scotland-1988-89-third-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-scotland-1988-89-third-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-scotland-1988-89-third-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-scotland-1988-89-third-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-scotland-1988-89-third-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-scotland-1988-89-third-away/image-06.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-scotland-1988-89-third-away",
+      "siteCategory": "retro",
+      "team": "Scotland",
+      "league": "National teams",
+      "country": "Scotland",
+      "season": "1988/89",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "Scottish League",
+        "new season"
+      ],
+      "sourceTitle": "Retro Scotland 1988/89 third away S-XXL",
+      "updatedAt": "2026-10-11T23:34:55.382Z"
+    },
+    {
+      "id": "yupoo-91947244",
+      "name": "Retro Scotland 1994/96 home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/91947244?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-scotland-1994-96-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-scotland-1994-96-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-scotland-1994-96-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-scotland-1994-96-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-scotland-1994-96-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-scotland-1994-96-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-scotland-1994-96-home/image-06.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-scotland-1994-96-home",
+      "siteCategory": "retro",
+      "team": "Scotland",
+      "league": "National teams",
+      "country": "Scotland",
+      "season": "1994/96",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "Scottish League",
+        "new season"
+      ],
+      "sourceTitle": "Retro Scotland 1994/96 home S-XXL",
+      "updatedAt": "2026-10-11T23:34:42.914Z"
+    },
+    {
       "id": "yupoo-145715731",
       "name": "Retro Scotland 1998 Home",
       "category": "Retro football shirt",
@@ -116031,6 +119577,46 @@
       "updatedAt": "2026-10-11T18:28:08.400Z"
     },
     {
+      "id": "yupoo-96144474",
+      "name": "Retro Scotland 88/91 away",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/96144474?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-scotland-88-91-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-scotland-88-91-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-scotland-88-91-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-scotland-88-91-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-scotland-88-91-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-scotland-88-91-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-scotland-88-91-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-scotland-88-91-away/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-scotland-88-91-away/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-scotland-88-91-away",
+      "siteCategory": "retro",
+      "team": "Scotland",
+      "league": "National teams",
+      "country": "Scotland",
+      "season": "",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season"
+      ],
+      "sourceTitle": "Retro Scotland 88/91 away S-XXL",
+      "updatedAt": "2026-10-11T23:22:04.279Z"
+    },
+    {
       "id": "yupoo-166257270",
       "name": "Retro Scotland 91/93 Away",
       "category": "Retro football shirt",
@@ -116067,6 +119653,85 @@
       ],
       "sourceTitle": "Retro Scotland 91/93 Away S-XXL",
       "updatedAt": "2026-10-11T18:26:44.926Z"
+    },
+    {
+      "id": "yupoo-90367149",
+      "name": "Retro Scotland 94/96 White",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/90367149?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-scotland-94-96-white/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-scotland-94-96-white/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-scotland-94-96-white/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-scotland-94-96-white/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-scotland-94-96-white/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-scotland-94-96-white/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-scotland-94-96-white/image-06.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-scotland-94-96-white",
+      "siteCategory": "retro",
+      "team": "Scotland",
+      "league": "National teams",
+      "country": "Scotland",
+      "season": "",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "Scottish League",
+        "new season"
+      ],
+      "sourceTitle": "Retro Scotland 94/96 White S-XXL",
+      "updatedAt": "2026-10-11T23:36:30.606Z"
+    },
+    {
+      "id": "yupoo-90367181",
+      "name": "Retro Scotland 96/98 Yellow",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/90367181?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-scotland-96-98-yellow/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-scotland-96-98-yellow/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-scotland-96-98-yellow/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-scotland-96-98-yellow/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-scotland-96-98-yellow/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-scotland-96-98-yellow/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-scotland-96-98-yellow/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-scotland-96-98-yellow/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-scotland-96-98-yellow",
+      "siteCategory": "retro",
+      "team": "Scotland",
+      "league": "National teams",
+      "country": "Scotland",
+      "season": "",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "Scottish League",
+        "new season"
+      ],
+      "sourceTitle": "Retro Scotland 96/98 Yellow S-XXL",
+      "updatedAt": "2026-10-11T23:36:18.706Z"
     },
     {
       "id": "yupoo-212481897",
@@ -116996,6 +120661,85 @@
       "updatedAt": "2026-10-11T18:58:29.845Z"
     },
     {
+      "id": "yupoo-93987470",
+      "name": "Retro Spain 1996 away",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/93987470?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-spain-1996-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-spain-1996-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-spain-1996-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-spain-1996-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-spain-1996-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-spain-1996-away/image-05.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-spain-1996-away",
+      "siteCategory": "retro",
+      "team": "Spain",
+      "league": "National teams",
+      "country": "Spain",
+      "season": "1996",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "La Liga"
+      ],
+      "sourceTitle": "Retro Spain 1996 away S-XXL",
+      "updatedAt": "2026-10-11T23:28:33.511Z"
+    },
+    {
+      "id": "yupoo-93987522",
+      "name": "Retro Spain 1996 home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/93987522?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-spain-1996-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-spain-1996-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-spain-1996-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-spain-1996-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-spain-1996-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-spain-1996-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-spain-1996-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-spain-1996-home/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-spain-1996-home/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-spain-1996-home",
+      "siteCategory": "retro",
+      "team": "Spain",
+      "league": "National teams",
+      "country": "Spain",
+      "season": "1996",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "La Liga"
+      ],
+      "sourceTitle": "Retro Spain 1996 home S-XXL",
+      "updatedAt": "2026-10-11T23:28:21.877Z"
+    },
+    {
       "id": "yupoo-184319715",
       "name": "Retro Spain 2000 Away",
       "category": "Retro football shirt",
@@ -117074,6 +120818,45 @@
       "updatedAt": "2026-10-11T17:59:55.052Z"
     },
     {
+      "id": "yupoo-94445874",
+      "name": "Retro Spain 2002 home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/94445874?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-spain-2002-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-spain-2002-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-spain-2002-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-spain-2002-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-spain-2002-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-spain-2002-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-spain-2002-home/image-06.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-spain-2002-home",
+      "siteCategory": "retro",
+      "team": "Spain",
+      "league": "National teams",
+      "country": "Spain",
+      "season": "2002",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "La Liga"
+      ],
+      "sourceTitle": "Retro Spain 2002 home S-XXL",
+      "updatedAt": "2026-10-11T23:25:25.524Z"
+    },
+    {
       "id": "yupoo-190513952",
       "name": "Retro Spain 2008 Away",
       "category": "Retro football shirt",
@@ -117150,6 +120933,46 @@
       ],
       "sourceTitle": "Retro Spain 2008 Home S-XXL",
       "updatedAt": "2026-10-11T19:01:56.511Z"
+    },
+    {
+      "id": "yupoo-93345188",
+      "name": "Retro Spain 2010 away",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/93345188?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-spain-2010-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-spain-2010-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-spain-2010-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-spain-2010-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-spain-2010-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-spain-2010-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-spain-2010-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-spain-2010-away/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-spain-2010-away",
+      "siteCategory": "retro",
+      "team": "Spain",
+      "league": "National teams",
+      "country": "Spain",
+      "season": "2010",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "La Liga"
+      ],
+      "sourceTitle": "Retro Spain 2010 away S-XXL",
+      "updatedAt": "2026-10-11T23:31:49.624Z"
     },
     {
       "id": "yupoo-151321257",
@@ -117990,6 +121813,47 @@
       "updatedAt": "2026-10-11T20:18:32.064Z"
     },
     {
+      "id": "yupoo-96245528",
+      "name": "Retro Tigers 99/00 home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/96245528?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-tigers-99-00-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-tigers-99-00-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-tigers-99-00-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-tigers-99-00-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-tigers-99-00-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-tigers-99-00-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-tigers-99-00-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-tigers-99-00-home/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-tigers-99-00-home/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-tigers-99-00-home",
+      "siteCategory": "retro",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "1999/00",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "LIGA MX"
+      ],
+      "sourceTitle": "Retro Tigers 99/00 home S-XXL",
+      "updatedAt": "2026-10-11T23:20:14.444Z"
+    },
+    {
       "id": "yupoo-118466215",
       "name": "Retro Tottenham 06/07 away",
       "category": "Retro football shirt",
@@ -118072,6 +121936,47 @@
       "updatedAt": "2026-10-11T19:37:37.202Z"
     },
     {
+      "id": "yupoo-95620541",
+      "name": "Retro Tottenham 08/09 home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/95620541?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-tottenham-08-09-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-tottenham-08-09-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-tottenham-08-09-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-tottenham-08-09-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-tottenham-08-09-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-tottenham-08-09-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-tottenham-08-09-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-tottenham-08-09-home/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-tottenham-08-09-home",
+      "siteCategory": "retro",
+      "team": "Tottenham Hotspur",
+      "league": "Premier League",
+      "country": "England",
+      "season": "2008/09",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Premier League",
+        "Tottenham Hotspur"
+      ],
+      "sourceTitle": "Retro Tottenham 08/09 home S-XXL",
+      "updatedAt": "2026-10-11T23:23:43.815Z"
+    },
+    {
       "id": "yupoo-201768237",
       "name": "Retro Tottenham 09/10 Home",
       "category": "Retro football shirt",
@@ -118112,6 +122017,90 @@
       ],
       "sourceTitle": "Retro Tottenham 09/10 Home S-XXL",
       "updatedAt": "2026-10-11T16:58:51.436Z"
+    },
+    {
+      "id": "yupoo-88416654",
+      "name": "Retro Tottenham 1994 home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/88416654?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-tottenham-1994-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-tottenham-1994-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-tottenham-1994-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-tottenham-1994-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-tottenham-1994-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-tottenham-1994-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-tottenham-1994-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-tottenham-1994-home/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-tottenham-1994-home",
+      "siteCategory": "retro",
+      "team": "Tottenham Hotspur",
+      "league": "Premier League",
+      "country": "England",
+      "season": "1994",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Premier League",
+        "Tottenham Hotspur"
+      ],
+      "sourceTitle": "Retro Tottenham 1994 home S-XXL",
+      "updatedAt": "2026-10-11T23:43:01.023Z"
+    },
+    {
+      "id": "yupoo-88416662",
+      "name": "Retro Tottenham 1998 away",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/88416662?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-tottenham-1998-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-tottenham-1998-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-tottenham-1998-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-tottenham-1998-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-tottenham-1998-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-tottenham-1998-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-tottenham-1998-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-tottenham-1998-away/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-tottenham-1998-away/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-tottenham-1998-away/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-tottenham-1998-away",
+      "siteCategory": "retro",
+      "team": "Tottenham Hotspur",
+      "league": "Premier League",
+      "country": "England",
+      "season": "1998",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Premier League",
+        "Tottenham Hotspur"
+      ],
+      "sourceTitle": "Retro Tottenham 1998 away S-XXL",
+      "updatedAt": "2026-10-11T23:42:45.849Z"
     },
     {
       "id": "yupoo-167395964",
@@ -119341,6 +123330,84 @@
       ],
       "sourceTitle": "Retro Villarreal 05/06 Home S-XXL",
       "updatedAt": "2026-10-11T10:58:46.254Z"
+    },
+    {
+      "id": "yupoo-96144821",
+      "name": "Retro Wales 15/16 home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/96144821?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-wales-15-16-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-wales-15-16-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-wales-15-16-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-wales-15-16-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-wales-15-16-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-wales-15-16-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-wales-15-16-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-wales-15-16-home/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-wales-15-16-home",
+      "siteCategory": "retro",
+      "team": "Wales",
+      "league": "National teams",
+      "country": "Wales",
+      "season": "2015/16",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season"
+      ],
+      "sourceTitle": "Retro Wales 15/16 home S-XXL",
+      "updatedAt": "2026-10-11T23:21:09.770Z"
+    },
+    {
+      "id": "yupoo-96144422",
+      "name": "Retro Wales 90/92 away",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/96144422?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-wales-90-92-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-wales-90-92-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-wales-90-92-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-wales-90-92-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-wales-90-92-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-wales-90-92-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-wales-90-92-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-wales-90-92-away/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-wales-90-92-away",
+      "siteCategory": "retro",
+      "team": "Wales",
+      "league": "National teams",
+      "country": "Wales",
+      "season": "",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season"
+      ],
+      "sourceTitle": "Retro Wales 90/92 away S-XXL",
+      "updatedAt": "2026-10-11T23:22:18.567Z"
     },
     {
       "id": "yupoo-96245833",
