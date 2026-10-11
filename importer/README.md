@@ -93,11 +93,32 @@ Then commit `web/public/catalog.json`, `web/public/catalog/` and `importer/state
 - `selectors`: CSS selectors for Yupoo's pages. If Yupoo changes its layout and albums or photos stop being found, adjust these (run with `--headed` to look at the page).
 - `categoryMap`: Yupoo category name (lower case, partial match) to site category key.
 
-## Changing storage (Cloudinary, Supabase Storage, Amazon S3)
+## Photos in Cloudflare R2 (or another S3-compatible service)
 
-All storage goes through `lib/storage/`. A driver implements `put(key, buffer, contentType) → public URL`, `exists(key)`, `url(key)`, `list(prefix)` and `remove(key)`. To move the photos:
+By default photos are files in `web/public/catalog/`, served by the site. For the full catalogue (several GB) keep them in object storage instead; `catalog.json` then holds the bucket's public URLs and the website needs no change.
 
-1. Add `lib/storage/s3.mjs` (or `cloudinary.mjs`, `supabase.mjs`) implementing those functions.
-2. Register it in `lib/storage/index.mjs` and set `"storage": { "driver": "s3", … }` in `config.json`.
+**1. Create the bucket (Cloudflare dashboard)**
+- R2 → Create bucket, e.g. `kitroom-photos`.
+- Bucket → Settings → Public access: enable the `r2.dev` URL (or connect a custom domain such as `photos.yourdomain.com`). Copy that public URL.
+- R2 → Manage API tokens → Create API token with *Object Read & Write* on that bucket. Note the Access Key ID, the Secret Access Key and your Account ID.
 
-`catalog.json` then contains that service's URLs, and the website needs no change.
+**2. Configure the importer**
+- `config.json` → `"storage": { "driver": "r2", "r2": { "accountId": "<account id>", "bucket": "kitroom-photos", "publicBase": "https://pub-….r2.dev/" } }` (these are not secret; they can also be the environment variables `R2_ACCOUNT_ID`, `R2_BUCKET`, `R2_PUBLIC_BASE`).
+- The keys are secret and only read from the environment: `R2_ACCESS_KEY_ID` and `R2_SECRET_ACCESS_KEY`. Never put them in `config.json` or commit them.
+
+**3. Move the photos already imported**
+
+```sh
+npm run migrate-storage -- --to r2 --dry-run   # what would be uploaded
+npm run migrate-storage -- --to r2             # upload, then point catalog.json at the bucket
+```
+
+It skips photos already in the bucket, so it can be re-run after an interruption, and only rewrites `catalog.json` when every photo made it. After that, `npm run import` stores new photos straight in R2 and reorders existing ones there. Once the site works with the bucket URLs, remove the local copies from the repository (`git rm -r web/public/catalog`).
+
+Behind an HTTP proxy, run Node with `NODE_USE_ENV_PROXY=1` (Node ≥ 22.21) so its `fetch` uses `HTTPS_PROXY`.
+
+Amazon S3, Supabase Storage (S3 API) or MinIO work the same way with `"driver": "s3"` and `"s3": { "endpoint": "…", "bucket": "…", "publicBase": "…", "region": "…" }`, keys in `S3_ACCESS_KEY_ID` / `S3_SECRET_ACCESS_KEY`.
+
+## Other storage (Cloudinary, …)
+
+All storage goes through `lib/storage/`. A driver implements `put(key, buffer, contentType) → public URL`, `exists(key)`, `url(key)`, `list(prefix)`, `remove(key)` and, optionally, `get(key)` (lets re-imports reorder stored photos without downloading them again). Add `lib/storage/<name>.mjs`, register it in `lib/storage/index.mjs` and set `"storage": { "driver": "<name>", … }` in `config.json`.

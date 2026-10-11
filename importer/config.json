@@ -12,7 +12,8 @@
   },
   "storage": {
     "driver": "local",
-    "local": { "publicBase": "/" }
+    "local": { "publicBase": "/" },
+    "r2": { "accountId": "", "bucket": "", "publicBase": "" }
   },
   "images": {
     "maxWidth": 1200,
