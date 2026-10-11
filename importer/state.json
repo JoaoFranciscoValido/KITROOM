@@ -1,5 +1,105 @@
 {
   "albums": {
+    "196260536": {
+      "slug": "guatemala-2026-home",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/e8024630/cbfd37f0.jpg",
+          "hash": "5e2b1ad603ad4aee71ba8a7788e93640f082741e",
+          "key": "catalog/guatemala-2026-home/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/8688e01f/19e527e7.jpg",
+          "hash": "62090f77433fb13f5b59dc5893c5f36ac61b8832",
+          "key": "catalog/guatemala-2026-home/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/89af2d97/c3009434.jpg",
+          "hash": "f9ee1abc87479291ed16b5355662caf8fc4a41e4",
+          "key": "catalog/guatemala-2026-home/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/a309d547/f95cf5c7.jpg",
+          "hash": "963d2e0d16ec5588c819b9d7b749f9dcdc360743",
+          "key": "catalog/guatemala-2026-home/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/18e260f5/324097d5.jpg",
+          "hash": "6bde50ae1beaf5798fc906ded9686504f5213691",
+          "key": "catalog/guatemala-2026-home/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/6c266ada/27608afb.jpg",
+          "hash": "4761e63584662bf1dce05a3ae1b724c2923d5aaf",
+          "key": "catalog/guatemala-2026-home/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/8d9268a3/e90f5069.jpg",
+          "hash": "f3acc7ab40189246a376d637fca2e73848fb97ba",
+          "key": "catalog/guatemala-2026-home/image-07.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/e8024630/cbfd37f0.jpg": "5e2b1ad603ad4aee71ba8a7788e93640f082741e",
+        "https://photo.yupoo.com/minkang/8688e01f/19e527e7.jpg": "62090f77433fb13f5b59dc5893c5f36ac61b8832",
+        "https://photo.yupoo.com/minkang/89af2d97/c3009434.jpg": "f9ee1abc87479291ed16b5355662caf8fc4a41e4",
+        "https://photo.yupoo.com/minkang/a309d547/f95cf5c7.jpg": "963d2e0d16ec5588c819b9d7b749f9dcdc360743",
+        "https://photo.yupoo.com/minkang/18e260f5/324097d5.jpg": "6bde50ae1beaf5798fc906ded9686504f5213691",
+        "https://photo.yupoo.com/minkang/6c266ada/27608afb.jpg": "4761e63584662bf1dce05a3ae1b724c2923d5aaf",
+        "https://photo.yupoo.com/minkang/8d9268a3/e90f5069.jpg": "f3acc7ab40189246a376d637fca2e73848fb97ba"
+      },
+      "checkedAt": "2026-10-11T00:06:07.488Z"
+    },
+    "196260613": {
+      "slug": "guatemala-2026-away",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/3a1ec7a7/483d4fb6.jpg",
+          "hash": "64801122874894e43d8da2ddc1756107e6143844",
+          "key": "catalog/guatemala-2026-away/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/6b3d2b7e/304fb473.jpg",
+          "hash": "1b6ec2ae014037d100b2345e55580a22f2bbbcd5",
+          "key": "catalog/guatemala-2026-away/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/a2d0454a/d668260c.jpg",
+          "hash": "a669509e2951978b8332cb677019d719f692c934",
+          "key": "catalog/guatemala-2026-away/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/983eeaf9/ba6d6fcf.jpg",
+          "hash": "a9d5bf62b9e371fdc4ea549c0e41c3054f923562",
+          "key": "catalog/guatemala-2026-away/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/70c17741/13e6f692.jpg",
+          "hash": "d7485133b660b532e3c8a3529001ec4076ad6119",
+          "key": "catalog/guatemala-2026-away/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/ec2298d4/536331b6.jpg",
+          "hash": "1b297b2a53d3ebfc78e0a4a934f5d4e0b7ad062f",
+          "key": "catalog/guatemala-2026-away/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/cc919dec/3e93ea40.jpg",
+          "hash": "f360556391862385d9a3df43c71e9868b6116e54",
+          "key": "catalog/guatemala-2026-away/image-07.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/3a1ec7a7/483d4fb6.jpg": "64801122874894e43d8da2ddc1756107e6143844",
+        "https://photo.yupoo.com/minkang/6b3d2b7e/304fb473.jpg": "1b6ec2ae014037d100b2345e55580a22f2bbbcd5",
+        "https://photo.yupoo.com/minkang/a2d0454a/d668260c.jpg": "a669509e2951978b8332cb677019d719f692c934",
+        "https://photo.yupoo.com/minkang/983eeaf9/ba6d6fcf.jpg": "a9d5bf62b9e371fdc4ea549c0e41c3054f923562",
+        "https://photo.yupoo.com/minkang/70c17741/13e6f692.jpg": "d7485133b660b532e3c8a3529001ec4076ad6119",
+        "https://photo.yupoo.com/minkang/ec2298d4/536331b6.jpg": "1b297b2a53d3ebfc78e0a4a934f5d4e0b7ad062f",
+        "https://photo.yupoo.com/minkang/cc919dec/3e93ea40.jpg": "f360556391862385d9a3df43c71e9868b6116e54"
+      },
+      "checkedAt": "2026-10-11T00:05:59.209Z"
+    },
     "213148345": {
       "slug": "portugal-2025-co-branded-player-version-jersey",
       "entries": [
@@ -106,6 +206,62 @@
       },
       "checkedAt": "2026-10-10T23:57:05.751Z"
     },
+    "215020561": {
+      "slug": "al-ahli-2026-away",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/2b7fdbbd/ba687c1b.jpg",
+          "hash": "fe826f85602f76bb3b3d56c74f2e91204f133d4e",
+          "key": "catalog/al-ahli-2026-away/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/efa059bb/9e5ca0f5.jpg",
+          "hash": "6078cb0fbc5a971d6adb9597b736c1f2e0c9bcf3",
+          "key": "catalog/al-ahli-2026-away/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/0dcd54a0/b184aa3e.jpg",
+          "hash": "0929de377a34ce9fc9e46b40f1f5e5a642cc4bf2",
+          "key": "catalog/al-ahli-2026-away/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/32f3b0fb/2753d48f.jpg",
+          "hash": "6d36f735937504a29af9c7a469a8e538b81abe73",
+          "key": "catalog/al-ahli-2026-away/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/2ccae59a/62a02623.jpg",
+          "hash": "818bdfa3d3325f030eb488c0fd262611a000250c",
+          "key": "catalog/al-ahli-2026-away/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/e9b9a06b/a205f963.jpg",
+          "hash": "2799897989b905acff916f3555f93d2bfcb1c7f6",
+          "key": "catalog/al-ahli-2026-away/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/74b389a0/a47cd9f3.jpg",
+          "hash": "4852f0517ed9b53ca9b97a329c70840be4b5a713",
+          "key": "catalog/al-ahli-2026-away/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/037ec6e3/77a3fa9b.jpg",
+          "hash": "e870ecbee737b29f9718b9ee90e312f64e8f2fb8",
+          "key": "catalog/al-ahli-2026-away/image-08.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/2b7fdbbd/ba687c1b.jpg": "fe826f85602f76bb3b3d56c74f2e91204f133d4e",
+        "https://photo.yupoo.com/minkang/efa059bb/9e5ca0f5.jpg": "6078cb0fbc5a971d6adb9597b736c1f2e0c9bcf3",
+        "https://photo.yupoo.com/minkang/0dcd54a0/b184aa3e.jpg": "0929de377a34ce9fc9e46b40f1f5e5a642cc4bf2",
+        "https://photo.yupoo.com/minkang/32f3b0fb/2753d48f.jpg": "6d36f735937504a29af9c7a469a8e538b81abe73",
+        "https://photo.yupoo.com/minkang/2ccae59a/62a02623.jpg": "818bdfa3d3325f030eb488c0fd262611a000250c",
+        "https://photo.yupoo.com/minkang/e9b9a06b/a205f963.jpg": "2799897989b905acff916f3555f93d2bfcb1c7f6",
+        "https://photo.yupoo.com/minkang/74b389a0/a47cd9f3.jpg": "4852f0517ed9b53ca9b97a329c70840be4b5a713",
+        "https://photo.yupoo.com/minkang/037ec6e3/77a3fa9b.jpg": "e870ecbee737b29f9718b9ee90e312f64e8f2fb8"
+      },
+      "checkedAt": "2026-10-11T00:06:48.408Z"
+    },
     "215045186": {
       "slug": "italy-2026-away-jersey",
       "entries": [
@@ -155,6 +311,156 @@
         "https://photo.yupoo.com/minkang/070f3dde/5f567390.jpg": "f7bbcfdbd16bece64a4f76c99a9792038c575e63"
       },
       "checkedAt": "2026-10-10T23:21:02.544Z"
+    },
+    "215045276": {
+      "slug": "guatemala-2026-third-away",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/0a2f5386/cbec3597.jpg",
+          "hash": "dd7fa7062598e55ba2fbb628645b612fcb56b892",
+          "key": "catalog/guatemala-2026-third-away/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/fac58d01/3dfa5bab.jpg",
+          "hash": "9e26b54a31f5f01b406c6b62d2b98f256338b2e8",
+          "key": "catalog/guatemala-2026-third-away/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/5f1af5ec/557a924b.jpg",
+          "hash": "cec1bba711b87f28ae0683ad8ca9ca841adcd43e",
+          "key": "catalog/guatemala-2026-third-away/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/257495a4/26f862bb.jpg",
+          "hash": "a2ab93748e900af464d62a16b26169d7d9e999bf",
+          "key": "catalog/guatemala-2026-third-away/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/948f6e14/e9cce4a2.jpg",
+          "hash": "9f79c02db1c9286d810f0abd60fa45b10b0b02f8",
+          "key": "catalog/guatemala-2026-third-away/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/4047e3cf/c480c4b6.jpg",
+          "hash": "edd8b8f57af89365810ab834af37f791d53b77ef",
+          "key": "catalog/guatemala-2026-third-away/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/c8d92159/a9865cea.jpg",
+          "hash": "e771e2c3cedefd77409402e4a3b63a1491e7b122",
+          "key": "catalog/guatemala-2026-third-away/image-07.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/0a2f5386/cbec3597.jpg": "dd7fa7062598e55ba2fbb628645b612fcb56b892",
+        "https://photo.yupoo.com/minkang/fac58d01/3dfa5bab.jpg": "9e26b54a31f5f01b406c6b62d2b98f256338b2e8",
+        "https://photo.yupoo.com/minkang/5f1af5ec/557a924b.jpg": "cec1bba711b87f28ae0683ad8ca9ca841adcd43e",
+        "https://photo.yupoo.com/minkang/257495a4/26f862bb.jpg": "a2ab93748e900af464d62a16b26169d7d9e999bf",
+        "https://photo.yupoo.com/minkang/948f6e14/e9cce4a2.jpg": "9f79c02db1c9286d810f0abd60fa45b10b0b02f8",
+        "https://photo.yupoo.com/minkang/4047e3cf/c480c4b6.jpg": "edd8b8f57af89365810ab834af37f791d53b77ef",
+        "https://photo.yupoo.com/minkang/c8d92159/a9865cea.jpg": "e771e2c3cedefd77409402e4a3b63a1491e7b122"
+      },
+      "checkedAt": "2026-10-11T00:05:50.578Z"
+    },
+    "215045281": {
+      "slug": "ireland-25-26-home-jersey",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/5553fedf/2f53dbc6.jpg",
+          "hash": "7d023452c1ca7cc6dd1d03578dfa7e09f60deeb4",
+          "key": "catalog/ireland-25-26-home-jersey/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/89320c20/428964d4.jpg",
+          "hash": "698747ffd53287a9ff8139d62b9ca85d7e5d5229",
+          "key": "catalog/ireland-25-26-home-jersey/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/72a4b545/3419db80.jpg",
+          "hash": "42f28d32d71978e79d7ff94078964aafebbb8792",
+          "key": "catalog/ireland-25-26-home-jersey/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/56415d63/30bf04fe.jpg",
+          "hash": "6509de2ed6444963ff4a27651f5341edc318ad78",
+          "key": "catalog/ireland-25-26-home-jersey/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/6c05317e/94c3c77d.jpg",
+          "hash": "6c0c17b55cb8253c30f81b75349729c71edd8e66",
+          "key": "catalog/ireland-25-26-home-jersey/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/b054a8bd/94e1b445.jpg",
+          "hash": "4124c3b57c3c2e06f27b6428ed32e0cd9b4d1e78",
+          "key": "catalog/ireland-25-26-home-jersey/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/a23dd633/06b9b0a2.jpg",
+          "hash": "45c469728281615a36af3b113dfbf2a9040c691c",
+          "key": "catalog/ireland-25-26-home-jersey/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/1c51d5f2/a87a9aab.jpg",
+          "hash": "bf5aa885407278874c2c0e962ffd59ff39053adf",
+          "key": "catalog/ireland-25-26-home-jersey/image-08.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/5553fedf/2f53dbc6.jpg": "7d023452c1ca7cc6dd1d03578dfa7e09f60deeb4",
+        "https://photo.yupoo.com/minkang/89320c20/428964d4.jpg": "698747ffd53287a9ff8139d62b9ca85d7e5d5229",
+        "https://photo.yupoo.com/minkang/72a4b545/3419db80.jpg": "42f28d32d71978e79d7ff94078964aafebbb8792",
+        "https://photo.yupoo.com/minkang/56415d63/30bf04fe.jpg": "6509de2ed6444963ff4a27651f5341edc318ad78",
+        "https://photo.yupoo.com/minkang/6c05317e/94c3c77d.jpg": "6c0c17b55cb8253c30f81b75349729c71edd8e66",
+        "https://photo.yupoo.com/minkang/b054a8bd/94e1b445.jpg": "4124c3b57c3c2e06f27b6428ed32e0cd9b4d1e78",
+        "https://photo.yupoo.com/minkang/a23dd633/06b9b0a2.jpg": "45c469728281615a36af3b113dfbf2a9040c691c",
+        "https://photo.yupoo.com/minkang/1c51d5f2/a87a9aab.jpg": "bf5aa885407278874c2c0e962ffd59ff39053adf"
+      },
+      "checkedAt": "2026-10-11T00:07:16.171Z"
+    },
+    "215045282": {
+      "slug": "romania-2026-home",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/ad52f922/e774c02c.jpg",
+          "hash": "2359cff8ebd8c4a0cf03e24b49a30cb3ce954b09",
+          "key": "catalog/romania-2026-home/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/5453ee86/58341a76.jpg",
+          "hash": "f99ff6601e14ee2de3241c23abdf26e180d2877c",
+          "key": "catalog/romania-2026-home/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/1a954626/6d5f19a3.jpg",
+          "hash": "6f574ee472daf0613846bf5952f28911fbbee174",
+          "key": "catalog/romania-2026-home/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/8ff66cb6/9ec4693c.jpg",
+          "hash": "355f14aa7f9f4bfe4b8d8de6381b771fddb7a25f",
+          "key": "catalog/romania-2026-home/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/fb10999f/e833ffe8.jpg",
+          "hash": "760bd0eda038e946eb02ca3ba5045b6326104a29",
+          "key": "catalog/romania-2026-home/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/200d7911/3600261b.jpg",
+          "hash": "00fc1bf8522c1e664e0e7aad70383976ddae01ac",
+          "key": "catalog/romania-2026-home/image-06.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/ad52f922/e774c02c.jpg": "2359cff8ebd8c4a0cf03e24b49a30cb3ce954b09",
+        "https://photo.yupoo.com/minkang/5453ee86/58341a76.jpg": "f99ff6601e14ee2de3241c23abdf26e180d2877c",
+        "https://photo.yupoo.com/minkang/1a954626/6d5f19a3.jpg": "6f574ee472daf0613846bf5952f28911fbbee174",
+        "https://photo.yupoo.com/minkang/8ff66cb6/9ec4693c.jpg": "355f14aa7f9f4bfe4b8d8de6381b771fddb7a25f",
+        "https://photo.yupoo.com/minkang/fb10999f/e833ffe8.jpg": "760bd0eda038e946eb02ca3ba5045b6326104a29",
+        "https://photo.yupoo.com/minkang/200d7911/3600261b.jpg": "00fc1bf8522c1e664e0e7aad70383976ddae01ac"
+      },
+      "checkedAt": "2026-10-11T00:07:05.898Z"
     },
     "215045287": {
       "slug": "mexico-2026-home-jersey",
@@ -448,6 +754,118 @@
       },
       "checkedAt": "2026-10-10T23:57:55.467Z"
     },
+    "215946203": {
+      "slug": "cape-verde-2026-away-jersey",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/264b4835/ce7e1d44.jpg",
+          "hash": "cbf43febcfd663f520902483372f3b821051d34f",
+          "key": "catalog/cape-verde-2026-away-jersey/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/f1b6186f/03578dd2.jpg",
+          "hash": "487e3117ddbd3bd109a17bebc1f9bd621d7225d9",
+          "key": "catalog/cape-verde-2026-away-jersey/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/2e9f1a2a/9d46ae91.jpg",
+          "hash": "4f96d2b6e82163f83486d1ed1552e2e298cd8ac5",
+          "key": "catalog/cape-verde-2026-away-jersey/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/3fdc6a29/55508645.jpg",
+          "hash": "a952bfab95c53fa786007acf3006dae5538bcb07",
+          "key": "catalog/cape-verde-2026-away-jersey/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/090abe90/3e071e57.jpg",
+          "hash": "d0814e2f1a863f57498713c63e81af256e5f70c7",
+          "key": "catalog/cape-verde-2026-away-jersey/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/3e95c607/85721b4a.jpg",
+          "hash": "631cfd3e16cf12a72dfdb5ebbb94e8fc8362b6f8",
+          "key": "catalog/cape-verde-2026-away-jersey/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/3339d885/358bcef2.jpg",
+          "hash": "01cf90a730f05d5f7df6851e5b5495c12e847ca9",
+          "key": "catalog/cape-verde-2026-away-jersey/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/53b79324/85d71464.jpg",
+          "hash": "a8651321bd97f7d5379a9694554d205bfc61193e",
+          "key": "catalog/cape-verde-2026-away-jersey/image-08.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/264b4835/ce7e1d44.jpg": "cbf43febcfd663f520902483372f3b821051d34f",
+        "https://photo.yupoo.com/minkang/f1b6186f/03578dd2.jpg": "487e3117ddbd3bd109a17bebc1f9bd621d7225d9",
+        "https://photo.yupoo.com/minkang/2e9f1a2a/9d46ae91.jpg": "4f96d2b6e82163f83486d1ed1552e2e298cd8ac5",
+        "https://photo.yupoo.com/minkang/3fdc6a29/55508645.jpg": "a952bfab95c53fa786007acf3006dae5538bcb07",
+        "https://photo.yupoo.com/minkang/090abe90/3e071e57.jpg": "d0814e2f1a863f57498713c63e81af256e5f70c7",
+        "https://photo.yupoo.com/minkang/3e95c607/85721b4a.jpg": "631cfd3e16cf12a72dfdb5ebbb94e8fc8362b6f8",
+        "https://photo.yupoo.com/minkang/3339d885/358bcef2.jpg": "01cf90a730f05d5f7df6851e5b5495c12e847ca9",
+        "https://photo.yupoo.com/minkang/53b79324/85d71464.jpg": "a8651321bd97f7d5379a9694554d205bfc61193e"
+      },
+      "checkedAt": "2026-10-11T00:06:26.242Z"
+    },
+    "215946229": {
+      "slug": "cape-verde-2026-home-jersey-2",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/10a3b9ee/a096e168.jpg",
+          "hash": "83a99e762709f45cf3dbeaf1ff369c8d92943baf",
+          "key": "catalog/cape-verde-2026-home-jersey-2/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/94f9a46d/36fe75a0.jpg",
+          "hash": "0bc8cec584de8241dc325c40731bfb851e93e922",
+          "key": "catalog/cape-verde-2026-home-jersey-2/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/6babf18c/d2ce14a7.jpg",
+          "hash": "2d8c32a5dde66f09d61a58741f48c811e609bddc",
+          "key": "catalog/cape-verde-2026-home-jersey-2/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/8f5212bc/4085a096.jpg",
+          "hash": "8b964e27bb1147b971f3767733db31d590bc3d5f",
+          "key": "catalog/cape-verde-2026-home-jersey-2/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/9e41cb33/3515d806.jpg",
+          "hash": "f0b991449a57ee3bb54464aa58b590a1d2c1d8d5",
+          "key": "catalog/cape-verde-2026-home-jersey-2/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/14b42346/e7015d74.jpg",
+          "hash": "141e544482f61b0771afb33a9a97c6433a0f7b89",
+          "key": "catalog/cape-verde-2026-home-jersey-2/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/409a9677/53d50234.jpg",
+          "hash": "178bdc1fd4899247825869d64f56c087ee0ead3c",
+          "key": "catalog/cape-verde-2026-home-jersey-2/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/527c7826/f204f0cd.jpg",
+          "hash": "228bb64b0744c4960a05dba21a0f6091c3095e9f",
+          "key": "catalog/cape-verde-2026-home-jersey-2/image-08.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/10a3b9ee/a096e168.jpg": "83a99e762709f45cf3dbeaf1ff369c8d92943baf",
+        "https://photo.yupoo.com/minkang/94f9a46d/36fe75a0.jpg": "0bc8cec584de8241dc325c40731bfb851e93e922",
+        "https://photo.yupoo.com/minkang/6babf18c/d2ce14a7.jpg": "2d8c32a5dde66f09d61a58741f48c811e609bddc",
+        "https://photo.yupoo.com/minkang/8f5212bc/4085a096.jpg": "8b964e27bb1147b971f3767733db31d590bc3d5f",
+        "https://photo.yupoo.com/minkang/9e41cb33/3515d806.jpg": "f0b991449a57ee3bb54464aa58b590a1d2c1d8d5",
+        "https://photo.yupoo.com/minkang/14b42346/e7015d74.jpg": "141e544482f61b0771afb33a9a97c6433a0f7b89",
+        "https://photo.yupoo.com/minkang/409a9677/53d50234.jpg": "178bdc1fd4899247825869d64f56c087ee0ead3c",
+        "https://photo.yupoo.com/minkang/527c7826/f204f0cd.jpg": "228bb64b0744c4960a05dba21a0f6091c3095e9f"
+      },
+      "checkedAt": "2026-10-11T00:06:17.655Z"
+    },
     "216225197": {
       "slug": "portugal-2026-special-edition-black-panther-jersey",
       "entries": [
@@ -653,6 +1071,80 @@
         "https://photo.yupoo.com/minkang/f8e745c6/2b832437.jpg": "781788f36281c97f34bc2b0f8c921319701b15f0"
       },
       "checkedAt": "2026-10-10T23:54:29.529Z"
+    },
+    "216226687": {
+      "slug": "al-ahli-saudi-25-26-away-kids-jersey",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/12863e0c/ae02782d.jpg",
+          "hash": "498dfdf8014a7c6654134b0096ad225371be9e23",
+          "key": "catalog/al-ahli-saudi-25-26-away-kids-jersey/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/1fc660ae/c60c7837.jpg",
+          "hash": "1fd08309f1e9fcc8d2f85596adc2c133d223c611",
+          "key": "catalog/al-ahli-saudi-25-26-away-kids-jersey/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/864c3bd3/b68c0ebf.jpg",
+          "hash": "6eac2d6dad3c80eb1b85906bb5eb02dd9df86d05",
+          "key": "catalog/al-ahli-saudi-25-26-away-kids-jersey/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/3ffc2be2/1a024936.jpg",
+          "hash": "02b0d0ef702e26fe3821479f94cd8242cc284b2a",
+          "key": "catalog/al-ahli-saudi-25-26-away-kids-jersey/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/375177bf/8fec4258.jpg",
+          "hash": "2a4b65bafe0f0214947a723403acba8a2d7b4faa",
+          "key": "catalog/al-ahli-saudi-25-26-away-kids-jersey/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/3e3cb498/9dc0c77d.jpg",
+          "hash": "5e1bd87dbc55a05438f7b015f0ed7e6fd892c8b9",
+          "key": "catalog/al-ahli-saudi-25-26-away-kids-jersey/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/6db1159c/0c58eff2.jpg",
+          "hash": "02675d83b6ec217818b21423f2e739b7ec856ffd",
+          "key": "catalog/al-ahli-saudi-25-26-away-kids-jersey/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/168d1ec5/8d4cc87c.jpg",
+          "hash": "98e2d57ab89d94bf25a356b75ab0ab9d1c3a5c59",
+          "key": "catalog/al-ahli-saudi-25-26-away-kids-jersey/image-08.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/077370c3/fdd5c6b5.jpg",
+          "hash": "1610ae40db8e3000aec8860520976ba21e367f45",
+          "key": "catalog/al-ahli-saudi-25-26-away-kids-jersey/image-09.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/710b5340/f8001b6d.jpg",
+          "hash": "3cc1dac6565840ba4248aedd6ca53600abacc139",
+          "key": "catalog/al-ahli-saudi-25-26-away-kids-jersey/image-10.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/9f1449c1/fa7dda7a.jpg",
+          "hash": "fcd4aca859934f68d924afcd7d4680190432b9fe",
+          "key": "catalog/al-ahli-saudi-25-26-away-kids-jersey/image-11.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/12863e0c/ae02782d.jpg": "498dfdf8014a7c6654134b0096ad225371be9e23",
+        "https://photo.yupoo.com/minkang/1fc660ae/c60c7837.jpg": "1fd08309f1e9fcc8d2f85596adc2c133d223c611",
+        "https://photo.yupoo.com/minkang/864c3bd3/b68c0ebf.jpg": "6eac2d6dad3c80eb1b85906bb5eb02dd9df86d05",
+        "https://photo.yupoo.com/minkang/3ffc2be2/1a024936.jpg": "02b0d0ef702e26fe3821479f94cd8242cc284b2a",
+        "https://photo.yupoo.com/minkang/375177bf/8fec4258.jpg": "2a4b65bafe0f0214947a723403acba8a2d7b4faa",
+        "https://photo.yupoo.com/minkang/3e3cb498/9dc0c77d.jpg": "5e1bd87dbc55a05438f7b015f0ed7e6fd892c8b9",
+        "https://photo.yupoo.com/minkang/6db1159c/0c58eff2.jpg": "02675d83b6ec217818b21423f2e739b7ec856ffd",
+        "https://photo.yupoo.com/minkang/168d1ec5/8d4cc87c.jpg": "98e2d57ab89d94bf25a356b75ab0ab9d1c3a5c59",
+        "https://photo.yupoo.com/minkang/077370c3/fdd5c6b5.jpg": "1610ae40db8e3000aec8860520976ba21e367f45",
+        "https://photo.yupoo.com/minkang/710b5340/f8001b6d.jpg": "3cc1dac6565840ba4248aedd6ca53600abacc139",
+        "https://photo.yupoo.com/minkang/9f1449c1/fa7dda7a.jpg": "fcd4aca859934f68d924afcd7d4680190432b9fe"
+      },
+      "checkedAt": "2026-10-11T00:06:38.452Z"
     },
     "216481172": {
       "slug": "mexico-2026-home-player-version-jersey",
@@ -1644,6 +2136,174 @@
       },
       "checkedAt": "2026-10-10T23:32:42.463Z"
     },
+    "216812714": {
+      "slug": "senegal-2026-away-jersey",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/d009a716/a19d1554.jpg",
+          "hash": "6319c9b47ba1e4f0ba3e56014356df8ff14a7656",
+          "key": "catalog/senegal-2026-away-jersey/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/82f7469f/72e99223.jpg",
+          "hash": "de7d0f51b96f663c6cbe56de650a76b8229b32aa",
+          "key": "catalog/senegal-2026-away-jersey/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/cfecb155/f6cbb7bd.jpg",
+          "hash": "42188d7d04aa9026fd72c5a1a345141f6e32da29",
+          "key": "catalog/senegal-2026-away-jersey/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/d46b3912/64032a0f.jpg",
+          "hash": "ebb17ff654c252279c1bda8a3d150e01d1b2c419",
+          "key": "catalog/senegal-2026-away-jersey/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/d03bb0f7/b6589769.jpg",
+          "hash": "dc0e046b87b4ac70b4a33e71041c1a15b2ec695d",
+          "key": "catalog/senegal-2026-away-jersey/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/ab5d3717/840ae753.jpg",
+          "hash": "d89fad68f3737cc13b154929786a396db2152811",
+          "key": "catalog/senegal-2026-away-jersey/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/b2e9d5bc/a73c1923.jpg",
+          "hash": "da97384d21c0d68f7d1c8fec9f081bdbe1613da9",
+          "key": "catalog/senegal-2026-away-jersey/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/55bf9e1e/4b5ac5e1.jpg",
+          "hash": "b80ffede4379cdf601d38b6e657cf6ffc71b5eef",
+          "key": "catalog/senegal-2026-away-jersey/image-08.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/d009a716/a19d1554.jpg": "6319c9b47ba1e4f0ba3e56014356df8ff14a7656",
+        "https://photo.yupoo.com/minkang/82f7469f/72e99223.jpg": "de7d0f51b96f663c6cbe56de650a76b8229b32aa",
+        "https://photo.yupoo.com/minkang/cfecb155/f6cbb7bd.jpg": "42188d7d04aa9026fd72c5a1a345141f6e32da29",
+        "https://photo.yupoo.com/minkang/d46b3912/64032a0f.jpg": "ebb17ff654c252279c1bda8a3d150e01d1b2c419",
+        "https://photo.yupoo.com/minkang/d03bb0f7/b6589769.jpg": "dc0e046b87b4ac70b4a33e71041c1a15b2ec695d",
+        "https://photo.yupoo.com/minkang/ab5d3717/840ae753.jpg": "d89fad68f3737cc13b154929786a396db2152811",
+        "https://photo.yupoo.com/minkang/b2e9d5bc/a73c1923.jpg": "da97384d21c0d68f7d1c8fec9f081bdbe1613da9",
+        "https://photo.yupoo.com/minkang/55bf9e1e/4b5ac5e1.jpg": "b80ffede4379cdf601d38b6e657cf6ffc71b5eef"
+      },
+      "checkedAt": "2026-10-11T00:05:40.660Z"
+    },
+    "216812752": {
+      "slug": "senegal-2026-home-jersey",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/9ea57223/e6735eb2.jpg",
+          "hash": "222c6a6f44587f027d30f4808704b2b52489c83a",
+          "key": "catalog/senegal-2026-home-jersey/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/6cf74a4d/168a96a1.jpg",
+          "hash": "a2239d5ef4a91de34d1d15bfab2c1674a21fb716",
+          "key": "catalog/senegal-2026-home-jersey/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/2822e4f5/0d35295f.jpg",
+          "hash": "f67c8722b5c985ff3324a069828cbc5b454a4bf4",
+          "key": "catalog/senegal-2026-home-jersey/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/5d09c422/dd880eca.jpg",
+          "hash": "7bcfc833353ba7f8aa46cd51cb028db932c4c311",
+          "key": "catalog/senegal-2026-home-jersey/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/ed59c332/d8ac68b2.jpg",
+          "hash": "84659df899afab277931b8ac076c22c9e687863c",
+          "key": "catalog/senegal-2026-home-jersey/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/e1692871/002fd199.jpg",
+          "hash": "c213ff43be4f40c67bb2634f70056c6efec7a5e8",
+          "key": "catalog/senegal-2026-home-jersey/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/e6ecc38d/d6e3072d.jpg",
+          "hash": "7565f077dd4968e3cd2448b706a26cb29770dd48",
+          "key": "catalog/senegal-2026-home-jersey/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/fa5d5969/c7b5ec48.jpg",
+          "hash": "699aee51a27816bb4e64e47107bbfee1945a88a1",
+          "key": "catalog/senegal-2026-home-jersey/image-08.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/9ea57223/e6735eb2.jpg": "222c6a6f44587f027d30f4808704b2b52489c83a",
+        "https://photo.yupoo.com/minkang/6cf74a4d/168a96a1.jpg": "a2239d5ef4a91de34d1d15bfab2c1674a21fb716",
+        "https://photo.yupoo.com/minkang/2822e4f5/0d35295f.jpg": "f67c8722b5c985ff3324a069828cbc5b454a4bf4",
+        "https://photo.yupoo.com/minkang/5d09c422/dd880eca.jpg": "7bcfc833353ba7f8aa46cd51cb028db932c4c311",
+        "https://photo.yupoo.com/minkang/ed59c332/d8ac68b2.jpg": "84659df899afab277931b8ac076c22c9e687863c",
+        "https://photo.yupoo.com/minkang/e1692871/002fd199.jpg": "c213ff43be4f40c67bb2634f70056c6efec7a5e8",
+        "https://photo.yupoo.com/minkang/e6ecc38d/d6e3072d.jpg": "7565f077dd4968e3cd2448b706a26cb29770dd48",
+        "https://photo.yupoo.com/minkang/fa5d5969/c7b5ec48.jpg": "699aee51a27816bb4e64e47107bbfee1945a88a1"
+      },
+      "checkedAt": "2026-10-11T00:05:32.308Z"
+    },
+    "216812936": {
+      "slug": "switzerland-2026-away-jersey-2",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/344d8d4c/8afb2e02.jpg",
+          "hash": "3660119d9f4ad18f4d2e1089af70ef0be8ec79a2",
+          "key": "catalog/switzerland-2026-away-jersey-2/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/f578284a/c2e9d5c9.jpg",
+          "hash": "1d85ca1641fac45ce0d386e2a8933c9179e0368e",
+          "key": "catalog/switzerland-2026-away-jersey-2/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/3e8f4d08/aea1a114.jpg",
+          "hash": "0d33e89015aeedc9dd3fa34d23d28ce0e2489fcd",
+          "key": "catalog/switzerland-2026-away-jersey-2/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/ab615778/1ab066a9.jpg",
+          "hash": "40245fc33020955cf3677f80de94106421bd92d1",
+          "key": "catalog/switzerland-2026-away-jersey-2/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/a055b320/726cd75c.jpg",
+          "hash": "8e2fdf860575b23632064b3d31cb34bf5bc785b9",
+          "key": "catalog/switzerland-2026-away-jersey-2/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/1d06cab5/50436022.jpg",
+          "hash": "638cce14c90d395055cbf9b7dc8b3c88f4424788",
+          "key": "catalog/switzerland-2026-away-jersey-2/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/d0e1dcb6/177e5a7f.jpg",
+          "hash": "d5325170e02127f61a9d001495511183d8436774",
+          "key": "catalog/switzerland-2026-away-jersey-2/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/f0b94a5d/5ae44ade.jpg",
+          "hash": "f0477cbb360a2f4fdfdf51721b53f824eeae06c6",
+          "key": "catalog/switzerland-2026-away-jersey-2/image-08.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/344d8d4c/8afb2e02.jpg": "3660119d9f4ad18f4d2e1089af70ef0be8ec79a2",
+        "https://photo.yupoo.com/minkang/f578284a/c2e9d5c9.jpg": "1d85ca1641fac45ce0d386e2a8933c9179e0368e",
+        "https://photo.yupoo.com/minkang/3e8f4d08/aea1a114.jpg": "0d33e89015aeedc9dd3fa34d23d28ce0e2489fcd",
+        "https://photo.yupoo.com/minkang/ab615778/1ab066a9.jpg": "40245fc33020955cf3677f80de94106421bd92d1",
+        "https://photo.yupoo.com/minkang/a055b320/726cd75c.jpg": "8e2fdf860575b23632064b3d31cb34bf5bc785b9",
+        "https://photo.yupoo.com/minkang/1d06cab5/50436022.jpg": "638cce14c90d395055cbf9b7dc8b3c88f4424788",
+        "https://photo.yupoo.com/minkang/d0e1dcb6/177e5a7f.jpg": "d5325170e02127f61a9d001495511183d8436774",
+        "https://photo.yupoo.com/minkang/f0b94a5d/5ae44ade.jpg": "f0477cbb360a2f4fdfdf51721b53f824eeae06c6"
+      },
+      "checkedAt": "2026-10-11T00:05:22.594Z"
+    },
     "216812980": {
       "slug": "switzerland-2026-home-jersey",
       "entries": [
@@ -1699,6 +2359,62 @@
         "https://photo.yupoo.com/minkang/a071bff2/f4ce8fcc.jpg": "f201cef2bb6f0f3317edc33a48b280a984183f4a"
       },
       "checkedAt": "2026-10-10T23:31:59.041Z"
+    },
+    "216813016": {
+      "slug": "tunisia-2026-away-jersey",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/0a4c9115/dd5999ad.jpg",
+          "hash": "eda071b008d7c8f7ce766a5df4970ba92b250c94",
+          "key": "catalog/tunisia-2026-away-jersey/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/e59bda14/60f399f5.jpg",
+          "hash": "869f72692e9c1a18c77d7e68e7cd38983de345d9",
+          "key": "catalog/tunisia-2026-away-jersey/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/337cc52a/03245214.jpg",
+          "hash": "894d1c5f2f7984b56315932f608eb8b7635bc055",
+          "key": "catalog/tunisia-2026-away-jersey/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/9ce588fb/9f6b7c8d.jpg",
+          "hash": "7eb506b80bc4a725847d3201e7fa85ef58f860ef",
+          "key": "catalog/tunisia-2026-away-jersey/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/f094a3a6/ddfe33a7.jpg",
+          "hash": "ef24a97c0fcf1f9a1bd1b9a485d3e8e116655ebe",
+          "key": "catalog/tunisia-2026-away-jersey/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/2f9f0a44/4ebbb112.jpg",
+          "hash": "7b2633ff7c85813ac00f919f154cec49a280fff4",
+          "key": "catalog/tunisia-2026-away-jersey/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/f7fa9241/88e76efe.jpg",
+          "hash": "e0f805ae681da839638bd0a13f9be158b55a8486",
+          "key": "catalog/tunisia-2026-away-jersey/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/b2425bb5/d9d9569d.jpg",
+          "hash": "af87bc3b1fc76e694eceea7e2e05a7c9826804f9",
+          "key": "catalog/tunisia-2026-away-jersey/image-08.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/0a4c9115/dd5999ad.jpg": "eda071b008d7c8f7ce766a5df4970ba92b250c94",
+        "https://photo.yupoo.com/minkang/e59bda14/60f399f5.jpg": "869f72692e9c1a18c77d7e68e7cd38983de345d9",
+        "https://photo.yupoo.com/minkang/337cc52a/03245214.jpg": "894d1c5f2f7984b56315932f608eb8b7635bc055",
+        "https://photo.yupoo.com/minkang/9ce588fb/9f6b7c8d.jpg": "7eb506b80bc4a725847d3201e7fa85ef58f860ef",
+        "https://photo.yupoo.com/minkang/f094a3a6/ddfe33a7.jpg": "ef24a97c0fcf1f9a1bd1b9a485d3e8e116655ebe",
+        "https://photo.yupoo.com/minkang/2f9f0a44/4ebbb112.jpg": "7b2633ff7c85813ac00f919f154cec49a280fff4",
+        "https://photo.yupoo.com/minkang/f7fa9241/88e76efe.jpg": "e0f805ae681da839638bd0a13f9be158b55a8486",
+        "https://photo.yupoo.com/minkang/b2425bb5/d9d9569d.jpg": "af87bc3b1fc76e694eceea7e2e05a7c9826804f9"
+      },
+      "checkedAt": "2026-10-11T00:04:12.114Z"
     },
     "216813056": {
       "slug": "tunisia-2026-home-jersey",
@@ -2698,6 +3414,180 @@
       },
       "checkedAt": "2026-10-10T23:54:19.574Z"
     },
+    "217356754": {
+      "slug": "greece-2026-home-jersey",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/edd0e205/05a0167b.jpg",
+          "hash": "1115748533dd72f152c1a217a8863e82c609184b",
+          "key": "catalog/greece-2026-home-jersey/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/b360695f/a7650634.jpg",
+          "hash": "e3743dddee565e60d3c225682862b9020d92ceb5",
+          "key": "catalog/greece-2026-home-jersey/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/08b65297/842da1df.jpg",
+          "hash": "624d4877741b5269656a15be18ed1301f97214e8",
+          "key": "catalog/greece-2026-home-jersey/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/3e3b8b29/61804ce7.jpg",
+          "hash": "a9c651717847e33946d44d8001117250081f942c",
+          "key": "catalog/greece-2026-home-jersey/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/7f5f43b0/71b2099c.jpg",
+          "hash": "7ac226f2b830d33f0e413251a8d1d50b17b65d95",
+          "key": "catalog/greece-2026-home-jersey/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/9d960c72/6a5ce0a1.jpg",
+          "hash": "6d8d46bd15779a353596043666e341debb6f6ca8",
+          "key": "catalog/greece-2026-home-jersey/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/549692e7/5f9e973a.jpg",
+          "hash": "6ab0c1652581e6441faa57024c2498321fce4eda",
+          "key": "catalog/greece-2026-home-jersey/image-07.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/edd0e205/05a0167b.jpg": "1115748533dd72f152c1a217a8863e82c609184b",
+        "https://photo.yupoo.com/minkang/b360695f/a7650634.jpg": "e3743dddee565e60d3c225682862b9020d92ceb5",
+        "https://photo.yupoo.com/minkang/08b65297/842da1df.jpg": "624d4877741b5269656a15be18ed1301f97214e8",
+        "https://photo.yupoo.com/minkang/3e3b8b29/61804ce7.jpg": "a9c651717847e33946d44d8001117250081f942c",
+        "https://photo.yupoo.com/minkang/7f5f43b0/71b2099c.jpg": "7ac226f2b830d33f0e413251a8d1d50b17b65d95",
+        "https://photo.yupoo.com/minkang/9d960c72/6a5ce0a1.jpg": "6d8d46bd15779a353596043666e341debb6f6ca8",
+        "https://photo.yupoo.com/minkang/549692e7/5f9e973a.jpg": "6ab0c1652581e6441faa57024c2498321fce4eda"
+      },
+      "checkedAt": "2026-10-11T00:05:12.315Z"
+    },
+    "217356756": {
+      "slug": "mexico-2026-special-edition-green-jersey",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/cd048245/edc2b9f6.jpg",
+          "hash": "28fdb8f468fd4bfce7603bd85fe70b374f052d1e",
+          "key": "catalog/mexico-2026-special-edition-green-jersey/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/e57c0797/298e3416.jpg",
+          "hash": "d062f0e1acb5524d2997fc8f183bfcf2588df6a5",
+          "key": "catalog/mexico-2026-special-edition-green-jersey/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/c7365718/9b55d9e6.jpg",
+          "hash": "94c87fe90661c3a65148fe9dd3e6cf3d8608231d",
+          "key": "catalog/mexico-2026-special-edition-green-jersey/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/bf42b27d/6352ea7d.jpg",
+          "hash": "46ba3833b2d9de9551b73e63a060037a1329836f",
+          "key": "catalog/mexico-2026-special-edition-green-jersey/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/728f458e/dd18f9af.jpg",
+          "hash": "0dc8639c298955e508de92358f660bd2e082a17a",
+          "key": "catalog/mexico-2026-special-edition-green-jersey/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/b5736248/93e38b68.jpg",
+          "hash": "a5f7a40b3ee78b9502015b8e785f98cb635a0ae3",
+          "key": "catalog/mexico-2026-special-edition-green-jersey/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/d57a846f/25d61ab1.jpg",
+          "hash": "81d5a89c3b97b36e82cb11f0a5692191c19026d9",
+          "key": "catalog/mexico-2026-special-edition-green-jersey/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/83500c25/669ab2dd.jpg",
+          "hash": "3f4b8c22ee0159f190eca70e518a9968c39ffe76",
+          "key": "catalog/mexico-2026-special-edition-green-jersey/image-08.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/3f5faaf4/a01a0abc.jpg",
+          "hash": "58675737913b11df0b1885045fb955f1bade7486",
+          "key": "catalog/mexico-2026-special-edition-green-jersey/image-09.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/cd048245/edc2b9f6.jpg": "28fdb8f468fd4bfce7603bd85fe70b374f052d1e",
+        "https://photo.yupoo.com/minkang/e57c0797/298e3416.jpg": "d062f0e1acb5524d2997fc8f183bfcf2588df6a5",
+        "https://photo.yupoo.com/minkang/c7365718/9b55d9e6.jpg": "94c87fe90661c3a65148fe9dd3e6cf3d8608231d",
+        "https://photo.yupoo.com/minkang/bf42b27d/6352ea7d.jpg": "46ba3833b2d9de9551b73e63a060037a1329836f",
+        "https://photo.yupoo.com/minkang/728f458e/dd18f9af.jpg": "0dc8639c298955e508de92358f660bd2e082a17a",
+        "https://photo.yupoo.com/minkang/b5736248/93e38b68.jpg": "a5f7a40b3ee78b9502015b8e785f98cb635a0ae3",
+        "https://photo.yupoo.com/minkang/d57a846f/25d61ab1.jpg": "81d5a89c3b97b36e82cb11f0a5692191c19026d9",
+        "https://photo.yupoo.com/minkang/83500c25/669ab2dd.jpg": "3f4b8c22ee0159f190eca70e518a9968c39ffe76",
+        "https://photo.yupoo.com/minkang/3f5faaf4/a01a0abc.jpg": "58675737913b11df0b1885045fb955f1bade7486"
+      },
+      "checkedAt": "2026-10-11T00:05:01.909Z"
+    },
+    "217356770": {
+      "slug": "canada-2026-promotional-apparel-pink-jersey-sizes",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/66fd2507/b9dc6826.jpg",
+          "hash": "ae30b3ba4f994cc57a7f7696bc0193d993cc86d7",
+          "key": "catalog/canada-2026-promotional-apparel-pink-jersey-sizes/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/c632a1d0/5ceb93c2.jpg",
+          "hash": "cb79c9d3e2b7248303fc17f341d9049d66273a1d",
+          "key": "catalog/canada-2026-promotional-apparel-pink-jersey-sizes/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/7efa15fe/8522ce46.jpg",
+          "hash": "fa4b8809db9a05ccede20835cbd03c2100ac2bac",
+          "key": "catalog/canada-2026-promotional-apparel-pink-jersey-sizes/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/7412a2db/477b9daa.jpg",
+          "hash": "20c98fbc521d763942a9237973a00de31ee06855",
+          "key": "catalog/canada-2026-promotional-apparel-pink-jersey-sizes/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/aa750e51/28d5ec7a.jpg",
+          "hash": "2f13bfb719c8de04b9667b63e2a8ca429761f8dc",
+          "key": "catalog/canada-2026-promotional-apparel-pink-jersey-sizes/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/feb5a28d/2504f547.jpg",
+          "hash": "c0a4b4b52e705c65903f7a99839fe38c428f4807",
+          "key": "catalog/canada-2026-promotional-apparel-pink-jersey-sizes/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/64927aae/92453ea7.jpg",
+          "hash": "6a832623245a290c5194b723d938422947d40776",
+          "key": "catalog/canada-2026-promotional-apparel-pink-jersey-sizes/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/652973df/62631cba.jpg",
+          "hash": "8d92e630ca801877c71fcf22c7a9928576f08c17",
+          "key": "catalog/canada-2026-promotional-apparel-pink-jersey-sizes/image-08.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/c8efe758/0e124a06.jpg",
+          "hash": "889dd87029cd415c80d26f9e27f63a5dd528cd18",
+          "key": "catalog/canada-2026-promotional-apparel-pink-jersey-sizes/image-09.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/66fd2507/b9dc6826.jpg": "ae30b3ba4f994cc57a7f7696bc0193d993cc86d7",
+        "https://photo.yupoo.com/minkang/c632a1d0/5ceb93c2.jpg": "cb79c9d3e2b7248303fc17f341d9049d66273a1d",
+        "https://photo.yupoo.com/minkang/7efa15fe/8522ce46.jpg": "fa4b8809db9a05ccede20835cbd03c2100ac2bac",
+        "https://photo.yupoo.com/minkang/7412a2db/477b9daa.jpg": "20c98fbc521d763942a9237973a00de31ee06855",
+        "https://photo.yupoo.com/minkang/aa750e51/28d5ec7a.jpg": "2f13bfb719c8de04b9667b63e2a8ca429761f8dc",
+        "https://photo.yupoo.com/minkang/feb5a28d/2504f547.jpg": "c0a4b4b52e705c65903f7a99839fe38c428f4807",
+        "https://photo.yupoo.com/minkang/64927aae/92453ea7.jpg": "6a832623245a290c5194b723d938422947d40776",
+        "https://photo.yupoo.com/minkang/652973df/62631cba.jpg": "8d92e630ca801877c71fcf22c7a9928576f08c17",
+        "https://photo.yupoo.com/minkang/c8efe758/0e124a06.jpg": "889dd87029cd415c80d26f9e27f63a5dd528cd18"
+      },
+      "checkedAt": "2026-10-11T00:04:51.686Z"
+    },
     "217356776": {
       "slug": "algeria-2026-home-jersey",
       "entries": [
@@ -2741,6 +3631,118 @@
         "https://photo.yupoo.com/minkang/f9e79558/081b15b4.jpg": "2635b549f8b94087cf56d6f0c584ac01369b0fe8"
       },
       "checkedAt": "2026-10-10T23:30:42.710Z"
+    },
+    "217439194": {
+      "slug": "uruguay-2025-home-jesery",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/172cdf77/69550b5b.jpg",
+          "hash": "a2ff9b100e96fd3567739258c13984f82e823a27",
+          "key": "catalog/uruguay-2025-home-jesery/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/5e63fcfd/90e46550.jpg",
+          "hash": "13520a828983e1ebfa443aecfce5dd30bcc6f655",
+          "key": "catalog/uruguay-2025-home-jesery/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/4635f22e/145fbda1.jpg",
+          "hash": "f8df72f053a614aa49162075ee0bd9f790661ede",
+          "key": "catalog/uruguay-2025-home-jesery/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/7c81cfc1/4e8dfbba.jpg",
+          "hash": "e1ae6058c0cbf515e6cf18e8fca6d27071665fa1",
+          "key": "catalog/uruguay-2025-home-jesery/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/812d25bb/c54477a6.jpg",
+          "hash": "c75d049a678f19bda2883cfd37ee45e16aac5dbe",
+          "key": "catalog/uruguay-2025-home-jesery/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/d80eba09/6620ad88.jpg",
+          "hash": "9cc8ad993c77dc8eb93fe86d3ea4e2df72eb1b87",
+          "key": "catalog/uruguay-2025-home-jesery/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/99de7641/3feaf9a5.jpg",
+          "hash": "89b22457a8168396fa1376319a97f7eab978ddad",
+          "key": "catalog/uruguay-2025-home-jesery/image-07.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/172cdf77/69550b5b.jpg": "a2ff9b100e96fd3567739258c13984f82e823a27",
+        "https://photo.yupoo.com/minkang/5e63fcfd/90e46550.jpg": "13520a828983e1ebfa443aecfce5dd30bcc6f655",
+        "https://photo.yupoo.com/minkang/4635f22e/145fbda1.jpg": "f8df72f053a614aa49162075ee0bd9f790661ede",
+        "https://photo.yupoo.com/minkang/7c81cfc1/4e8dfbba.jpg": "e1ae6058c0cbf515e6cf18e8fca6d27071665fa1",
+        "https://photo.yupoo.com/minkang/812d25bb/c54477a6.jpg": "c75d049a678f19bda2883cfd37ee45e16aac5dbe",
+        "https://photo.yupoo.com/minkang/d80eba09/6620ad88.jpg": "9cc8ad993c77dc8eb93fe86d3ea4e2df72eb1b87",
+        "https://photo.yupoo.com/minkang/99de7641/3feaf9a5.jpg": "89b22457a8168396fa1376319a97f7eab978ddad"
+      },
+      "checkedAt": "2026-10-11T00:04:22.395Z"
+    },
+    "217439226": {
+      "slug": "usa-2026-promotional-apparel-blue-jersey",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/dcc3c6bc/2af2b2bb.jpg",
+          "hash": "16ecefd5952463a5f07157cc0c1c753c62f2e90f",
+          "key": "catalog/usa-2026-promotional-apparel-blue-jersey/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/427f3072/326d1756.jpg",
+          "hash": "d4a1af561aa9b7b5b65c504021b9b458c25de4b2",
+          "key": "catalog/usa-2026-promotional-apparel-blue-jersey/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/97661657/a741e794.jpg",
+          "hash": "439c00fbb846046e58d3a843aeff044d596eb4fa",
+          "key": "catalog/usa-2026-promotional-apparel-blue-jersey/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/1997eee0/1e273404.jpg",
+          "hash": "8dcd50ebc0319b3235219236ae8ca3e66af57a3d",
+          "key": "catalog/usa-2026-promotional-apparel-blue-jersey/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/7a5b0b75/a10b8ae6.jpg",
+          "hash": "750c15f604005fdfaad57bc0cf6ca77c398a7e46",
+          "key": "catalog/usa-2026-promotional-apparel-blue-jersey/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/c2144eed/5654c191.jpg",
+          "hash": "f1651517f65cf6ca1a48858fa40763126dc2edc7",
+          "key": "catalog/usa-2026-promotional-apparel-blue-jersey/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/cdaf4367/269c66d3.jpg",
+          "hash": "45746d8b6b77eb30a30ec0e2782be2200aaf6148",
+          "key": "catalog/usa-2026-promotional-apparel-blue-jersey/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/8ef4286d/291052c3.jpg",
+          "hash": "47bcf8834b2e2de8a18ff345179ee97f87264c02",
+          "key": "catalog/usa-2026-promotional-apparel-blue-jersey/image-08.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/781d3c0b/a756e9df.jpg",
+          "hash": "1378d639d5bdf34f4392614879638bf011565ebe",
+          "key": "catalog/usa-2026-promotional-apparel-blue-jersey/image-09.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/dcc3c6bc/2af2b2bb.jpg": "16ecefd5952463a5f07157cc0c1c753c62f2e90f",
+        "https://photo.yupoo.com/minkang/427f3072/326d1756.jpg": "d4a1af561aa9b7b5b65c504021b9b458c25de4b2",
+        "https://photo.yupoo.com/minkang/97661657/a741e794.jpg": "439c00fbb846046e58d3a843aeff044d596eb4fa",
+        "https://photo.yupoo.com/minkang/1997eee0/1e273404.jpg": "8dcd50ebc0319b3235219236ae8ca3e66af57a3d",
+        "https://photo.yupoo.com/minkang/7a5b0b75/a10b8ae6.jpg": "750c15f604005fdfaad57bc0cf6ca77c398a7e46",
+        "https://photo.yupoo.com/minkang/c2144eed/5654c191.jpg": "f1651517f65cf6ca1a48858fa40763126dc2edc7",
+        "https://photo.yupoo.com/minkang/cdaf4367/269c66d3.jpg": "45746d8b6b77eb30a30ec0e2782be2200aaf6148",
+        "https://photo.yupoo.com/minkang/8ef4286d/291052c3.jpg": "47bcf8834b2e2de8a18ff345179ee97f87264c02",
+        "https://photo.yupoo.com/minkang/781d3c0b/a756e9df.jpg": "1378d639d5bdf34f4392614879638bf011565ebe"
+      },
+      "checkedAt": "2026-10-11T00:04:33.840Z"
     },
     "217533801": {
       "slug": "2026-world-cup-patch-2",
@@ -2835,6 +3837,56 @@
         "https://photo.yupoo.com/minkang/11fed75f/19bce565.jpg": "6f57e029562be25bc38dc25cf95e49bd2c9abc68"
       },
       "checkedAt": "2026-10-10T22:59:40.711Z"
+    },
+    "217628376": {
+      "slug": "congo-2026-home-blue-jersey",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/353a1d12/2b9d1a9f.jpg",
+          "hash": "43794766bad73453ac042f57c95a9e7f04de19b0",
+          "key": "catalog/congo-2026-home-blue-jersey/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/003c6151/508f9a15.jpg",
+          "hash": "fe38c210f2165fd65373b858d12bafe594d0eade",
+          "key": "catalog/congo-2026-home-blue-jersey/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/b02faa6a/124ca118.jpg",
+          "hash": "44eb055dd9a58c7949461a6e3c1eacb34813ac3a",
+          "key": "catalog/congo-2026-home-blue-jersey/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/6c67e0d8/4c867b29.jpg",
+          "hash": "d73f1d8054c3a6613771a5565284e56fd0554a2e",
+          "key": "catalog/congo-2026-home-blue-jersey/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/24bab0e1/d129f89d.jpg",
+          "hash": "cfd781d8616e7e79c5052018424cc67b9e3bf32e",
+          "key": "catalog/congo-2026-home-blue-jersey/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/ee748f72/b7f553dd.jpg",
+          "hash": "021f4e8225458a1879c06dbd487eb02441af0752",
+          "key": "catalog/congo-2026-home-blue-jersey/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/9e487221/7d1393d8.jpg",
+          "hash": "7f13f0e5d08a874ea01d17c9ddcce99e135386b7",
+          "key": "catalog/congo-2026-home-blue-jersey/image-07.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/353a1d12/2b9d1a9f.jpg": "43794766bad73453ac042f57c95a9e7f04de19b0",
+        "https://photo.yupoo.com/minkang/003c6151/508f9a15.jpg": "fe38c210f2165fd65373b858d12bafe594d0eade",
+        "https://photo.yupoo.com/minkang/b02faa6a/124ca118.jpg": "44eb055dd9a58c7949461a6e3c1eacb34813ac3a",
+        "https://photo.yupoo.com/minkang/6c67e0d8/4c867b29.jpg": "d73f1d8054c3a6613771a5565284e56fd0554a2e",
+        "https://photo.yupoo.com/minkang/24bab0e1/d129f89d.jpg": "cfd781d8616e7e79c5052018424cc67b9e3bf32e",
+        "https://photo.yupoo.com/minkang/ee748f72/b7f553dd.jpg": "021f4e8225458a1879c06dbd487eb02441af0752",
+        "https://photo.yupoo.com/minkang/9e487221/7d1393d8.jpg": "7f13f0e5d08a874ea01d17c9ddcce99e135386b7"
+      },
+      "checkedAt": "2026-10-11T00:02:34.560Z"
     },
     "217628675": {
       "slug": "congo-2026-white-and-blue-jersey",
@@ -2935,6 +3987,306 @@
         "https://photo.yupoo.com/minkang/cef6b386/c43109c2.jpg": "50b675401d27dcd34c313856f08f838448d6d8d5"
       },
       "checkedAt": "2026-10-11T00:02:25.214Z"
+    },
+    "217628912": {
+      "slug": "costa-rica-2026-home-jersey",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/9ca848635a/983965b7.jpg",
+          "hash": "1ae613f72e9f141bb227711da96ccf1126ae78dc",
+          "key": "catalog/costa-rica-2026-home-jersey/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/81871323c1/f6600345.jpg",
+          "hash": "1bd23d319955659207f3092d275a4d677a25ef00",
+          "key": "catalog/costa-rica-2026-home-jersey/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/1a0d909f73/d6eaabba.jpg",
+          "hash": "88d50404e0f3464dff1fe61e25a862284cb0fab7",
+          "key": "catalog/costa-rica-2026-home-jersey/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/908e3df01e/3e25de0e.jpg",
+          "hash": "787876f31aadf763047e0024a18004a88fa1023e",
+          "key": "catalog/costa-rica-2026-home-jersey/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/5ff2a0c468/f25ead42.jpg",
+          "hash": "5097e540284e3a60b41283eb7f9f573b15eec7f8",
+          "key": "catalog/costa-rica-2026-home-jersey/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/3eb6c2c4b1/c7f3510e.jpg",
+          "hash": "175a65d0b42800a5055d0c17430cd9b3deadc608",
+          "key": "catalog/costa-rica-2026-home-jersey/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/cb1c8072ac/e1c33cc3.jpg",
+          "hash": "7a6ab98a1e043e00835685bc2a20578985a9d4ae",
+          "key": "catalog/costa-rica-2026-home-jersey/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/d9502e21d2/c540f7a3.jpg",
+          "hash": "6143edb2d4beeb81a2c743baa122fe9f089ada86",
+          "key": "catalog/costa-rica-2026-home-jersey/image-08.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/9ca848635a/983965b7.jpg": "1ae613f72e9f141bb227711da96ccf1126ae78dc",
+        "https://photo.yupoo.com/minkang/81871323c1/f6600345.jpg": "1bd23d319955659207f3092d275a4d677a25ef00",
+        "https://photo.yupoo.com/minkang/1a0d909f73/d6eaabba.jpg": "88d50404e0f3464dff1fe61e25a862284cb0fab7",
+        "https://photo.yupoo.com/minkang/908e3df01e/3e25de0e.jpg": "787876f31aadf763047e0024a18004a88fa1023e",
+        "https://photo.yupoo.com/minkang/5ff2a0c468/f25ead42.jpg": "5097e540284e3a60b41283eb7f9f573b15eec7f8",
+        "https://photo.yupoo.com/minkang/3eb6c2c4b1/c7f3510e.jpg": "175a65d0b42800a5055d0c17430cd9b3deadc608",
+        "https://photo.yupoo.com/minkang/cb1c8072ac/e1c33cc3.jpg": "7a6ab98a1e043e00835685bc2a20578985a9d4ae",
+        "https://photo.yupoo.com/minkang/d9502e21d2/c540f7a3.jpg": "6143edb2d4beeb81a2c743baa122fe9f089ada86"
+      },
+      "checkedAt": "2026-10-11T00:02:54.129Z"
+    },
+    "217629127": {
+      "slug": "finland-2026-away-jersey",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/25ed5898/8306b2f2.jpg",
+          "hash": "5cc2d31c3147077a83157451aba2aa0ccc2c5bd7",
+          "key": "catalog/finland-2026-away-jersey/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/1e8273b7/1fca08af.jpg",
+          "hash": "e1b827140b4fa453ce246367327070c69eed3033",
+          "key": "catalog/finland-2026-away-jersey/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/41493ee9/85f712cd.jpg",
+          "hash": "7ca0cb3fa674951162ecd2b6550459cc1a8beba3",
+          "key": "catalog/finland-2026-away-jersey/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/2973eb7d/06774a58.jpg",
+          "hash": "50e0a39f8a879345f39d77f2a8558980a1c82be1",
+          "key": "catalog/finland-2026-away-jersey/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/90b75831/997deef5.jpg",
+          "hash": "4a495e546810ffcf7474eef583f52d97320f37f1",
+          "key": "catalog/finland-2026-away-jersey/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/022230a9/bfcde270.jpg",
+          "hash": "9b25b7e1133c549539cd8833f4aebd7f56c176f9",
+          "key": "catalog/finland-2026-away-jersey/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/ce545444/1e3e7c1c.jpg",
+          "hash": "73e0fe84a4fba236a63baf92ad05e94d5dfe93df",
+          "key": "catalog/finland-2026-away-jersey/image-07.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/25ed5898/8306b2f2.jpg": "5cc2d31c3147077a83157451aba2aa0ccc2c5bd7",
+        "https://photo.yupoo.com/minkang/1e8273b7/1fca08af.jpg": "e1b827140b4fa453ce246367327070c69eed3033",
+        "https://photo.yupoo.com/minkang/41493ee9/85f712cd.jpg": "7ca0cb3fa674951162ecd2b6550459cc1a8beba3",
+        "https://photo.yupoo.com/minkang/2973eb7d/06774a58.jpg": "50e0a39f8a879345f39d77f2a8558980a1c82be1",
+        "https://photo.yupoo.com/minkang/90b75831/997deef5.jpg": "4a495e546810ffcf7474eef583f52d97320f37f1",
+        "https://photo.yupoo.com/minkang/022230a9/bfcde270.jpg": "9b25b7e1133c549539cd8833f4aebd7f56c176f9",
+        "https://photo.yupoo.com/minkang/ce545444/1e3e7c1c.jpg": "73e0fe84a4fba236a63baf92ad05e94d5dfe93df"
+      },
+      "checkedAt": "2026-10-11T00:03:13.558Z"
+    },
+    "217629267": {
+      "slug": "finland-2026-home-jersey",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/583cb970/c332e7e9.jpg",
+          "hash": "273135ecb0faecfa7eab052af012e5e20e377d48",
+          "key": "catalog/finland-2026-home-jersey/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/77a7fcac/04add8ca.jpg",
+          "hash": "4b23183d43ac9029e97c5002fc8fd32b4f0aa33c",
+          "key": "catalog/finland-2026-home-jersey/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/5d91054e/c661ee1b.jpg",
+          "hash": "191f611f170febb79f98e9157212ecb8a7bbec34",
+          "key": "catalog/finland-2026-home-jersey/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/1432a344/d370d3d0.jpg",
+          "hash": "f0a29f18357cd66a8430065ab50c83a266ec89df",
+          "key": "catalog/finland-2026-home-jersey/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/5dc70b32/fd35e9f2.jpg",
+          "hash": "6ee6f21ff9e1a51995c33f165d5dc015c5b3bc78",
+          "key": "catalog/finland-2026-home-jersey/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/9ffe8e9e/d3b7f81f.jpg",
+          "hash": "dd4f6045541dc88c74101796289185e18afdf3e1",
+          "key": "catalog/finland-2026-home-jersey/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/a5134cfd/9e302cc7.jpg",
+          "hash": "ecf3760bdc58725e308404ca5f6e56895185ecba",
+          "key": "catalog/finland-2026-home-jersey/image-07.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/583cb970/c332e7e9.jpg": "273135ecb0faecfa7eab052af012e5e20e377d48",
+        "https://photo.yupoo.com/minkang/77a7fcac/04add8ca.jpg": "4b23183d43ac9029e97c5002fc8fd32b4f0aa33c",
+        "https://photo.yupoo.com/minkang/5d91054e/c661ee1b.jpg": "191f611f170febb79f98e9157212ecb8a7bbec34",
+        "https://photo.yupoo.com/minkang/1432a344/d370d3d0.jpg": "f0a29f18357cd66a8430065ab50c83a266ec89df",
+        "https://photo.yupoo.com/minkang/5dc70b32/fd35e9f2.jpg": "6ee6f21ff9e1a51995c33f165d5dc015c5b3bc78",
+        "https://photo.yupoo.com/minkang/9ffe8e9e/d3b7f81f.jpg": "dd4f6045541dc88c74101796289185e18afdf3e1",
+        "https://photo.yupoo.com/minkang/a5134cfd/9e302cc7.jpg": "ecf3760bdc58725e308404ca5f6e56895185ecba"
+      },
+      "checkedAt": "2026-10-11T00:03:24.142Z"
+    },
+    "217629452": {
+      "slug": "hungary-2026-home-jersey-2",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/8a2608a2/2f0a1d10.jpg",
+          "hash": "6827209e2420e798d884441a8f13bd5d49a80579",
+          "key": "catalog/hungary-2026-home-jersey-2/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/99a2b5d1/2320fa99.jpg",
+          "hash": "b14ef0658a2f970dc743892e684300ea38a6c896",
+          "key": "catalog/hungary-2026-home-jersey-2/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/51483cf4/9b2a14d9.jpg",
+          "hash": "19e74e199bae991e9d8862b6e2916bfc1da47d4b",
+          "key": "catalog/hungary-2026-home-jersey-2/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/2ecdadf8/a86ef95f.jpg",
+          "hash": "0e324af512ce170a187cc31111aae0506e662384",
+          "key": "catalog/hungary-2026-home-jersey-2/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/74dc0f13/39386301.jpg",
+          "hash": "737a589b4c790bd4df070221626185a016fc01c4",
+          "key": "catalog/hungary-2026-home-jersey-2/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/aab9b69c/9141dc10.jpg",
+          "hash": "8dce2022819335ef2e0e41284e927779012fd417",
+          "key": "catalog/hungary-2026-home-jersey-2/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/26978e46/7cec0311.jpg",
+          "hash": "9163d977654d4654ac5553f1b40c5baeadd54420",
+          "key": "catalog/hungary-2026-home-jersey-2/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/2020fb4b/28545940.jpg",
+          "hash": "fc60d73e85f235c2ce1b99007c17916610d84047",
+          "key": "catalog/hungary-2026-home-jersey-2/image-08.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/8a2608a2/2f0a1d10.jpg": "6827209e2420e798d884441a8f13bd5d49a80579",
+        "https://photo.yupoo.com/minkang/99a2b5d1/2320fa99.jpg": "b14ef0658a2f970dc743892e684300ea38a6c896",
+        "https://photo.yupoo.com/minkang/51483cf4/9b2a14d9.jpg": "19e74e199bae991e9d8862b6e2916bfc1da47d4b",
+        "https://photo.yupoo.com/minkang/2ecdadf8/a86ef95f.jpg": "0e324af512ce170a187cc31111aae0506e662384",
+        "https://photo.yupoo.com/minkang/74dc0f13/39386301.jpg": "737a589b4c790bd4df070221626185a016fc01c4",
+        "https://photo.yupoo.com/minkang/aab9b69c/9141dc10.jpg": "8dce2022819335ef2e0e41284e927779012fd417",
+        "https://photo.yupoo.com/minkang/26978e46/7cec0311.jpg": "9163d977654d4654ac5553f1b40c5baeadd54420",
+        "https://photo.yupoo.com/minkang/2020fb4b/28545940.jpg": "fc60d73e85f235c2ce1b99007c17916610d84047"
+      },
+      "checkedAt": "2026-10-11T00:03:32.706Z"
+    },
+    "217629555": {
+      "slug": "israel-2026-away-jersey",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/4738b239/6005ea13.jpg",
+          "hash": "e95492cc46236fced286c8522747dc3dd034b69a",
+          "key": "catalog/israel-2026-away-jersey/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/7ce7303c/5bc4a5d9.jpg",
+          "hash": "9583f25ddefe88fe8dc1c6abd9f8a16bffae9968",
+          "key": "catalog/israel-2026-away-jersey/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/e41112bd/47fa28b1.jpg",
+          "hash": "525182787bde541a9011901d441d62e042e11e42",
+          "key": "catalog/israel-2026-away-jersey/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/d9acc96e/27645acc.jpg",
+          "hash": "b8c038f3d31ba5594f66c2a3d631f446305f8cfe",
+          "key": "catalog/israel-2026-away-jersey/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/b10a15ee/9264cdfd.jpg",
+          "hash": "820e443b180c719543052d5823673e3f27cbd2dd",
+          "key": "catalog/israel-2026-away-jersey/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/33fab39d/6fc6c526.jpg",
+          "hash": "044646742fc3253bbc55342b1849b0511801901c",
+          "key": "catalog/israel-2026-away-jersey/image-06.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/4738b239/6005ea13.jpg": "e95492cc46236fced286c8522747dc3dd034b69a",
+        "https://photo.yupoo.com/minkang/7ce7303c/5bc4a5d9.jpg": "9583f25ddefe88fe8dc1c6abd9f8a16bffae9968",
+        "https://photo.yupoo.com/minkang/e41112bd/47fa28b1.jpg": "525182787bde541a9011901d441d62e042e11e42",
+        "https://photo.yupoo.com/minkang/d9acc96e/27645acc.jpg": "b8c038f3d31ba5594f66c2a3d631f446305f8cfe",
+        "https://photo.yupoo.com/minkang/b10a15ee/9264cdfd.jpg": "820e443b180c719543052d5823673e3f27cbd2dd",
+        "https://photo.yupoo.com/minkang/33fab39d/6fc6c526.jpg": "044646742fc3253bbc55342b1849b0511801901c"
+      },
+      "checkedAt": "2026-10-11T00:03:40.918Z"
+    },
+    "217629620": {
+      "slug": "israel-2026-home-jersey",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/433794fa/252ba95a.jpg",
+          "hash": "7dd4c89f96606f80bee7eaf5a087aff2cd6bfdeb",
+          "key": "catalog/israel-2026-home-jersey/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/531c2135/ce5a2d0e.jpg",
+          "hash": "09dff57b1aeedbe42ca75aaef08c53eb753722c6",
+          "key": "catalog/israel-2026-home-jersey/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/5a9b3b94/8a4f073f.jpg",
+          "hash": "d267184c752fd7af88a71076e74cf703823bf292",
+          "key": "catalog/israel-2026-home-jersey/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/c5e8b050/bfef2431.jpg",
+          "hash": "f06723176bbf3a797e949dac99a773c702ca95a1",
+          "key": "catalog/israel-2026-home-jersey/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/dc744acc/cda1996c.jpg",
+          "hash": "aa469a2b4dc0f60f9682f29923799df4a80f88cf",
+          "key": "catalog/israel-2026-home-jersey/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/3f2a2c45/9d0a3df8.jpg",
+          "hash": "d3abfe29d97b2049787fcca1a5af3566f55feeae",
+          "key": "catalog/israel-2026-home-jersey/image-06.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/433794fa/252ba95a.jpg": "7dd4c89f96606f80bee7eaf5a087aff2cd6bfdeb",
+        "https://photo.yupoo.com/minkang/531c2135/ce5a2d0e.jpg": "09dff57b1aeedbe42ca75aaef08c53eb753722c6",
+        "https://photo.yupoo.com/minkang/5a9b3b94/8a4f073f.jpg": "d267184c752fd7af88a71076e74cf703823bf292",
+        "https://photo.yupoo.com/minkang/c5e8b050/bfef2431.jpg": "f06723176bbf3a797e949dac99a773c702ca95a1",
+        "https://photo.yupoo.com/minkang/dc744acc/cda1996c.jpg": "aa469a2b4dc0f60f9682f29923799df4a80f88cf",
+        "https://photo.yupoo.com/minkang/3f2a2c45/9d0a3df8.jpg": "d3abfe29d97b2049787fcca1a5af3566f55feeae"
+      },
+      "checkedAt": "2026-10-11T00:03:50.086Z"
     },
     "217629693": {
       "slug": "peru-2026-home-jersey",
@@ -4574,6 +5926,56 @@
       },
       "checkedAt": "2026-10-10T22:48:21.733Z"
     },
+    "219395306": {
+      "slug": "uae-2026-home-jersey",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/b51d9a72/c7bec753.jpg",
+          "hash": "0641c3bb6293c46d03bd7d6e51d2362b3c984d07",
+          "key": "catalog/uae-2026-home-jersey/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/d38d2ab8/4988df28.jpg",
+          "hash": "a7ed1733bf73e301d393797258a996bb012acdec",
+          "key": "catalog/uae-2026-home-jersey/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/132591a3/2408c71a.jpg",
+          "hash": "bd2433dfcdeaca71c234b69e3f2507261e25d806",
+          "key": "catalog/uae-2026-home-jersey/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/e5989f35/e7766408.jpg",
+          "hash": "ed2f782a0cbb4efcbde6e255b213a5351574d47b",
+          "key": "catalog/uae-2026-home-jersey/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/67519772/65dcba44.jpg",
+          "hash": "e30acfb32720ff513c20354bf817c295f385532e",
+          "key": "catalog/uae-2026-home-jersey/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/2d517209/7bc0f2c3.jpg",
+          "hash": "2308c80639da4c87b7616daaf044c0313f1c053c",
+          "key": "catalog/uae-2026-home-jersey/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/17d23596/7af5d6ef.jpg",
+          "hash": "ad1f76cedf4832c0f088481b5ee931015628b8fb",
+          "key": "catalog/uae-2026-home-jersey/image-07.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/b51d9a72/c7bec753.jpg": "0641c3bb6293c46d03bd7d6e51d2362b3c984d07",
+        "https://photo.yupoo.com/minkang/d38d2ab8/4988df28.jpg": "a7ed1733bf73e301d393797258a996bb012acdec",
+        "https://photo.yupoo.com/minkang/132591a3/2408c71a.jpg": "bd2433dfcdeaca71c234b69e3f2507261e25d806",
+        "https://photo.yupoo.com/minkang/e5989f35/e7766408.jpg": "ed2f782a0cbb4efcbde6e255b213a5351574d47b",
+        "https://photo.yupoo.com/minkang/67519772/65dcba44.jpg": "e30acfb32720ff513c20354bf817c295f385532e",
+        "https://photo.yupoo.com/minkang/2d517209/7bc0f2c3.jpg": "2308c80639da4c87b7616daaf044c0313f1c053c",
+        "https://photo.yupoo.com/minkang/17d23596/7af5d6ef.jpg": "ad1f76cedf4832c0f088481b5ee931015628b8fb"
+      },
+      "checkedAt": "2026-10-11T00:07:25.019Z"
+    },
     "219397379": {
       "slug": "italy-2026-away-kids-kit-jersey",
       "entries": [
@@ -4709,6 +6111,50 @@
         "https://photo.yupoo.com/minkang/339b5f77/3f259a46.jpg": "c44192bbb0433a0fd8255dcbedf2d923aded0a28"
       },
       "checkedAt": "2026-10-10T23:26:34.537Z"
+    },
+    "219397480": {
+      "slug": "norway-2026-home-jersey-2",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/cdded956/c8ccb9fc.jpg",
+          "hash": "aabd34b9d948b9c4225ae3d5ec541a57b58be9a9",
+          "key": "catalog/norway-2026-home-jersey-2/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/e5eaeeac/86c0ecdf.jpg",
+          "hash": "7905eaa119de8439d86cb3042590ea440148f45d",
+          "key": "catalog/norway-2026-home-jersey-2/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/a12c4ba0/5a779500.jpg",
+          "hash": "a679a949b53f750708a8ec0b63ac3b50786bc016",
+          "key": "catalog/norway-2026-home-jersey-2/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/4a4239cb/4d754761.jpg",
+          "hash": "2e639ad9dfb452b078c993d6c1bccdaac72046f1",
+          "key": "catalog/norway-2026-home-jersey-2/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/e0e5ac61/4d5cbbe7.jpg",
+          "hash": "08907c2a4e53b7369ae2a56b197f408fdd22bef7",
+          "key": "catalog/norway-2026-home-jersey-2/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/a430a363/87b756a3.jpg",
+          "hash": "a63564d60acfd94e4c5f8bd9203adf82a023d298",
+          "key": "catalog/norway-2026-home-jersey-2/image-06.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/cdded956/c8ccb9fc.jpg": "aabd34b9d948b9c4225ae3d5ec541a57b58be9a9",
+        "https://photo.yupoo.com/minkang/e5eaeeac/86c0ecdf.jpg": "7905eaa119de8439d86cb3042590ea440148f45d",
+        "https://photo.yupoo.com/minkang/a12c4ba0/5a779500.jpg": "a679a949b53f750708a8ec0b63ac3b50786bc016",
+        "https://photo.yupoo.com/minkang/4a4239cb/4d754761.jpg": "2e639ad9dfb452b078c993d6c1bccdaac72046f1",
+        "https://photo.yupoo.com/minkang/e0e5ac61/4d5cbbe7.jpg": "08907c2a4e53b7369ae2a56b197f408fdd22bef7",
+        "https://photo.yupoo.com/minkang/a430a363/87b756a3.jpg": "a63564d60acfd94e4c5f8bd9203adf82a023d298"
+      },
+      "checkedAt": "2026-10-11T00:06:57.190Z"
     },
     "219525141": {
       "slug": "japan-2026-home-long-sleeve-jersey",
@@ -7358,6 +8804,86 @@
       },
       "checkedAt": "2026-10-10T22:53:32.038Z"
     },
+    "221733939": {
+      "slug": "costa-rica-2026-home-kids-kit-jersey",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/85ed9cd5/8bc5c3ed.jpg",
+          "hash": "982ea19b53c56def19de4123e983115752bd04dc",
+          "key": "catalog/costa-rica-2026-home-kids-kit-jersey/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/91a9bdd3/21ff7974.jpg",
+          "hash": "64dd72a8ea22e9c533e40a2c63cc262fe8b599c2",
+          "key": "catalog/costa-rica-2026-home-kids-kit-jersey/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/55443345/6c522296.jpg",
+          "hash": "987759f0c6e3a7b37197a649cbbaeb117c9d3f90",
+          "key": "catalog/costa-rica-2026-home-kids-kit-jersey/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/899c9782/d9d74d16.jpg",
+          "hash": "58101b61326b1bc99528f980389c51312cde32ba",
+          "key": "catalog/costa-rica-2026-home-kids-kit-jersey/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/d03ea38e/f8fc528a.jpg",
+          "hash": "1b65313c50d9847a3daf763b80f0d0bb79792b5d",
+          "key": "catalog/costa-rica-2026-home-kids-kit-jersey/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/4661eee7/558c103b.jpg",
+          "hash": "80ac5d45cce0b7f44729428e015b925a24db29ec",
+          "key": "catalog/costa-rica-2026-home-kids-kit-jersey/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/43c36c80/76b4a7e6.jpg",
+          "hash": "ecbbdd8bf7058d1907fc81cb6a631727099f0fb3",
+          "key": "catalog/costa-rica-2026-home-kids-kit-jersey/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/5f0c95bd/97c13953.jpg",
+          "hash": "92020a35364cc761454e9b7336bb24cae8efa2d4",
+          "key": "catalog/costa-rica-2026-home-kids-kit-jersey/image-08.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/8b557ccb/94957321.jpg",
+          "hash": "a21e715fa407ad81e88e5f525755b453863bd2b1",
+          "key": "catalog/costa-rica-2026-home-kids-kit-jersey/image-09.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/ebbfecdc/2bb06d95.jpg",
+          "hash": "ecaa390fc2eb3fd1498defaa256faced76d72c94",
+          "key": "catalog/costa-rica-2026-home-kids-kit-jersey/image-10.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/600a1a59/a3c578e6.jpg",
+          "hash": "72bbd6555a83c63166bbb735c77ed678ad3c5d94",
+          "key": "catalog/costa-rica-2026-home-kids-kit-jersey/image-11.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/370a10a8/7faf92d0.jpg",
+          "hash": "762d210904a168a1219340464cbe76e13294c575",
+          "key": "catalog/costa-rica-2026-home-kids-kit-jersey/image-12.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/85ed9cd5/8bc5c3ed.jpg": "982ea19b53c56def19de4123e983115752bd04dc",
+        "https://photo.yupoo.com/minkang/91a9bdd3/21ff7974.jpg": "64dd72a8ea22e9c533e40a2c63cc262fe8b599c2",
+        "https://photo.yupoo.com/minkang/55443345/6c522296.jpg": "987759f0c6e3a7b37197a649cbbaeb117c9d3f90",
+        "https://photo.yupoo.com/minkang/899c9782/d9d74d16.jpg": "58101b61326b1bc99528f980389c51312cde32ba",
+        "https://photo.yupoo.com/minkang/d03ea38e/f8fc528a.jpg": "1b65313c50d9847a3daf763b80f0d0bb79792b5d",
+        "https://photo.yupoo.com/minkang/4661eee7/558c103b.jpg": "80ac5d45cce0b7f44729428e015b925a24db29ec",
+        "https://photo.yupoo.com/minkang/43c36c80/76b4a7e6.jpg": "ecbbdd8bf7058d1907fc81cb6a631727099f0fb3",
+        "https://photo.yupoo.com/minkang/5f0c95bd/97c13953.jpg": "92020a35364cc761454e9b7336bb24cae8efa2d4",
+        "https://photo.yupoo.com/minkang/8b557ccb/94957321.jpg": "a21e715fa407ad81e88e5f525755b453863bd2b1",
+        "https://photo.yupoo.com/minkang/ebbfecdc/2bb06d95.jpg": "ecaa390fc2eb3fd1498defaa256faced76d72c94",
+        "https://photo.yupoo.com/minkang/600a1a59/a3c578e6.jpg": "72bbd6555a83c63166bbb735c77ed678ad3c5d94",
+        "https://photo.yupoo.com/minkang/370a10a8/7faf92d0.jpg": "762d210904a168a1219340464cbe76e13294c575"
+      },
+      "checkedAt": "2026-10-11T00:02:45.160Z"
+    },
     "221734131": {
       "slug": "saudi-arabia-2026-home-kids-kit-jersey",
       "entries": [
@@ -7511,6 +9037,80 @@
         "https://photo.yupoo.com/minkang/739d8672/81794fb5.jpg": "a8e411640db3bf9b86f3611c7977a3e178bc27d1"
       },
       "checkedAt": "2026-10-10T23:32:34.391Z"
+    },
+    "221734232": {
+      "slug": "tunisia-2026-away-kids-kit-jersey",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/15170f33/37a125c8.jpg",
+          "hash": "af3807cabfeb594fa50c96bb2b52d6105b589c0d",
+          "key": "catalog/tunisia-2026-away-kids-kit-jersey/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/7c18e683/dee2460f.jpg",
+          "hash": "1f867741f8b58caf931d69af7333409d34daa77f",
+          "key": "catalog/tunisia-2026-away-kids-kit-jersey/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/389ba704/9804d427.jpg",
+          "hash": "e9541871b29f710ae853db0a8a1eae032ddbabec",
+          "key": "catalog/tunisia-2026-away-kids-kit-jersey/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/a6284d9a/80a84fbd.jpg",
+          "hash": "9412d0a635f9c789880d5c1662da3e8c37bb008e",
+          "key": "catalog/tunisia-2026-away-kids-kit-jersey/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/46c50e45/4a6a5179.jpg",
+          "hash": "3f9b61dff3d085cea2547e672b6427c96dd93360",
+          "key": "catalog/tunisia-2026-away-kids-kit-jersey/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/5dfc05eb/6c97d8df.jpg",
+          "hash": "0b80cb79792ffa9839e313d61e8ddb1d517505fb",
+          "key": "catalog/tunisia-2026-away-kids-kit-jersey/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/7ae84813/aef1df63.jpg",
+          "hash": "bbd7c1294a0e499cf6bded09cd908e2585c3a8af",
+          "key": "catalog/tunisia-2026-away-kids-kit-jersey/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/483587b8/4e8babae.jpg",
+          "hash": "e7241c5022620b423a5190f026a8922e058253c0",
+          "key": "catalog/tunisia-2026-away-kids-kit-jersey/image-08.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/8b6d9215/75b11cd2.jpg",
+          "hash": "1de63f5bddc8bc7dac11cee4d09cbd3b4b5d6f84",
+          "key": "catalog/tunisia-2026-away-kids-kit-jersey/image-09.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/b877ad09/8c63296a.jpg",
+          "hash": "f37922613a58a966ef649e0cfcedb20a6d807c97",
+          "key": "catalog/tunisia-2026-away-kids-kit-jersey/image-10.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/b823a284/c4683099.jpg",
+          "hash": "f4b7891a8b4ba775deb43be8273027a54fb5be84",
+          "key": "catalog/tunisia-2026-away-kids-kit-jersey/image-11.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/15170f33/37a125c8.jpg": "af3807cabfeb594fa50c96bb2b52d6105b589c0d",
+        "https://photo.yupoo.com/minkang/7c18e683/dee2460f.jpg": "1f867741f8b58caf931d69af7333409d34daa77f",
+        "https://photo.yupoo.com/minkang/389ba704/9804d427.jpg": "e9541871b29f710ae853db0a8a1eae032ddbabec",
+        "https://photo.yupoo.com/minkang/a6284d9a/80a84fbd.jpg": "9412d0a635f9c789880d5c1662da3e8c37bb008e",
+        "https://photo.yupoo.com/minkang/46c50e45/4a6a5179.jpg": "3f9b61dff3d085cea2547e672b6427c96dd93360",
+        "https://photo.yupoo.com/minkang/5dfc05eb/6c97d8df.jpg": "0b80cb79792ffa9839e313d61e8ddb1d517505fb",
+        "https://photo.yupoo.com/minkang/7ae84813/aef1df63.jpg": "bbd7c1294a0e499cf6bded09cd908e2585c3a8af",
+        "https://photo.yupoo.com/minkang/483587b8/4e8babae.jpg": "e7241c5022620b423a5190f026a8922e058253c0",
+        "https://photo.yupoo.com/minkang/8b6d9215/75b11cd2.jpg": "1de63f5bddc8bc7dac11cee4d09cbd3b4b5d6f84",
+        "https://photo.yupoo.com/minkang/b877ad09/8c63296a.jpg": "f37922613a58a966ef649e0cfcedb20a6d807c97",
+        "https://photo.yupoo.com/minkang/b823a284/c4683099.jpg": "f4b7891a8b4ba775deb43be8273027a54fb5be84"
+      },
+      "checkedAt": "2026-10-11T00:04:00.310Z"
     },
     "221917256": {
       "slug": "northern-ireland-2026-home-kids-kit-jersey",
@@ -11663,6 +13263,56 @@
         "https://photo.yupoo.com/minkang/bc233543/1e55736e.jpg": "e57e06e9482a84f7613b3e6583e23369397cd23e"
       },
       "checkedAt": "2026-10-10T23:42:44.350Z"
+    },
+    "228200014": {
+      "slug": "uruguay-26-27-special-edition-jersey",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/2a6820db/4cd81844.jpg",
+          "hash": "66b05d89e48ee4990d7a1dec01789a27f415f7ae",
+          "key": "catalog/uruguay-26-27-special-edition-jersey/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/25f4f2a9/9f2f7a76.jpg",
+          "hash": "5b659e8e5e4cd8492da92b43ff8d795fbee0ee32",
+          "key": "catalog/uruguay-26-27-special-edition-jersey/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/59c09b96/d7336c21.jpg",
+          "hash": "827b74e5f7d8f4837663e343d510d830f78d85ee",
+          "key": "catalog/uruguay-26-27-special-edition-jersey/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/c0003d52/27eac4e3.jpg",
+          "hash": "0123511a53b63fc207b3ce5863a9d6c205c29221",
+          "key": "catalog/uruguay-26-27-special-edition-jersey/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/c0219fc1/d1d83e80.jpg",
+          "hash": "2afb1d014c1ae7258c1adc048f5ba88581a410a0",
+          "key": "catalog/uruguay-26-27-special-edition-jersey/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/e40dc5f1/7a63cc43.jpg",
+          "hash": "0a460d9cb6549e9185c8dcdc9c193c338da0badb",
+          "key": "catalog/uruguay-26-27-special-edition-jersey/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/34d9a5f8/a309712d.jpg",
+          "hash": "8907dc48ac4180b2d7100c895fc5fda78db327ba",
+          "key": "catalog/uruguay-26-27-special-edition-jersey/image-07.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/2a6820db/4cd81844.jpg": "66b05d89e48ee4990d7a1dec01789a27f415f7ae",
+        "https://photo.yupoo.com/minkang/25f4f2a9/9f2f7a76.jpg": "5b659e8e5e4cd8492da92b43ff8d795fbee0ee32",
+        "https://photo.yupoo.com/minkang/59c09b96/d7336c21.jpg": "827b74e5f7d8f4837663e343d510d830f78d85ee",
+        "https://photo.yupoo.com/minkang/c0003d52/27eac4e3.jpg": "0123511a53b63fc207b3ce5863a9d6c205c29221",
+        "https://photo.yupoo.com/minkang/c0219fc1/d1d83e80.jpg": "2afb1d014c1ae7258c1adc048f5ba88581a410a0",
+        "https://photo.yupoo.com/minkang/e40dc5f1/7a63cc43.jpg": "0a460d9cb6549e9185c8dcdc9c193c338da0badb",
+        "https://photo.yupoo.com/minkang/34d9a5f8/a309712d.jpg": "8907dc48ac4180b2d7100c895fc5fda78db327ba"
+      },
+      "checkedAt": "2026-10-11T00:04:42.239Z"
     },
     "228201296": {
       "slug": "brazil-2026-home-player-version-jersey",
@@ -16163,6 +17813,62 @@
         "https://photo.yupoo.com/minkang/034d4048ce/95c7faf5.jpg": "a21c1a845a80b50bb4b4be406af89504deb19f9d"
       },
       "checkedAt": "2026-10-10T23:51:14.424Z"
+    },
+    "235264405": {
+      "slug": "costa-rica-2026-away-jersey",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/e3bc99e7d1/9103339f.jpg",
+          "hash": "600cb34e912a6069a0ea18f2b6ff66cc8ea91d7b",
+          "key": "catalog/costa-rica-2026-away-jersey/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/1385e41db7/7dcafccf.jpg",
+          "hash": "a14e8751480b21e43146ec359a408ed045570802",
+          "key": "catalog/costa-rica-2026-away-jersey/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/6f06f28d0e/15baff9d.jpg",
+          "hash": "0992ea75e6748107d480550a77628e518d08cff6",
+          "key": "catalog/costa-rica-2026-away-jersey/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/a94a433777/6c13d6b4.jpg",
+          "hash": "b8ba82e3164c86926803d603f714b6e5b63aed51",
+          "key": "catalog/costa-rica-2026-away-jersey/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/03b168891c/8348e08f.jpg",
+          "hash": "870c03438913af0ae2f426fcfeecfb1fc2f0aeaa",
+          "key": "catalog/costa-rica-2026-away-jersey/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/76d9e27ffb/fb9c0078.jpg",
+          "hash": "4fb42c95954378cf233b8eaf079fa60ff5a2c416",
+          "key": "catalog/costa-rica-2026-away-jersey/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/c12a47a413/ee8105e6.jpg",
+          "hash": "695b28c37a2b066b0fd8805a93d17ceec448b06a",
+          "key": "catalog/costa-rica-2026-away-jersey/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/b3cc500d3e/4c6c3994.jpg",
+          "hash": "bd18e9210165cd999579daef5113b094db470328",
+          "key": "catalog/costa-rica-2026-away-jersey/image-08.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/e3bc99e7d1/9103339f.jpg": "600cb34e912a6069a0ea18f2b6ff66cc8ea91d7b",
+        "https://photo.yupoo.com/minkang/1385e41db7/7dcafccf.jpg": "a14e8751480b21e43146ec359a408ed045570802",
+        "https://photo.yupoo.com/minkang/6f06f28d0e/15baff9d.jpg": "0992ea75e6748107d480550a77628e518d08cff6",
+        "https://photo.yupoo.com/minkang/a94a433777/6c13d6b4.jpg": "b8ba82e3164c86926803d603f714b6e5b63aed51",
+        "https://photo.yupoo.com/minkang/03b168891c/8348e08f.jpg": "870c03438913af0ae2f426fcfeecfb1fc2f0aeaa",
+        "https://photo.yupoo.com/minkang/76d9e27ffb/fb9c0078.jpg": "4fb42c95954378cf233b8eaf079fa60ff5a2c416",
+        "https://photo.yupoo.com/minkang/c12a47a413/ee8105e6.jpg": "695b28c37a2b066b0fd8805a93d17ceec448b06a",
+        "https://photo.yupoo.com/minkang/b3cc500d3e/4c6c3994.jpg": "bd18e9210165cd999579daef5113b094db470328"
+      },
+      "checkedAt": "2026-10-11T00:03:02.484Z"
     },
     "235265006": {
       "slug": "ghana-2026-away-jersey",
