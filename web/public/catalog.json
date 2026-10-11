@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-11T16:29:46.655Z",
+  "generatedAt": "2026-10-11T16:45:26.714Z",
   "source": {
     "name": "Supplier catalogue",
     "url": "https://minkang.x.yupoo.com/albums"
   },
-  "count": 2607,
+  "count": 2646,
   "items": [
     {
       "id": "yupoo-64039421",
@@ -418,7 +418,7 @@
     {
       "id": "yupoo-212194714",
       "name": "2020 Brazil home S-XXXL",
-      "category": "Brazil team column",
+      "category": "Retro football shirt",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/212194714?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2020-brazil-home-s-xxxl/cover.webp",
       "images": [
@@ -438,18 +438,20 @@
       ],
       "availability": "unknown",
       "slug": "2020-brazil-home-s-xxxl",
-      "siteCategory": "national",
+      "siteCategory": "retro",
       "team": "Brazil",
       "league": "National teams",
       "country": "Brazil",
       "season": "2020",
       "type": "Shirt",
-      "variant": "Fan version",
+      "variant": "Retro",
       "sourceCategories": [
+        "Retro football shirt",
+        "new season",
         "Brazil team column"
       ],
       "sourceTitle": "2020 Brazil home S-XXXL",
-      "updatedAt": "2026-10-11T00:22:19.838Z"
+      "updatedAt": "2026-10-11T16:35:00.760Z"
     },
     {
       "id": "yupoo-78484596",
@@ -6258,6 +6260,48 @@
       "updatedAt": "2026-10-11T11:44:54.163Z"
     },
     {
+      "id": "yupoo-212194765",
+      "name": "Ajax 1989/90 Away Retro Jersey",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212194765?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ajax-1989-90-away-retro-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ajax-1989-90-away-retro-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ajax-1989-90-away-retro-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ajax-1989-90-away-retro-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ajax-1989-90-away-retro-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ajax-1989-90-away-retro-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ajax-1989-90-away-retro-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ajax-1989-90-away-retro-jersey/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ajax-1989-90-away-retro-jersey/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "ajax-1989-90-away-retro-jersey",
+      "siteCategory": "retro",
+      "team": "Ajax",
+      "league": "Other leagues",
+      "country": "Netherlands",
+      "season": "1989/90",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "EREDIVISIE",
+        "AFC Ajax"
+      ],
+      "sourceTitle": "Ajax 1989/90 Away Retro Jersey S-XXL",
+      "updatedAt": "2026-10-11T16:33:03.319Z"
+    },
+    {
       "id": "yupoo-221249235",
       "name": "Ajax 89/90 Home Retro Jersey",
       "category": "Retro football shirt",
@@ -8300,7 +8344,7 @@
     {
       "id": "yupoo-212235010",
       "name": "Argentina 2006 Home Retro Jersey",
-      "category": "⚽🌍 National Teams",
+      "category": "Retro football shirt",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/212235010?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/argentina-2006-home-retro-jersey/cover.webp",
       "images": [
@@ -8330,10 +8374,12 @@
       "type": "Shirt",
       "variant": "Retro",
       "sourceCategories": [
-        "⚽🌍 National Teams"
+        "Retro football shirt",
+        "⚽🌍 National Teams",
+        "new season"
       ],
       "sourceTitle": "Argentina 2006 Home Retro Jersey S-XXL",
-      "updatedAt": "2026-10-11T05:05:42.070Z"
+      "updatedAt": "2026-10-11T16:30:53.569Z"
     },
     {
       "id": "yupoo-237218017",
@@ -20176,7 +20222,7 @@
     {
       "id": "yupoo-212194483",
       "name": "Brazil 1958 Home Retro Jersey",
-      "category": "Brazil team column",
+      "category": "Retro football shirt",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/212194483?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/brazil-1958-home-retro-jersey-2/cover.webp",
       "images": [
@@ -20204,15 +20250,17 @@
       "type": "Shirt",
       "variant": "Retro",
       "sourceCategories": [
+        "Retro football shirt",
+        "new season",
         "Brazil team column"
       ],
       "sourceTitle": "Brazil 1958 Home Retro Jersey S-XXL",
-      "updatedAt": "2026-10-11T00:22:28.020Z"
+      "updatedAt": "2026-10-11T16:38:22.313Z"
     },
     {
       "id": "yupoo-212194592",
       "name": "Brazil 1971 Home Retro Jersey",
-      "category": "Brazil team column",
+      "category": "Retro football shirt",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/212194592?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/brazil-1971-home-retro-jersey/cover.webp",
       "images": [
@@ -20240,10 +20288,12 @@
       "type": "Shirt",
       "variant": "Retro",
       "sourceCategories": [
+        "Retro football shirt",
+        "new season",
         "Brazil team column"
       ],
       "sourceTitle": "Brazil 1971 Home Retro Jersey S-XXL",
-      "updatedAt": "2026-10-11T00:21:46.412Z"
+      "updatedAt": "2026-10-11T16:36:36.860Z"
     },
     {
       "id": "yupoo-255027290",
@@ -26494,6 +26544,87 @@
       "updatedAt": "2026-10-11T10:41:33.544Z"
     },
     {
+      "id": "yupoo-212194834",
+      "name": "Celtics 1980 Home Retro Jersey",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212194834?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtics-1980-home-retro-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtics-1980-home-retro-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtics-1980-home-retro-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtics-1980-home-retro-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtics-1980-home-retro-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtics-1980-home-retro-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtics-1980-home-retro-jersey/image-06.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "celtics-1980-home-retro-jersey",
+      "siteCategory": "retro",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "1980",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "Scottish League",
+        "Celtic F.C.",
+        "new season"
+      ],
+      "sourceTitle": "Celtics 1980 Home Retro Jersey S-XXL",
+      "updatedAt": "2026-10-11T16:32:48.021Z"
+    },
+    {
+      "id": "yupoo-212194858",
+      "name": "Celtics 1989/91 Home Retro Jersey",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212194858?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtics-1989-91-home-retro-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtics-1989-91-home-retro-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtics-1989-91-home-retro-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtics-1989-91-home-retro-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtics-1989-91-home-retro-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtics-1989-91-home-retro-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtics-1989-91-home-retro-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtics-1989-91-home-retro-jersey/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "celtics-1989-91-home-retro-jersey",
+      "siteCategory": "retro",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "1989/91",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "Scottish League",
+        "Celtic F.C.",
+        "new season"
+      ],
+      "sourceTitle": "Celtics 1989/91 Home Retro Jersey S-XXL",
+      "updatedAt": "2026-10-11T16:32:32.431Z"
+    },
+    {
       "id": "yupoo-212247950",
       "name": "Celtics 1989/91 Long Sleeve Home Retro Jersey",
       "category": "Retro football shirt",
@@ -32331,6 +32462,88 @@
       ],
       "sourceTitle": "Corinthians 2010 100th Anniversary Retro Jersey S-XXL",
       "updatedAt": "2026-10-11T15:56:18.754Z"
+    },
+    {
+      "id": "yupoo-212194640",
+      "name": "Corinthians 2010 Away Retro Jersey",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212194640?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/corinthians-2010-away-retro-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/corinthians-2010-away-retro-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/corinthians-2010-away-retro-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/corinthians-2010-away-retro-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/corinthians-2010-away-retro-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/corinthians-2010-away-retro-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/corinthians-2010-away-retro-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/corinthians-2010-away-retro-jersey/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "corinthians-2010-away-retro-jersey",
+      "siteCategory": "retro",
+      "team": "Corinthians",
+      "league": "Brasileiro Série A",
+      "country": "Brazil",
+      "season": "2010",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Brasileiro Série A",
+        "Corinthians"
+      ],
+      "sourceTitle": "Corinthians 2010 Away Retro Jersey S-XXL",
+      "updatedAt": "2026-10-11T16:36:28.952Z"
+    },
+    {
+      "id": "yupoo-212194513",
+      "name": "Corinthians 2010 Orange Retro Jersey",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212194513?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/corinthians-2010-orange-retro-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/corinthians-2010-orange-retro-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/corinthians-2010-orange-retro-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/corinthians-2010-orange-retro-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/corinthians-2010-orange-retro-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/corinthians-2010-orange-retro-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/corinthians-2010-orange-retro-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/corinthians-2010-orange-retro-jersey/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "corinthians-2010-orange-retro-jersey",
+      "siteCategory": "retro",
+      "team": "Corinthians",
+      "league": "Brasileiro Série A",
+      "country": "Brazil",
+      "season": "2010",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Brasileiro Série A",
+        "Corinthians"
+      ],
+      "sourceTitle": "Corinthians 2010 Orange Retro Jersey S-XXL",
+      "updatedAt": "2026-10-11T16:37:57.102Z"
     },
     {
       "id": "yupoo-255027502",
@@ -38755,6 +38968,49 @@
       "updatedAt": "2026-10-11T14:06:08.727Z"
     },
     {
+      "id": "yupoo-212194405",
+      "name": "Flamengo 00/01 Second Away Retro Jersey",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212194405?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-00-01-second-away-retro-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-00-01-second-away-retro-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-00-01-second-away-retro-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-00-01-second-away-retro-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-00-01-second-away-retro-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-00-01-second-away-retro-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-00-01-second-away-retro-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-00-01-second-away-retro-jersey/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-00-01-second-away-retro-jersey/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-00-01-second-away-retro-jersey/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "flamengo-00-01-second-away-retro-jersey",
+      "siteCategory": "retro",
+      "team": "Flamengo",
+      "league": "Brasileiro Série A",
+      "country": "Brazil",
+      "season": "2000/01",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Brasileiro Série A",
+        "Flamengo"
+      ],
+      "sourceTitle": "Flamengo 00/01 Second Away Retro Jersey S-XXL",
+      "updatedAt": "2026-10-11T16:38:58.254Z"
+    },
+    {
       "id": "yupoo-234179167",
       "name": "Flamengo 02/03 Away Retro Jersey",
       "category": "Retro football shirt",
@@ -38795,6 +39051,130 @@
       ],
       "sourceTitle": "Flamengo 02/03 Away Retro Jersey S-XXL",
       "updatedAt": "2026-10-11T11:47:04.691Z"
+    },
+    {
+      "id": "yupoo-212194740",
+      "name": "Flamengo 08/09 Home Long Sleeve Retro Jersey",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212194740?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-08-09-home-long-sleeve-retro-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-08-09-home-long-sleeve-retro-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-08-09-home-long-sleeve-retro-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-08-09-home-long-sleeve-retro-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-08-09-home-long-sleeve-retro-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-08-09-home-long-sleeve-retro-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-08-09-home-long-sleeve-retro-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-08-09-home-long-sleeve-retro-jersey/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "flamengo-08-09-home-long-sleeve-retro-jersey",
+      "siteCategory": "retro",
+      "team": "Flamengo",
+      "league": "Brasileiro Série A",
+      "country": "Brazil",
+      "season": "2008/09",
+      "type": "Shirt",
+      "variant": "Long sleeve",
+      "sourceCategories": [
+        "Retro football shirt",
+        "⚽Long sleeve shirt",
+        "new season",
+        "Brasileiro Série A",
+        "Flamengo"
+      ],
+      "sourceTitle": "Flamengo 08/09 Home Long Sleeve Retro Jersey S-XXL",
+      "updatedAt": "2026-10-11T16:33:56.548Z"
+    },
+    {
+      "id": "yupoo-212194561",
+      "name": "Flamengo 08/09 Home Retro Jersey",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212194561?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-08-09-home-retro-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-08-09-home-retro-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-08-09-home-retro-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-08-09-home-retro-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-08-09-home-retro-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-08-09-home-retro-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-08-09-home-retro-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-08-09-home-retro-jersey/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "flamengo-08-09-home-retro-jersey",
+      "siteCategory": "retro",
+      "team": "Flamengo",
+      "league": "Brasileiro Série A",
+      "country": "Brazil",
+      "season": "2008/09",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Brasileiro Série A",
+        "Flamengo"
+      ],
+      "sourceTitle": "Flamengo 08/09 Home Retro Jersey S-XXL",
+      "updatedAt": "2026-10-11T16:37:23.857Z"
+    },
+    {
+      "id": "yupoo-212194567",
+      "name": "Flamengo 08/09 Second Away Retro Jersey",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212194567?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-08-09-second-away-retro-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-08-09-second-away-retro-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-08-09-second-away-retro-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-08-09-second-away-retro-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-08-09-second-away-retro-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-08-09-second-away-retro-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-08-09-second-away-retro-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-08-09-second-away-retro-jersey/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "flamengo-08-09-second-away-retro-jersey",
+      "siteCategory": "retro",
+      "team": "Flamengo",
+      "league": "Brasileiro Série A",
+      "country": "Brazil",
+      "season": "2008/09",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Brasileiro Série A",
+        "Flamengo"
+      ],
+      "sourceTitle": "Flamengo 08/09 Second Away Retro Jersey S-XXL",
+      "updatedAt": "2026-10-11T16:37:10.618Z"
     },
     {
       "id": "yupoo-226669633",
@@ -39085,6 +39465,89 @@
       "updatedAt": "2026-10-11T15:56:56.046Z"
     },
     {
+      "id": "yupoo-212194729",
+      "name": "Flamengo 1994/95 Home Long Sleeve Retro Retro Jersey",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212194729?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-1994-95-home-long-sleeve-retro-retro-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-1994-95-home-long-sleeve-retro-retro-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-1994-95-home-long-sleeve-retro-retro-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-1994-95-home-long-sleeve-retro-retro-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-1994-95-home-long-sleeve-retro-retro-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-1994-95-home-long-sleeve-retro-retro-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-1994-95-home-long-sleeve-retro-retro-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-1994-95-home-long-sleeve-retro-retro-jersey/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "flamengo-1994-95-home-long-sleeve-retro-retro-jersey",
+      "siteCategory": "retro",
+      "team": "Flamengo",
+      "league": "Brasileiro Série A",
+      "country": "Brazil",
+      "season": "1994/95",
+      "type": "Shirt",
+      "variant": "Long sleeve",
+      "sourceCategories": [
+        "Retro football shirt",
+        "⚽Long sleeve shirt",
+        "new season",
+        "Brasileiro Série A",
+        "Flamengo"
+      ],
+      "sourceTitle": "Flamengo 1994/95 Home Long Sleeve Retro Retro Jersey S-XXL",
+      "updatedAt": "2026-10-11T16:34:44.221Z"
+    },
+    {
+      "id": "yupoo-212194555",
+      "name": "Flamengo 1994/95 Home Retro Jersey",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212194555?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-1994-95-home-retro-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-1994-95-home-retro-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-1994-95-home-retro-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-1994-95-home-retro-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-1994-95-home-retro-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-1994-95-home-retro-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-1994-95-home-retro-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-1994-95-home-retro-jersey/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "flamengo-1994-95-home-retro-jersey",
+      "siteCategory": "retro",
+      "team": "Flamengo",
+      "league": "Brasileiro Série A",
+      "country": "Brazil",
+      "season": "1994/95",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Brasileiro Série A",
+        "Flamengo"
+      ],
+      "sourceTitle": "Flamengo 1994/95 Home Retro Jersey S-XXL",
+      "updatedAt": "2026-10-11T16:37:39.401Z"
+    },
+    {
       "id": "yupoo-212466836",
       "name": "Flamengo 1995 Away Retro Jersey",
       "category": "Retro football shirt",
@@ -39330,6 +39793,130 @@
       "updatedAt": "2026-10-11T11:07:12.817Z"
     },
     {
+      "id": "yupoo-212194308",
+      "name": "Flamengo 2002/03 Home Retro Jersey",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212194308?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-2002-03-home-retro-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-2002-03-home-retro-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-2002-03-home-retro-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-2002-03-home-retro-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-2002-03-home-retro-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-2002-03-home-retro-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-2002-03-home-retro-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-2002-03-home-retro-jersey/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-2002-03-home-retro-jersey/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "flamengo-2002-03-home-retro-jersey",
+      "siteCategory": "retro",
+      "team": "Flamengo",
+      "league": "Brasileiro Série A",
+      "country": "Brazil",
+      "season": "2002/03",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Brasileiro Série A",
+        "Flamengo"
+      ],
+      "sourceTitle": "Flamengo 2002/03 Home Retro Jersey S-XXL",
+      "updatedAt": "2026-10-11T16:39:38.045Z"
+    },
+    {
+      "id": "yupoo-212194653",
+      "name": "Flamengo 2005/06 Second Away Retro Jersey",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212194653?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-2005-06-second-away-retro-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-2005-06-second-away-retro-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-2005-06-second-away-retro-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-2005-06-second-away-retro-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-2005-06-second-away-retro-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-2005-06-second-away-retro-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-2005-06-second-away-retro-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-2005-06-second-away-retro-jersey/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "flamengo-2005-06-second-away-retro-jersey",
+      "siteCategory": "retro",
+      "team": "Flamengo",
+      "league": "Brasileiro Série A",
+      "country": "Brazil",
+      "season": "2005/06",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Brasileiro Série A",
+        "Flamengo"
+      ],
+      "sourceTitle": "Flamengo 2005/06 Second Away Retro Jersey S-XXL",
+      "updatedAt": "2026-10-11T16:36:10.446Z"
+    },
+    {
+      "id": "yupoo-212194709",
+      "name": "Flamengo 2008/09 Away Retro Jersey",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212194709?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-2008-09-away-retro-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-2008-09-away-retro-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-2008-09-away-retro-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-2008-09-away-retro-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-2008-09-away-retro-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-2008-09-away-retro-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-2008-09-away-retro-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-2008-09-away-retro-jersey/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "flamengo-2008-09-away-retro-jersey",
+      "siteCategory": "retro",
+      "team": "Flamengo",
+      "league": "Brasileiro Série A",
+      "country": "Brazil",
+      "season": "2008/09",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Brasileiro Série A",
+        "Flamengo"
+      ],
+      "sourceTitle": "Flamengo 2008/09 Away Retro Jersey S-XXL",
+      "updatedAt": "2026-10-11T16:35:23.296Z"
+    },
+    {
       "id": "yupoo-255027698",
       "name": "Flamengo 2010 Third Retro Jersey",
       "category": "Retro football shirt",
@@ -39374,6 +39961,89 @@
       "updatedAt": "2026-10-11T11:10:37.540Z"
     },
     {
+      "id": "yupoo-212194379",
+      "name": "Flamengo 2013/14 Third Away Retro Jersey",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212194379?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-2013-14-third-away-retro-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-2013-14-third-away-retro-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-2013-14-third-away-retro-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-2013-14-third-away-retro-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-2013-14-third-away-retro-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-2013-14-third-away-retro-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-2013-14-third-away-retro-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-2013-14-third-away-retro-jersey/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "flamengo-2013-14-third-away-retro-jersey",
+      "siteCategory": "retro",
+      "team": "Flamengo",
+      "league": "Brasileiro Série A",
+      "country": "Brazil",
+      "season": "2013/14",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Brasileiro Série A",
+        "Flamengo"
+      ],
+      "sourceTitle": "Flamengo 2013/14 Third Away Retro Jersey S-XXL",
+      "updatedAt": "2026-10-11T16:39:18.485Z"
+    },
+    {
+      "id": "yupoo-212194576",
+      "name": "Flamengo 2014/15 Second Away Retro Jersey",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212194576?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-2014-15-second-away-retro-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-2014-15-second-away-retro-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-2014-15-second-away-retro-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-2014-15-second-away-retro-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-2014-15-second-away-retro-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-2014-15-second-away-retro-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-2014-15-second-away-retro-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-2014-15-second-away-retro-jersey/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-2014-15-second-away-retro-jersey/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "flamengo-2014-15-second-away-retro-jersey",
+      "siteCategory": "retro",
+      "team": "Flamengo",
+      "league": "Brasileiro Série A",
+      "country": "Brazil",
+      "season": "2014/15",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Brasileiro Série A",
+        "Flamengo"
+      ],
+      "sourceTitle": "Flamengo 2014/15 Second Away Retro Jersey S-XXL",
+      "updatedAt": "2026-10-11T16:36:53.781Z"
+    },
+    {
       "id": "yupoo-220906198",
       "name": "Flamengo 2018 Commemorative Edition Retro Jersey",
       "category": "Retro football shirt",
@@ -39412,6 +40082,47 @@
       ],
       "sourceTitle": "Flamengo 2018 Commemorative Edition Retro Jersey S-XXL",
       "updatedAt": "2026-10-11T12:46:26.164Z"
+    },
+    {
+      "id": "yupoo-212194734",
+      "name": "Flamengo 2019/20 Black Classic Edition Long Sleeve Retro Jersey",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212194734?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-2019-20-black-classic-edition-long-sleeve-retro-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-2019-20-black-classic-edition-long-sleeve-retro-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-2019-20-black-classic-edition-long-sleeve-retro-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-2019-20-black-classic-edition-long-sleeve-retro-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-2019-20-black-classic-edition-long-sleeve-retro-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-2019-20-black-classic-edition-long-sleeve-retro-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-2019-20-black-classic-edition-long-sleeve-retro-jersey/image-06.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "flamengo-2019-20-black-classic-edition-long-sleeve-retro-jersey",
+      "siteCategory": "retro",
+      "team": "Flamengo",
+      "league": "Brasileiro Série A",
+      "country": "Brazil",
+      "season": "2019/20",
+      "type": "Shirt",
+      "variant": "Long sleeve",
+      "sourceCategories": [
+        "Retro football shirt",
+        "⚽Long sleeve shirt",
+        "new season",
+        "Brasileiro Série A",
+        "Flamengo"
+      ],
+      "sourceTitle": "Flamengo 2019/20 Black Classic Edition Long Sleeve Retro Jersey S-XXL",
+      "updatedAt": "2026-10-11T16:34:29.779Z"
     },
     {
       "id": "yupoo-226669664",
@@ -39454,6 +40165,211 @@
       ],
       "sourceTitle": "Flamengo 21/22 Third Away Retro Jersey S-XXL",
       "updatedAt": "2026-10-11T12:16:54.925Z"
+    },
+    {
+      "id": "yupoo-212194247",
+      "name": "Fluminense 15/16 Third Away Retro Jersey",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212194247?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/fluminense-15-16-third-away-retro-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/fluminense-15-16-third-away-retro-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/fluminense-15-16-third-away-retro-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/fluminense-15-16-third-away-retro-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/fluminense-15-16-third-away-retro-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/fluminense-15-16-third-away-retro-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/fluminense-15-16-third-away-retro-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/fluminense-15-16-third-away-retro-jersey/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "fluminense-15-16-third-away-retro-jersey",
+      "siteCategory": "retro",
+      "team": "Fluminense",
+      "league": "Brasileiro Série A",
+      "country": "Brazil",
+      "season": "2015/16",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Brasileiro Série A",
+        "Fluminense"
+      ],
+      "sourceTitle": "Fluminense 15/16 Third Away Retro Jersey S-XXL",
+      "updatedAt": "2026-10-11T16:40:06.464Z"
+    },
+    {
+      "id": "yupoo-212194285",
+      "name": "Fluminense 2009/10 Away Retro Jersey",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212194285?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/fluminense-2009-10-away-retro-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/fluminense-2009-10-away-retro-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/fluminense-2009-10-away-retro-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/fluminense-2009-10-away-retro-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/fluminense-2009-10-away-retro-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/fluminense-2009-10-away-retro-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/fluminense-2009-10-away-retro-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/fluminense-2009-10-away-retro-jersey/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "fluminense-2009-10-away-retro-jersey",
+      "siteCategory": "retro",
+      "team": "Fluminense",
+      "league": "Brasileiro Série A",
+      "country": "Brazil",
+      "season": "2009/10",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Brasileiro Série A",
+        "Fluminense"
+      ],
+      "sourceTitle": "Fluminense 2009/10 Away Retro Jersey S-XXL",
+      "updatedAt": "2026-10-11T16:39:50.978Z"
+    },
+    {
+      "id": "yupoo-212194222",
+      "name": "Fluminense 2009/10 Second Away Retro Jersey",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212194222?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/fluminense-2009-10-second-away-retro-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/fluminense-2009-10-second-away-retro-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/fluminense-2009-10-second-away-retro-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/fluminense-2009-10-second-away-retro-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/fluminense-2009-10-second-away-retro-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/fluminense-2009-10-second-away-retro-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/fluminense-2009-10-second-away-retro-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/fluminense-2009-10-second-away-retro-jersey/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/fluminense-2009-10-second-away-retro-jersey/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "fluminense-2009-10-second-away-retro-jersey",
+      "siteCategory": "retro",
+      "team": "Fluminense",
+      "league": "Brasileiro Série A",
+      "country": "Brazil",
+      "season": "2009/10",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Brasileiro Série A",
+        "Fluminense"
+      ],
+      "sourceTitle": "Fluminense 2009/10 Second Away Retro Jersey S-XXL",
+      "updatedAt": "2026-10-11T16:40:23.468Z"
+    },
+    {
+      "id": "yupoo-212194495",
+      "name": "Fluminense 2010 Home Retro Jersey",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212194495?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/fluminense-2010-home-retro-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/fluminense-2010-home-retro-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/fluminense-2010-home-retro-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/fluminense-2010-home-retro-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/fluminense-2010-home-retro-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/fluminense-2010-home-retro-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/fluminense-2010-home-retro-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/fluminense-2010-home-retro-jersey/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "fluminense-2010-home-retro-jersey",
+      "siteCategory": "retro",
+      "team": "Fluminense",
+      "league": "Brasileiro Série A",
+      "country": "Brazil",
+      "season": "2010",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Brasileiro Série A",
+        "Fluminense"
+      ],
+      "sourceTitle": "Fluminense 2010 Home Retro Jersey S-XXL",
+      "updatedAt": "2026-10-11T16:38:12.939Z"
+    },
+    {
+      "id": "yupoo-212194703",
+      "name": "Fluminense 2015 Originals branca Retro Jersey",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212194703?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/fluminense-2015-originals-branca-retro-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/fluminense-2015-originals-branca-retro-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/fluminense-2015-originals-branca-retro-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/fluminense-2015-originals-branca-retro-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/fluminense-2015-originals-branca-retro-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/fluminense-2015-originals-branca-retro-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/fluminense-2015-originals-branca-retro-jersey/image-06.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "fluminense-2015-originals-branca-retro-jersey",
+      "siteCategory": "retro",
+      "team": "Fluminense",
+      "league": "Brasileiro Série A",
+      "country": "Brazil",
+      "season": "2015",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Brasileiro Série A",
+        "Fluminense"
+      ],
+      "sourceTitle": "Fluminense 2015 Originals branca Retro Jersey S-XXL",
+      "updatedAt": "2026-10-11T16:35:35.279Z"
     },
     {
       "id": "yupoo-221175883",
@@ -42813,7 +43729,7 @@
     {
       "id": "yupoo-212194992",
       "name": "Germany 1998 Home Retro Jersey",
-      "category": "⚽🌍 National Teams",
+      "category": "Retro football shirt",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/212194992?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/germany-1998-home-retro-jersey/cover.webp",
       "images": [
@@ -42844,10 +43760,12 @@
       "type": "Shirt",
       "variant": "Retro",
       "sourceCategories": [
-        "⚽🌍 National Teams"
+        "Retro football shirt",
+        "⚽🌍 National Teams",
+        "new season"
       ],
       "sourceTitle": "Germany 1998 Home Retro Jersey S-XXL",
-      "updatedAt": "2026-10-11T05:05:58.698Z"
+      "updatedAt": "2026-10-11T16:31:09.597Z"
     },
     {
       "id": "yupoo-246279128",
@@ -51995,7 +52913,7 @@
     {
       "id": "yupoo-212235213",
       "name": "Japan 1998 Away Retro Jersey",
-      "category": "⚽🌍 National Teams",
+      "category": "Retro football shirt",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/212235213?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/japan-1998-away-retro-jersey/cover.webp",
       "images": [
@@ -52026,10 +52944,12 @@
       "type": "Shirt",
       "variant": "Retro",
       "sourceCategories": [
-        "⚽🌍 National Teams"
+        "Retro football shirt",
+        "⚽🌍 National Teams",
+        "new season"
       ],
       "sourceTitle": "Japan 1998 Away Retro Jersey S-XXL",
-      "updatedAt": "2026-10-11T05:05:29.324Z"
+      "updatedAt": "2026-10-11T16:30:38.740Z"
     },
     {
       "id": "yupoo-237796592",
@@ -52117,7 +53037,7 @@
     {
       "id": "yupoo-212235443",
       "name": "Japan 1998 Home Long Sleeve Retro Jersey",
-      "category": "⚽🌍 National Teams",
+      "category": "Retro football shirt",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/212235443?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/japan-1998-home-long-sleeve-retro-jersey/cover.webp",
       "images": [
@@ -52148,10 +53068,13 @@
       "type": "Shirt",
       "variant": "Long sleeve",
       "sourceCategories": [
-        "⚽🌍 National Teams"
+        "Retro football shirt",
+        "⚽🌍 National Teams",
+        "⚽Long sleeve shirt",
+        "new season"
       ],
       "sourceTitle": "Japan 1998 Home Long Sleeve Retro Jersey S-XXL",
-      "updatedAt": "2026-10-11T05:05:14.592Z"
+      "updatedAt": "2026-10-11T16:30:21.943Z"
     },
     {
       "id": "yupoo-230750378",
@@ -52281,7 +53204,7 @@
     {
       "id": "yupoo-212194889",
       "name": "Japan 2000 Home Retro Jersey",
-      "category": "⚽🌍 National Teams",
+      "category": "Retro football shirt",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/212194889?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/japan-2000-home-retro-jersey/cover.webp",
       "images": [
@@ -52311,10 +53234,12 @@
       "type": "Shirt",
       "variant": "Retro",
       "sourceCategories": [
-        "⚽🌍 National Teams"
+        "Retro football shirt",
+        "⚽🌍 National Teams",
+        "new season"
       ],
       "sourceTitle": "Japan 2000 Home Retro Jersey S-XXL",
-      "updatedAt": "2026-10-11T05:06:36.995Z"
+      "updatedAt": "2026-10-11T16:32:15.376Z"
     },
     {
       "id": "yupoo-247186216",
@@ -67398,7 +68323,7 @@
     {
       "id": "yupoo-212194896",
       "name": "Norway 1998/99 Home Retro Jersey",
-      "category": "⚽🌍 National Teams",
+      "category": "Retro football shirt",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/212194896?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/norway-1998-99-home-retro-jersey/cover.webp",
       "images": [
@@ -67428,10 +68353,12 @@
       "type": "Shirt",
       "variant": "Retro",
       "sourceCategories": [
-        "⚽🌍 National Teams"
+        "Retro football shirt",
+        "⚽🌍 National Teams",
+        "new season"
       ],
       "sourceTitle": "Norway 1998/99 Home Retro Jersey S-XXL",
-      "updatedAt": "2026-10-11T05:06:14.476Z"
+      "updatedAt": "2026-10-11T16:31:24.800Z"
     },
     {
       "id": "yupoo-235266335",
@@ -69615,6 +70542,48 @@
       ],
       "sourceTitle": "Palmeiras 10/11 Home Retro Jersey S-XXL",
       "updatedAt": "2026-10-11T11:13:27.105Z"
+    },
+    {
+      "id": "yupoo-212194699",
+      "name": "Palmeiras 16/17 Champions Commemorative Edition Silver Retro Jersey",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212194699?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/palmeiras-16-17-champions-commemorative-edition-silver-retro-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/palmeiras-16-17-champions-commemorative-edition-silver-retro-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/palmeiras-16-17-champions-commemorative-edition-silver-retro-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/palmeiras-16-17-champions-commemorative-edition-silver-retro-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/palmeiras-16-17-champions-commemorative-edition-silver-retro-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/palmeiras-16-17-champions-commemorative-edition-silver-retro-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/palmeiras-16-17-champions-commemorative-edition-silver-retro-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/palmeiras-16-17-champions-commemorative-edition-silver-retro-jersey/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/palmeiras-16-17-champions-commemorative-edition-silver-retro-jersey/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "palmeiras-16-17-champions-commemorative-edition-silver-retro-jersey",
+      "siteCategory": "retro",
+      "team": "Palmeiras",
+      "league": "Brasileiro Série A",
+      "country": "Brazil",
+      "season": "2016/17",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Brasileiro Série A",
+        "Palmeiras"
+      ],
+      "sourceTitle": "Palmeiras 16/17 Champions Commemorative Edition Silver Retro Jersey S-4XL",
+      "updatedAt": "2026-10-11T16:35:50.385Z"
     },
     {
       "id": "yupoo-231122139",
@@ -80940,6 +81909,48 @@
       "updatedAt": "2026-10-11T16:07:56.259Z"
     },
     {
+      "id": "yupoo-212235499",
+      "name": "Real Madrid 2014/15 Second Away Long Sleeve Retro Jersey",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212235499?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-2014-15-second-away-long-sleeve-retro-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-2014-15-second-away-long-sleeve-retro-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-2014-15-second-away-long-sleeve-retro-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-2014-15-second-away-long-sleeve-retro-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-2014-15-second-away-long-sleeve-retro-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-2014-15-second-away-long-sleeve-retro-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-2014-15-second-away-long-sleeve-retro-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-2014-15-second-away-long-sleeve-retro-jersey/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "real-madrid-2014-15-second-away-long-sleeve-retro-jersey",
+      "siteCategory": "retro",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2014/15",
+      "type": "Shirt",
+      "variant": "Long sleeve",
+      "sourceCategories": [
+        "Retro football shirt",
+        "⚽Long sleeve shirt",
+        "new season",
+        "La Liga",
+        "Real Madrid"
+      ],
+      "sourceTitle": "Real Madrid 2014/15 Second Away Long Sleeve Retro Jersey S-XXL",
+      "updatedAt": "2026-10-11T16:30:01.931Z"
+    },
+    {
       "id": "yupoo-212823689",
       "name": "Real Madrid 21/22 Home Long Sleeve Player Version Retro Jersey",
       "category": "Retro football shirt",
@@ -82295,6 +83306,47 @@
       "updatedAt": "2026-10-11T15:03:22.080Z"
     },
     {
+      "id": "yupoo-212192552",
+      "name": "Retro 11/12 AC Milan home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212192552?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-11-12-ac-milan-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-11-12-ac-milan-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-11-12-ac-milan-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-11-12-ac-milan-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-11-12-ac-milan-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-11-12-ac-milan-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-11-12-ac-milan-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-11-12-ac-milan-home/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-11-12-ac-milan-home",
+      "siteCategory": "retro",
+      "team": "AC Milan",
+      "league": "Serie A",
+      "country": "Italy",
+      "season": "2011/12",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Serie A",
+        "AC Milan"
+      ],
+      "sourceTitle": "Retro 11/12 AC Milan home S-4XL",
+      "updatedAt": "2026-10-11T16:41:39.702Z"
+    },
+    {
       "id": "yupoo-106509833",
       "name": "Retro 11/12 Corinthians away",
       "category": "Retro football shirt",
@@ -83270,6 +84322,47 @@
       "updatedAt": "2026-10-11T16:26:30.332Z"
     },
     {
+      "id": "yupoo-212192349",
+      "name": "Retro 98/99 Manchester United home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212192349?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-98-99-manchester-united-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-98-99-manchester-united-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-98-99-manchester-united-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-98-99-manchester-united-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-98-99-manchester-united-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-98-99-manchester-united-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-98-99-manchester-united-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-98-99-manchester-united-home/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-98-99-manchester-united-home",
+      "siteCategory": "retro",
+      "team": "Manchester United",
+      "league": "Premier League",
+      "country": "England",
+      "season": "1998/99",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Premier League",
+        "M-U"
+      ],
+      "sourceTitle": "Retro 98/99 M-U home S-4XL",
+      "updatedAt": "2026-10-11T16:43:09.640Z"
+    },
+    {
       "id": "yupoo-255036780",
       "name": "Retro Arsenal 02/03 home Player Version Jersey",
       "category": "Retro football shirt",
@@ -83504,6 +84597,91 @@
       "updatedAt": "2026-10-11T11:02:11.628Z"
     },
     {
+      "id": "yupoo-212192490",
+      "name": "Retro Barcelona 10/11 home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212192490?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-barcelona-10-11-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-barcelona-10-11-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-barcelona-10-11-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-barcelona-10-11-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-barcelona-10-11-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-barcelona-10-11-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-barcelona-10-11-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-barcelona-10-11-home/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-barcelona-10-11-home/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-barcelona-10-11-home/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-barcelona-10-11-home",
+      "siteCategory": "retro",
+      "team": "FC Barcelona",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2010/11",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "La Liga",
+        "Barcelona"
+      ],
+      "sourceTitle": "Retro Barcelona 10/11 home S-4XL",
+      "updatedAt": "2026-10-11T16:42:54.136Z"
+    },
+    {
+      "id": "yupoo-211962445",
+      "name": "Retro Barcelona 11/12 home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/211962445?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-barcelona-11-12-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-barcelona-11-12-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-barcelona-11-12-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-barcelona-11-12-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-barcelona-11-12-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-barcelona-11-12-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-barcelona-11-12-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-barcelona-11-12-home/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-barcelona-11-12-home/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-barcelona-11-12-home",
+      "siteCategory": "retro",
+      "team": "FC Barcelona",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2011/12",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "La Liga",
+        "Barcelona"
+      ],
+      "sourceTitle": "Retro Barcelona 11/12 home S-4XL",
+      "updatedAt": "2026-10-11T16:44:06.878Z"
+    },
+    {
       "id": "yupoo-255033114",
       "name": "Retro Barcelona 14/15 Away Jersey",
       "category": "Retro football shirt",
@@ -83613,6 +84791,46 @@
       ],
       "sourceTitle": "Retro Barcelona 90/91 home S-XXL",
       "updatedAt": "2026-10-11T15:57:09.541Z"
+    },
+    {
+      "id": "yupoo-211962524",
+      "name": "Retro Barcelona 90/92 home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/211962524?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-barcelona-90-92-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-barcelona-90-92-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-barcelona-90-92-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-barcelona-90-92-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-barcelona-90-92-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-barcelona-90-92-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-barcelona-90-92-home/image-06.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-barcelona-90-92-home",
+      "siteCategory": "retro",
+      "team": "FC Barcelona",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "La Liga",
+        "Barcelona"
+      ],
+      "sourceTitle": "Retro Barcelona 90/92 home S-4XL",
+      "updatedAt": "2026-10-11T16:43:43.066Z"
     },
     {
       "id": "yupoo-255036873",
@@ -83745,7 +84963,7 @@
     {
       "id": "yupoo-212193834",
       "name": "Retro Brazil 1957/62 Away Jersey",
-      "category": "Brazil team column",
+      "category": "Retro football shirt",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/212193834?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-brazil-1957-62-away-jersey/cover.webp",
       "images": [
@@ -83776,10 +84994,12 @@
       "type": "Shirt",
       "variant": "Retro",
       "sourceCategories": [
+        "Retro football shirt",
+        "new season",
         "Brazil team column"
       ],
       "sourceTitle": "Retro Brazil 1957/62 Away Jersey S-XXL",
-      "updatedAt": "2026-10-11T00:23:42.255Z"
+      "updatedAt": "2026-10-11T16:41:22.351Z"
     },
     {
       "id": "yupoo-212821591",
@@ -84975,6 +86195,129 @@
       ],
       "sourceTitle": "Retro Espanyol 96/97 Third Away Game S-XXL",
       "updatedAt": "2026-10-11T13:36:51.471Z"
+    },
+    {
+      "id": "yupoo-212194173",
+      "name": "Retro Flamengo 15/16 Away Jersey",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212194173?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-flamengo-15-16-away-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-flamengo-15-16-away-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-flamengo-15-16-away-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-flamengo-15-16-away-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-flamengo-15-16-away-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-flamengo-15-16-away-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-flamengo-15-16-away-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-flamengo-15-16-away-jersey/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-flamengo-15-16-away-jersey",
+      "siteCategory": "retro",
+      "team": "Flamengo",
+      "league": "Brasileiro Série A",
+      "country": "Brazil",
+      "season": "2015/16",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Brasileiro Série A",
+        "Flamengo"
+      ],
+      "sourceTitle": "Retro Flamengo 15/16 Away Jersey S-XXL",
+      "updatedAt": "2026-10-11T16:40:42.229Z"
+    },
+    {
+      "id": "yupoo-212194094",
+      "name": "Retro Flamengo 1998/99 Away Jersey",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212194094?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-flamengo-1998-99-away-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-flamengo-1998-99-away-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-flamengo-1998-99-away-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-flamengo-1998-99-away-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-flamengo-1998-99-away-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-flamengo-1998-99-away-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-flamengo-1998-99-away-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-flamengo-1998-99-away-jersey/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-flamengo-1998-99-away-jersey",
+      "siteCategory": "retro",
+      "team": "Flamengo",
+      "league": "Brasileiro Série A",
+      "country": "Brazil",
+      "season": "1998/99",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Brasileiro Série A",
+        "Flamengo"
+      ],
+      "sourceTitle": "Retro Flamengo 1998/99 Away Jersey S-XXL",
+      "updatedAt": "2026-10-11T16:41:13.471Z"
+    },
+    {
+      "id": "yupoo-212194115",
+      "name": "Retro Flamengo 2001/02 Away Retro Jersey",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212194115?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-flamengo-2001-02-away-retro-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-flamengo-2001-02-away-retro-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-flamengo-2001-02-away-retro-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-flamengo-2001-02-away-retro-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-flamengo-2001-02-away-retro-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-flamengo-2001-02-away-retro-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-flamengo-2001-02-away-retro-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-flamengo-2001-02-away-retro-jersey/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-flamengo-2001-02-away-retro-jersey",
+      "siteCategory": "retro",
+      "team": "Flamengo",
+      "league": "Brasileiro Série A",
+      "country": "Brazil",
+      "season": "2001/02",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Brasileiro Série A",
+        "Flamengo"
+      ],
+      "sourceTitle": "Retro Flamengo 2001/02 Away Retro Jersey S-XXL",
+      "updatedAt": "2026-10-11T16:40:57.753Z"
     },
     {
       "id": "yupoo-118924354",
@@ -86300,6 +87643,90 @@
       "updatedAt": "2026-10-11T16:25:24.683Z"
     },
     {
+      "id": "yupoo-212192510",
+      "name": "Retro Real Madrid 14/15 home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212192510?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-real-madrid-14-15-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-real-madrid-14-15-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-real-madrid-14-15-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-real-madrid-14-15-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-real-madrid-14-15-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-real-madrid-14-15-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-real-madrid-14-15-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-real-madrid-14-15-home/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-real-madrid-14-15-home/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-real-madrid-14-15-home",
+      "siteCategory": "retro",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2014/15",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "La Liga",
+        "Real Madrid"
+      ],
+      "sourceTitle": "Retro Real Madrid 14/15 home S-4XL",
+      "updatedAt": "2026-10-11T16:42:16.994Z"
+    },
+    {
+      "id": "yupoo-212192531",
+      "name": "Retro Real Madrid 14/15 third away",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212192531?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-real-madrid-14-15-third-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-real-madrid-14-15-third-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-real-madrid-14-15-third-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-real-madrid-14-15-third-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-real-madrid-14-15-third-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-real-madrid-14-15-third-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-real-madrid-14-15-third-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-real-madrid-14-15-third-away/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-real-madrid-14-15-third-away/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-real-madrid-14-15-third-away",
+      "siteCategory": "retro",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2014/15",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "La Liga",
+        "Real Madrid"
+      ],
+      "sourceTitle": "Retro Real Madrid 14/15 third away S-4XL",
+      "updatedAt": "2026-10-11T16:41:57.229Z"
+    },
+    {
       "id": "yupoo-212824534",
       "name": "Retro Real Madrid 19/20 Home",
       "category": "Retro football shirt",
@@ -86690,6 +88117,47 @@
       "updatedAt": "2026-10-11T15:52:13.592Z"
     },
     {
+      "id": "yupoo-211962368",
+      "name": "Retro Sevilla 94/96 Away",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/211962368?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-sevilla-94-96-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-sevilla-94-96-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-sevilla-94-96-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-sevilla-94-96-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-sevilla-94-96-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-sevilla-94-96-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-sevilla-94-96-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-sevilla-94-96-away/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-sevilla-94-96-away",
+      "siteCategory": "retro",
+      "team": "Sevilla",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "La Liga",
+        "Sevilla"
+      ],
+      "sourceTitle": "Retro Sevilla 94/96 Away S-4XL",
+      "updatedAt": "2026-10-11T16:44:23.029Z"
+    },
+    {
       "id": "yupoo-255032840",
       "name": "Retro Sporting Gijon 08/09 Home",
       "category": "Retro football shirt",
@@ -86771,6 +88239,42 @@
       ],
       "sourceTitle": "Retro Sporting Gijon 15/16 Away S-XXL",
       "updatedAt": "2026-10-11T10:58:58.547Z"
+    },
+    {
+      "id": "yupoo-212192246",
+      "name": "Retro Sporting Gijon 96/97 Away",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212192246?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-sporting-gijon-96-97-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-sporting-gijon-96-97-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-sporting-gijon-96-97-away/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-sporting-gijon-96-97-away",
+      "siteCategory": "retro",
+      "team": "Sporting CP",
+      "league": "Liga Portugal",
+      "country": "Portugal",
+      "season": "1996/97",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "La Liga",
+        "Sporting de Gijon"
+      ],
+      "sourceTitle": "Retro Sporting Gijon 96/97 Away S-XXL",
+      "updatedAt": "2026-10-11T16:43:27.601Z"
     },
     {
       "id": "yupoo-255037112",
@@ -87009,6 +88513,88 @@
       ],
       "sourceTitle": "Retro Zaragoza 92/93 Home S-XXL",
       "updatedAt": "2026-10-11T10:58:32.667Z"
+    },
+    {
+      "id": "yupoo-211962174",
+      "name": "Retro Zaragoza 95/97 Away",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/211962174?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-zaragoza-95-97-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-zaragoza-95-97-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-zaragoza-95-97-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-zaragoza-95-97-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-zaragoza-95-97-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-zaragoza-95-97-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-zaragoza-95-97-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-zaragoza-95-97-away/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-zaragoza-95-97-away",
+      "siteCategory": "retro",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "La Liga",
+        "Zaragoza"
+      ],
+      "sourceTitle": "Retro Zaragoza 95/97 Away S-4XL",
+      "updatedAt": "2026-10-11T16:44:54.887Z"
+    },
+    {
+      "id": "yupoo-211962089",
+      "name": "Retro Zaragoza 95/97 Home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/211962089?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-zaragoza-95-97-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-zaragoza-95-97-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-zaragoza-95-97-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-zaragoza-95-97-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-zaragoza-95-97-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-zaragoza-95-97-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-zaragoza-95-97-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-zaragoza-95-97-home/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-zaragoza-95-97-home",
+      "siteCategory": "retro",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "La Liga",
+        "Zaragoza"
+      ],
+      "sourceTitle": "Retro Zaragoza 95/97 Home S-4XL",
+      "updatedAt": "2026-10-11T16:45:26.707Z"
     },
     {
       "id": "yupoo-213865529",
@@ -96705,6 +98291,48 @@
       "updatedAt": "2026-10-11T13:05:55.220Z"
     },
     {
+      "id": "yupoo-212194424",
+      "name": "Sport Recife 2016 Black Retro Jersey",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212194424?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/sport-recife-2016-black-retro-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/sport-recife-2016-black-retro-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/sport-recife-2016-black-retro-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/sport-recife-2016-black-retro-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/sport-recife-2016-black-retro-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/sport-recife-2016-black-retro-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/sport-recife-2016-black-retro-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/sport-recife-2016-black-retro-jersey/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/sport-recife-2016-black-retro-jersey/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "sport-recife-2016-black-retro-jersey",
+      "siteCategory": "retro",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2016",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Brasileiro Série A",
+        "Sport Recife"
+      ],
+      "sourceTitle": "Sport Recife 2016 Black Retro Jersey S-XXL",
+      "updatedAt": "2026-10-11T16:38:43.564Z"
+    },
+    {
       "id": "yupoo-219395097",
       "name": "Sport Recife 2016 Third Away Retro Jersey",
       "category": "Retro football shirt",
@@ -103669,7 +105297,7 @@
     {
       "id": "yupoo-212194750",
       "name": "Wales 1976/79 Away Retro Jersey",
-      "category": "⚽🌍 National Teams",
+      "category": "Retro football shirt",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/212194750?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/wales-1976-79-away-retro-jersey/cover.webp",
       "images": [
@@ -103698,10 +105326,12 @@
       "type": "Shirt",
       "variant": "Retro",
       "sourceCategories": [
-        "⚽🌍 National Teams"
+        "Retro football shirt",
+        "⚽🌍 National Teams",
+        "new season"
       ],
       "sourceTitle": "Wales 1976/79 Away Retro Jersey S-XXL",
-      "updatedAt": "2026-10-11T05:06:51.392Z"
+      "updatedAt": "2026-10-11T16:33:39.275Z"
     },
     {
       "id": "yupoo-212243479",
