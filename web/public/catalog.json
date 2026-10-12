@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-12T22:39:14.893Z",
+  "generatedAt": "2026-10-12T23:00:02.180Z",
   "source": {
     "name": "Supplier catalogue",
     "url": "https://minkang.x.yupoo.com/albums"
   },
-  "count": 3900,
+  "count": 4025,
   "items": [
     {
       "id": "yupoo-64039421",
@@ -7590,6 +7590,76 @@
       "updatedAt": "2026-10-12T22:09:17.521Z"
     },
     {
+      "id": "yupoo-257635820",
+      "name": "AC Milan 26/27 Adidas Trefoil Black Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257635820?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ac-milan-26-27-adidas-trefoil-black-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ac-milan-26-27-adidas-trefoil-black-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ac-milan-26-27-adidas-trefoil-black-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "ac-milan-26-27-adidas-trefoil-black-jersey",
+      "siteCategory": "club",
+      "team": "AC Milan",
+      "league": "Serie A",
+      "country": "Italy",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Serie A",
+        "AC Milan"
+      ],
+      "sourceTitle": "AC Milan 26/27 Adidas Trefoil Black Jersey S-XXL",
+      "updatedAt": "2026-10-12T22:54:46.045Z"
+    },
+    {
+      "id": "yupoo-257635866",
+      "name": "AC Milan 26/27 Adidas Trefoil White Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257635866?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ac-milan-26-27-adidas-trefoil-white-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ac-milan-26-27-adidas-trefoil-white-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ac-milan-26-27-adidas-trefoil-white-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "ac-milan-26-27-adidas-trefoil-white-jersey",
+      "siteCategory": "club",
+      "team": "AC Milan",
+      "league": "Serie A",
+      "country": "Italy",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Serie A",
+        "AC Milan"
+      ],
+      "sourceTitle": "AC Milan 26/27 Adidas Trefoil White Jersey S-XXL",
+      "updatedAt": "2026-10-12T22:54:36.943Z"
+    },
+    {
       "id": "yupoo-255159404",
       "name": "AC Milan 26/27 Fourth Away Long Sleeve Jersey",
       "category": "⚽Long sleeve shirt",
@@ -7626,6 +7696,41 @@
       "updatedAt": "2026-10-12T21:43:41.234Z"
     },
     {
+      "id": "yupoo-257635931",
+      "name": "AC Milan 26/27 Goalkeeper Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257635931?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ac-milan-26-27-goalkeeper-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ac-milan-26-27-goalkeeper-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ac-milan-26-27-goalkeeper-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "ac-milan-26-27-goalkeeper-jersey",
+      "siteCategory": "club",
+      "team": "AC Milan",
+      "league": "Serie A",
+      "country": "Italy",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Goalkeeper",
+      "sourceCategories": [
+        "new season",
+        "Serie A",
+        "AC Milan"
+      ],
+      "sourceTitle": "AC Milan 26/27 Goalkeeper Jersey S-XXL",
+      "updatedAt": "2026-10-12T22:54:28.014Z"
+    },
+    {
       "id": "yupoo-257727495",
       "name": "AC Milan 26/27 Home Long-Sleeve Jersey",
       "category": "⚽Long sleeve shirt",
@@ -7660,6 +7765,42 @@
       ],
       "sourceTitle": "AC Milan 26/27 Home Long-Sleeve Jersey S-4XL",
       "updatedAt": "2026-10-12T21:38:25.494Z"
+    },
+    {
+      "id": "yupoo-257727584",
+      "name": "AC Milan 26/27 Third Away Kids Kit",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257727584?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ac-milan-26-27-third-away-kids-kit/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ac-milan-26-27-third-away-kids-kit/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ac-milan-26-27-third-away-kids-kit/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "ac-milan-26-27-third-away-kids-kit",
+      "siteCategory": "club",
+      "team": "AC Milan",
+      "league": "Serie A",
+      "country": "Italy",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Kids",
+      "sourceCategories": [
+        "new season",
+        "⚽👦🏻kids kit size：16-28",
+        "Serie A",
+        "AC Milan"
+      ],
+      "sourceTitle": "AC Milan 26/27 Third Away Kids Kit Size 16-30",
+      "updatedAt": "2026-10-12T22:47:32.111Z"
     },
     {
       "id": "yupoo-257727734",
@@ -8352,6 +8493,42 @@
       "updatedAt": "2026-10-12T21:38:35.737Z"
     },
     {
+      "id": "yupoo-257727932",
+      "name": "Ajax 26/27 Third Away Player Version Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257727932?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ajax-26-27-third-away-player-version-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ajax-26-27-third-away-player-version-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ajax-26-27-third-away-player-version-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "ajax-26-27-third-away-player-version-jersey",
+      "siteCategory": "club",
+      "team": "Ajax",
+      "league": "Other leagues",
+      "country": "Netherlands",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Player version",
+      "sourceCategories": [
+        "new season",
+        "⚽💪🏻Player Version",
+        "EREDIVISIE",
+        "AFC Ajax"
+      ],
+      "sourceTitle": "Ajax 26/27 Third Away Player Version Jersey S-XXL",
+      "updatedAt": "2026-10-12T22:47:40.421Z"
+    },
+    {
       "id": "yupoo-221249235",
       "name": "Ajax 89/90 Home Retro Jersey",
       "category": "Retro football shirt",
@@ -8603,6 +8780,41 @@
       ],
       "sourceTitle": "Albacete 94/95 Away Jersey S-XXL",
       "updatedAt": "2026-10-11T13:19:57.858Z"
+    },
+    {
+      "id": "yupoo-257727992",
+      "name": "Albacete Balompié 26/27 Away Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257727992?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/albacete-balompie-26-27-away-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/albacete-balompie-26-27-away-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/albacete-balompie-26-27-away-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "albacete-balompie-26-27-away-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "La Liga",
+        "Albacete"
+      ],
+      "sourceTitle": "Albacete Balompié 26/27 Away Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:47:50.151Z"
     },
     {
       "id": "yupoo-233046569",
@@ -14651,6 +14863,76 @@
       "updatedAt": "2026-10-12T20:48:57.932Z"
     },
     {
+      "id": "yupoo-257636136",
+      "name": "Arsenal 26/27 Red and White Polo",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257636136?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/arsenal-26-27-red-and-white-polo/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/arsenal-26-27-red-and-white-polo/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/arsenal-26-27-red-and-white-polo/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "arsenal-26-27-red-and-white-polo",
+      "siteCategory": "other",
+      "team": "Arsenal",
+      "league": "Premier League",
+      "country": "England",
+      "season": "2026/27",
+      "type": "Casual",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Premier League",
+        "Arsenal"
+      ],
+      "sourceTitle": "Arsenal 26/27 Red and White Polo S-XXL",
+      "updatedAt": "2026-10-12T22:54:19.288Z"
+    },
+    {
+      "id": "yupoo-257636185",
+      "name": "Arsenal 26/27 Special Edition Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257636185?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/arsenal-26-27-special-edition-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/arsenal-26-27-special-edition-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/arsenal-26-27-special-edition-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "arsenal-26-27-special-edition-jersey",
+      "siteCategory": "club",
+      "team": "Arsenal",
+      "league": "Premier League",
+      "country": "England",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Special edition",
+      "sourceCategories": [
+        "new season",
+        "Premier League",
+        "Arsenal"
+      ],
+      "sourceTitle": "Arsenal 26/27 Special Edition Jersey S-XXL",
+      "updatedAt": "2026-10-12T22:54:09.510Z"
+    },
+    {
       "id": "yupoo-245424069",
       "name": "Arsenal 26/27 Third Away Player Version Long Sleeved Jersey",
       "category": "⚽Long sleeve shirt",
@@ -15319,6 +15601,41 @@
       "updatedAt": "2026-10-12T22:00:49.804Z"
     },
     {
+      "id": "yupoo-257636237",
+      "name": "Aston Villa 26/27 Away Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257636237?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/aston-villa-26-27-away-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/aston-villa-26-27-away-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/aston-villa-26-27-away-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "aston-villa-26-27-away-jersey",
+      "siteCategory": "club",
+      "team": "Aston Villa",
+      "league": "Premier League",
+      "country": "England",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Premier League",
+        "Aston Villa"
+      ],
+      "sourceTitle": "Aston Villa 26/27 Away Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:54:00.643Z"
+    },
+    {
       "id": "yupoo-247356708",
       "name": "Aston Villa 26/27 Home Player Version Long Sleeve Jersey",
       "category": "⚽Long sleeve shirt",
@@ -15518,6 +15835,42 @@
       ],
       "sourceTitle": "Aston Villa 99/00 Home Retro Jersey S-XXL",
       "updatedAt": "2026-10-11T12:55:08.169Z"
+    },
+    {
+      "id": "yupoo-257762860",
+      "name": "Atalanta 26/27 Home Player Version Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257762860?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/atalanta-26-27-home-player-version-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/atalanta-26-27-home-player-version-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/atalanta-26-27-home-player-version-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "atalanta-26-27-home-player-version-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Player version",
+      "sourceCategories": [
+        "new season",
+        "⚽💪🏻Player Version",
+        "Serie A",
+        "Atalanta"
+      ],
+      "sourceTitle": "Atalanta 26/27 Home Player Version Jersey S-XXL",
+      "updatedAt": "2026-10-12T22:52:30.309Z"
     },
     {
       "id": "yupoo-219398760",
@@ -15802,6 +16155,41 @@
       ],
       "sourceTitle": "Athletic Bilbao 99/00 Third Away Retro Jersey S-XXL",
       "updatedAt": "2026-10-11T11:56:04.884Z"
+    },
+    {
+      "id": "yupoo-257729292",
+      "name": "Atlas 26/27 Yellow Goalkeeper Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257729292?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/atlas-26-27-yellow-goalkeeper-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/atlas-26-27-yellow-goalkeeper-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/atlas-26-27-yellow-goalkeeper-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "atlas-26-27-yellow-goalkeeper-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Goalkeeper",
+      "sourceCategories": [
+        "new season",
+        "LIGA MX",
+        "Atlasv"
+      ],
+      "sourceTitle": "Atlas 26/27 Yellow Goalkeeper Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:47:58.747Z"
     },
     {
       "id": "yupoo-235534674",
@@ -16139,6 +16527,46 @@
       "updatedAt": "2026-10-12T21:41:20.488Z"
     },
     {
+      "id": "yupoo-257417173",
+      "name": "Atletico Madrid 26/27 Away Shorts",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257417173?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/atletico-madrid-26-27-away-shorts/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/atletico-madrid-26-27-away-shorts/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/atletico-madrid-26-27-away-shorts/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/atletico-madrid-26-27-away-shorts/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/atletico-madrid-26-27-away-shorts/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/atletico-madrid-26-27-away-shorts/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/atletico-madrid-26-27-away-shorts/image-06.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "atletico-madrid-26-27-away-shorts",
+      "siteCategory": "shorts",
+      "team": "Atlético Madrid",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2026/27",
+      "type": "Shorts",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "La Liga",
+        "Atletico Madrid",
+        "Shorts"
+      ],
+      "sourceTitle": "Atletico Madrid 26/27 Away Shorts S-4XL",
+      "updatedAt": "2026-10-12T22:59:11.394Z"
+    },
+    {
       "id": "yupoo-256214831",
       "name": "Atletico Madrid 26/27 Home Long-Sleeve Jersey S-5XL",
       "category": "⚽Long sleeve shirt",
@@ -16173,6 +16601,82 @@
       ],
       "sourceTitle": "Atletico Madrid 26/27 Home Long-Sleeve Jersey S-5XL",
       "updatedAt": "2026-10-12T21:42:42.310Z"
+    },
+    {
+      "id": "yupoo-257416078",
+      "name": "Atletico Madrid 26/27 Home Shorts",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257416078?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/atletico-madrid-26-27-home-shorts/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/atletico-madrid-26-27-home-shorts/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/atletico-madrid-26-27-home-shorts/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/atletico-madrid-26-27-home-shorts/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/atletico-madrid-26-27-home-shorts/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/atletico-madrid-26-27-home-shorts/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/atletico-madrid-26-27-home-shorts/image-06.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "atletico-madrid-26-27-home-shorts",
+      "siteCategory": "shorts",
+      "team": "Atlético Madrid",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2026/27",
+      "type": "Shorts",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "La Liga",
+        "Atletico Madrid",
+        "Shorts"
+      ],
+      "sourceTitle": "Atletico Madrid 26/27 Home Shorts S-XXL",
+      "updatedAt": "2026-10-12T22:59:36.768Z"
+    },
+    {
+      "id": "yupoo-257729376",
+      "name": "Atlético Madrid 26/27 Home Women's Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257729376?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/atletico-madrid-26-27-home-women-s-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/atletico-madrid-26-27-home-women-s-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/atletico-madrid-26-27-home-women-s-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "atletico-madrid-26-27-home-women-s-jersey",
+      "siteCategory": "club",
+      "team": "Atlético Madrid",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Women's",
+      "sourceCategories": [
+        "new season",
+        "La Liga",
+        "Atletico Madrid",
+        "⚽💁🏻‍♀️Women's shirt"
+      ],
+      "sourceTitle": "Atlético Madrid 26/27 Home Women's Jersey S-XXL",
+      "updatedAt": "2026-10-12T22:48:08.263Z"
     },
     {
       "id": "yupoo-214401832",
@@ -19452,6 +19956,49 @@
       "updatedAt": "2026-10-12T22:01:24.528Z"
     },
     {
+      "id": "yupoo-257424907",
+      "name": "Barcelona 26/27 Away Baby Jersey SIZE 9/12",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257424907?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-26-27-away-baby-jersey-size-9-12/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-26-27-away-baby-jersey-size-9-12/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-26-27-away-baby-jersey-size-9-12/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-26-27-away-baby-jersey-size-9-12/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-26-27-away-baby-jersey-size-9-12/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-26-27-away-baby-jersey-size-9-12/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-26-27-away-baby-jersey-size-9-12/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-26-27-away-baby-jersey-size-9-12/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-26-27-away-baby-jersey-size-9-12/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-26-27-away-baby-jersey-size-9-12/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "barcelona-26-27-away-baby-jersey-size-9-12",
+      "siteCategory": "club",
+      "team": "FC Barcelona",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "La Liga",
+        "Barcelona",
+        "👶🏻Baby jersey size:9-12"
+      ],
+      "sourceTitle": "Barcelona 26/27 Away Baby Jersey SIZE 9/12",
+      "updatedAt": "2026-10-12T22:56:39.788Z"
+    },
+    {
       "id": "yupoo-256214979",
       "name": "Barcelona 26/27 Away Long Sleeve Jersey S-5XL",
       "category": "⚽Long sleeve shirt",
@@ -19492,6 +20039,82 @@
       ],
       "sourceTitle": "Barcelona 26/27 Away Long Sleeve Jersey S-5XL",
       "updatedAt": "2026-10-12T21:42:25.200Z"
+    },
+    {
+      "id": "yupoo-257418553",
+      "name": "Barcelona 26/27 Away Shorts",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257418553?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-26-27-away-shorts/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-26-27-away-shorts/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-26-27-away-shorts/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-26-27-away-shorts/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-26-27-away-shorts/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-26-27-away-shorts/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-26-27-away-shorts/image-06.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "barcelona-26-27-away-shorts",
+      "siteCategory": "shorts",
+      "team": "FC Barcelona",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2026/27",
+      "type": "Shorts",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "La Liga",
+        "Barcelona",
+        "Shorts"
+      ],
+      "sourceTitle": "Barcelona 26/27 Away Shorts S-4XL",
+      "updatedAt": "2026-10-12T22:58:47.295Z"
+    },
+    {
+      "id": "yupoo-257636556",
+      "name": "Barcelona 26/27 Fourth Away Kids Kit",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257636556?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-26-27-fourth-away-kids-kit/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-26-27-fourth-away-kids-kit/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-26-27-fourth-away-kids-kit/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "barcelona-26-27-fourth-away-kids-kit",
+      "siteCategory": "club",
+      "team": "FC Barcelona",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Kids",
+      "sourceCategories": [
+        "new season",
+        "⚽👦🏻kids kit size：16-28",
+        "La Liga",
+        "Barcelona"
+      ],
+      "sourceTitle": "Barcelona 26/27 Fourth Away Kids Kit Size 16-28",
+      "updatedAt": "2026-10-12T22:53:50.773Z"
     },
     {
       "id": "yupoo-255031602",
@@ -19616,6 +20239,196 @@
       "updatedAt": "2026-10-12T21:46:54.001Z"
     },
     {
+      "id": "yupoo-257418109",
+      "name": "Barcelona 26/27 Home Shorts",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257418109?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-26-27-home-shorts/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-26-27-home-shorts/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-26-27-home-shorts/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-26-27-home-shorts/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-26-27-home-shorts/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-26-27-home-shorts/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-26-27-home-shorts/image-06.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "barcelona-26-27-home-shorts",
+      "siteCategory": "shorts",
+      "team": "FC Barcelona",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2026/27",
+      "type": "Shorts",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "La Liga",
+        "Barcelona",
+        "Shorts"
+      ],
+      "sourceTitle": "Barcelona 26/27 Home Shorts S-4XL",
+      "updatedAt": "2026-10-12T22:58:59.210Z"
+    },
+    {
+      "id": "yupoo-257636659",
+      "name": "Barcelona 26/27 Player Special Edition",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257636659?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-26-27-player-special-edition/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-26-27-player-special-edition/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-26-27-player-special-edition/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "barcelona-26-27-player-special-edition",
+      "siteCategory": "club",
+      "team": "FC Barcelona",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Player version",
+      "sourceCategories": [
+        "new season",
+        "La Liga",
+        "Barcelona",
+        "⚽💪🏻Player Version"
+      ],
+      "sourceTitle": "Barcelona 26/27 Player Special Edition S-XXL",
+      "updatedAt": "2026-10-12T22:53:41.957Z"
+    },
+    {
+      "id": "yupoo-257636702",
+      "name": "Barcelona 26/27 Player Version 125th Anniversary",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257636702?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-26-27-player-version-125th-anniversary/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-26-27-player-version-125th-anniversary/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-26-27-player-version-125th-anniversary/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "barcelona-26-27-player-version-125th-anniversary",
+      "siteCategory": "club",
+      "team": "FC Barcelona",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Player version",
+      "sourceCategories": [
+        "new season",
+        "La Liga",
+        "Barcelona",
+        "⚽💪🏻Player Version"
+      ],
+      "sourceTitle": "Barcelona 26/27 Player Version 125th Anniversary S-XXL",
+      "updatedAt": "2026-10-12T22:53:31.842Z"
+    },
+    {
+      "id": "yupoo-257636760",
+      "name": "Barcelona 26/27 Special Edition Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257636760?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-26-27-special-edition-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-26-27-special-edition-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-26-27-special-edition-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "barcelona-26-27-special-edition-jersey",
+      "siteCategory": "club",
+      "team": "FC Barcelona",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Special edition",
+      "sourceCategories": [
+        "new season",
+        "La Liga",
+        "Barcelona"
+      ],
+      "sourceTitle": "Barcelona 26/27 Special Edition Jersey S-XXL",
+      "updatedAt": "2026-10-12T22:53:23.521Z"
+    },
+    {
+      "id": "yupoo-257424089",
+      "name": "Barcelona 26/27 Third Away Baby Jersey SIZE 9/12",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257424089?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-26-27-third-away-baby-jersey-size-9-12/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-26-27-third-away-baby-jersey-size-9-12/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-26-27-third-away-baby-jersey-size-9-12/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-26-27-third-away-baby-jersey-size-9-12/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-26-27-third-away-baby-jersey-size-9-12/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-26-27-third-away-baby-jersey-size-9-12/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-26-27-third-away-baby-jersey-size-9-12/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-26-27-third-away-baby-jersey-size-9-12/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-26-27-third-away-baby-jersey-size-9-12/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-26-27-third-away-baby-jersey-size-9-12/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "barcelona-26-27-third-away-baby-jersey-size-9-12",
+      "siteCategory": "club",
+      "team": "FC Barcelona",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "La Liga",
+        "Barcelona",
+        "👶🏻Baby jersey size:9-12"
+      ],
+      "sourceTitle": "Barcelona 26/27 Third Away Baby Jersey SIZE 9/12",
+      "updatedAt": "2026-10-12T22:57:38.746Z"
+    },
+    {
       "id": "yupoo-257337278",
       "name": "Barcelona 26/27 Third Away Long Sleeve Jersey",
       "category": "⚽Long sleeve shirt",
@@ -19701,6 +20514,46 @@
       ],
       "sourceTitle": "Barcelona 26/27 Third away Player Version Long-Sleeve Jersey",
       "updatedAt": "2026-10-12T21:41:34.543Z"
+    },
+    {
+      "id": "yupoo-257418776",
+      "name": "Barcelona 26/27 Third Away Shorts",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257418776?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-26-27-third-away-shorts/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-26-27-third-away-shorts/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-26-27-third-away-shorts/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-26-27-third-away-shorts/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-26-27-third-away-shorts/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-26-27-third-away-shorts/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-26-27-third-away-shorts/image-06.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "barcelona-26-27-third-away-shorts",
+      "siteCategory": "shorts",
+      "team": "FC Barcelona",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2026/27",
+      "type": "Shorts",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "La Liga",
+        "Barcelona",
+        "Shorts"
+      ],
+      "sourceTitle": "Barcelona 26/27 Third Away Shorts S-4XL",
+      "updatedAt": "2026-10-12T22:58:35.705Z"
     },
     {
       "id": "yupoo-247186114",
@@ -20831,6 +21684,78 @@
       "updatedAt": "2026-10-12T21:38:53.072Z"
     },
     {
+      "id": "yupoo-257729512",
+      "name": "Bayern Munich 26/27 Beer Festival Kids Kit",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257729512?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/bayern-munich-26-27-beer-festival-kids-kit/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/bayern-munich-26-27-beer-festival-kids-kit/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/bayern-munich-26-27-beer-festival-kids-kit/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "bayern-munich-26-27-beer-festival-kids-kit",
+      "siteCategory": "club",
+      "team": "Bayern Munich",
+      "league": "Bundesliga",
+      "country": "Germany",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Kids",
+      "sourceCategories": [
+        "new season",
+        "⚽👦🏻kids kit size：16-28",
+        "Bundesliga",
+        "Bayern Munich"
+      ],
+      "sourceTitle": "Bayern Munich 26/27 Beer Festival Kids Kit Size 16-30",
+      "updatedAt": "2026-10-12T22:48:26.041Z"
+    },
+    {
+      "id": "yupoo-257637122",
+      "name": "Bayern Munich 26/27 Beer Festival Kids Kit",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257637122?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/bayern-munich-26-27-beer-festival-kids-kit-2/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/bayern-munich-26-27-beer-festival-kids-kit-2/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/bayern-munich-26-27-beer-festival-kids-kit-2/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "bayern-munich-26-27-beer-festival-kids-kit-2",
+      "siteCategory": "club",
+      "team": "Bayern Munich",
+      "league": "Bundesliga",
+      "country": "Germany",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Kids",
+      "sourceCategories": [
+        "new season",
+        "⚽👦🏻kids kit size：16-28",
+        "Bundesliga",
+        "Bayern Munich"
+      ],
+      "sourceTitle": "Bayern Munich 26/27 Beer Festival Kids Kit Size 16-28",
+      "updatedAt": "2026-10-12T22:53:15.168Z"
+    },
+    {
       "id": "yupoo-256427944",
       "name": "Bayern Munich 26/27 EQT Red Retro Jersey",
       "category": "Retro football shirt",
@@ -20998,6 +21923,42 @@
       ],
       "sourceTitle": "Bayern Munich 26/27 Player Version Away Long Sleeve Jersey S-3XL",
       "updatedAt": "2026-10-12T21:47:09.520Z"
+    },
+    {
+      "id": "yupoo-257729686",
+      "name": "Bayern Munich 26/27 Third Away Kids Kit",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257729686?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/bayern-munich-26-27-third-away-kids-kit/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/bayern-munich-26-27-third-away-kids-kit/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/bayern-munich-26-27-third-away-kids-kit/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "bayern-munich-26-27-third-away-kids-kit",
+      "siteCategory": "club",
+      "team": "Bayern Munich",
+      "league": "Bundesliga",
+      "country": "Germany",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Kids",
+      "sourceCategories": [
+        "new season",
+        "⚽👦🏻kids kit size：16-28",
+        "Bundesliga",
+        "Bayern Munich"
+      ],
+      "sourceTitle": "Bayern Munich 26/27 Third Away Kids Kit Size 16-30",
+      "updatedAt": "2026-10-12T22:48:17.543Z"
     },
     {
       "id": "yupoo-257729774",
@@ -21957,6 +22918,183 @@
       ],
       "sourceTitle": "Benfica 1990 Home Retro Jersey S-XXL",
       "updatedAt": "2026-10-11T10:44:09.512Z"
+    },
+    {
+      "id": "yupoo-257729917",
+      "name": "Benfica 26/27 Black Goalkeeper Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257729917?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/benfica-26-27-black-goalkeeper-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/benfica-26-27-black-goalkeeper-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/benfica-26-27-black-goalkeeper-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "benfica-26-27-black-goalkeeper-jersey",
+      "siteCategory": "club",
+      "team": "SL Benfica",
+      "league": "Liga Portugal",
+      "country": "Portugal",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Goalkeeper",
+      "sourceCategories": [
+        "new season",
+        "Primeira Liga",
+        "S.L. Benfica"
+      ],
+      "sourceTitle": "Benfica 26/27 Black Goalkeeper Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:48:43.478Z"
+    },
+    {
+      "id": "yupoo-257729993",
+      "name": "Benfica 26/27 Black Goalkeeper Kids Kit",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257729993?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/benfica-26-27-black-goalkeeper-kids-kit/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/benfica-26-27-black-goalkeeper-kids-kit/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/benfica-26-27-black-goalkeeper-kids-kit/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "benfica-26-27-black-goalkeeper-kids-kit",
+      "siteCategory": "club",
+      "team": "SL Benfica",
+      "league": "Liga Portugal",
+      "country": "Portugal",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Goalkeeper",
+      "sourceCategories": [
+        "new season",
+        "⚽👦🏻kids kit size：16-28",
+        "Primeira Liga",
+        "S.L. Benfica"
+      ],
+      "sourceTitle": "Benfica 26/27 Black Goalkeeper Kids Kit Size 16-28",
+      "updatedAt": "2026-10-12T22:49:00.801Z"
+    },
+    {
+      "id": "yupoo-257729954",
+      "name": "Benfica 26/27 Grey Goalkeeper Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257729954?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/benfica-26-27-grey-goalkeeper-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/benfica-26-27-grey-goalkeeper-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/benfica-26-27-grey-goalkeeper-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "benfica-26-27-grey-goalkeeper-jersey",
+      "siteCategory": "club",
+      "team": "SL Benfica",
+      "league": "Liga Portugal",
+      "country": "Portugal",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Goalkeeper",
+      "sourceCategories": [
+        "new season",
+        "Primeira Liga",
+        "S.L. Benfica"
+      ],
+      "sourceTitle": "Benfica 26/27 Grey Goalkeeper Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:48:34.798Z"
+    },
+    {
+      "id": "yupoo-257730188",
+      "name": "Benfica 26/27 Grey Goalkeeper Kids Kit",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257730188?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/benfica-26-27-grey-goalkeeper-kids-kit/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/benfica-26-27-grey-goalkeeper-kids-kit/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/benfica-26-27-grey-goalkeeper-kids-kit/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "benfica-26-27-grey-goalkeeper-kids-kit",
+      "siteCategory": "club",
+      "team": "SL Benfica",
+      "league": "Liga Portugal",
+      "country": "Portugal",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Goalkeeper",
+      "sourceCategories": [
+        "new season",
+        "⚽👦🏻kids kit size：16-28",
+        "Primeira Liga",
+        "S.L. Benfica"
+      ],
+      "sourceTitle": "Benfica 26/27 Grey Goalkeeper Kids Kit Size 16-28",
+      "updatedAt": "2026-10-12T22:48:52.141Z"
+    },
+    {
+      "id": "yupoo-257637287",
+      "name": "Benfica 26/27 Purple Goalkeeper Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257637287?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/benfica-26-27-purple-goalkeeper-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/benfica-26-27-purple-goalkeeper-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/benfica-26-27-purple-goalkeeper-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "benfica-26-27-purple-goalkeeper-jersey",
+      "siteCategory": "club",
+      "team": "SL Benfica",
+      "league": "Liga Portugal",
+      "country": "Portugal",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Goalkeeper",
+      "sourceCategories": [
+        "new season",
+        "Primeira Liga",
+        "S.L. Benfica"
+      ],
+      "sourceTitle": "Benfica 26/27 Purple Goalkeeper Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:53:06.189Z"
     },
     {
       "id": "yupoo-246279304",
@@ -23839,6 +24977,78 @@
       "updatedAt": "2026-10-11T12:18:01.456Z"
     },
     {
+      "id": "yupoo-257730221",
+      "name": "Borussia Dortmund 26/27 Away Kids Kit",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257730221?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/borussia-dortmund-26-27-away-kids-kit/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/borussia-dortmund-26-27-away-kids-kit/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/borussia-dortmund-26-27-away-kids-kit/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "borussia-dortmund-26-27-away-kids-kit",
+      "siteCategory": "club",
+      "team": "Borussia Dortmund",
+      "league": "Bundesliga",
+      "country": "Germany",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Kids",
+      "sourceCategories": [
+        "new season",
+        "⚽👦🏻kids kit size：16-28",
+        "Bundesliga",
+        "Borussia Dortmund"
+      ],
+      "sourceTitle": "Borussia Dortmund 26/27 Away Kids Kit Size 16-28",
+      "updatedAt": "2026-10-12T22:49:19.034Z"
+    },
+    {
+      "id": "yupoo-257730242",
+      "name": "Borussia Dortmund 26/27 Home Kids Kit",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257730242?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/borussia-dortmund-26-27-home-kids-kit/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/borussia-dortmund-26-27-home-kids-kit/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/borussia-dortmund-26-27-home-kids-kit/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "borussia-dortmund-26-27-home-kids-kit",
+      "siteCategory": "club",
+      "team": "Borussia Dortmund",
+      "league": "Bundesliga",
+      "country": "Germany",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Kids",
+      "sourceCategories": [
+        "new season",
+        "⚽👦🏻kids kit size：16-28",
+        "Bundesliga",
+        "Borussia Dortmund"
+      ],
+      "sourceTitle": "Borussia Dortmund 26/27 Home Kids Kit Size 16-28",
+      "updatedAt": "2026-10-12T22:49:09.424Z"
+    },
+    {
       "id": "yupoo-255035070",
       "name": "Borussia Dortmund 26/27 Home Long Sleeve Jersey",
       "category": "⚽Long sleeve shirt",
@@ -24324,6 +25534,114 @@
       ],
       "sourceTitle": "Botafogo 25/26 Away Long-Sleeve Jersey S-4XL",
       "updatedAt": "2026-10-12T22:01:56.004Z"
+    },
+    {
+      "id": "yupoo-257730327",
+      "name": "Braga 26/27 Away Kids Kit",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257730327?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/braga-26-27-away-kids-kit/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/braga-26-27-away-kids-kit/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/braga-26-27-away-kids-kit/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "braga-26-27-away-kids-kit",
+      "siteCategory": "club",
+      "team": "SC Braga",
+      "league": "Liga Portugal",
+      "country": "Portugal",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Kids",
+      "sourceCategories": [
+        "new season",
+        "⚽👦🏻kids kit size：16-28",
+        "Primeira Liga",
+        "Braga"
+      ],
+      "sourceTitle": "Braga 26/27 Away Kids Kit Size 16-28",
+      "updatedAt": "2026-10-12T22:49:27.698Z"
+    },
+    {
+      "id": "yupoo-257637410",
+      "name": "Braga 26/27 Home Kids Kit",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257637410?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/braga-26-27-home-kids-kit/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/braga-26-27-home-kids-kit/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/braga-26-27-home-kids-kit/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "braga-26-27-home-kids-kit",
+      "siteCategory": "club",
+      "team": "SC Braga",
+      "league": "Liga Portugal",
+      "country": "Portugal",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Kids",
+      "sourceCategories": [
+        "new season",
+        "⚽👦🏻kids kit size：16-28",
+        "Primeira Liga",
+        "Braga"
+      ],
+      "sourceTitle": "Braga 26/27 Home Kids Kit Size 16-28",
+      "updatedAt": "2026-10-12T22:52:57.019Z"
+    },
+    {
+      "id": "yupoo-257730269",
+      "name": "Braga 26/27 Third Away Kids Kit",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257730269?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/braga-26-27-third-away-kids-kit/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/braga-26-27-third-away-kids-kit/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/braga-26-27-third-away-kids-kit/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "braga-26-27-third-away-kids-kit",
+      "siteCategory": "club",
+      "team": "SC Braga",
+      "league": "Liga Portugal",
+      "country": "Portugal",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Kids",
+      "sourceCategories": [
+        "new season",
+        "⚽👦🏻kids kit size：16-28",
+        "Primeira Liga",
+        "Braga"
+      ],
+      "sourceTitle": "Braga 26/27 Third Away Kids Kit Size 16-28",
+      "updatedAt": "2026-10-12T22:49:37.056Z"
     },
     {
       "id": "yupoo-219523903",
@@ -30014,6 +31332,41 @@
       "updatedAt": "2026-10-11T09:27:13.711Z"
     },
     {
+      "id": "yupoo-257731808",
+      "name": "Cartagena 26/27 Home Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257731808?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/cartagena-26-27-home-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/cartagena-26-27-home-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/cartagena-26-27-home-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "cartagena-26-27-home-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "La Liga",
+        "Cartagena"
+      ],
+      "sourceTitle": "Cartagena 26/27 Home Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:52:22.024Z"
+    },
+    {
       "id": "yupoo-256693424",
       "name": "Castore 2026 Blue And Black Full-Zip Hooded Jacket",
       "category": "🏁F1",
@@ -32978,6 +34331,42 @@
       "updatedAt": "2026-10-11T12:21:00.303Z"
     },
     {
+      "id": "yupoo-257730595",
+      "name": "Chelsea 26/27 Third Away Kids Kit",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257730595?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/chelsea-26-27-third-away-kids-kit/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/chelsea-26-27-third-away-kids-kit/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/chelsea-26-27-third-away-kids-kit/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "chelsea-26-27-third-away-kids-kit",
+      "siteCategory": "club",
+      "team": "Chelsea",
+      "league": "Premier League",
+      "country": "England",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Kids",
+      "sourceCategories": [
+        "new season",
+        "⚽👦🏻kids kit size：16-28",
+        "Premier League",
+        "Chelsea"
+      ],
+      "sourceTitle": "Chelsea 26/27 Third Away Kids Kit Size 16-28",
+      "updatedAt": "2026-10-12T22:49:46.717Z"
+    },
+    {
       "id": "yupoo-212821686",
       "name": "Chelsea 97/99 Home Long Sleeve Retro Jersey",
       "category": "Retro football shirt",
@@ -34987,6 +36376,112 @@
       "updatedAt": "2026-10-12T21:43:09.628Z"
     },
     {
+      "id": "yupoo-257730808",
+      "name": "Chivas Guadalajara 26/27 Black Goalkeeper Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257730808?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/chivas-guadalajara-26-27-black-goalkeeper-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/chivas-guadalajara-26-27-black-goalkeeper-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/chivas-guadalajara-26-27-black-goalkeeper-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "chivas-guadalajara-26-27-black-goalkeeper-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Goalkeeper",
+      "sourceCategories": [
+        "new season",
+        "LIGA MX",
+        "Chivas de Guadalajara"
+      ],
+      "sourceTitle": "Chivas Guadalajara 26/27 Black Goalkeeper Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:50:22.757Z"
+    },
+    {
+      "id": "yupoo-257730840",
+      "name": "Chivas Guadalajara 26/27 Goalkeeper Blue Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257730840?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/chivas-guadalajara-26-27-goalkeeper-blue-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/chivas-guadalajara-26-27-goalkeeper-blue-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/chivas-guadalajara-26-27-goalkeeper-blue-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "chivas-guadalajara-26-27-goalkeeper-blue-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Goalkeeper",
+      "sourceCategories": [
+        "new season",
+        "LIGA MX",
+        "Chivas de Guadalajara"
+      ],
+      "sourceTitle": "Chivas Guadalajara 26/27 Goalkeeper Blue Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:50:14.279Z"
+    },
+    {
+      "id": "yupoo-257730876",
+      "name": "Chivas Guadalajara 26/27 Home Kids Kit",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257730876?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/chivas-guadalajara-26-27-home-kids-kit/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/chivas-guadalajara-26-27-home-kids-kit/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/chivas-guadalajara-26-27-home-kids-kit/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "chivas-guadalajara-26-27-home-kids-kit",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Kids",
+      "sourceCategories": [
+        "new season",
+        "⚽👦🏻kids kit size：16-28",
+        "LIGA MX",
+        "Chivas de Guadalajara"
+      ],
+      "sourceTitle": "Chivas Guadalajara 26/27 Home Kids Kit Size 16-28",
+      "updatedAt": "2026-10-12T22:49:55.359Z"
+    },
+    {
       "id": "yupoo-257730945",
       "name": "Chivas Guadalajara 26/27 Home Long Sleeve Jersey",
       "category": "⚽Long sleeve shirt",
@@ -35058,6 +36553,42 @@
       ],
       "sourceTitle": "Chivas Guadalajara 26/27 Home Player Version Long Sleeved Jersey S-3XL",
       "updatedAt": "2026-10-12T21:42:59.570Z"
+    },
+    {
+      "id": "yupoo-257730969",
+      "name": "Chivas Guadalajara 26/27 Home Women's Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257730969?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/chivas-guadalajara-26-27-home-women-s-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/chivas-guadalajara-26-27-home-women-s-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/chivas-guadalajara-26-27-home-women-s-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "chivas-guadalajara-26-27-home-women-s-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Women's",
+      "sourceCategories": [
+        "new season",
+        "⚽💁🏻‍♀️Women's shirt",
+        "LIGA MX",
+        "Chivas de Guadalajara"
+      ],
+      "sourceTitle": "Chivas Guadalajara 26/27 Home Women's Jersey S-XXL",
+      "updatedAt": "2026-10-12T22:50:04.372Z"
     },
     {
       "id": "yupoo-227760586",
@@ -35146,6 +36677,42 @@
       "updatedAt": "2026-10-11T10:48:04.354Z"
     },
     {
+      "id": "yupoo-257731021",
+      "name": "Club América 26/27 Away Kids Kit",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257731021?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/club-america-26-27-away-kids-kit/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/club-america-26-27-away-kids-kit/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/club-america-26-27-away-kids-kit/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "club-america-26-27-away-kids-kit",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Kids",
+      "sourceCategories": [
+        "new season",
+        "⚽👦🏻kids kit size：16-28",
+        "LIGA MX",
+        "America"
+      ],
+      "sourceTitle": "Club América 26/27 Away Kids Kit Size 16-28",
+      "updatedAt": "2026-10-12T22:50:31.636Z"
+    },
+    {
       "id": "yupoo-257731058",
       "name": "Club América 26/27 Away Long-sleeved Jersey",
       "category": "⚽Long sleeve shirt",
@@ -35216,6 +36783,41 @@
       ],
       "sourceTitle": "Club América 26/27 Home Long-sleeved Jersey S-4XL",
       "updatedAt": "2026-10-12T21:39:44.807Z"
+    },
+    {
+      "id": "yupoo-257731165",
+      "name": "Club América Anniversary Edition Iridescent Blue Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257731165?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/club-america-anniversary-edition-iridescent-blue-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/club-america-anniversary-edition-iridescent-blue-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/club-america-anniversary-edition-iridescent-blue-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "club-america-anniversary-edition-iridescent-blue-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "",
+      "type": "Shirt",
+      "variant": "Special edition",
+      "sourceCategories": [
+        "new season",
+        "LIGA MX",
+        "America"
+      ],
+      "sourceTitle": "Club América Anniversary Edition Iridescent Blue Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:50:39.761Z"
     },
     {
       "id": "yupoo-253699860",
@@ -35549,6 +37151,40 @@
       ],
       "sourceTitle": "Colo Colo 2011 Away Jersey S-XXL",
       "updatedAt": "2026-10-11T13:21:22.693Z"
+    },
+    {
+      "id": "yupoo-257637574",
+      "name": "Colo Colo 26-27 Half-Zip Training Suit – Black",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257637574?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/colo-colo-26-27-half-zip-training-suit-black/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/colo-colo-26-27-half-zip-training-suit-black/image-01.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "colo-colo-26-27-half-zip-training-suit-black",
+      "siteCategory": "training",
+      "team": "Colo-Colo",
+      "league": "Other leagues",
+      "country": "Chile",
+      "season": "",
+      "type": "Training",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Chilean League",
+        "Colo Colo"
+      ],
+      "sourceTitle": "Colo Colo 26-27 Half-Zip Training Suit – Black S-XXL",
+      "updatedAt": "2026-10-12T22:52:47.339Z"
     },
     {
       "id": "yupoo-226512147",
@@ -40057,6 +41693,149 @@
       "updatedAt": "2026-10-11T12:07:58.048Z"
     },
     {
+      "id": "yupoo-257731261",
+      "name": "Cruz Azul 26/27 Away Kids Kit",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257731261?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/cruz-azul-26-27-away-kids-kit/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/cruz-azul-26-27-away-kids-kit/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/cruz-azul-26-27-away-kids-kit/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "cruz-azul-26-27-away-kids-kit",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Kids",
+      "sourceCategories": [
+        "new season",
+        "⚽👦🏻kids kit size：16-28",
+        "LIGA MX",
+        "Cruz Azul"
+      ],
+      "sourceTitle": "Cruz Azul 26/27 Away Kids Kit Size 16-28",
+      "updatedAt": "2026-10-12T22:51:37.191Z"
+    },
+    {
+      "id": "yupoo-257731296",
+      "name": "Cruz Azul 26/27 Away Women's Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257731296?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/cruz-azul-26-27-away-women-s-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/cruz-azul-26-27-away-women-s-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/cruz-azul-26-27-away-women-s-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "cruz-azul-26-27-away-women-s-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Women's",
+      "sourceCategories": [
+        "new season",
+        "⚽💁🏻‍♀️Women's shirt",
+        "LIGA MX",
+        "Cruz Azul"
+      ],
+      "sourceTitle": "Cruz Azul 26/27 Away Women's Jersey S-XXL",
+      "updatedAt": "2026-10-12T22:51:54.739Z"
+    },
+    {
+      "id": "yupoo-257731329",
+      "name": "Cruz Azul 26/27 Green Goalkeeper Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257731329?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/cruz-azul-26-27-green-goalkeeper-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/cruz-azul-26-27-green-goalkeeper-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/cruz-azul-26-27-green-goalkeeper-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "cruz-azul-26-27-green-goalkeeper-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Goalkeeper",
+      "sourceCategories": [
+        "new season",
+        "LIGA MX",
+        "Cruz Azul"
+      ],
+      "sourceTitle": "Cruz Azul 26/27 Green Goalkeeper Jersey",
+      "updatedAt": "2026-10-12T22:52:13.877Z"
+    },
+    {
+      "id": "yupoo-257731371",
+      "name": "Cruz Azul 26/27 Home Kids Kit",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257731371?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/cruz-azul-26-27-home-kids-kit/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/cruz-azul-26-27-home-kids-kit/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/cruz-azul-26-27-home-kids-kit/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "cruz-azul-26-27-home-kids-kit",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Kids",
+      "sourceCategories": [
+        "new season",
+        "⚽👦🏻kids kit size：16-28",
+        "LIGA MX",
+        "Cruz Azul"
+      ],
+      "sourceTitle": "Cruz Azul 26/27 Home Kids Kit Size 16-28",
+      "updatedAt": "2026-10-12T22:51:27.771Z"
+    },
+    {
       "id": "yupoo-257731426",
       "name": "Cruz Azul 26/27 Home Long-sleeved Jersey",
       "category": "⚽Long sleeve shirt",
@@ -40130,6 +41909,77 @@
       "updatedAt": "2026-10-12T21:42:50.819Z"
     },
     {
+      "id": "yupoo-257731482",
+      "name": "Cruz Azul 26/27 Home Women's Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257731482?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/cruz-azul-26-27-home-women-s-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/cruz-azul-26-27-home-women-s-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/cruz-azul-26-27-home-women-s-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "cruz-azul-26-27-home-women-s-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Women's",
+      "sourceCategories": [
+        "new season",
+        "⚽💁🏻‍♀️Women's shirt",
+        "LIGA MX",
+        "Cruz Azul"
+      ],
+      "sourceTitle": "Cruz Azul 26/27 Home Women's Jersey S-XXL",
+      "updatedAt": "2026-10-12T22:51:46.069Z"
+    },
+    {
+      "id": "yupoo-257731525",
+      "name": "Cruz Azul 26/27 Third Away Jersey S-6XL",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257731525?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/cruz-azul-26-27-third-away-jersey-s-6xl/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/cruz-azul-26-27-third-away-jersey-s-6xl/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/cruz-azul-26-27-third-away-jersey-s-6xl/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "cruz-azul-26-27-third-away-jersey-s-6xl",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "LIGA MX",
+        "Cruz Azul"
+      ],
+      "sourceTitle": "Cruz Azul 26/27 Third Away Jersey S-6XL",
+      "updatedAt": "2026-10-12T22:50:57.971Z"
+    },
+    {
       "id": "yupoo-257731561",
       "name": "Cruz Azul 26/27 Third Away Player Version Jersey",
       "category": "⚽Long sleeve shirt",
@@ -40165,6 +42015,77 @@
       ],
       "sourceTitle": "Cruz Azul 26/27 Third Away Player Version Jersey S-4XL",
       "updatedAt": "2026-10-12T21:40:10.018Z"
+    },
+    {
+      "id": "yupoo-257731623",
+      "name": "Cruz Azul 26/27 Third Away Player Version Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257731623?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/cruz-azul-26-27-third-away-player-version-jersey-2/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/cruz-azul-26-27-third-away-player-version-jersey-2/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/cruz-azul-26-27-third-away-player-version-jersey-2/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "cruz-azul-26-27-third-away-player-version-jersey-2",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Player version",
+      "sourceCategories": [
+        "new season",
+        "⚽💪🏻Player Version",
+        "LIGA MX",
+        "Cruz Azul"
+      ],
+      "sourceTitle": "Cruz Azul 26/27 Third Away Player Version Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:51:08.117Z"
+    },
+    {
+      "id": "yupoo-257731685",
+      "name": "Cruz Azul 26/27 Yellow-Green Goalkeeper Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257731685?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/cruz-azul-26-27-yellow-green-goalkeeper-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/cruz-azul-26-27-yellow-green-goalkeeper-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/cruz-azul-26-27-yellow-green-goalkeeper-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "cruz-azul-26-27-yellow-green-goalkeeper-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Goalkeeper",
+      "sourceCategories": [
+        "new season",
+        "LIGA MX",
+        "Cruz Azul"
+      ],
+      "sourceTitle": "Cruz Azul 26/27 Yellow-Green Goalkeeper Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:52:05.469Z"
     },
     {
       "id": "yupoo-229204597",
@@ -44334,6 +46255,49 @@
       "updatedAt": "2026-10-11T11:43:44.680Z"
     },
     {
+      "id": "yupoo-257539874",
+      "name": "Everton 26/27 Away Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257539874?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/everton-26-27-away-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/everton-26-27-away-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/everton-26-27-away-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/everton-26-27-away-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/everton-26-27-away-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/everton-26-27-away-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/everton-26-27-away-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/everton-26-27-away-jersey/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/everton-26-27-away-jersey/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/everton-26-27-away-jersey/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/everton-26-27-away-jersey/image-10.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "everton-26-27-away-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Premier League",
+        "Everton"
+      ],
+      "sourceTitle": "Everton 26/27 Away Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:55:02.699Z"
+    },
+    {
       "id": "yupoo-236327030",
       "name": "F1 Aston Martin Team 2026 Racing Suit Green S-5XL",
       "category": "newF1",
@@ -45202,6 +47166,41 @@
       ],
       "sourceTitle": "Fiorentina 1998 Home Retro Jersey S-XXL",
       "updatedAt": "2026-10-11T14:55:00.939Z"
+    },
+    {
+      "id": "yupoo-257731913",
+      "name": "Fiorentina 26/27 Black Commemorative Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257731913?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/fiorentina-26-27-black-commemorative-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/fiorentina-26-27-black-commemorative-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/fiorentina-26-27-black-commemorative-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "fiorentina-26-27-black-commemorative-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Special edition",
+      "sourceCategories": [
+        "new season",
+        "Serie A",
+        "Fiorentina"
+      ],
+      "sourceTitle": "Fiorentina 26/27 Black Commemorative Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:51:16.526Z"
     },
     {
       "id": "yupoo-213861738",
@@ -48499,6 +50498,39 @@
       ],
       "sourceTitle": "France 26/27 Baby Home Jersey Size 9/12",
       "updatedAt": "2026-10-11T08:44:27.906Z"
+    },
+    {
+      "id": "yupoo-258144446",
+      "name": "France 26/27 Special Edition Jersey",
+      "category": "Uncategorized album",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258144446?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/france-26-27-special-edition-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/france-26-27-special-edition-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/france-26-27-special-edition-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "france-26-27-special-edition-jersey",
+      "siteCategory": "national",
+      "team": "France",
+      "league": "National teams",
+      "country": "France",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Special edition",
+      "sourceCategories": [
+        "Uncategorized album"
+      ],
+      "sourceTitle": "France 26/27 Special Edition Jersey S-XXL",
+      "updatedAt": "2026-10-12T22:42:13.451Z"
     },
     {
       "id": "yupoo-229204643",
@@ -53373,6 +55405,85 @@
       "updatedAt": "2026-10-11T11:25:03.604Z"
     },
     {
+      "id": "yupoo-257421259",
+      "name": "Gremio 26/27 Home Kids Kit",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257421259?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/gremio-26-27-home-kids-kit/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/gremio-26-27-home-kids-kit/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/gremio-26-27-home-kids-kit/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/gremio-26-27-home-kids-kit/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/gremio-26-27-home-kids-kit/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/gremio-26-27-home-kids-kit/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/gremio-26-27-home-kids-kit/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/gremio-26-27-home-kids-kit/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/gremio-26-27-home-kids-kit/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/gremio-26-27-home-kids-kit/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/gremio-26-27-home-kids-kit/image-10.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/gremio-26-27-home-kids-kit/image-11.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/gremio-26-27-home-kids-kit/image-12.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "gremio-26-27-home-kids-kit",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Kids",
+      "sourceCategories": [
+        "new season",
+        "⚽👦🏻kids kit size：16-28",
+        "Brasileiro Série A",
+        "Gremio"
+      ],
+      "sourceTitle": "Gremio 26/27 Home Kids Kit Size 16-28",
+      "updatedAt": "2026-10-12T22:58:11.612Z"
+    },
+    {
+      "id": "yupoo-258143635",
+      "name": "Gremio 26/27 Third Away Player Version Jersey",
+      "category": "Uncategorized album",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258143635?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/gremio-26-27-third-away-player-version-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/gremio-26-27-third-away-player-version-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/gremio-26-27-third-away-player-version-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "gremio-26-27-third-away-player-version-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Player version",
+      "sourceCategories": [
+        "Uncategorized album"
+      ],
+      "sourceTitle": "Gremio 26/27 Third Away Player Version Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:45:32.089Z"
+    },
+    {
       "id": "yupoo-220897893",
       "name": "Gremio 97/98 Home Long-Sleeve Retro Jersey",
       "category": "Retro football shirt",
@@ -55987,6 +58098,72 @@
       ],
       "sourceTitle": "Inter Milan 26/27 Home Player Version Long Sleeved Jersey S-3XL",
       "updatedAt": "2026-10-12T21:47:51.548Z"
+    },
+    {
+      "id": "yupoo-258143695",
+      "name": "Inter Milan 26/27 Home Women's Jersey",
+      "category": "Uncategorized album",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258143695?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/inter-milan-26-27-home-women-s-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/inter-milan-26-27-home-women-s-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/inter-milan-26-27-home-women-s-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "inter-milan-26-27-home-women-s-jersey",
+      "siteCategory": "club",
+      "team": "Inter",
+      "league": "Serie A",
+      "country": "Italy",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Women's",
+      "sourceCategories": [
+        "Uncategorized album"
+      ],
+      "sourceTitle": "Inter Milan 26/27 Home Women's Jersey S-XXL",
+      "updatedAt": "2026-10-12T22:45:22.816Z"
+    },
+    {
+      "id": "yupoo-258143732",
+      "name": "Inter Milan 26/27 Third Away Jersey",
+      "category": "Uncategorized album",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258143732?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/inter-milan-26-27-third-away-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/inter-milan-26-27-third-away-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/inter-milan-26-27-third-away-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "inter-milan-26-27-third-away-jersey",
+      "siteCategory": "club",
+      "team": "Inter",
+      "league": "Serie A",
+      "country": "Italy",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "Uncategorized album"
+      ],
+      "sourceTitle": "Inter Milan 26/27 Third Away Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:45:13.959Z"
     },
     {
       "id": "yupoo-212924181",
@@ -61788,6 +63965,39 @@
       "updatedAt": "2026-10-12T21:07:17.682Z"
     },
     {
+      "id": "yupoo-258143768",
+      "name": "Joma FC Juárez 26/27 Home Player Version Jersey",
+      "category": "Uncategorized album",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258143768?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/joma-fc-juarez-26-27-home-player-version-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/joma-fc-juarez-26-27-home-player-version-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/joma-fc-juarez-26-27-home-player-version-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "joma-fc-juarez-26-27-home-player-version-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Player version",
+      "sourceCategories": [
+        "Uncategorized album"
+      ],
+      "sourceTitle": "Joma FC Juárez 26/27 Home Player Version Jersey S-3XL",
+      "updatedAt": "2026-10-12T22:45:05.497Z"
+    },
+    {
       "id": "yupoo-223119715",
       "name": "Jordan 2026 Away Jersey",
       "category": "2026 FIFA World Cup",
@@ -65811,6 +68021,40 @@
       "updatedAt": "2026-10-12T21:51:29.507Z"
     },
     {
+      "id": "yupoo-257638207",
+      "name": "Legia Warsaw 94/95 Home Retro Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257638207?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/legia-warsaw-94-95-home-retro-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/legia-warsaw-94-95-home-retro-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/legia-warsaw-94-95-home-retro-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "legia-warsaw-94-95-home-retro-jersey",
+      "siteCategory": "retro",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "1994/95",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "new season",
+        "Worldwide Other League"
+      ],
+      "sourceTitle": "Legia Warsaw 94/95 Home Retro Jersey S-XXL",
+      "updatedAt": "2026-10-12T22:52:39.592Z"
+    },
+    {
       "id": "yupoo-213863244",
       "name": "Leicester City 15/16 Home Retro Jersey",
       "category": "Retro football shirt",
@@ -66134,6 +68378,72 @@
       ],
       "sourceTitle": "Lille 95/96 Away Retro S-4XL",
       "updatedAt": "2026-10-11T13:26:23.555Z"
+    },
+    {
+      "id": "yupoo-258143847",
+      "name": "LOSC Lille 26/27 Away Jersey",
+      "category": "Uncategorized album",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258143847?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/losc-lille-26-27-away-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/losc-lille-26-27-away-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/losc-lille-26-27-away-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "losc-lille-26-27-away-jersey",
+      "siteCategory": "club",
+      "team": "Lille",
+      "league": "Ligue 1",
+      "country": "France",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "Uncategorized album"
+      ],
+      "sourceTitle": "LOSC Lille 26/27 Away Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:44:56.351Z"
+    },
+    {
+      "id": "yupoo-258143876",
+      "name": "LOSC Lille 26/27 Hoem Jersey",
+      "category": "Uncategorized album",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258143876?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/losc-lille-26-27-hoem-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/losc-lille-26-27-hoem-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/losc-lille-26-27-hoem-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "losc-lille-26-27-hoem-jersey",
+      "siteCategory": "club",
+      "team": "Lille",
+      "league": "Ligue 1",
+      "country": "France",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "Uncategorized album"
+      ],
+      "sourceTitle": "LOSC Lille 26/27 Hoem Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:44:47.119Z"
     },
     {
       "id": "yupoo-220231354",
@@ -67407,6 +69717,39 @@
       ],
       "sourceTitle": "Manchester City 26/27 Third Away Long Sleeve Jersey Player Version S-XXL",
       "updatedAt": "2026-10-12T21:44:20.162Z"
+    },
+    {
+      "id": "yupoo-258143895",
+      "name": "Manchester City 26/27 Third Away Long-Sleeved Jersey",
+      "category": "Uncategorized album",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258143895?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-city-26-27-third-away-long-sleeved-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-city-26-27-third-away-long-sleeved-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-city-26-27-third-away-long-sleeved-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "manchester-city-26-27-third-away-long-sleeved-jersey",
+      "siteCategory": "club",
+      "team": "Manchester City",
+      "league": "Premier League",
+      "country": "England",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Long sleeve",
+      "sourceCategories": [
+        "Uncategorized album"
+      ],
+      "sourceTitle": "Manchester City 26/27 Third Away Long-Sleeved Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:44:38.533Z"
     },
     {
       "id": "yupoo-214137703",
@@ -70711,6 +73054,41 @@
       "updatedAt": "2026-10-12T21:56:38.826Z"
     },
     {
+      "id": "yupoo-257638512",
+      "name": "Manchester United 26/27 Commemorative Retro Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257638512?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-united-26-27-commemorative-retro-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-united-26-27-commemorative-retro-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-united-26-27-commemorative-retro-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "manchester-united-26-27-commemorative-retro-jersey",
+      "siteCategory": "retro",
+      "team": "Manchester United",
+      "league": "Premier League",
+      "country": "England",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "new season",
+        "Premier League",
+        "M-U"
+      ],
+      "sourceTitle": "M-U 26/27 Commemorative Retro Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:45:52.872Z"
+    },
+    {
       "id": "yupoo-256428195",
       "name": "Manchester United 26/27 EQT Black Retro Jersey",
       "category": "Retro football shirt",
@@ -70823,6 +73201,82 @@
       ],
       "sourceTitle": "Manchester United 26/27 Home Long Sleeve Jersey S-4XL",
       "updatedAt": "2026-10-11T10:57:03.868Z"
+    },
+    {
+      "id": "yupoo-257883401",
+      "name": "Manchester United 26/27 Home Player Version Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257883401?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-united-26-27-home-player-version-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-united-26-27-home-player-version-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-united-26-27-home-player-version-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-united-26-27-home-player-version-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-united-26-27-home-player-version-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-united-26-27-home-player-version-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-united-26-27-home-player-version-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-united-26-27-home-player-version-jersey/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "manchester-united-26-27-home-player-version-jersey",
+      "siteCategory": "club",
+      "team": "Manchester United",
+      "league": "Premier League",
+      "country": "England",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Player version",
+      "sourceCategories": [
+        "new season",
+        "Premier League",
+        "M-U",
+        "⚽💪🏻Player Version"
+      ],
+      "sourceTitle": "Manchester United 26/27 Home Player Version Jersey S-3XL",
+      "updatedAt": "2026-10-12T22:45:44.108Z"
+    },
+    {
+      "id": "yupoo-257638571",
+      "name": "Manchester United 26/27 Red and White Special Edition Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257638571?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-united-26-27-red-and-white-special-edition-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-united-26-27-red-and-white-special-edition-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-united-26-27-red-and-white-special-edition-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "manchester-united-26-27-red-and-white-special-edition-jersey",
+      "siteCategory": "club",
+      "team": "Manchester United",
+      "league": "Premier League",
+      "country": "England",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Special edition",
+      "sourceCategories": [
+        "new season",
+        "Premier League",
+        "M-U"
+      ],
+      "sourceTitle": "M-U 26/27 Red and White Special Edition Jersey S-XXL",
+      "updatedAt": "2026-10-12T22:46:01.981Z"
     },
     {
       "id": "yupoo-212487461",
@@ -71281,6 +73735,42 @@
       ],
       "sourceTitle": "Marseille 25/26 Home Long-sleeved Jersey S-4XL",
       "updatedAt": "2026-10-12T21:59:58.980Z"
+    },
+    {
+      "id": "yupoo-257638621",
+      "name": "Marseille 26/27 Third Away Player Version Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257638621?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/marseille-26-27-third-away-player-version-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/marseille-26-27-third-away-player-version-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/marseille-26-27-third-away-player-version-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "marseille-26-27-third-away-player-version-jersey",
+      "siteCategory": "club",
+      "team": "Olympique de Marseille",
+      "league": "Ligue 1",
+      "country": "France",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Player version",
+      "sourceCategories": [
+        "new season",
+        "⚽💪🏻Player Version",
+        "Ligue 1",
+        "Olympique de Marseille"
+      ],
+      "sourceTitle": "Marseille 26/27 Third Away Player Version Jersey S-XXL",
+      "updatedAt": "2026-10-12T22:46:10.984Z"
     },
     {
       "id": "yupoo-212926947",
@@ -72663,6 +75153,72 @@
       ],
       "sourceTitle": "Mercedes-AMG Team 2026 F1 Racing Suit Blue POLO S-5XL",
       "updatedAt": "2026-10-11T09:40:37.321Z"
+    },
+    {
+      "id": "yupoo-258143929",
+      "name": "Messi Special Edition Jersey",
+      "category": "Uncategorized album",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258143929?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/messi-special-edition-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/messi-special-edition-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/messi-special-edition-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "messi-special-edition-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "",
+      "type": "Shirt",
+      "variant": "Special edition",
+      "sourceCategories": [
+        "Uncategorized album"
+      ],
+      "sourceTitle": "Messi Special Edition Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:44:30.046Z"
+    },
+    {
+      "id": "yupoo-258144008",
+      "name": "Messi Special Edition Player Version Jersey",
+      "category": "Uncategorized album",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258144008?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/messi-special-edition-player-version-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/messi-special-edition-player-version-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/messi-special-edition-player-version-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "messi-special-edition-player-version-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "",
+      "type": "Shirt",
+      "variant": "Player version",
+      "sourceCategories": [
+        "Uncategorized album"
+      ],
+      "sourceTitle": "Messi Special Edition Player Version Jersey S-3XL",
+      "updatedAt": "2026-10-12T22:44:21.058Z"
     },
     {
       "id": "yupoo-213864201",
@@ -75306,6 +77862,105 @@
       "updatedAt": "2026-10-11T10:20:10.719Z"
     },
     {
+      "id": "yupoo-258144027",
+      "name": "Monterrey 26/27 Away Women's Jersey",
+      "category": "Uncategorized album",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258144027?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/monterrey-26-27-away-women-s-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/monterrey-26-27-away-women-s-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/monterrey-26-27-away-women-s-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "monterrey-26-27-away-women-s-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Women's",
+      "sourceCategories": [
+        "Uncategorized album"
+      ],
+      "sourceTitle": "Monterrey 26/27 Away Women's Jersey S-XXL",
+      "updatedAt": "2026-10-12T22:44:11.546Z"
+    },
+    {
+      "id": "yupoo-258144061",
+      "name": "Monterrey 26/27 Home Player Version Jersey",
+      "category": "Uncategorized album",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258144061?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/monterrey-26-27-home-player-version-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/monterrey-26-27-home-player-version-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/monterrey-26-27-home-player-version-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "monterrey-26-27-home-player-version-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Player version",
+      "sourceCategories": [
+        "Uncategorized album"
+      ],
+      "sourceTitle": "Monterrey 26/27 Home Player Version Jersey S-XXL",
+      "updatedAt": "2026-10-12T22:44:01.768Z"
+    },
+    {
+      "id": "yupoo-258144092",
+      "name": "Monterrey 26/27 Home Women's Jersey",
+      "category": "Uncategorized album",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258144092?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/monterrey-26-27-home-women-s-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/monterrey-26-27-home-women-s-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/monterrey-26-27-home-women-s-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "monterrey-26-27-home-women-s-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Women's",
+      "sourceCategories": [
+        "Uncategorized album"
+      ],
+      "sourceTitle": "Monterrey 26/27 Home Women's Jersey S-XXL",
+      "updatedAt": "2026-10-12T22:43:52.486Z"
+    },
+    {
       "id": "yupoo-212468298",
       "name": "Monterrey 93/94 Home Retro Jersey",
       "category": "Retro football shirt",
@@ -75386,6 +78041,39 @@
       ],
       "sourceTitle": "Monterrey 95/96 Home Retro Jersey S-XXL",
       "updatedAt": "2026-10-11T15:43:38.944Z"
+    },
+    {
+      "id": "yupoo-258144124",
+      "name": "Monterrey King 26/27 Long-sleeved Special Edition Jersey",
+      "category": "Uncategorized album",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258144124?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/monterrey-king-26-27-long-sleeved-special-edition-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/monterrey-king-26-27-long-sleeved-special-edition-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/monterrey-king-26-27-long-sleeved-special-edition-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "monterrey-king-26-27-long-sleeved-special-edition-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Long sleeve",
+      "sourceCategories": [
+        "Uncategorized album"
+      ],
+      "sourceTitle": "Monterrey King 26/27 Long-sleeved Special Edition Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:43:43.990Z"
     },
     {
       "id": "yupoo-217356790",
@@ -76095,6 +78783,74 @@
       "updatedAt": "2026-10-11T15:39:46.646Z"
     },
     {
+      "id": "yupoo-257638832",
+      "name": "Napoli 26/27 Special Edition Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257638832?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/napoli-26-27-special-edition-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/napoli-26-27-special-edition-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/napoli-26-27-special-edition-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "napoli-26-27-special-edition-jersey",
+      "siteCategory": "club",
+      "team": "Napoli",
+      "league": "Serie A",
+      "country": "Italy",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Special edition",
+      "sourceCategories": [
+        "new season",
+        "Serie A",
+        "Napoli"
+      ],
+      "sourceTitle": "Napoli 26/27 Special Edition Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:46:20.672Z"
+    },
+    {
+      "id": "yupoo-258144151",
+      "name": "Napoli 65/66 Home Retro Jersey",
+      "category": "Uncategorized album",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258144151?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/napoli-65-66-home-retro-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/napoli-65-66-home-retro-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/napoli-65-66-home-retro-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "napoli-65-66-home-retro-jersey",
+      "siteCategory": "retro",
+      "team": "Napoli",
+      "league": "Serie A",
+      "country": "Italy",
+      "season": "1965/66",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Uncategorized album"
+      ],
+      "sourceTitle": "Napoli 65/66 Home Retro Jersey S-XXL",
+      "updatedAt": "2026-10-12T22:43:34.682Z"
+    },
+    {
       "id": "yupoo-257638882",
       "name": "Napoli 80/81 Home Retro Jersey",
       "category": "Retro football shirt",
@@ -76579,6 +79335,72 @@
       ],
       "sourceTitle": "Napoli 98/99 Home Retro Jersey S-XXL",
       "updatedAt": "2026-10-11T13:00:51.492Z"
+    },
+    {
+      "id": "yupoo-258144176",
+      "name": "Necaxa 26/27 Away Jersey",
+      "category": "Uncategorized album",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258144176?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/necaxa-26-27-away-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/necaxa-26-27-away-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/necaxa-26-27-away-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "necaxa-26-27-away-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "Uncategorized album"
+      ],
+      "sourceTitle": "Necaxa 26/27 Away Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:43:26.305Z"
+    },
+    {
+      "id": "yupoo-258144199",
+      "name": "Necaxa 26/27 Home Jersey",
+      "category": "Uncategorized album",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258144199?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/necaxa-26-27-home-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/necaxa-26-27-home-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/necaxa-26-27-home-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "necaxa-26-27-home-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "Uncategorized album"
+      ],
+      "sourceTitle": "Necaxa 26/27 Home Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:43:16.506Z"
     },
     {
       "id": "yupoo-247788046",
@@ -80213,6 +83035,39 @@
       "updatedAt": "2026-10-11T16:22:46.882Z"
     },
     {
+      "id": "yupoo-258144256",
+      "name": "Olympique de Marseille 26/27 Away Kids Kit",
+      "category": "Uncategorized album",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258144256?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/olympique-de-marseille-26-27-away-kids-kit/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/olympique-de-marseille-26-27-away-kids-kit/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/olympique-de-marseille-26-27-away-kids-kit/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "olympique-de-marseille-26-27-away-kids-kit",
+      "siteCategory": "club",
+      "team": "Olympique de Marseille",
+      "league": "Ligue 1",
+      "country": "France",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Kids",
+      "sourceCategories": [
+        "Uncategorized album"
+      ],
+      "sourceTitle": "Olympique de Marseille 26/27 Away Kids Kit Size 16-30",
+      "updatedAt": "2026-10-12T22:43:07.484Z"
+    },
+    {
       "id": "yupoo-212820702",
       "name": "Olympique lyonnais 08/09 Away Retro Jersey",
       "category": "Retro football shirt",
@@ -80840,6 +83695,72 @@
       ],
       "sourceTitle": "Osasuna 98/00 Home Retro Jersey S-XXL",
       "updatedAt": "2026-10-11T11:43:00.504Z"
+    },
+    {
+      "id": "yupoo-258147081",
+      "name": "Pachuca 26/27 Away Player Version Jersey",
+      "category": "Uncategorized album",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258147081?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/pachuca-26-27-away-player-version-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/pachuca-26-27-away-player-version-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/pachuca-26-27-away-player-version-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "pachuca-26-27-away-player-version-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Player version",
+      "sourceCategories": [
+        "Uncategorized album"
+      ],
+      "sourceTitle": "Pachuca 26/27 Away Player Version Jersey S-3XL",
+      "updatedAt": "2026-10-12T22:40:25.918Z"
+    },
+    {
+      "id": "yupoo-258144295",
+      "name": "Pachuca 26/27 Home Jersey",
+      "category": "Uncategorized album",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258144295?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/pachuca-26-27-home-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/pachuca-26-27-home-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/pachuca-26-27-home-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "pachuca-26-27-home-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "Uncategorized album"
+      ],
+      "sourceTitle": "Pachuca 26/27 Home Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:42:58.693Z"
     },
     {
       "id": "yupoo-245839301",
@@ -81495,6 +84416,51 @@
       ],
       "sourceTitle": "Palmeiras 1999 Liberator Cup Champion Home Retro S-XXL",
       "updatedAt": "2026-10-11T15:54:29.042Z"
+    },
+    {
+      "id": "yupoo-257422074",
+      "name": "Palmeiras 26/27 Third Away Kids Kit",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257422074?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/palmeiras-26-27-third-away-kids-kit/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/palmeiras-26-27-third-away-kids-kit/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/palmeiras-26-27-third-away-kids-kit/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/palmeiras-26-27-third-away-kids-kit/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/palmeiras-26-27-third-away-kids-kit/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/palmeiras-26-27-third-away-kids-kit/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/palmeiras-26-27-third-away-kids-kit/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/palmeiras-26-27-third-away-kids-kit/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/palmeiras-26-27-third-away-kids-kit/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/palmeiras-26-27-third-away-kids-kit/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/palmeiras-26-27-third-away-kids-kit/image-10.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/palmeiras-26-27-third-away-kids-kit/image-11.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "palmeiras-26-27-third-away-kids-kit",
+      "siteCategory": "club",
+      "team": "Palmeiras",
+      "league": "Brasileiro Série A",
+      "country": "Brazil",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Kids",
+      "sourceCategories": [
+        "new season",
+        "⚽👦🏻kids kit size：16-28",
+        "Brasileiro Série A",
+        "Palmeiras"
+      ],
+      "sourceTitle": "Palmeiras 26/27 Third Away Kids Kit Size 16-28",
+      "updatedAt": "2026-10-12T22:57:54.837Z"
     },
     {
       "id": "yupoo-212584776",
@@ -83293,6 +86259,39 @@
       "updatedAt": "2026-10-11T12:43:54.347Z"
     },
     {
+      "id": "yupoo-258144320",
+      "name": "Porto 26/27 Orange Goalkeeper Jersey",
+      "category": "Uncategorized album",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258144320?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/porto-26-27-orange-goalkeeper-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/porto-26-27-orange-goalkeeper-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/porto-26-27-orange-goalkeeper-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "porto-26-27-orange-goalkeeper-jersey",
+      "siteCategory": "club",
+      "team": "FC Porto",
+      "league": "Liga Portugal",
+      "country": "Portugal",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Goalkeeper",
+      "sourceCategories": [
+        "Uncategorized album"
+      ],
+      "sourceTitle": "Porto 26/27 Orange Goalkeeper Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:42:50.252Z"
+    },
+    {
       "id": "yupoo-213380813",
       "name": "Porto 94/95 Retro Home Jersey",
       "category": "Retro football shirt",
@@ -83537,6 +86536,105 @@
       ],
       "sourceTitle": "Porto 99/00 Retro Home Jersey S-XXL",
       "updatedAt": "2026-10-11T14:34:01.728Z"
+    },
+    {
+      "id": "yupoo-258144357",
+      "name": "Porto Grey Goalkeeper Kids Kit",
+      "category": "Uncategorized album",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258144357?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/porto-grey-goalkeeper-kids-kit/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/porto-grey-goalkeeper-kids-kit/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/porto-grey-goalkeeper-kids-kit/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "porto-grey-goalkeeper-kids-kit",
+      "siteCategory": "club",
+      "team": "FC Porto",
+      "league": "Liga Portugal",
+      "country": "Portugal",
+      "season": "",
+      "type": "Shirt",
+      "variant": "Goalkeeper",
+      "sourceCategories": [
+        "Uncategorized album"
+      ],
+      "sourceTitle": "Porto Grey Goalkeeper Kids Kit Size 16-28",
+      "updatedAt": "2026-10-12T22:42:40.915Z"
+    },
+    {
+      "id": "yupoo-258144382",
+      "name": "Porto Pink Goalkeeper Kids Kit",
+      "category": "Uncategorized album",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258144382?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/porto-pink-goalkeeper-kids-kit/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/porto-pink-goalkeeper-kids-kit/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/porto-pink-goalkeeper-kids-kit/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "porto-pink-goalkeeper-kids-kit",
+      "siteCategory": "club",
+      "team": "FC Porto",
+      "league": "Liga Portugal",
+      "country": "Portugal",
+      "season": "",
+      "type": "Shirt",
+      "variant": "Goalkeeper",
+      "sourceCategories": [
+        "Uncategorized album"
+      ],
+      "sourceTitle": "Porto Pink Goalkeeper Kids Kit Size 16-28",
+      "updatedAt": "2026-10-12T22:42:31.362Z"
+    },
+    {
+      "id": "yupoo-258144408",
+      "name": "Porto Yellow Goalkeeper Kids Kit",
+      "category": "Uncategorized album",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258144408?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/porto-yellow-goalkeeper-kids-kit/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/porto-yellow-goalkeeper-kids-kit/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/porto-yellow-goalkeeper-kids-kit/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "porto-yellow-goalkeeper-kids-kit",
+      "siteCategory": "club",
+      "team": "FC Porto",
+      "league": "Liga Portugal",
+      "country": "Portugal",
+      "season": "",
+      "type": "Shirt",
+      "variant": "Goalkeeper",
+      "sourceCategories": [
+        "Uncategorized album"
+      ],
+      "sourceTitle": "Porto Yellow Goalkeeper Kids Kit Size 16-28",
+      "updatedAt": "2026-10-12T22:42:22.328Z"
     },
     {
       "id": "yupoo-221176650",
@@ -87368,6 +90466,175 @@
       "updatedAt": "2026-10-12T21:42:11.667Z"
     },
     {
+      "id": "yupoo-257639347",
+      "name": "PSG 26/27 Flame Pattern Special Edition Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257639347?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/psg-26-27-flame-pattern-special-edition-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/psg-26-27-flame-pattern-special-edition-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/psg-26-27-flame-pattern-special-edition-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "psg-26-27-flame-pattern-special-edition-jersey",
+      "siteCategory": "club",
+      "team": "Paris Saint-Germain",
+      "league": "Ligue 1",
+      "country": "France",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Special edition",
+      "sourceCategories": [
+        "new season",
+        "Ligue 1",
+        "PSG"
+      ],
+      "sourceTitle": "PSG 26/27 Flame Pattern Special Edition Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:46:37.445Z"
+    },
+    {
+      "id": "yupoo-258144482",
+      "name": "PSG 26/27 Third Away Black Jersey",
+      "category": "Uncategorized album",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258144482?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/psg-26-27-third-away-black-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/psg-26-27-third-away-black-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/psg-26-27-third-away-black-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "psg-26-27-third-away-black-jersey",
+      "siteCategory": "club",
+      "team": "Paris Saint-Germain",
+      "league": "Ligue 1",
+      "country": "France",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "Uncategorized album"
+      ],
+      "sourceTitle": "PSG 26/27 Third Away Black Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:42:03.855Z"
+    },
+    {
+      "id": "yupoo-258145515",
+      "name": "PSG 26/27 Third Away Player Version Jersey",
+      "category": "Uncategorized album",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258145515?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/psg-26-27-third-away-player-version-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/psg-26-27-third-away-player-version-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/psg-26-27-third-away-player-version-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "psg-26-27-third-away-player-version-jersey",
+      "siteCategory": "club",
+      "team": "Paris Saint-Germain",
+      "league": "Ligue 1",
+      "country": "France",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Player version",
+      "sourceCategories": [
+        "Uncategorized album"
+      ],
+      "sourceTitle": "PSG 26/27 Third Away Player Version Jersey S-3XL",
+      "updatedAt": "2026-10-12T22:41:54.240Z"
+    },
+    {
+      "id": "yupoo-257639382",
+      "name": "PSG 26/27 Training Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257639382?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/psg-26-27-training-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/psg-26-27-training-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/psg-26-27-training-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "psg-26-27-training-jersey",
+      "siteCategory": "training",
+      "team": "Paris Saint-Germain",
+      "league": "Ligue 1",
+      "country": "France",
+      "season": "2026/27",
+      "type": "Training",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Ligue 1",
+        "PSG"
+      ],
+      "sourceTitle": "PSG 26/27 Training Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:46:29.094Z"
+    },
+    {
+      "id": "yupoo-258145550",
+      "name": "PSG 26/27 White Training Kids Kit",
+      "category": "Uncategorized album",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258145550?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/psg-26-27-white-training-kids-kit/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/psg-26-27-white-training-kids-kit/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/psg-26-27-white-training-kids-kit/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "psg-26-27-white-training-kids-kit",
+      "siteCategory": "training",
+      "team": "Paris Saint-Germain",
+      "league": "Ligue 1",
+      "country": "France",
+      "season": "2026/27",
+      "type": "Training",
+      "variant": "Kids",
+      "sourceCategories": [
+        "Uncategorized album"
+      ],
+      "sourceTitle": "PSG 26/27 White Training Kids Kit Size 16-30",
+      "updatedAt": "2026-10-12T22:41:45.523Z"
+    },
+    {
       "id": "yupoo-255630774",
       "name": "PSG 90/92 Home Retro Jersey",
       "category": "Retro football shirt",
@@ -87855,6 +91122,72 @@
       ],
       "sourceTitle": "PUMA x McLaren F1 1000th Grand Prix Special Edition Team T-Shirt S-4XL",
       "updatedAt": "2026-10-11T09:36:17.618Z"
+    },
+    {
+      "id": "yupoo-258145617",
+      "name": "Pumas UNAM 26/27 Away Women's Jersey",
+      "category": "Uncategorized album",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258145617?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/pumas-unam-26-27-away-women-s-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/pumas-unam-26-27-away-women-s-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/pumas-unam-26-27-away-women-s-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "pumas-unam-26-27-away-women-s-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Women's",
+      "sourceCategories": [
+        "Uncategorized album"
+      ],
+      "sourceTitle": "Pumas UNAM 26/27 Away Women's Jersey S-XXL",
+      "updatedAt": "2026-10-12T22:41:36.887Z"
+    },
+    {
+      "id": "yupoo-258145672",
+      "name": "Pumas UNAM 26/27 Home Women's Jersey",
+      "category": "Uncategorized album",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258145672?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/pumas-unam-26-27-home-women-s-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/pumas-unam-26-27-home-women-s-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/pumas-unam-26-27-home-women-s-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "pumas-unam-26-27-home-women-s-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Women's",
+      "sourceCategories": [
+        "Uncategorized album"
+      ],
+      "sourceTitle": "Pumas UNAM 26/27 Home Women's Jersey S-XXL",
+      "updatedAt": "2026-10-12T22:41:28.137Z"
     },
     {
       "id": "yupoo-212824368",
@@ -90130,6 +93463,48 @@
       "updatedAt": "2026-10-12T22:03:13.667Z"
     },
     {
+      "id": "yupoo-257535545",
+      "name": "Real Betis 26/27 Home Champions League Edition Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257535545?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-betis-26-27-home-champions-league-edition-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-betis-26-27-home-champions-league-edition-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-betis-26-27-home-champions-league-edition-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-betis-26-27-home-champions-league-edition-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-betis-26-27-home-champions-league-edition-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-betis-26-27-home-champions-league-edition-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-betis-26-27-home-champions-league-edition-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-betis-26-27-home-champions-league-edition-jersey/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-betis-26-27-home-champions-league-edition-jersey/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-betis-26-27-home-champions-league-edition-jersey/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "real-betis-26-27-home-champions-league-edition-jersey",
+      "siteCategory": "club",
+      "team": "Real Betis",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Special edition",
+      "sourceCategories": [
+        "new season",
+        "La Liga",
+        "Real Betis"
+      ],
+      "sourceTitle": "Real Betis 26/27 Home Champions League Edition Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:56:12.082Z"
+    },
+    {
       "id": "yupoo-257337677",
       "name": "Real Betis 26/27 Home Long-Sleeve Champions League Edition ersey",
       "category": "⚽Long sleeve shirt",
@@ -90214,6 +93589,49 @@
       ],
       "sourceTitle": "Real Betis 26/27 Home Long-Sleeve Jersey S-4XL",
       "updatedAt": "2026-10-12T21:41:49.945Z"
+    },
+    {
+      "id": "yupoo-257424415",
+      "name": "Real Betis 26/27 Third Away Baby Jersey Size 9/12",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257424415?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-betis-26-27-third-away-baby-jersey-size-9-12/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-betis-26-27-third-away-baby-jersey-size-9-12/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-betis-26-27-third-away-baby-jersey-size-9-12/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-betis-26-27-third-away-baby-jersey-size-9-12/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-betis-26-27-third-away-baby-jersey-size-9-12/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-betis-26-27-third-away-baby-jersey-size-9-12/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-betis-26-27-third-away-baby-jersey-size-9-12/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-betis-26-27-third-away-baby-jersey-size-9-12/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-betis-26-27-third-away-baby-jersey-size-9-12/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-betis-26-27-third-away-baby-jersey-size-9-12/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "real-betis-26-27-third-away-baby-jersey-size-9-12",
+      "siteCategory": "club",
+      "team": "Real Betis",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "La Liga",
+        "Real Betis",
+        "👶🏻Baby jersey size:9-12"
+      ],
+      "sourceTitle": "Real Betis 26/27 Third Away Baby Jersey Size 9/12",
+      "updatedAt": "2026-10-12T22:57:23.174Z"
     },
     {
       "id": "yupoo-212826646",
@@ -93947,6 +97365,119 @@
       "updatedAt": "2026-10-12T22:07:47.878Z"
     },
     {
+      "id": "yupoo-257639536",
+      "name": "Real Madrid 26/27 Adidas Originals Black Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257639536?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-26-27-adidas-originals-black-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-26-27-adidas-originals-black-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-26-27-adidas-originals-black-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "real-madrid-26-27-adidas-originals-black-jersey",
+      "siteCategory": "club",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "La Liga",
+        "Real Madrid"
+      ],
+      "sourceTitle": "Real Madrid 26/27 Adidas Originals Black Jersey S-XXL",
+      "updatedAt": "2026-10-12T22:46:46.476Z"
+    },
+    {
+      "id": "yupoo-257639578",
+      "name": "Real Madrid 26/27 Adidas Originals White Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257639578?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-26-27-adidas-originals-white-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-26-27-adidas-originals-white-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-26-27-adidas-originals-white-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "real-madrid-26-27-adidas-originals-white-jersey",
+      "siteCategory": "club",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "La Liga",
+        "Real Madrid"
+      ],
+      "sourceTitle": "Real Madrid 26/27 Adidas Originals White Jersey S-XXL",
+      "updatedAt": "2026-10-12T22:46:56.462Z"
+    },
+    {
+      "id": "yupoo-257424625",
+      "name": "Real Madrid 26/27 Away Baby Jersey SIZE 9/12",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257424625?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-26-27-away-baby-jersey-size-9-12/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-26-27-away-baby-jersey-size-9-12/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-26-27-away-baby-jersey-size-9-12/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-26-27-away-baby-jersey-size-9-12/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-26-27-away-baby-jersey-size-9-12/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-26-27-away-baby-jersey-size-9-12/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-26-27-away-baby-jersey-size-9-12/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-26-27-away-baby-jersey-size-9-12/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-26-27-away-baby-jersey-size-9-12/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-26-27-away-baby-jersey-size-9-12/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "real-madrid-26-27-away-baby-jersey-size-9-12",
+      "siteCategory": "club",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "La Liga",
+        "Real Madrid",
+        "👶🏻Baby jersey size:9-12"
+      ],
+      "sourceTitle": "Real Madrid 26/27 Away Baby Jersey SIZE 9/12",
+      "updatedAt": "2026-10-12T22:57:07.264Z"
+    },
+    {
       "id": "yupoo-257337534",
       "name": "Real Madrid 26/27 Away Long Sleeve Jersey",
       "category": "⚽Long sleeve shirt",
@@ -93988,6 +97519,153 @@
       ],
       "sourceTitle": "Real Madrid 26/27 Away Long Sleeve Jersey S-4XL",
       "updatedAt": "2026-10-12T21:40:39.299Z"
+    },
+    {
+      "id": "yupoo-257416463",
+      "name": "Real Madrid 26/27 Away Shorts",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257416463?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-26-27-away-shorts/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-26-27-away-shorts/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-26-27-away-shorts/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-26-27-away-shorts/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-26-27-away-shorts/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-26-27-away-shorts/image-05.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "real-madrid-26-27-away-shorts",
+      "siteCategory": "shorts",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2026/27",
+      "type": "Shorts",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "La Liga",
+        "Real Madrid",
+        "Shorts"
+      ],
+      "sourceTitle": "Real Madrid 26/27 Away Shorts S-XXL",
+      "updatedAt": "2026-10-12T22:59:23.231Z"
+    },
+    {
+      "id": "yupoo-257337092",
+      "name": "Real Madrid 26/27 Away Women's Crop Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257337092?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-26-27-away-women-s-crop-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-26-27-away-women-s-crop-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-26-27-away-women-s-crop-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-26-27-away-women-s-crop-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-26-27-away-women-s-crop-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-26-27-away-women-s-crop-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-26-27-away-women-s-crop-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-26-27-away-women-s-crop-jersey/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-26-27-away-women-s-crop-jersey/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "real-madrid-26-27-away-women-s-crop-jersey",
+      "siteCategory": "club",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Women's",
+      "sourceCategories": [
+        "new season",
+        "La Liga",
+        "Real Madrid",
+        "⚽💁🏻‍♀️Women's shirt"
+      ],
+      "sourceTitle": "Real Madrid 26/27 Away Women's Crop Jersey S-XXL",
+      "updatedAt": "2026-10-12T23:00:02.176Z"
+    },
+    {
+      "id": "yupoo-258145849",
+      "name": "Real Madrid 26/27 Blue Training Kit Jersey",
+      "category": "Uncategorized album",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258145849?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-26-27-blue-training-kit-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-26-27-blue-training-kit-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-26-27-blue-training-kit-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "real-madrid-26-27-blue-training-kit-jersey",
+      "siteCategory": "training",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2026/27",
+      "type": "Training",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "Uncategorized album"
+      ],
+      "sourceTitle": "Real Madrid 26/27 Blue Training Kit Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:41:19.425Z"
+    },
+    {
+      "id": "yupoo-258146056",
+      "name": "Real Madrid 26/27 Blue Training Kit Kids Kit",
+      "category": "Uncategorized album",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258146056?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-26-27-blue-training-kit-kids-kit/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-26-27-blue-training-kit-kids-kit/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-26-27-blue-training-kit-kids-kit/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "real-madrid-26-27-blue-training-kit-kids-kit",
+      "siteCategory": "training",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2026/27",
+      "type": "Training",
+      "variant": "Kids",
+      "sourceCategories": [
+        "Uncategorized album"
+      ],
+      "sourceTitle": "Real Madrid 26/27 Blue Training Kit Kids Kit Size 16-30",
+      "updatedAt": "2026-10-12T22:41:10.976Z"
     },
     {
       "id": "yupoo-256428277",
@@ -94148,6 +97826,115 @@
       "updatedAt": "2026-10-12T21:48:05.691Z"
     },
     {
+      "id": "yupoo-258146099",
+      "name": "Real Madrid 26/27 Home Retro Kids Kit",
+      "category": "Uncategorized album",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258146099?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-26-27-home-retro-kids-kit/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-26-27-home-retro-kids-kit/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-26-27-home-retro-kids-kit/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "real-madrid-26-27-home-retro-kids-kit",
+      "siteCategory": "retro",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Kids",
+      "sourceCategories": [
+        "Uncategorized album"
+      ],
+      "sourceTitle": "Real Madrid 26/27 Home Retro Kids Kit Size 16-30",
+      "updatedAt": "2026-10-12T22:41:01.532Z"
+    },
+    {
+      "id": "yupoo-258146151",
+      "name": "Real Madrid 26/27 Real Madrid Black Goalkeeper Kids Kit",
+      "category": "Uncategorized album",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258146151?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-26-27-real-madrid-black-goalkeeper-kids-kit/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-26-27-real-madrid-black-goalkeeper-kids-kit/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-26-27-real-madrid-black-goalkeeper-kids-kit/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "real-madrid-26-27-real-madrid-black-goalkeeper-kids-kit",
+      "siteCategory": "club",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Goalkeeper",
+      "sourceCategories": [
+        "Uncategorized album"
+      ],
+      "sourceTitle": "Real Madrid 26/27 Real Madrid Black Goalkeeper Kids Kit Size 16-30",
+      "updatedAt": "2026-10-12T22:40:52.769Z"
+    },
+    {
+      "id": "yupoo-257424771",
+      "name": "Real Madrid 26/27 Third Away Baby Jersey SIZE 9/12",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257424771?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-26-27-third-away-baby-jersey-size-9-12/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-26-27-third-away-baby-jersey-size-9-12/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-26-27-third-away-baby-jersey-size-9-12/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-26-27-third-away-baby-jersey-size-9-12/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-26-27-third-away-baby-jersey-size-9-12/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-26-27-third-away-baby-jersey-size-9-12/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-26-27-third-away-baby-jersey-size-9-12/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-26-27-third-away-baby-jersey-size-9-12/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-26-27-third-away-baby-jersey-size-9-12/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-26-27-third-away-baby-jersey-size-9-12/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "real-madrid-26-27-third-away-baby-jersey-size-9-12",
+      "siteCategory": "club",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "La Liga",
+        "Real Madrid",
+        "👶🏻Baby jersey size:9-12"
+      ],
+      "sourceTitle": "Real Madrid 26/27 Third Away Baby Jersey SIZE 9/12",
+      "updatedAt": "2026-10-12T22:56:54.402Z"
+    },
+    {
       "id": "yupoo-257336279",
       "name": "Real Madrid 26/27 Third Away Player Version Long Sleeve Jersey",
       "category": "⚽Long sleeve shirt",
@@ -94191,6 +97978,47 @@
       ],
       "sourceTitle": "Real Madrid 26/27 Third Away Player Version Long Sleeve Jersey S-4XL",
       "updatedAt": "2026-10-12T21:41:06.983Z"
+    },
+    {
+      "id": "yupoo-257419135",
+      "name": "Real Madrid 26/27 Third Away Shorts",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257419135?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-26-27-third-away-shorts/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-26-27-third-away-shorts/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-26-27-third-away-shorts/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-26-27-third-away-shorts/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-26-27-third-away-shorts/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-26-27-third-away-shorts/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-26-27-third-away-shorts/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-26-27-third-away-shorts/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "real-madrid-26-27-third-away-shorts",
+      "siteCategory": "shorts",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2026/27",
+      "type": "Shorts",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "La Liga",
+        "Real Madrid",
+        "Shorts"
+      ],
+      "sourceTitle": "Real Madrid 26/27 Third Away Shorts S-XXL",
+      "updatedAt": "2026-10-12T22:58:24.565Z"
     },
     {
       "id": "yupoo-255032453",
@@ -94653,6 +98481,39 @@
       "updatedAt": "2026-10-12T21:50:35.207Z"
     },
     {
+      "id": "yupoo-258146186",
+      "name": "Real Murcia 26/27 Home Jersey",
+      "category": "Uncategorized album",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258146186?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-murcia-26-27-home-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-murcia-26-27-home-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-murcia-26-27-home-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "real-murcia-26-27-home-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "Uncategorized album"
+      ],
+      "sourceTitle": "Real Murcia 26/27 Home Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:40:44.026Z"
+    },
+    {
       "id": "yupoo-214400320",
       "name": "Real Murcia 99/01 Home Retro Jersey",
       "category": "Retro football shirt",
@@ -94692,6 +98553,39 @@
       ],
       "sourceTitle": "Real Murcia 99/01 Home Retro Jersey S-XXL",
       "updatedAt": "2026-10-11T13:40:10.329Z"
+    },
+    {
+      "id": "yupoo-258146213",
+      "name": "Real Murcia CF 26/27 Away Jersey",
+      "category": "Uncategorized album",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258146213?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-murcia-cf-26-27-away-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-murcia-cf-26-27-away-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-murcia-cf-26-27-away-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "real-murcia-cf-26-27-away-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "Uncategorized album"
+      ],
+      "sourceTitle": "Real Murcia CF 26/27 Away Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:40:35.253Z"
     },
     {
       "id": "yupoo-217356751",
@@ -141280,6 +145174,172 @@
       "updatedAt": "2026-10-11T14:36:42.137Z"
     },
     {
+      "id": "yupoo-257415684",
+      "name": "Santos 25/26 Home Shorts",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257415684?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/santos-25-26-home-shorts/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/santos-25-26-home-shorts/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/santos-25-26-home-shorts/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/santos-25-26-home-shorts/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/santos-25-26-home-shorts/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/santos-25-26-home-shorts/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/santos-25-26-home-shorts/image-06.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "santos-25-26-home-shorts",
+      "siteCategory": "shorts",
+      "team": "Santos",
+      "league": "Brasileiro Série A",
+      "country": "Brazil",
+      "season": "2025/26",
+      "type": "Shorts",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Shorts",
+        "Brasileiro Série A",
+        "Santos"
+      ],
+      "sourceTitle": "Santos 25/26 Home Shorts S-XXL",
+      "updatedAt": "2026-10-12T22:59:48.562Z"
+    },
+    {
+      "id": "yupoo-257535053",
+      "name": "Santos Laguna 26/27 Away Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257535053?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/santos-laguna-26-27-away-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/santos-laguna-26-27-away-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/santos-laguna-26-27-away-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/santos-laguna-26-27-away-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/santos-laguna-26-27-away-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/santos-laguna-26-27-away-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/santos-laguna-26-27-away-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/santos-laguna-26-27-away-jersey/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/santos-laguna-26-27-away-jersey/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/santos-laguna-26-27-away-jersey/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "santos-laguna-26-27-away-jersey",
+      "siteCategory": "club",
+      "team": "Santos",
+      "league": "Brasileiro Série A",
+      "country": "Brazil",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "LIGA MX",
+        "Santos Laguna"
+      ],
+      "sourceTitle": "Santos Laguna 26/27 Away Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:56:26.779Z"
+    },
+    {
+      "id": "yupoo-257539057",
+      "name": "Santos Laguna 26/27 Home Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257539057?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/santos-laguna-26-27-home-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/santos-laguna-26-27-home-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/santos-laguna-26-27-home-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/santos-laguna-26-27-home-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/santos-laguna-26-27-home-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/santos-laguna-26-27-home-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/santos-laguna-26-27-home-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/santos-laguna-26-27-home-jersey/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/santos-laguna-26-27-home-jersey/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/santos-laguna-26-27-home-jersey/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "santos-laguna-26-27-home-jersey",
+      "siteCategory": "club",
+      "team": "Santos",
+      "league": "Brasileiro Série A",
+      "country": "Brazil",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "LIGA MX",
+        "Santos Laguna"
+      ],
+      "sourceTitle": "Santos Laguna 26/27 Home Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:55:17.297Z"
+    },
+    {
+      "id": "yupoo-257538578",
+      "name": "Santos Laguna 26/27 White Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257538578?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/santos-laguna-26-27-white-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/santos-laguna-26-27-white-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/santos-laguna-26-27-white-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/santos-laguna-26-27-white-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/santos-laguna-26-27-white-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/santos-laguna-26-27-white-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/santos-laguna-26-27-white-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/santos-laguna-26-27-white-jersey/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/santos-laguna-26-27-white-jersey/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/santos-laguna-26-27-white-jersey/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "santos-laguna-26-27-white-jersey",
+      "siteCategory": "club",
+      "team": "Santos",
+      "league": "Brasileiro Série A",
+      "country": "Brazil",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "LIGA MX",
+        "Santos Laguna"
+      ],
+      "sourceTitle": "Santos Laguna 26/27 White Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:55:31.672Z"
+    },
+    {
       "id": "yupoo-216326178",
       "name": "Sao Paulo 25/26 Third Away Long-Sleeve Jersey",
       "category": "⚽Long sleeve shirt",
@@ -141320,6 +145380,48 @@
       ],
       "sourceTitle": "Sao Paulo 25/26 Third Away Long-Sleeve Jersey S-4XL",
       "updatedAt": "2026-10-12T22:01:40.465Z"
+    },
+    {
+      "id": "yupoo-257536997",
+      "name": "Sao Paulo 26/27 Special Edition Black",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257536997?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/sao-paulo-26-27-special-edition-black/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/sao-paulo-26-27-special-edition-black/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/sao-paulo-26-27-special-edition-black/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/sao-paulo-26-27-special-edition-black/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/sao-paulo-26-27-special-edition-black/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/sao-paulo-26-27-special-edition-black/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/sao-paulo-26-27-special-edition-black/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/sao-paulo-26-27-special-edition-black/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/sao-paulo-26-27-special-edition-black/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/sao-paulo-26-27-special-edition-black/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "sao-paulo-26-27-special-edition-black",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Special edition",
+      "sourceCategories": [
+        "new season",
+        "Bundesliga",
+        "Sao Paulo"
+      ],
+      "sourceTitle": "Sao Paulo 26/27 Special Edition Black S-4XL",
+      "updatedAt": "2026-10-12T22:55:57.864Z"
     },
     {
       "id": "yupoo-255028377",
@@ -146612,6 +150714,39 @@
       "updatedAt": "2026-10-11T08:15:24.303Z"
     },
     {
+      "id": "yupoo-258147120",
+      "name": "Spain 2026 Blue Special Edition Jersey",
+      "category": "Uncategorized album",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258147120?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/spain-2026-blue-special-edition-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/spain-2026-blue-special-edition-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/spain-2026-blue-special-edition-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "spain-2026-blue-special-edition-jersey",
+      "siteCategory": "national",
+      "team": "Spain",
+      "league": "National teams",
+      "country": "Spain",
+      "season": "2026",
+      "type": "Shirt",
+      "variant": "Special edition",
+      "sourceCategories": [
+        "Uncategorized album"
+      ],
+      "sourceTitle": "Spain 2026 Blue Special Edition Jersey",
+      "updatedAt": "2026-10-12T22:40:16.534Z"
+    },
+    {
       "id": "yupoo-252315472",
       "name": "Spain 2026 Burgundy Champion Commemorative Jersey",
       "category": "⚽🌍 National Teams",
@@ -149622,6 +153757,41 @@
       "updatedAt": "2026-10-11T10:38:34.524Z"
     },
     {
+      "id": "yupoo-257639979",
+      "name": "Sporting CP 26/27 Goalkeeper Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257639979?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/sporting-cp-26-27-goalkeeper-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/sporting-cp-26-27-goalkeeper-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/sporting-cp-26-27-goalkeeper-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "sporting-cp-26-27-goalkeeper-jersey",
+      "siteCategory": "club",
+      "team": "Sporting CP",
+      "league": "Liga Portugal",
+      "country": "Portugal",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Goalkeeper",
+      "sourceCategories": [
+        "new season",
+        "Primeira Liga",
+        "Sporting CP"
+      ],
+      "sourceTitle": "Sporting CP 26/27 Goalkeeper Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:47:06.199Z"
+    },
+    {
       "id": "yupoo-258186474",
       "name": "Sporting CP 26/27 Home Women's Jersey",
       "category": "Uncategorized album",
@@ -151550,6 +155720,171 @@
       "updatedAt": "2026-10-10T22:46:24.517Z"
     },
     {
+      "id": "yupoo-258147616",
+      "name": "Tigers UANL 26/27 Away Jersey S-6XL",
+      "category": "Uncategorized album",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258147616?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/tigers-uanl-26-27-away-jersey-s-6xl/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/tigers-uanl-26-27-away-jersey-s-6xl/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/tigers-uanl-26-27-away-jersey-s-6xl/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "tigers-uanl-26-27-away-jersey-s-6xl",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "Uncategorized album"
+      ],
+      "sourceTitle": "Tigers UANL 26/27 Away Jersey S-6XL",
+      "updatedAt": "2026-10-12T22:40:07.130Z"
+    },
+    {
+      "id": "yupoo-258147704",
+      "name": "Tigers UANL 26/27 Away Long Sleeve Jersey",
+      "category": "Uncategorized album",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258147704?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/tigers-uanl-26-27-away-long-sleeve-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/tigers-uanl-26-27-away-long-sleeve-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/tigers-uanl-26-27-away-long-sleeve-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "tigers-uanl-26-27-away-long-sleeve-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Long sleeve",
+      "sourceCategories": [
+        "Uncategorized album"
+      ],
+      "sourceTitle": "Tigers UANL 26/27 Away Long Sleeve Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:39:51.147Z"
+    },
+    {
+      "id": "yupoo-258148052",
+      "name": "Tigers UANL 26/27 Home Kids Kit",
+      "category": "Uncategorized album",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258148052?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/tigers-uanl-26-27-home-kids-kit/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/tigers-uanl-26-27-home-kids-kit/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/tigers-uanl-26-27-home-kids-kit/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "tigers-uanl-26-27-home-kids-kit",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Kids",
+      "sourceCategories": [
+        "Uncategorized album"
+      ],
+      "sourceTitle": "Tigers UANL 26/27 Home Kids Kit Size 16-28",
+      "updatedAt": "2026-10-12T22:39:41.836Z"
+    },
+    {
+      "id": "yupoo-258148088",
+      "name": "Tigers UANL 26/27 Home Long Sleeve Jersey",
+      "category": "Uncategorized album",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258148088?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/tigers-uanl-26-27-home-long-sleeve-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/tigers-uanl-26-27-home-long-sleeve-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/tigers-uanl-26-27-home-long-sleeve-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "tigers-uanl-26-27-home-long-sleeve-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Long sleeve",
+      "sourceCategories": [
+        "Uncategorized album"
+      ],
+      "sourceTitle": "Tigers UANL 26/27 Home Long Sleeve Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:39:32.855Z"
+    },
+    {
+      "id": "yupoo-258149096",
+      "name": "Tigers UANL 26/27 Home Women's Jersey",
+      "category": "Uncategorized album",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258149096?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/tigers-uanl-26-27-home-women-s-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/tigers-uanl-26-27-home-women-s-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/tigers-uanl-26-27-home-women-s-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "tigers-uanl-26-27-home-women-s-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Women's",
+      "sourceCategories": [
+        "Uncategorized album"
+      ],
+      "sourceTitle": "Tigers UANL 26/27 Home Women's Jersey S-XXL",
+      "updatedAt": "2026-10-12T22:39:24.074Z"
+    },
+    {
       "id": "yupoo-227575886",
       "name": "Tigres UANL 01/02 Away Retro Jersey",
       "category": "Retro football shirt",
@@ -151853,6 +156188,76 @@
       ],
       "sourceTitle": "Tigres UANL 97/98 Home Retro Jersey S-XXL",
       "updatedAt": "2026-10-11T10:45:18.968Z"
+    },
+    {
+      "id": "yupoo-257731218",
+      "name": "Tijuana 26/27 Third Away Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257731218?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/tijuana-26-27-third-away-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/tijuana-26-27-third-away-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/tijuana-26-27-third-away-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "tijuana-26-27-third-away-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "LIGA MX",
+        "Tijuana"
+      ],
+      "sourceTitle": "Tijuana 26/27 Third Away Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:50:49.858Z"
+    },
+    {
+      "id": "yupoo-257640039",
+      "name": "Toluca 26/27 Home Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257640039?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/toluca-26-27-home-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/toluca-26-27-home-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/toluca-26-27-home-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "toluca-26-27-home-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "LIGA MX",
+        "Toluca"
+      ],
+      "sourceTitle": "Toluca 26/27 Home Jersey S-XXL",
+      "updatedAt": "2026-10-12T22:47:14.705Z"
     },
     {
       "id": "yupoo-256695728",
@@ -156990,6 +161395,45 @@
       "updatedAt": "2026-10-11T15:48:28.728Z"
     },
     {
+      "id": "yupoo-257538148",
+      "name": "Vitória 26/27 Away Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257538148?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/vitoria-26-27-away-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/vitoria-26-27-away-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/vitoria-26-27-away-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/vitoria-26-27-away-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/vitoria-26-27-away-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/vitoria-26-27-away-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/vitoria-26-27-away-jersey/image-06.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "vitoria-26-27-away-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Brasileiro Série A",
+        "Vitória"
+      ],
+      "sourceTitle": "Vitória 26/27 Away Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:55:44.291Z"
+    },
+    {
       "id": "yupoo-258151278",
       "name": "Vitória SC 26/27 Third Away Jersey",
       "category": "Uncategorized album",
@@ -157021,6 +161465,42 @@
       ],
       "sourceTitle": "Vitória SC 26/27 Third Away Jersey S-4XL",
       "updatedAt": "2026-10-12T22:38:05.293Z"
+    },
+    {
+      "id": "yupoo-257640476",
+      "name": "Vitória SC 26/27 Third Away Kids Kit",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257640476?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/vitoria-sc-26-27-third-away-kids-kit/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/vitoria-sc-26-27-third-away-kids-kit/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/vitoria-sc-26-27-third-away-kids-kit/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "vitoria-sc-26-27-third-away-kids-kit",
+      "siteCategory": "club",
+      "team": "Vitória SC",
+      "league": "Liga Portugal",
+      "country": "Portugal",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Kids",
+      "sourceCategories": [
+        "new season",
+        "⚽👦🏻kids kit size：16-28",
+        "Brasileiro Série A",
+        "Vitória"
+      ],
+      "sourceTitle": "Vitória SC 26/27 Third Away Kids Kit Size 16-28",
+      "updatedAt": "2026-10-12T22:47:23.384Z"
     },
     {
       "id": "yupoo-226516442",
