@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-12T00:08:34.419Z",
+  "generatedAt": "2026-10-12T20:53:04.308Z",
   "source": {
     "name": "Supplier catalogue",
     "url": "https://minkang.x.yupoo.com/albums"
   },
-  "count": 3604,
+  "count": 3640,
   "items": [
     {
       "id": "yupoo-64039421",
@@ -90,6 +90,48 @@
       ],
       "sourceTitle": "19/20 Barcelona third away S-XLL",
       "updatedAt": "2026-10-11T13:38:22.700Z"
+    },
+    {
+      "id": "yupoo-64404549",
+      "name": "1998 models long-sleeved retro Inter",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/64404549?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/1998-models-long-sleeved-retro-inter/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/1998-models-long-sleeved-retro-inter/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/1998-models-long-sleeved-retro-inter/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/1998-models-long-sleeved-retro-inter/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/1998-models-long-sleeved-retro-inter/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/1998-models-long-sleeved-retro-inter/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/1998-models-long-sleeved-retro-inter/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/1998-models-long-sleeved-retro-inter/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/1998-models-long-sleeved-retro-inter/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/1998-models-long-sleeved-retro-inter/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "1998-models-long-sleeved-retro-inter",
+      "siteCategory": "retro",
+      "team": "Inter",
+      "league": "Serie A",
+      "country": "Italy",
+      "season": "1998",
+      "type": "Shirt",
+      "variant": "Long sleeve",
+      "sourceCategories": [
+        "Retro football shirt",
+        "Serie A",
+        "Inter Milan"
+      ],
+      "sourceTitle": "1998 models long-sleeved retro Inter",
+      "updatedAt": "2026-10-12T20:43:46.837Z"
     },
     {
       "id": "yupoo-212485320",
@@ -218,6 +260,44 @@
       ],
       "sourceTitle": "20/21 Manchester City Away S-XXXL",
       "updatedAt": "2026-10-11T13:34:20.449Z"
+    },
+    {
+      "id": "yupoo-64405123",
+      "name": "2006 French white short sleeve",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/64405123?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2006-french-white-short-sleeve/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2006-french-white-short-sleeve/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2006-french-white-short-sleeve/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2006-french-white-short-sleeve/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2006-french-white-short-sleeve/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2006-french-white-short-sleeve/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2006-french-white-short-sleeve/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2006-french-white-short-sleeve/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "2006-french-white-short-sleeve",
+      "siteCategory": "shorts",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2006",
+      "type": "Shorts",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt"
+      ],
+      "sourceTitle": "2006 French white short sleeve",
+      "updatedAt": "2026-10-12T20:43:32.232Z"
     },
     {
       "id": "yupoo-179316100",
@@ -6511,6 +6591,47 @@
       "updatedAt": "2026-10-11T16:33:03.319Z"
     },
     {
+      "id": "yupoo-75389757",
+      "name": "Ajax 1995 retro shirt away",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/75389757?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ajax-1995-retro-shirt-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ajax-1995-retro-shirt-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ajax-1995-retro-shirt-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ajax-1995-retro-shirt-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ajax-1995-retro-shirt-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ajax-1995-retro-shirt-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ajax-1995-retro-shirt-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ajax-1995-retro-shirt-away/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "ajax-1995-retro-shirt-away",
+      "siteCategory": "retro",
+      "team": "Ajax",
+      "league": "Other leagues",
+      "country": "Netherlands",
+      "season": "1995",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "EREDIVISIE",
+        "AFC Ajax"
+      ],
+      "sourceTitle": "Ajax 1995 retro shirt away",
+      "updatedAt": "2026-10-12T20:41:04.682Z"
+    },
+    {
       "id": "yupoo-221249235",
       "name": "Ajax 89/90 Home Retro Jersey",
       "category": "Retro football shirt",
@@ -9009,7 +9130,7 @@
       ],
       "availability": "unknown",
       "slug": "argentina-2026-all-weather-jacket-windbreaker-blue",
-      "siteCategory": "tracksuits",
+      "siteCategory": "training",
       "team": "Argentina",
       "league": "National teams",
       "country": "Argentina",
@@ -9017,10 +9138,12 @@
       "type": "Jacket",
       "variant": "Fan version",
       "sourceCategories": [
-        "⚽🌍 National Teams"
+        "⚽🌍 National Teams",
+        "new season",
+        "💨🧥Windbreaker/Training Top"
       ],
       "sourceTitle": "Argentina 2026 All Weather Jacket Windbreaker - Blue S-XXL",
-      "updatedAt": "2026-10-11T00:48:27.319Z"
+      "updatedAt": "2026-10-12T20:50:22.382Z"
     },
     {
       "id": "yupoo-245506881",
@@ -9049,7 +9172,7 @@
       ],
       "availability": "unknown",
       "slug": "argentina-2026-all-weather-jacket-windbreaker-white",
-      "siteCategory": "tracksuits",
+      "siteCategory": "training",
       "team": "Argentina",
       "league": "National teams",
       "country": "Argentina",
@@ -9057,10 +9180,12 @@
       "type": "Jacket",
       "variant": "Fan version",
       "sourceCategories": [
-        "⚽🌍 National Teams"
+        "⚽🌍 National Teams",
+        "new season",
+        "💨🧥Windbreaker/Training Top"
       ],
       "sourceTitle": "Argentina 2026 All Weather Jacket Windbreaker - White S-XXL",
-      "updatedAt": "2026-10-11T00:48:47.692Z"
+      "updatedAt": "2026-10-12T20:50:45.908Z"
     },
     {
       "id": "yupoo-256317808",
@@ -9477,10 +9602,11 @@
       "type": "Shirt",
       "variant": "Fan version",
       "sourceCategories": [
-        "⚽🌍 National Teams"
+        "⚽🌍 National Teams",
+        "new season"
       ],
       "sourceTitle": "Argentina 2026 Collaboration Jersey S-4XL",
-      "updatedAt": "2026-10-11T00:38:07.757Z"
+      "updatedAt": "2026-10-12T20:48:48.744Z"
     },
     {
       "id": "yupoo-256687738",
@@ -9502,7 +9628,7 @@
       ],
       "availability": "unknown",
       "slug": "argentina-2026-full-zip-jacket-white",
-      "siteCategory": "tracksuits",
+      "siteCategory": "training",
       "team": "Argentina",
       "league": "National teams",
       "country": "Argentina",
@@ -9510,10 +9636,12 @@
       "type": "Jacket",
       "variant": "Fan version",
       "sourceCategories": [
-        "⚽🌍 National Teams"
+        "⚽🌍 National Teams",
+        "new season",
+        "💨🧥Windbreaker/Training Top"
       ],
       "sourceTitle": "Argentina 2026 Full Zip Jacket - White S-XXL",
-      "updatedAt": "2026-10-11T00:33:00.791Z"
+      "updatedAt": "2026-10-12T20:45:56.424Z"
     },
     {
       "id": "yupoo-218703521",
@@ -10439,7 +10567,7 @@
       ],
       "availability": "unknown",
       "slug": "argentina-2026-tang-style-jacket-sky-blue",
-      "siteCategory": "tracksuits",
+      "siteCategory": "training",
       "team": "Argentina",
       "league": "National teams",
       "country": "Argentina",
@@ -10447,10 +10575,12 @@
       "type": "Jacket",
       "variant": "Fan version",
       "sourceCategories": [
-        "⚽🌍 National Teams"
+        "⚽🌍 National Teams",
+        "new season",
+        "💨🧥Windbreaker/Training Top"
       ],
       "sourceTitle": "Argentina 2026 Tang-style jacket - Sky blue S-XXL",
-      "updatedAt": "2026-10-11T00:32:53.463Z"
+      "updatedAt": "2026-10-12T20:45:48.854Z"
     },
     {
       "id": "yupoo-223561942",
@@ -11149,10 +11279,11 @@
       "type": "Shirt",
       "variant": "Special edition",
       "sourceCategories": [
-        "⚽🌍 National Teams"
+        "⚽🌍 National Teams",
+        "new season"
       ],
       "sourceTitle": "Argentina Commemorative Edition No. 10 Jersey S-4XL",
-      "updatedAt": "2026-10-11T00:35:02.555Z"
+      "updatedAt": "2026-10-12T20:46:18.852Z"
     },
     {
       "id": "yupoo-242618846",
@@ -11174,7 +11305,7 @@
       ],
       "availability": "unknown",
       "slug": "argentina-figc-eqt-track-top-windbreaker",
-      "siteCategory": "tracksuits",
+      "siteCategory": "training",
       "team": "Argentina",
       "league": "National teams",
       "country": "Argentina",
@@ -11182,10 +11313,12 @@
       "type": "Jacket",
       "variant": "Fan version",
       "sourceCategories": [
-        "⚽🌍 National Teams"
+        "⚽🌍 National Teams",
+        "new season",
+        "💨🧥Windbreaker/Training Top"
       ],
       "sourceTitle": "Argentina FIGC EQT Track Top Windbreaker S-XXL",
-      "updatedAt": "2026-10-11T00:57:14.326Z"
+      "updatedAt": "2026-10-12T20:53:04.305Z"
     },
     {
       "id": "yupoo-227570809",
@@ -12325,10 +12458,13 @@
       "type": "Shirt",
       "variant": "Women's",
       "sourceCategories": [
-        "⚽🌍 National Teams"
+        "⚽🌍 National Teams",
+        "new season",
+        "Premier League",
+        "Arsenal"
       ],
       "sourceTitle": "Arsenal 26/27 Home Women's Jersey S-XXL",
-      "updatedAt": "2026-10-11T00:38:45.605Z"
+      "updatedAt": "2026-10-12T20:48:57.932Z"
     },
     {
       "id": "yupoo-212386544",
@@ -20936,7 +21072,7 @@
       ],
       "availability": "unknown",
       "slug": "brazil-1998-track-jacket-retro-windbreaker",
-      "siteCategory": "tracksuits",
+      "siteCategory": "training",
       "team": "Brazil",
       "league": "National teams",
       "country": "Brazil",
@@ -20944,10 +21080,12 @@
       "type": "Jacket",
       "variant": "Retro",
       "sourceCategories": [
-        "⚽🌍 National Teams"
+        "⚽🌍 National Teams",
+        "new season",
+        "💨🧥Windbreaker/Training Top"
       ],
       "sourceTitle": "Brazil 1998 Track Jacket Retro Windbreaker S-XXL",
-      "updatedAt": "2026-10-11T00:49:26.382Z"
+      "updatedAt": "2026-10-12T20:51:28.596Z"
     },
     {
       "id": "yupoo-222525905",
@@ -22289,7 +22427,7 @@
     {
       "id": "yupoo-252314431",
       "name": "Brazil 2026 Concept",
-      "category": "Brazil team column",
+      "category": "⚽🌍 National Teams",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/252314431?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/brazil-2026-concept/cover.webp",
       "images": [
@@ -22314,10 +22452,12 @@
       "type": "Shirt",
       "variant": "Fan version",
       "sourceCategories": [
+        "⚽🌍 National Teams",
+        "new season",
         "Brazil team column"
       ],
       "sourceTitle": "Brazil 2026 Concept S-2XL",
-      "updatedAt": "2026-10-11T06:53:54.767Z"
+      "updatedAt": "2026-10-12T20:46:54.326Z"
     },
     {
       "id": "yupoo-231114786",
@@ -22379,7 +22519,7 @@
       ],
       "availability": "unknown",
       "slug": "brazil-2026-full-zip-jacket-black",
-      "siteCategory": "tracksuits",
+      "siteCategory": "training",
       "team": "Brazil",
       "league": "National teams",
       "country": "Brazil",
@@ -22387,10 +22527,12 @@
       "type": "Jacket",
       "variant": "Fan version",
       "sourceCategories": [
-        "⚽🌍 National Teams"
+        "⚽🌍 National Teams",
+        "new season",
+        "💨🧥Windbreaker/Training Top"
       ],
       "sourceTitle": "Brazil 2026 Full Zip Jacket - Black S-XXL",
-      "updatedAt": "2026-10-11T00:32:47.108Z"
+      "updatedAt": "2026-10-12T20:45:40.685Z"
     },
     {
       "id": "yupoo-240193537",
@@ -22437,7 +22579,7 @@
     {
       "id": "yupoo-252314449",
       "name": "Brazil 2026 Goalkeeper Jersey",
-      "category": "Brazil team column",
+      "category": "⚽🌍 National Teams",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/252314449?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/brazil-2026-goalkeeper-jersey/cover.webp",
       "images": [
@@ -22462,10 +22604,12 @@
       "type": "Shirt",
       "variant": "Goalkeeper",
       "sourceCategories": [
+        "⚽🌍 National Teams",
+        "new season",
         "Brazil team column"
       ],
       "sourceTitle": "Brazil 2026 Goalkeeper Jersey S-4XL",
-      "updatedAt": "2026-10-11T06:53:44.844Z"
+      "updatedAt": "2026-10-12T20:46:43.571Z"
     },
     {
       "id": "yupoo-231114822",
@@ -23384,7 +23528,7 @@
     {
       "id": "yupoo-252314461",
       "name": "Brazil 2026 Training Shirt",
-      "category": "Brazil team column",
+      "category": "⚽🌍 National Teams",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/252314461?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/brazil-2026-training-shirt/cover.webp",
       "images": [
@@ -23409,10 +23553,12 @@
       "type": "Training",
       "variant": "Fan version",
       "sourceCategories": [
+        "⚽🌍 National Teams",
+        "new season",
         "Brazil team column"
       ],
       "sourceTitle": "Brazil 2026 Training Shirt S-4XL",
-      "updatedAt": "2026-10-11T06:54:07.339Z"
+      "updatedAt": "2026-10-12T20:47:04.157Z"
     },
     {
       "id": "yupoo-234137619",
@@ -24096,7 +24242,7 @@
       ],
       "availability": "unknown",
       "slug": "brazil-92-94-track-jacket-retro-windbreaker",
-      "siteCategory": "tracksuits",
+      "siteCategory": "training",
       "team": "Brazil",
       "league": "National teams",
       "country": "Brazil",
@@ -24104,10 +24250,12 @@
       "type": "Jacket",
       "variant": "Retro",
       "sourceCategories": [
-        "⚽🌍 National Teams"
+        "⚽🌍 National Teams",
+        "new season",
+        "💨🧥Windbreaker/Training Top"
       ],
       "sourceTitle": "Brazil 92/94 Track Jacket Retro Windbreaker S-XXL",
-      "updatedAt": "2026-10-11T00:49:15.582Z"
+      "updatedAt": "2026-10-12T20:51:15.326Z"
     },
     {
       "id": "yupoo-212388810",
@@ -24329,7 +24477,7 @@
       ],
       "availability": "unknown",
       "slug": "brazil-sportswear-jacket-coat-windbreaker",
-      "siteCategory": "tracksuits",
+      "siteCategory": "training",
       "team": "Brazil",
       "league": "National teams",
       "country": "Brazil",
@@ -24337,10 +24485,12 @@
       "type": "Jacket",
       "variant": "Fan version",
       "sourceCategories": [
-        "⚽🌍 National Teams"
+        "⚽🌍 National Teams",
+        "new season",
+        "💨🧥Windbreaker/Training Top"
       ],
       "sourceTitle": "Brazil Sportswear Jacket Coat Windbreaker S-XXL",
-      "updatedAt": "2026-10-11T00:39:11.976Z"
+      "updatedAt": "2026-10-12T20:49:14.035Z"
     },
     {
       "id": "yupoo-247787823",
@@ -24368,7 +24518,7 @@
       ],
       "availability": "unknown",
       "slug": "brazil-sportswear-jacket-coat-windbreaker-2",
-      "siteCategory": "tracksuits",
+      "siteCategory": "training",
       "team": "Brazil",
       "league": "National teams",
       "country": "Brazil",
@@ -24376,15 +24526,17 @@
       "type": "Jacket",
       "variant": "Fan version",
       "sourceCategories": [
-        "⚽🌍 National Teams"
+        "⚽🌍 National Teams",
+        "new season",
+        "💨🧥Windbreaker/Training Top"
       ],
       "sourceTitle": "Brazil Sportswear Jacket Coat Windbreaker S-XXL",
-      "updatedAt": "2026-10-11T00:39:21.992Z"
+      "updatedAt": "2026-10-12T20:49:22.418Z"
     },
     {
       "id": "yupoo-243939096",
       "name": "Brazil Terrace Icons Jersey Yellow",
-      "category": "Brazil team column",
+      "category": "⚽🌍 National Teams",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/243939096?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/brazil-terrace-icons-jersey-yellow/cover.webp",
       "images": [
@@ -24414,10 +24566,12 @@
       "type": "Shirt",
       "variant": "Fan version",
       "sourceCategories": [
+        "⚽🌍 National Teams",
+        "new season",
         "Brazil team column"
       ],
       "sourceTitle": "Brazil Terrace Icons Jersey Yellow S-XXL",
-      "updatedAt": "2026-10-11T06:54:19.048Z"
+      "updatedAt": "2026-10-12T20:52:38.136Z"
     },
     {
       "id": "yupoo-236110117",
@@ -31356,10 +31510,11 @@
       "type": "Training",
       "variant": "Fan version",
       "sourceCategories": [
-        "⚽🌍 National Teams"
+        "⚽🌍 National Teams",
+        "new season"
       ],
       "sourceTitle": "Colombia 2026 Training Jersey – Black S-4XL",
-      "updatedAt": "2026-10-11T00:36:13.756Z"
+      "updatedAt": "2026-10-12T20:47:13.110Z"
     },
     {
       "id": "yupoo-252314498",
@@ -31389,10 +31544,11 @@
       "type": "Training",
       "variant": "Fan version",
       "sourceCategories": [
-        "⚽🌍 National Teams"
+        "⚽🌍 National Teams",
+        "new season"
       ],
       "sourceTitle": "Colombia 2026 Training Jersey – Red S-4XL",
-      "updatedAt": "2026-10-11T00:36:21.732Z"
+      "updatedAt": "2026-10-12T20:47:22.108Z"
     },
     {
       "id": "yupoo-234137930",
@@ -31726,7 +31882,7 @@
       ],
       "availability": "unknown",
       "slug": "columbia-2026-eqt-full-zip-jacket-navy-blue",
-      "siteCategory": "tracksuits",
+      "siteCategory": "training",
       "team": "Colombia",
       "league": "National teams",
       "country": "Colombia",
@@ -31734,10 +31890,12 @@
       "type": "Jacket",
       "variant": "Fan version",
       "sourceCategories": [
-        "⚽🌍 National Teams"
+        "⚽🌍 National Teams",
+        "new season",
+        "💨🧥Windbreaker/Training Top"
       ],
       "sourceTitle": "Columbia 2026 EQT Full-Zip Jacket - Navy Blue S-XXL",
-      "updatedAt": "2026-10-11T01:47:22.155Z"
+      "updatedAt": "2026-10-12T20:45:32.965Z"
     },
     {
       "id": "yupoo-179247771",
@@ -34021,10 +34179,12 @@
       "type": "Shorts",
       "variant": "Fan version",
       "sourceCategories": [
-        "⚽🌍 National Teams"
+        "⚽🌍 National Teams",
+        "new season",
+        "Shorts"
       ],
       "sourceTitle": "Croatia 2026 Home Shorts S-XXL",
-      "updatedAt": "2026-10-11T00:50:08.649Z"
+      "updatedAt": "2026-10-12T20:52:02.482Z"
     },
     {
       "id": "yupoo-232738194",
@@ -37451,10 +37611,11 @@
       "type": "Shirt",
       "variant": "Fan version",
       "sourceCategories": [
-        "⚽🌍 National Teams"
+        "⚽🌍 National Teams",
+        "new season"
       ],
       "sourceTitle": "England 2026 co-branded jerseys S-4XL",
-      "updatedAt": "2026-10-11T00:36:28.582Z"
+      "updatedAt": "2026-10-12T20:47:30.174Z"
     },
     {
       "id": "yupoo-239252437",
@@ -38177,10 +38338,11 @@
       "type": "Shirt",
       "variant": "Special edition",
       "sourceCategories": [
-        "⚽🌍 National Teams"
+        "⚽🌍 National Teams",
+        "new season"
       ],
       "sourceTitle": "England 26/27 Special Edition Jersey S-XXL",
-      "updatedAt": "2026-10-11T00:31:30.601Z"
+      "updatedAt": "2026-10-12T20:44:17.318Z"
     },
     {
       "id": "yupoo-212383663",
@@ -41822,10 +41984,11 @@
       "type": "Shirt",
       "variant": "Special edition",
       "sourceCategories": [
-        "⚽🌍 National Teams"
+        "⚽🌍 National Teams",
+        "new season"
       ],
       "sourceTitle": "France 2026 Commemorative Jersey S-4XL",
-      "updatedAt": "2026-10-11T00:36:35.749Z"
+      "updatedAt": "2026-10-12T20:47:40.046Z"
     },
     {
       "id": "yupoo-256688401",
@@ -41847,7 +42010,7 @@
       ],
       "availability": "unknown",
       "slug": "france-2026-full-zip-jacket-cyan",
-      "siteCategory": "tracksuits",
+      "siteCategory": "training",
       "team": "France",
       "league": "National teams",
       "country": "France",
@@ -41855,10 +42018,12 @@
       "type": "Jacket",
       "variant": "Fan version",
       "sourceCategories": [
-        "⚽🌍 National Teams"
+        "⚽🌍 National Teams",
+        "new season",
+        "💨🧥Windbreaker/Training Top"
       ],
       "sourceTitle": "France 2026 Full Zip Jacket - Cyan S-XXL",
-      "updatedAt": "2026-10-11T00:32:33.642Z"
+      "updatedAt": "2026-10-12T20:45:25.067Z"
     },
     {
       "id": "yupoo-239061101",
@@ -43427,7 +43592,7 @@
       ],
       "availability": "unknown",
       "slug": "german-2026-full-zip-jacket-navy-blue",
-      "siteCategory": "tracksuits",
+      "siteCategory": "training",
       "team": "Germany",
       "league": "National teams",
       "country": "Germany",
@@ -43435,10 +43600,12 @@
       "type": "Jacket",
       "variant": "Fan version",
       "sourceCategories": [
-        "⚽🌍 National Teams"
+        "⚽🌍 National Teams",
+        "new season",
+        "💨🧥Windbreaker/Training Top"
       ],
       "sourceTitle": "German 2026 Full-Zip Jacket - Navy Blue S-XXL",
-      "updatedAt": "2026-10-11T00:32:27.050Z"
+      "updatedAt": "2026-10-12T20:45:17.634Z"
     },
     {
       "id": "yupoo-222812594",
@@ -43580,7 +43747,7 @@
       ],
       "availability": "unknown",
       "slug": "german-figc-eqt-track-top-windbreaker",
-      "siteCategory": "tracksuits",
+      "siteCategory": "training",
       "team": "Germany",
       "league": "National teams",
       "country": "Germany",
@@ -43588,10 +43755,12 @@
       "type": "Jacket",
       "variant": "Fan version",
       "sourceCategories": [
-        "⚽🌍 National Teams"
+        "⚽🌍 National Teams",
+        "new season",
+        "💨🧥Windbreaker/Training Top"
       ],
       "sourceTitle": "German FIGC EQT Track Top Windbreaker S-XXL",
-      "updatedAt": "2026-10-11T00:56:56.558Z"
+      "updatedAt": "2026-10-12T20:52:45.726Z"
     },
     {
       "id": "yupoo-238630830",
@@ -44619,7 +44788,7 @@
       ],
       "availability": "unknown",
       "slug": "germany-2026-all-weather-jacket-windbreaker-black",
-      "siteCategory": "tracksuits",
+      "siteCategory": "training",
       "team": "Germany",
       "league": "National teams",
       "country": "Germany",
@@ -44627,10 +44796,12 @@
       "type": "Jacket",
       "variant": "Fan version",
       "sourceCategories": [
-        "⚽🌍 National Teams"
+        "⚽🌍 National Teams",
+        "new season",
+        "💨🧥Windbreaker/Training Top"
       ],
       "sourceTitle": "Germany 2026 All Weather Jacket Windbreaker - Black S-XXL",
-      "updatedAt": "2026-10-11T00:48:16.594Z"
+      "updatedAt": "2026-10-12T20:50:14.024Z"
     },
     {
       "id": "yupoo-244522932",
@@ -44912,10 +45083,11 @@
       "type": "Shirt",
       "variant": "Special edition",
       "sourceCategories": [
-        "⚽🌍 National Teams"
+        "⚽🌍 National Teams",
+        "new season"
       ],
       "sourceTitle": "Germany 2026 Commemorative Edition S–4XL",
-      "updatedAt": "2026-10-11T00:37:18.065Z"
+      "updatedAt": "2026-10-12T20:48:07.087Z"
     },
     {
       "id": "yupoo-223116322",
@@ -46125,10 +46297,11 @@
       "type": "Shirt",
       "variant": "Fan version",
       "sourceCategories": [
-        "⚽🌍 National Teams"
+        "⚽🌍 National Teams",
+        "new season"
       ],
       "sourceTitle": "Germany 26/27 Adidas Trefoil Black Jersey S-XXL",
-      "updatedAt": "2026-10-11T00:31:36.998Z"
+      "updatedAt": "2026-10-12T20:44:25.288Z"
     },
     {
       "id": "yupoo-232738304",
@@ -51572,7 +51745,7 @@
       ],
       "availability": "unknown",
       "slug": "italy-2026-all-weather-jacket-windbreaker-blue",
-      "siteCategory": "tracksuits",
+      "siteCategory": "training",
       "team": "Italy",
       "league": "National teams",
       "country": "Italy",
@@ -51580,10 +51753,12 @@
       "type": "Jacket",
       "variant": "Fan version",
       "sourceCategories": [
-        "⚽🌍 National Teams"
+        "⚽🌍 National Teams",
+        "new season",
+        "💨🧥Windbreaker/Training Top"
       ],
       "sourceTitle": "Italy 2026 All Weather Jacket Windbreaker - Blue S-XXL",
-      "updatedAt": "2026-10-11T00:47:53.721Z"
+      "updatedAt": "2026-10-12T20:49:55.955Z"
     },
     {
       "id": "yupoo-245506906",
@@ -51612,7 +51787,7 @@
       ],
       "availability": "unknown",
       "slug": "italy-2026-all-weather-jacket-windbreaker-green",
-      "siteCategory": "tracksuits",
+      "siteCategory": "training",
       "team": "Italy",
       "league": "National teams",
       "country": "Italy",
@@ -51620,10 +51795,12 @@
       "type": "Jacket",
       "variant": "Fan version",
       "sourceCategories": [
-        "⚽🌍 National Teams"
+        "⚽🌍 National Teams",
+        "new season",
+        "💨🧥Windbreaker/Training Top"
       ],
       "sourceTitle": "Italy 2026 All Weather Jacket Windbreaker - Green S-XXL",
-      "updatedAt": "2026-10-11T00:48:38.425Z"
+      "updatedAt": "2026-10-12T20:50:32.515Z"
     },
     {
       "id": "yupoo-215045186",
@@ -51853,7 +52030,7 @@
       ],
       "availability": "unknown",
       "slug": "italy-2026-full-zip-jacket-navy-blue",
-      "siteCategory": "tracksuits",
+      "siteCategory": "training",
       "team": "Italy",
       "league": "National teams",
       "country": "Italy",
@@ -51861,10 +52038,12 @@
       "type": "Jacket",
       "variant": "Fan version",
       "sourceCategories": [
-        "⚽🌍 National Teams"
+        "⚽🌍 National Teams",
+        "new season",
+        "💨🧥Windbreaker/Training Top"
       ],
       "sourceTitle": "Italy 2026 Full Zip Jacket - Navy Blue S-XXL",
-      "updatedAt": "2026-10-11T00:32:19.951Z"
+      "updatedAt": "2026-10-12T20:45:10.509Z"
     },
     {
       "id": "yupoo-216709471",
@@ -52383,7 +52562,7 @@
       ],
       "availability": "unknown",
       "slug": "italy-2026-27-originals-eqt-track-jacket-windbreaker",
-      "siteCategory": "tracksuits",
+      "siteCategory": "training",
       "team": "Italy",
       "league": "National teams",
       "country": "Italy",
@@ -52391,10 +52570,12 @@
       "type": "Jacket",
       "variant": "Fan version",
       "sourceCategories": [
-        "⚽🌍 National Teams"
+        "⚽🌍 National Teams",
+        "new season",
+        "💨🧥Windbreaker/Training Top"
       ],
       "sourceTitle": "Italy 2026-27 Originals EQT Track Jacket Windbreaker S-XXL",
-      "updatedAt": "2026-10-11T00:49:35.041Z"
+      "updatedAt": "2026-10-12T20:51:36.704Z"
     },
     {
       "id": "yupoo-232738338",
@@ -52457,7 +52638,7 @@
       ],
       "availability": "unknown",
       "slug": "italy-figc-eqt-track-top-windbreaker",
-      "siteCategory": "tracksuits",
+      "siteCategory": "training",
       "team": "Italy",
       "league": "National teams",
       "country": "Italy",
@@ -52465,10 +52646,12 @@
       "type": "Jacket",
       "variant": "Fan version",
       "sourceCategories": [
-        "⚽🌍 National Teams"
+        "⚽🌍 National Teams",
+        "new season",
+        "💨🧥Windbreaker/Training Top"
       ],
       "sourceTitle": "Italy FIGC EQT Track Top Windbreaker S-XXL",
-      "updatedAt": "2026-10-11T00:57:07.219Z"
+      "updatedAt": "2026-10-12T20:52:53.944Z"
     },
     {
       "id": "yupoo-219525072",
@@ -53604,7 +53787,7 @@
       ],
       "availability": "unknown",
       "slug": "japan-1998-reversible-anthem-jacket-retro-windbreaker",
-      "siteCategory": "tracksuits",
+      "siteCategory": "training",
       "team": "Japan",
       "league": "National teams",
       "country": "Japan",
@@ -53612,10 +53795,12 @@
       "type": "Jacket",
       "variant": "Retro",
       "sourceCategories": [
-        "⚽🌍 National Teams"
+        "⚽🌍 National Teams",
+        "new season",
+        "💨🧥Windbreaker/Training Top"
       ],
       "sourceTitle": "Japan 1998 Reversible Anthem Jacket Retro Windbreaker S-3XL",
-      "updatedAt": "2026-10-11T00:47:44.234Z"
+      "updatedAt": "2026-10-12T20:49:47.314Z"
     },
     {
       "id": "yupoo-213795674",
@@ -54241,7 +54426,7 @@
       ],
       "availability": "unknown",
       "slug": "japan-2026-eqt-full-zip-jacket-blue",
-      "siteCategory": "tracksuits",
+      "siteCategory": "training",
       "team": "Japan",
       "league": "National teams",
       "country": "Japan",
@@ -54249,10 +54434,12 @@
       "type": "Jacket",
       "variant": "Fan version",
       "sourceCategories": [
-        "⚽🌍 National Teams"
+        "⚽🌍 National Teams",
+        "new season",
+        "💨🧥Windbreaker/Training Top"
       ],
       "sourceTitle": "Japan 2026 EQT Full Zip Jacket - Blue S-XXL",
-      "updatedAt": "2026-10-11T00:32:12.591Z"
+      "updatedAt": "2026-10-12T20:45:03.066Z"
     },
     {
       "id": "yupoo-229897759",
@@ -64987,6 +65174,45 @@
       "updatedAt": "2026-10-11T13:57:08.962Z"
     },
     {
+      "id": "yupoo-75389601",
+      "name": "Mexico 1994 retro shirt home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/75389601?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/mexico-1994-retro-shirt-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/mexico-1994-retro-shirt-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/mexico-1994-retro-shirt-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/mexico-1994-retro-shirt-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/mexico-1994-retro-shirt-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/mexico-1994-retro-shirt-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/mexico-1994-retro-shirt-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/mexico-1994-retro-shirt-home/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "mexico-1994-retro-shirt-home",
+      "siteCategory": "retro",
+      "team": "Mexico",
+      "league": "National teams",
+      "country": "Mexico",
+      "season": "1994",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season"
+      ],
+      "sourceTitle": "Mexico 1994 retro shirt home",
+      "updatedAt": "2026-10-12T20:41:48.100Z"
+    },
+    {
       "id": "yupoo-213001671",
       "name": "Mexico 1995 Away Retro Jersey",
       "category": "Retro football shirt",
@@ -65369,7 +65595,7 @@
       ],
       "availability": "unknown",
       "slug": "mexico-2026-all-weather-jacket-windbreaker-black",
-      "siteCategory": "tracksuits",
+      "siteCategory": "training",
       "team": "Mexico",
       "league": "National teams",
       "country": "Mexico",
@@ -65377,10 +65603,12 @@
       "type": "Jacket",
       "variant": "Fan version",
       "sourceCategories": [
-        "⚽🌍 National Teams"
+        "⚽🌍 National Teams",
+        "new season",
+        "💨🧥Windbreaker/Training Top"
       ],
       "sourceTitle": "Mexico 2026 All Weather Jacket Windbreaker - Black S-XXL",
-      "updatedAt": "2026-10-11T00:39:41.896Z"
+      "updatedAt": "2026-10-12T20:49:38.577Z"
     },
     {
       "id": "yupoo-238631575",
@@ -66987,10 +67215,12 @@
       "type": "Shorts",
       "variant": "Fan version",
       "sourceCategories": [
-        "⚽🌍 National Teams"
+        "⚽🌍 National Teams",
+        "new season",
+        "Shorts"
       ],
       "sourceTitle": "Mexico 2026 Third Shorts S-XXL",
-      "updatedAt": "2026-10-11T00:50:18.415Z"
+      "updatedAt": "2026-10-12T20:52:10.578Z"
     },
     {
       "id": "yupoo-226515916",
@@ -67961,7 +68191,7 @@
       ],
       "availability": "unknown",
       "slug": "morocco-2026-king-anthem-jacket-windbreaker",
-      "siteCategory": "tracksuits",
+      "siteCategory": "training",
       "team": "Morocco",
       "league": "National teams",
       "country": "Morocco",
@@ -67969,10 +68199,12 @@
       "type": "Jacket",
       "variant": "Fan version",
       "sourceCategories": [
-        "⚽🌍 National Teams"
+        "⚽🌍 National Teams",
+        "new season",
+        "💨🧥Windbreaker/Training Top"
       ],
       "sourceTitle": "Morocco 2026 KING Anthem Jacket Windbreaker S-XXL",
-      "updatedAt": "2026-10-11T00:48:57.429Z"
+      "updatedAt": "2026-10-12T20:50:56.511Z"
     },
     {
       "id": "yupoo-223850783",
@@ -68049,10 +68281,11 @@
       "type": "Shirt",
       "variant": "Special edition",
       "sourceCategories": [
-        "⚽🌍 National Teams"
+        "⚽🌍 National Teams",
+        "new season"
       ],
       "sourceTitle": "Morocco 2026 Special Edition Black Jersey S-4XL",
-      "updatedAt": "2026-10-11T00:56:00.489Z"
+      "updatedAt": "2026-10-12T20:52:29.917Z"
     },
     {
       "id": "yupoo-226671439",
@@ -68755,7 +68988,7 @@
       ],
       "availability": "unknown",
       "slug": "netherlands-10-11-retro-windbreaker-white",
-      "siteCategory": "tracksuits",
+      "siteCategory": "training",
       "team": "Netherlands",
       "league": "National teams",
       "country": "Netherlands",
@@ -68763,10 +68996,12 @@
       "type": "Jacket",
       "variant": "Retro",
       "sourceCategories": [
-        "⚽🌍 National Teams"
+        "⚽🌍 National Teams",
+        "new season",
+        "💨🧥Windbreaker/Training Top"
       ],
       "sourceTitle": "Netherlands 10/11 Retro Windbreaker White S-XXL",
-      "updatedAt": "2026-10-11T00:39:02.165Z"
+      "updatedAt": "2026-10-12T20:49:05.869Z"
     },
     {
       "id": "yupoo-221176595",
@@ -72462,10 +72697,11 @@
       "type": "Shirt",
       "variant": "Fan version",
       "sourceCategories": [
-        "⚽🌍 National Teams"
+        "⚽🌍 National Teams",
+        "new season"
       ],
       "sourceTitle": "Original X Thrasher X AFA Argentina Jersey S-4XL",
-      "updatedAt": "2026-10-11T00:55:50.686Z"
+      "updatedAt": "2026-10-12T20:52:20.669Z"
     },
     {
       "id": "yupoo-221250428",
@@ -77653,7 +77889,7 @@
       ],
       "availability": "unknown",
       "slug": "portugal-2026-king-anthem-jacket-windbreaker",
-      "siteCategory": "tracksuits",
+      "siteCategory": "training",
       "team": "Portugal",
       "league": "National teams",
       "country": "Portugal",
@@ -77661,10 +77897,12 @@
       "type": "Jacket",
       "variant": "Fan version",
       "sourceCategories": [
-        "⚽🌍 National Teams"
+        "⚽🌍 National Teams",
+        "new season",
+        "💨🧥Windbreaker/Training Top"
       ],
       "sourceTitle": "Portugal 2026 KING Anthem Jacket Windbreaker S-XXL",
-      "updatedAt": "2026-10-11T00:39:30.749Z"
+      "updatedAt": "2026-10-12T20:49:30.456Z"
     },
     {
       "id": "yupoo-245506821",
@@ -77691,7 +77929,7 @@
       ],
       "availability": "unknown",
       "slug": "portugal-2026-king-anthem-jacket-windbreaker-2",
-      "siteCategory": "tracksuits",
+      "siteCategory": "training",
       "team": "Portugal",
       "league": "National teams",
       "country": "Portugal",
@@ -77699,10 +77937,12 @@
       "type": "Jacket",
       "variant": "Fan version",
       "sourceCategories": [
-        "⚽🌍 National Teams"
+        "⚽🌍 National Teams",
+        "new season",
+        "💨🧥Windbreaker/Training Top"
       ],
       "sourceTitle": "Portugal 2026 KING Anthem Jacket Windbreaker S-XXL",
-      "updatedAt": "2026-10-11T00:49:06.554Z"
+      "updatedAt": "2026-10-12T20:51:05.410Z"
     },
     {
       "id": "yupoo-224860919",
@@ -86560,6 +86800,47 @@
       "updatedAt": "2026-10-11T15:30:49.701Z"
     },
     {
+      "id": "yupoo-81518951",
+      "name": "Retro 04/05 Real Madrid home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/81518951?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-04-05-real-madrid-home-2/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-04-05-real-madrid-home-2/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-04-05-real-madrid-home-2/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-04-05-real-madrid-home-2/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-04-05-real-madrid-home-2/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-04-05-real-madrid-home-2/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-04-05-real-madrid-home-2/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-04-05-real-madrid-home-2/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-04-05-real-madrid-home-2",
+      "siteCategory": "retro",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2004/05",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "La Liga",
+        "Real Madrid"
+      ],
+      "sourceTitle": "Retro 04/05 Real Madrid home S-XXL",
+      "updatedAt": "2026-10-12T20:38:57.783Z"
+    },
+    {
       "id": "yupoo-82258615",
       "name": "Retro 05/06 Arsenal home",
       "category": "Retro football shirt",
@@ -86936,6 +87217,47 @@
       "updatedAt": "2026-10-11T23:56:22.906Z"
     },
     {
+      "id": "yupoo-64405183",
+      "name": "Retro 07/08 Barcelona long sleeves home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/64405183?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-07-08-barcelona-long-sleeves-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-07-08-barcelona-long-sleeves-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-07-08-barcelona-long-sleeves-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-07-08-barcelona-long-sleeves-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-07-08-barcelona-long-sleeves-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-07-08-barcelona-long-sleeves-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-07-08-barcelona-long-sleeves-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-07-08-barcelona-long-sleeves-home/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-07-08-barcelona-long-sleeves-home/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-07-08-barcelona-long-sleeves-home",
+      "siteCategory": "retro",
+      "team": "FC Barcelona",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2007/08",
+      "type": "Shirt",
+      "variant": "Long sleeve",
+      "sourceCategories": [
+        "Retro football shirt",
+        "La Liga",
+        "Barcelona"
+      ],
+      "sourceTitle": "Retro 07/08 Barcelona long sleeves home S-XXL",
+      "updatedAt": "2026-10-12T20:43:17.708Z"
+    },
+    {
       "id": "yupoo-211563603",
       "name": "Retro 07/08 Fluminense Third Away",
       "category": "Retro football shirt",
@@ -86976,6 +87298,48 @@
       ],
       "sourceTitle": "Retro 07/08 Fluminense Third Away S-4XL",
       "updatedAt": "2026-10-11T16:47:25.514Z"
+    },
+    {
+      "id": "yupoo-81525015",
+      "name": "Retro 07/08 Manchester United Champions League version home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/81525015?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-07-08-manchester-united-champions-league-version-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-07-08-manchester-united-champions-league-version-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-07-08-manchester-united-champions-league-version-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-07-08-manchester-united-champions-league-version-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-07-08-manchester-united-champions-league-version-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-07-08-manchester-united-champions-league-version-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-07-08-manchester-united-champions-league-version-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-07-08-manchester-united-champions-league-version-home/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-07-08-manchester-united-champions-league-version-home/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-07-08-manchester-united-champions-league-version-home",
+      "siteCategory": "retro",
+      "team": "Manchester United",
+      "league": "Premier League",
+      "country": "England",
+      "season": "2007/08",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Premier League",
+        "M-U"
+      ],
+      "sourceTitle": "Retro 07/08 M-U Champions League version home S-XXL",
+      "updatedAt": "2026-10-12T20:36:30.663Z"
     },
     {
       "id": "yupoo-91450156",
@@ -87349,6 +87713,48 @@
       ],
       "sourceTitle": "Retro 11/12 AC Milan third away S-XXL",
       "updatedAt": "2026-10-11T19:43:14.939Z"
+    },
+    {
+      "id": "yupoo-81517637",
+      "name": "Retro 11/12 Chelsea Champions League version home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/81517637?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-11-12-chelsea-champions-league-version-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-11-12-chelsea-champions-league-version-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-11-12-chelsea-champions-league-version-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-11-12-chelsea-champions-league-version-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-11-12-chelsea-champions-league-version-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-11-12-chelsea-champions-league-version-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-11-12-chelsea-champions-league-version-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-11-12-chelsea-champions-league-version-home/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-11-12-chelsea-champions-league-version-home/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-11-12-chelsea-champions-league-version-home",
+      "siteCategory": "retro",
+      "team": "Chelsea",
+      "league": "Premier League",
+      "country": "England",
+      "season": "2011/12",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Premier League",
+        "Chelsea"
+      ],
+      "sourceTitle": "Retro 11/12 Chelsea Champions League version home S-XXL",
+      "updatedAt": "2026-10-12T20:39:12.713Z"
     },
     {
       "id": "yupoo-106509833",
@@ -88100,6 +88506,45 @@
       "updatedAt": "2026-10-11T17:30:42.029Z"
     },
     {
+      "id": "yupoo-81521121",
+      "name": "Retro 1978 Argentina home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/81521121?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-1978-argentina-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-1978-argentina-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-1978-argentina-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-1978-argentina-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-1978-argentina-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-1978-argentina-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-1978-argentina-home/image-06.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-1978-argentina-home",
+      "siteCategory": "retro",
+      "team": "Argentina",
+      "league": "National teams",
+      "country": "Argentina",
+      "season": "1978",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "Liga Profesional",
+        "new season"
+      ],
+      "sourceTitle": "Retro 1978 Argentina home S-XXL",
+      "updatedAt": "2026-10-12T20:37:12.793Z"
+    },
+    {
       "id": "yupoo-85143777",
       "name": "Retro 1981 Boca Juniors home",
       "category": "Retro football shirt",
@@ -88177,6 +88622,45 @@
       ],
       "sourceTitle": "Retro 1982 England home S-XXL",
       "updatedAt": "2026-10-11T20:13:39.954Z"
+    },
+    {
+      "id": "yupoo-81520994",
+      "name": "Retro 1986 Argentina home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/81520994?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-1986-argentina-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-1986-argentina-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-1986-argentina-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-1986-argentina-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-1986-argentina-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-1986-argentina-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-1986-argentina-home/image-06.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-1986-argentina-home",
+      "siteCategory": "retro",
+      "team": "Argentina",
+      "league": "National teams",
+      "country": "Argentina",
+      "season": "1986",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "Liga Profesional",
+        "new season"
+      ],
+      "sourceTitle": "Retro 1986 Argentina home S-XXL",
+      "updatedAt": "2026-10-12T20:37:33.979Z"
     },
     {
       "id": "yupoo-179247889",
@@ -88296,9 +88780,46 @@
       "updatedAt": "2026-10-11T19:35:41.435Z"
     },
     {
+      "id": "yupoo-15247961",
+      "name": "Retro 1988 germany away",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/15247961?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-1988-germany-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-1988-germany-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-1988-germany-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-1988-germany-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-1988-germany-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-1988-germany-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-1988-germany-away/image-06.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-1988-germany-away",
+      "siteCategory": "retro",
+      "team": "Germany",
+      "league": "National teams",
+      "country": "Germany",
+      "season": "1988",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt"
+      ],
+      "sourceTitle": "Retro 1988 germany away S-XXL",
+      "updatedAt": "2026-10-12T20:44:01.363Z"
+    },
+    {
       "id": "yupoo-15247910",
       "name": "Retro 1988 Holland Home Retro",
-      "category": "⚽🌍 National Teams",
+      "category": "Retro football shirt",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/15247910?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-1988-holland-home-retro/cover.webp",
       "images": [
@@ -88327,10 +88848,12 @@
       "type": "Shirt",
       "variant": "Retro",
       "sourceCategories": [
-        "⚽🌍 National Teams"
+        "Retro football shirt",
+        "⚽🌍 National Teams",
+        "new season"
       ],
       "sourceTitle": "Retro 1988 Holland Home Retro",
-      "updatedAt": "2026-10-11T04:55:14.019Z"
+      "updatedAt": "2026-10-12T20:44:09.142Z"
     },
     {
       "id": "yupoo-92085149",
@@ -88738,7 +89261,7 @@
     {
       "id": "yupoo-81521063",
       "name": "Retro 1994 Germany away",
-      "category": "⚽🌍 National Teams",
+      "category": "Retro football shirt",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/81521063?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-1994-germany-away/cover.webp",
       "images": [
@@ -88767,10 +89290,13 @@
       "type": "Shirt",
       "variant": "Retro",
       "sourceCategories": [
-        "⚽🌍 National Teams"
+        "Retro football shirt",
+        "⚽🌍 National Teams",
+        "new season",
+        "Bundesliga"
       ],
       "sourceTitle": "Retro 1994 Germany away S-XXL",
-      "updatedAt": "2026-10-11T05:13:29.790Z"
+      "updatedAt": "2026-10-12T20:37:22.027Z"
     },
     {
       "id": "yupoo-198589417",
@@ -89327,6 +89853,87 @@
       "updatedAt": "2026-10-11T05:13:17.507Z"
     },
     {
+      "id": "yupoo-81517243",
+      "name": "Retro 1998 Fiorentina away",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/81517243?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-1998-fiorentina-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-1998-fiorentina-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-1998-fiorentina-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-1998-fiorentina-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-1998-fiorentina-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-1998-fiorentina-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-1998-fiorentina-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-1998-fiorentina-away/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-1998-fiorentina-away",
+      "siteCategory": "retro",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "1998",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Serie A",
+        "Fiorentina"
+      ],
+      "sourceTitle": "Retro 1998 Fiorentina away S-XXL",
+      "updatedAt": "2026-10-12T20:39:25.095Z"
+    },
+    {
+      "id": "yupoo-81521379",
+      "name": "Retro 1998 France home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/81521379?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-1998-france-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-1998-france-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-1998-france-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-1998-france-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-1998-france-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-1998-france-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-1998-france-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-1998-france-home/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-1998-france-home",
+      "siteCategory": "retro",
+      "team": "France",
+      "league": "National teams",
+      "country": "France",
+      "season": "1998",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Ligue 1"
+      ],
+      "sourceTitle": "Retro 1998 France home S-XXL",
+      "updatedAt": "2026-10-12T20:36:58.879Z"
+    },
+    {
       "id": "yupoo-84984842",
       "name": "Retro 1998 Germany away",
       "category": "Retro football shirt",
@@ -89484,6 +90091,88 @@
       ],
       "sourceTitle": "Retro 1998 Long Sleeve University of Chile home S-XX",
       "updatedAt": "2026-10-11T13:29:08.734Z"
+    },
+    {
+      "id": "yupoo-81520775",
+      "name": "Retro 1998 Mexico away",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/81520775?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-1998-mexico-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-1998-mexico-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-1998-mexico-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-1998-mexico-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-1998-mexico-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-1998-mexico-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-1998-mexico-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-1998-mexico-away/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-1998-mexico-away/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-1998-mexico-away/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-1998-mexico-away",
+      "siteCategory": "retro",
+      "team": "Mexico",
+      "league": "National teams",
+      "country": "Mexico",
+      "season": "1998",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "LIGA MX"
+      ],
+      "sourceTitle": "Retro 1998 Mexico away S-XXL",
+      "updatedAt": "2026-10-12T20:37:49.605Z"
+    },
+    {
+      "id": "yupoo-81520728",
+      "name": "Retro 1998 Mexico home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/81520728?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-1998-mexico-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-1998-mexico-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-1998-mexico-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-1998-mexico-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-1998-mexico-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-1998-mexico-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-1998-mexico-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-1998-mexico-home/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-1998-mexico-home",
+      "siteCategory": "retro",
+      "team": "Mexico",
+      "league": "National teams",
+      "country": "Mexico",
+      "season": "1998",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "LIGA MX"
+      ],
+      "sourceTitle": "Retro 1998 Mexico home S-XXL",
+      "updatedAt": "2026-10-12T20:38:03.084Z"
     },
     {
       "id": "yupoo-85483485",
@@ -90680,6 +91369,48 @@
       ],
       "sourceTitle": "Retro 2010 England home S-XXL",
       "updatedAt": "2026-10-11T19:59:43.868Z"
+    },
+    {
+      "id": "yupoo-67702275",
+      "name": "Retro 2010 Portugal Home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/67702275?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-2010-portugal-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-2010-portugal-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-2010-portugal-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-2010-portugal-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-2010-portugal-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-2010-portugal-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-2010-portugal-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-2010-portugal-home/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-2010-portugal-home/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-2010-portugal-home/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-2010-portugal-home/image-10.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-2010-portugal-home",
+      "siteCategory": "retro",
+      "team": "Portugal",
+      "league": "National teams",
+      "country": "Portugal",
+      "season": "2010",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season"
+      ],
+      "sourceTitle": "Retro 2010 Portugal Home S-XXL",
+      "updatedAt": "2026-10-12T20:42:49.694Z"
     },
     {
       "id": "yupoo-215728101",
@@ -91949,6 +92680,47 @@
       ],
       "sourceTitle": "Retro 92/93 M-U in the away S-XXL",
       "updatedAt": "2026-10-12T00:03:30.415Z"
+    },
+    {
+      "id": "yupoo-81520122",
+      "name": "Retro 92/94 Manchester United away",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/81520122?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-92-94-manchester-united-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-92-94-manchester-united-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-92-94-manchester-united-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-92-94-manchester-united-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-92-94-manchester-united-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-92-94-manchester-united-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-92-94-manchester-united-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-92-94-manchester-united-away/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-92-94-manchester-united-away",
+      "siteCategory": "retro",
+      "team": "Manchester United",
+      "league": "Premier League",
+      "country": "England",
+      "season": "",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Premier League",
+        "M-U"
+      ],
+      "sourceTitle": "Retro 92/94 M-U away S-XXL",
+      "updatedAt": "2026-10-12T20:38:43.226Z"
     },
     {
       "id": "yupoo-82258472",
@@ -94131,6 +94903,47 @@
       ],
       "sourceTitle": "Retro 99/00 Benfica home S-XXL",
       "updatedAt": "2026-10-11T17:04:29.028Z"
+    },
+    {
+      "id": "yupoo-81520702",
+      "name": "Retro 99/00 Fiorentina home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/81520702?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-99-00-fiorentina-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-99-00-fiorentina-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-99-00-fiorentina-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-99-00-fiorentina-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-99-00-fiorentina-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-99-00-fiorentina-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-99-00-fiorentina-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-99-00-fiorentina-home/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-99-00-fiorentina-home",
+      "siteCategory": "retro",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "1999/00",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Serie A",
+        "Fiorentina"
+      ],
+      "sourceTitle": "Retro 99/00 Fiorentina home S-XXL",
+      "updatedAt": "2026-10-12T20:38:16.233Z"
     },
     {
       "id": "yupoo-211563666",
@@ -98942,6 +99755,47 @@
       "updatedAt": "2026-10-11T16:42:54.136Z"
     },
     {
+      "id": "yupoo-81521419",
+      "name": "Retro Barcelona 100th Anniversary version home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/81521419?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-barcelona-100th-anniversary-version-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-barcelona-100th-anniversary-version-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-barcelona-100th-anniversary-version-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-barcelona-100th-anniversary-version-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-barcelona-100th-anniversary-version-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-barcelona-100th-anniversary-version-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-barcelona-100th-anniversary-version-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-barcelona-100th-anniversary-version-home/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-barcelona-100th-anniversary-version-home",
+      "siteCategory": "retro",
+      "team": "FC Barcelona",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "La Liga",
+        "Barcelona"
+      ],
+      "sourceTitle": "Retro Barcelona 100th Anniversary version home S-XXL",
+      "updatedAt": "2026-10-12T20:36:43.571Z"
+    },
+    {
       "id": "yupoo-190515775",
       "name": "Retro Barcelona 11/12 away",
       "category": "Retro football shirt",
@@ -99755,6 +100609,47 @@
       ],
       "sourceTitle": "Retro Barcelona 90/92 home S-4XL",
       "updatedAt": "2026-10-11T16:43:43.066Z"
+    },
+    {
+      "id": "yupoo-66906602",
+      "name": "Retro Barcelona 96/97 at home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/66906602?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-barcelona-96-97-at-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-barcelona-96-97-at-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-barcelona-96-97-at-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-barcelona-96-97-at-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-barcelona-96-97-at-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-barcelona-96-97-at-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-barcelona-96-97-at-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-barcelona-96-97-at-home/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-barcelona-96-97-at-home",
+      "siteCategory": "retro",
+      "team": "FC Barcelona",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "1996/97",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "La Liga",
+        "Barcelona"
+      ],
+      "sourceTitle": "Retro Barcelona 96/97 at home",
+      "updatedAt": "2026-10-12T20:43:01.979Z"
     },
     {
       "id": "yupoo-151794377",
@@ -101138,6 +102033,47 @@
       "updatedAt": "2026-10-11T23:55:00.024Z"
     },
     {
+      "id": "yupoo-75389694",
+      "name": "Retro Boca Juniors 2001 home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/75389694?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-boca-juniors-2001-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-boca-juniors-2001-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-boca-juniors-2001-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-boca-juniors-2001-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-boca-juniors-2001-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-boca-juniors-2001-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-boca-juniors-2001-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-boca-juniors-2001-home/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-boca-juniors-2001-home",
+      "siteCategory": "retro",
+      "team": "Boca Juniors",
+      "league": "Other leagues",
+      "country": "Argentina",
+      "season": "2001",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "Liga Profesional",
+        "Boca Juniors",
+        "new season"
+      ],
+      "sourceTitle": "Retro Boca Juniors 2001 home",
+      "updatedAt": "2026-10-12T20:41:32.627Z"
+    },
+    {
       "id": "yupoo-83351399",
       "name": "Retro Boca Juniors 2002 away",
       "category": "Retro football shirt",
@@ -101178,6 +102114,48 @@
       ],
       "sourceTitle": "Retro Boca Juniors 2002 away S-XXL",
       "updatedAt": "2026-10-11T23:55:16.327Z"
+    },
+    {
+      "id": "yupoo-75825838",
+      "name": "Retro Boca Juniors 2005 home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/75825838?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-boca-juniors-2005-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-boca-juniors-2005-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-boca-juniors-2005-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-boca-juniors-2005-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-boca-juniors-2005-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-boca-juniors-2005-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-boca-juniors-2005-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-boca-juniors-2005-home/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-boca-juniors-2005-home/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-boca-juniors-2005-home",
+      "siteCategory": "retro",
+      "team": "Boca Juniors",
+      "league": "Other leagues",
+      "country": "Argentina",
+      "season": "2005",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "Liga Profesional",
+        "Boca Juniors",
+        "new season"
+      ],
+      "sourceTitle": "Retro Boca Juniors 2005 home",
+      "updatedAt": "2026-10-12T20:40:36.123Z"
     },
     {
       "id": "yupoo-189879871",
@@ -102120,6 +103098,47 @@
       ],
       "sourceTitle": "Retro Celtics 95/97 Home S-XXL",
       "updatedAt": "2026-10-11T18:29:49.933Z"
+    },
+    {
+      "id": "yupoo-82070589",
+      "name": "Retro Chelsea 03/05 home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/82070589?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-chelsea-03-05-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-chelsea-03-05-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-chelsea-03-05-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-chelsea-03-05-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-chelsea-03-05-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-chelsea-03-05-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-chelsea-03-05-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-chelsea-03-05-home/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-chelsea-03-05-home",
+      "siteCategory": "retro",
+      "team": "Chelsea",
+      "league": "Premier League",
+      "country": "England",
+      "season": "",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Premier League",
+        "Chelsea"
+      ],
+      "sourceTitle": "Retro Chelsea 03/05 home S-XXL",
+      "updatedAt": "2026-10-12T20:35:38.162Z"
     },
     {
       "id": "yupoo-157799476",
@@ -105783,6 +106802,47 @@
       "updatedAt": "2026-10-11T19:56:04.744Z"
     },
     {
+      "id": "yupoo-72833325",
+      "name": "Retro Fiorentina 98/99 home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/72833325?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-fiorentina-98-99-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-fiorentina-98-99-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-fiorentina-98-99-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-fiorentina-98-99-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-fiorentina-98-99-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-fiorentina-98-99-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-fiorentina-98-99-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-fiorentina-98-99-home/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-fiorentina-98-99-home",
+      "siteCategory": "retro",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "1998/99",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Serie A",
+        "Fiorentina"
+      ],
+      "sourceTitle": "Retro Fiorentina 98/99 home S-XXL",
+      "updatedAt": "2026-10-12T20:42:31.448Z"
+    },
+    {
       "id": "yupoo-209106921",
       "name": "Retro Fiorentina 99/00 Away",
       "category": "Retro football shirt",
@@ -106447,6 +107507,46 @@
       ],
       "sourceTitle": "Retro France 1998 away S-XXL",
       "updatedAt": "2026-10-11T23:25:13.087Z"
+    },
+    {
+      "id": "yupoo-82070072",
+      "name": "Retro France 2000 home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/82070072?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-france-2000-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-france-2000-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-france-2000-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-france-2000-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-france-2000-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-france-2000-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-france-2000-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-france-2000-home/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-france-2000-home",
+      "siteCategory": "retro",
+      "team": "France",
+      "league": "National teams",
+      "country": "France",
+      "season": "2000",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Ligue 1"
+      ],
+      "sourceTitle": "Retro France 2000 home S-XXL",
+      "updatedAt": "2026-10-12T20:36:03.906Z"
     },
     {
       "id": "yupoo-94445838",
@@ -108694,6 +109794,84 @@
       "updatedAt": "2026-10-11T23:25:49.715Z"
     },
     {
+      "id": "yupoo-82070688",
+      "name": "Retro Italy 1994 away",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/82070688?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-italy-1994-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-italy-1994-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-italy-1994-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-italy-1994-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-italy-1994-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-italy-1994-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-italy-1994-away/image-06.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-italy-1994-away",
+      "siteCategory": "retro",
+      "team": "Italy",
+      "league": "National teams",
+      "country": "Italy",
+      "season": "1994",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Serie A"
+      ],
+      "sourceTitle": "Retro Italy 1994 away S-XXL",
+      "updatedAt": "2026-10-12T20:35:13.615Z"
+    },
+    {
+      "id": "yupoo-82070657",
+      "name": "Retro Italy 1994 home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/82070657?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-italy-1994-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-italy-1994-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-italy-1994-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-italy-1994-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-italy-1994-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-italy-1994-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-italy-1994-home/image-06.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-italy-1994-home",
+      "siteCategory": "retro",
+      "team": "Italy",
+      "league": "National teams",
+      "country": "Italy",
+      "season": "1994",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Serie A"
+      ],
+      "sourceTitle": "Retro Italy 1994 home S-XXL",
+      "updatedAt": "2026-10-12T20:35:25.333Z"
+    },
+    {
       "id": "yupoo-94445676",
       "name": "Retro Italy 1996 away",
       "category": "Retro football shirt",
@@ -109181,6 +110359,47 @@
       ],
       "sourceTitle": "Retro Lazio 1991 Away S-XXL",
       "updatedAt": "2026-10-11T16:51:12.565Z"
+    },
+    {
+      "id": "yupoo-75825936",
+      "name": "Retro Lazio 99/00 home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/75825936?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-lazio-99-00-home-2/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-lazio-99-00-home-2/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-lazio-99-00-home-2/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-lazio-99-00-home-2/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-lazio-99-00-home-2/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-lazio-99-00-home-2/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-lazio-99-00-home-2/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-lazio-99-00-home-2/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-lazio-99-00-home-2",
+      "siteCategory": "retro",
+      "team": "Lazio",
+      "league": "Serie A",
+      "country": "Italy",
+      "season": "1999/00",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Serie A",
+        "Lazio"
+      ],
+      "sourceTitle": "Retro Lazio 99/00 home",
+      "updatedAt": "2026-10-12T20:40:21.477Z"
     },
     {
       "id": "yupoo-166609021",
@@ -111467,6 +112686,50 @@
       "updatedAt": "2026-10-11T19:24:10.908Z"
     },
     {
+      "id": "yupoo-82069831",
+      "name": "Retro Long Sleeve Real Madrid 14/15 home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/82069831?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-long-sleeve-real-madrid-14-15-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-long-sleeve-real-madrid-14-15-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-long-sleeve-real-madrid-14-15-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-long-sleeve-real-madrid-14-15-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-long-sleeve-real-madrid-14-15-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-long-sleeve-real-madrid-14-15-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-long-sleeve-real-madrid-14-15-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-long-sleeve-real-madrid-14-15-home/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-long-sleeve-real-madrid-14-15-home/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-long-sleeve-real-madrid-14-15-home/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-long-sleeve-real-madrid-14-15-home/image-10.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-long-sleeve-real-madrid-14-15-home",
+      "siteCategory": "retro",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2014/15",
+      "type": "Shirt",
+      "variant": "Long sleeve",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "La Liga",
+        "Real Madrid"
+      ],
+      "sourceTitle": "Retro Long Sleeve Real Madrid 14/15 home S-XXL",
+      "updatedAt": "2026-10-12T20:36:18.354Z"
+    },
+    {
       "id": "yupoo-151793751",
       "name": "Retro long sleeve Real Madrid 16/17 away",
       "category": "Retro football shirt",
@@ -112091,6 +113354,48 @@
       ],
       "sourceTitle": "Retro long-sleeved 10/11 Inter Milan home S-XXL",
       "updatedAt": "2026-10-11T23:45:38.721Z"
+    },
+    {
+      "id": "yupoo-81520220",
+      "name": "Retro long-sleeved 98/99 Manchester United home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/81520220?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-long-sleeved-98-99-manchester-united-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-long-sleeved-98-99-manchester-united-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-long-sleeved-98-99-manchester-united-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-long-sleeved-98-99-manchester-united-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-long-sleeved-98-99-manchester-united-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-long-sleeved-98-99-manchester-united-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-long-sleeved-98-99-manchester-united-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-long-sleeved-98-99-manchester-united-home/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-long-sleeved-98-99-manchester-united-home",
+      "siteCategory": "retro",
+      "team": "Manchester United",
+      "league": "Premier League",
+      "country": "England",
+      "season": "1998/99",
+      "type": "Shirt",
+      "variant": "Long sleeve",
+      "sourceCategories": [
+        "Retro football shirt",
+        "⚽Long sleeve shirt",
+        "new season",
+        "Premier League",
+        "M-U"
+      ],
+      "sourceTitle": "Retro long-sleeved 98/99 M-U home S-XXL",
+      "updatedAt": "2026-10-12T20:38:29.536Z"
     },
     {
       "id": "yupoo-166607971",
@@ -116503,6 +117808,47 @@
       "updatedAt": "2026-10-11T19:51:33.245Z"
     },
     {
+      "id": "yupoo-75389725",
+      "name": "Retro Parma 98/99 retro shirt home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/75389725?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-parma-98-99-retro-shirt-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-parma-98-99-retro-shirt-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-parma-98-99-retro-shirt-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-parma-98-99-retro-shirt-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-parma-98-99-retro-shirt-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-parma-98-99-retro-shirt-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-parma-98-99-retro-shirt-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-parma-98-99-retro-shirt-home/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-parma-98-99-retro-shirt-home",
+      "siteCategory": "retro",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "1998/99",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Serie A",
+        "Parma Calcio"
+      ],
+      "sourceTitle": "Retro Parma 98/99 retro shirt home",
+      "updatedAt": "2026-10-12T20:41:19.044Z"
+    },
+    {
       "id": "yupoo-255160585",
       "name": "Retro Parma 99/00 away",
       "category": "Retro football shirt",
@@ -119919,6 +121265,49 @@
       "updatedAt": "2026-10-11T19:49:57.157Z"
     },
     {
+      "id": "yupoo-82070500",
+      "name": "Retro Real Madrid 09/10 home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/82070500?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-real-madrid-09-10-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-real-madrid-09-10-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-real-madrid-09-10-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-real-madrid-09-10-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-real-madrid-09-10-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-real-madrid-09-10-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-real-madrid-09-10-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-real-madrid-09-10-home/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-real-madrid-09-10-home/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-real-madrid-09-10-home/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-real-madrid-09-10-home",
+      "siteCategory": "retro",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2009/10",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "La Liga",
+        "Real Madrid"
+      ],
+      "sourceTitle": "Retro Real Madrid 09/10 home S-XXL",
+      "updatedAt": "2026-10-12T20:35:51.462Z"
+    },
+    {
       "id": "yupoo-138763867",
       "name": "Retro Real Madrid 09/10 Long Sleeve Home",
       "category": "Retro football shirt",
@@ -121968,6 +123357,46 @@
       "updatedAt": "2026-10-11T19:13:15.393Z"
     },
     {
+      "id": "yupoo-75826076",
+      "name": "Retro retro shirt Spain 1994 home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/75826076?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-retro-shirt-spain-1994-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-retro-shirt-spain-1994-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-retro-shirt-spain-1994-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-retro-shirt-spain-1994-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-retro-shirt-spain-1994-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-retro-shirt-spain-1994-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-retro-shirt-spain-1994-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-retro-shirt-spain-1994-home/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-retro-shirt-spain-1994-home",
+      "siteCategory": "retro",
+      "team": "Spain",
+      "league": "National teams",
+      "country": "Spain",
+      "season": "1994",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "La Liga"
+      ],
+      "sourceTitle": "Retro retro shirt Spain 1994 home",
+      "updatedAt": "2026-10-12T20:40:05.980Z"
+    },
+    {
       "id": "yupoo-142712008",
       "name": "Retro River Plate 00/01 Home",
       "category": "Retro football shirt",
@@ -122913,6 +124342,50 @@
       ],
       "sourceTitle": "Retro Romania 1994 Home S-XXL",
       "updatedAt": "2026-10-11T18:03:26.242Z"
+    },
+    {
+      "id": "yupoo-72833277",
+      "name": "Retro Rome 2001-2002 Home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/72833277?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-rome-2001-2002-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-rome-2001-2002-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-rome-2001-2002-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-rome-2001-2002-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-rome-2001-2002-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-rome-2001-2002-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-rome-2001-2002-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-rome-2001-2002-home/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-rome-2001-2002-home/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-rome-2001-2002-home/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-rome-2001-2002-home/image-10.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-rome-2001-2002-home/image-11.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-rome-2001-2002-home",
+      "siteCategory": "retro",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2001",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Serie A"
+      ],
+      "sourceTitle": "Retro Rome 2001-2002 Home",
+      "updatedAt": "2026-10-12T20:42:16.645Z"
     },
     {
       "id": "yupoo-187815814",
@@ -124247,6 +125720,84 @@
       ],
       "sourceTitle": "Retro Sevilla 94/96 Home S-XXL",
       "updatedAt": "2026-10-11T18:11:06.812Z"
+    },
+    {
+      "id": "yupoo-75825658",
+      "name": "Retro shirt german 1990 home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/75825658?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-shirt-german-1990-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-shirt-german-1990-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-shirt-german-1990-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-shirt-german-1990-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-shirt-german-1990-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-shirt-german-1990-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-shirt-german-1990-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-shirt-german-1990-home/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-shirt-german-1990-home",
+      "siteCategory": "retro",
+      "team": "Germany",
+      "league": "National teams",
+      "country": "Germany",
+      "season": "1990",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season"
+      ],
+      "sourceTitle": "Retro shirt german 1990 home",
+      "updatedAt": "2026-10-12T20:40:50.699Z"
+    },
+    {
+      "id": "yupoo-75826188",
+      "name": "retro shirt Italy 1990 home",
+      "category": "Retro football shirt",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/75826188?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-shirt-italy-1990-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-shirt-italy-1990-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-shirt-italy-1990-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-shirt-italy-1990-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-shirt-italy-1990-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-shirt-italy-1990-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-shirt-italy-1990-home/image-06.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-shirt-italy-1990-home",
+      "siteCategory": "retro",
+      "team": "Italy",
+      "league": "National teams",
+      "country": "Italy",
+      "season": "1990",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Retro football shirt",
+        "new season",
+        "Serie A"
+      ],
+      "sourceTitle": "retro shirt Italy 1990 home",
+      "updatedAt": "2026-10-12T20:39:51.065Z"
     },
     {
       "id": "yupoo-189641452",
@@ -131512,7 +133063,7 @@
       ],
       "availability": "unknown",
       "slug": "senegal-2026-full-zip-hooded-jacket-black-and-light-blue",
-      "siteCategory": "tracksuits",
+      "siteCategory": "training",
       "team": "Senegal",
       "league": "National teams",
       "country": "Senegal",
@@ -131520,10 +133071,12 @@
       "type": "Jacket",
       "variant": "Fan version",
       "sourceCategories": [
-        "⚽🌍 National Teams"
+        "⚽🌍 National Teams",
+        "new season",
+        "💨🧥Windbreaker/Training Top"
       ],
       "sourceTitle": "Senegal 2026 Full-Zip Hooded Jacket - Black and Light Blue S-XXL",
-      "updatedAt": "2026-10-11T00:33:15.636Z"
+      "updatedAt": "2026-10-12T20:46:11.764Z"
     },
     {
       "id": "yupoo-256661401",
@@ -131544,7 +133097,7 @@
       ],
       "availability": "unknown",
       "slug": "senegal-2026-full-zip-hooded-jacket-green",
-      "siteCategory": "tracksuits",
+      "siteCategory": "training",
       "team": "Senegal",
       "league": "National teams",
       "country": "Senegal",
@@ -131552,10 +133105,12 @@
       "type": "Jacket",
       "variant": "Fan version",
       "sourceCategories": [
-        "⚽🌍 National Teams"
+        "⚽🌍 National Teams",
+        "new season",
+        "💨🧥Windbreaker/Training Top"
       ],
       "sourceTitle": "Senegal 2026 Full-Zip Hooded Jacket - Green S-XXL",
-      "updatedAt": "2026-10-11T00:33:08.989Z"
+      "updatedAt": "2026-10-12T20:46:03.763Z"
     },
     {
       "id": "yupoo-256689171",
@@ -131577,7 +133132,7 @@
       ],
       "availability": "unknown",
       "slug": "senegal-2026-full-zip-jacket-green",
-      "siteCategory": "tracksuits",
+      "siteCategory": "training",
       "team": "Senegal",
       "league": "National teams",
       "country": "Senegal",
@@ -131585,10 +133140,12 @@
       "type": "Jacket",
       "variant": "Fan version",
       "sourceCategories": [
-        "⚽🌍 National Teams"
+        "⚽🌍 National Teams",
+        "new season",
+        "💨🧥Windbreaker/Training Top"
       ],
       "sourceTitle": "Senegal 2026 Full-Zip Jacket - Green S-XXL",
-      "updatedAt": "2026-10-11T00:32:05.740Z"
+      "updatedAt": "2026-10-12T20:44:55.777Z"
     },
     {
       "id": "yupoo-216812752",
@@ -131659,10 +133216,11 @@
       "type": "Shirt",
       "variant": "Fan version",
       "sourceCategories": [
-        "⚽🌍 National Teams"
+        "⚽🌍 National Teams",
+        "new season"
       ],
       "sourceTitle": "Senegal 2026 Home Jersey (Two Stars) S-4XL",
-      "updatedAt": "2026-10-11T00:36:42.616Z"
+      "updatedAt": "2026-10-12T20:47:51.037Z"
     },
     {
       "id": "yupoo-223853388",
@@ -134320,10 +135878,12 @@
       "type": "Shirt",
       "variant": "Women's",
       "sourceCategories": [
-        "⚽🌍 National Teams"
+        "⚽🌍 National Teams",
+        "new season",
+        "⚽💁🏻‍♀️Women's shirt"
       ],
       "sourceTitle": "Spain 2026 2 Stars Special Edition Womens Jersey - Maroon S-XXL",
-      "updatedAt": "2026-10-11T00:35:47.243Z"
+      "updatedAt": "2026-10-12T20:46:34.416Z"
     },
     {
       "id": "yupoo-245506990",
@@ -134352,7 +135912,7 @@
       ],
       "availability": "unknown",
       "slug": "spain-2026-all-weather-jacket-windbreaker-blue",
-      "siteCategory": "tracksuits",
+      "siteCategory": "training",
       "team": "Spain",
       "league": "National teams",
       "country": "Spain",
@@ -134360,10 +135920,12 @@
       "type": "Jacket",
       "variant": "Fan version",
       "sourceCategories": [
-        "⚽🌍 National Teams"
+        "⚽🌍 National Teams",
+        "new season",
+        "💨🧥Windbreaker/Training Top"
       ],
       "sourceTitle": "Spain 2026 All Weather Jacket Windbreaker - Blue S-XXL",
-      "updatedAt": "2026-10-11T00:48:04.982Z"
+      "updatedAt": "2026-10-12T20:50:04.750Z"
     },
     {
       "id": "yupoo-246422169",
@@ -135039,10 +136601,11 @@
       "type": "Shirt",
       "variant": "Special edition",
       "sourceCategories": [
-        "⚽🌍 National Teams"
+        "⚽🌍 National Teams",
+        "new season"
       ],
       "sourceTitle": "Spain 2026 Burgundy Champion Commemorative Jersey S-4XL",
-      "updatedAt": "2026-10-11T00:36:50.430Z"
+      "updatedAt": "2026-10-12T20:47:59.417Z"
     },
     {
       "id": "yupoo-252315488",
@@ -135107,10 +136670,11 @@
       "type": "Shirt",
       "variant": "Special edition",
       "sourceCategories": [
-        "⚽🌍 National Teams"
+        "⚽🌍 National Teams",
+        "new season"
       ],
       "sourceTitle": "Spain 2026 Commemorative Jersey - Maroon S-4XL",
-      "updatedAt": "2026-10-11T00:35:10.175Z"
+      "updatedAt": "2026-10-12T20:46:26.467Z"
     },
     {
       "id": "yupoo-256689224",
@@ -135132,7 +136696,7 @@
       ],
       "availability": "unknown",
       "slug": "spain-2026-full-zip-jacket-dark-blue",
-      "siteCategory": "tracksuits",
+      "siteCategory": "training",
       "team": "Spain",
       "league": "National teams",
       "country": "Spain",
@@ -135140,10 +136704,12 @@
       "type": "Jacket",
       "variant": "Fan version",
       "sourceCategories": [
-        "⚽🌍 National Teams"
+        "⚽🌍 National Teams",
+        "new season",
+        "💨🧥Windbreaker/Training Top"
       ],
       "sourceTitle": "Spain 2026 Full Zip Jacket - Dark Blue S-XXL",
-      "updatedAt": "2026-10-11T00:31:58.143Z"
+      "updatedAt": "2026-10-12T20:44:48.458Z"
     },
     {
       "id": "yupoo-256689255",
@@ -135164,7 +136730,7 @@
       ],
       "availability": "unknown",
       "slug": "spain-2026-full-zip-jacket-red",
-      "siteCategory": "tracksuits",
+      "siteCategory": "training",
       "team": "Spain",
       "league": "National teams",
       "country": "Spain",
@@ -135172,10 +136738,12 @@
       "type": "Jacket",
       "variant": "Fan version",
       "sourceCategories": [
-        "⚽🌍 National Teams"
+        "⚽🌍 National Teams",
+        "new season",
+        "💨🧥Windbreaker/Training Top"
       ],
       "sourceTitle": "Spain 2026 Full Zip Jacket - Red S-XXL",
-      "updatedAt": "2026-10-11T00:31:50.772Z"
+      "updatedAt": "2026-10-12T20:44:40.956Z"
     },
     {
       "id": "yupoo-256689292",
@@ -135196,7 +136764,7 @@
       ],
       "availability": "unknown",
       "slug": "spain-2026-full-zip-jacket-white",
-      "siteCategory": "tracksuits",
+      "siteCategory": "training",
       "team": "Spain",
       "league": "National teams",
       "country": "Spain",
@@ -135204,10 +136772,12 @@
       "type": "Jacket",
       "variant": "Fan version",
       "sourceCategories": [
-        "⚽🌍 National Teams"
+        "⚽🌍 National Teams",
+        "new season",
+        "💨🧥Windbreaker/Training Top"
       ],
       "sourceTitle": "Spain 2026 Full-Zip Jacket - White S-XXL",
-      "updatedAt": "2026-10-11T00:31:44.169Z"
+      "updatedAt": "2026-10-12T20:44:32.796Z"
     },
     {
       "id": "yupoo-239061946",
@@ -137045,10 +138615,11 @@
       "type": "Casual",
       "variant": "Fan version",
       "sourceCategories": [
-        "⚽🌍 National Teams"
+        "⚽🌍 National Teams",
+        "new season"
       ],
       "sourceTitle": "Spain 26/27 Polo Blue Jersey S-4XL",
-      "updatedAt": "2026-10-11T00:37:48.643Z"
+      "updatedAt": "2026-10-12T20:48:31.313Z"
     },
     {
       "id": "yupoo-251100383",
@@ -137083,10 +138654,11 @@
       "type": "Casual",
       "variant": "Fan version",
       "sourceCategories": [
-        "⚽🌍 National Teams"
+        "⚽🌍 National Teams",
+        "new season"
       ],
       "sourceTitle": "Spain 26/27 Polo Grey Jersey S-4XL",
-      "updatedAt": "2026-10-11T00:37:28.354Z"
+      "updatedAt": "2026-10-12T20:48:15.210Z"
     },
     {
       "id": "yupoo-251100154",
@@ -137121,10 +138693,11 @@
       "type": "Casual",
       "variant": "Fan version",
       "sourceCategories": [
-        "⚽🌍 National Teams"
+        "⚽🌍 National Teams",
+        "new season"
       ],
       "sourceTitle": "Spain 26/27 Polo Red Jersey S-4XL",
-      "updatedAt": "2026-10-11T00:37:58.876Z"
+      "updatedAt": "2026-10-12T20:48:39.727Z"
     },
     {
       "id": "yupoo-251100296",
@@ -137159,10 +138732,11 @@
       "type": "Casual",
       "variant": "Fan version",
       "sourceCategories": [
-        "⚽🌍 National Teams"
+        "⚽🌍 National Teams",
+        "new season"
       ],
       "sourceTitle": "Spain 26/27 Polo White Jersey Jersey S-4XL",
-      "updatedAt": "2026-10-11T00:37:38.054Z"
+      "updatedAt": "2026-10-12T20:48:23.246Z"
     },
     {
       "id": "yupoo-257639936",
@@ -137372,7 +138946,7 @@
       ],
       "availability": "unknown",
       "slug": "spain-cny-tang-jacket-red",
-      "siteCategory": "tracksuits",
+      "siteCategory": "training",
       "team": "Spain",
       "league": "National teams",
       "country": "Spain",
@@ -137380,10 +138954,12 @@
       "type": "Jacket",
       "variant": "Fan version",
       "sourceCategories": [
-        "⚽🌍 National Teams"
+        "⚽🌍 National Teams",
+        "new season",
+        "💨🧥Windbreaker/Training Top"
       ],
       "sourceTitle": "Spain CNY Tang Jacket Red S-XXL",
-      "updatedAt": "2026-10-11T00:49:46.463Z"
+      "updatedAt": "2026-10-12T20:51:44.903Z"
     },
     {
       "id": "yupoo-245506648",
@@ -137412,7 +138988,7 @@
       ],
       "availability": "unknown",
       "slug": "spain-cny-tang-jacket-red-2",
-      "siteCategory": "tracksuits",
+      "siteCategory": "training",
       "team": "Spain",
       "league": "National teams",
       "country": "Spain",
@@ -137420,10 +138996,12 @@
       "type": "Jacket",
       "variant": "Fan version",
       "sourceCategories": [
-        "⚽🌍 National Teams"
+        "⚽🌍 National Teams",
+        "new season",
+        "💨🧥Windbreaker/Training Top"
       ],
       "sourceTitle": "Spain CNY Tang Jacket Red S-XXL",
-      "updatedAt": "2026-10-11T00:49:58.187Z"
+      "updatedAt": "2026-10-12T20:51:53.287Z"
     },
     {
       "id": "yupoo-242618590",
