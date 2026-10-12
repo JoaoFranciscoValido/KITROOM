@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-12T22:16:03.312Z",
+  "generatedAt": "2026-10-12T22:39:14.893Z",
   "source": {
     "name": "Supplier catalogue",
     "url": "https://minkang.x.yupoo.com/albums"
   },
-  "count": 3800,
+  "count": 3900,
   "items": [
     {
       "id": "yupoo-64039421",
@@ -735,6 +735,46 @@
       ],
       "sourceTitle": "2021 Brazil Training Suit Blue S-XXL",
       "updatedAt": "2026-10-11T00:28:04.368Z"
+    },
+    {
+      "id": "yupoo-108034321",
+      "name": "2021 Japan Commemorative Edition Blue",
+      "category": "🇯🇵Japan League",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/108034321?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2021-japan-commemorative-edition-blue/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2021-japan-commemorative-edition-blue/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2021-japan-commemorative-edition-blue/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2021-japan-commemorative-edition-blue/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2021-japan-commemorative-edition-blue/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2021-japan-commemorative-edition-blue/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2021-japan-commemorative-edition-blue/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2021-japan-commemorative-edition-blue/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2021-japan-commemorative-edition-blue/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "2021-japan-commemorative-edition-blue",
+      "siteCategory": "national",
+      "team": "Japan",
+      "league": "National teams",
+      "country": "Japan",
+      "season": "2021",
+      "type": "Shirt",
+      "variant": "Special edition",
+      "sourceCategories": [
+        "🇯🇵Japan League",
+        "new season"
+      ],
+      "sourceTitle": "2021 Japan Commemorative Edition Blue S-XXL",
+      "updatedAt": "2026-10-12T22:37:27.486Z"
     },
     {
       "id": "yupoo-128491673",
@@ -2526,6 +2566,168 @@
       "updatedAt": "2026-10-12T21:36:49.675Z"
     },
     {
+      "id": "yupoo-135065230",
+      "name": "2023 Japan",
+      "category": "🇯🇵Japan League",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/135065230?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2023-japan/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2023-japan/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2023-japan/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2023-japan/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2023-japan/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2023-japan/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2023-japan/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2023-japan/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2023-japan/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "2023-japan",
+      "siteCategory": "national",
+      "team": "Japan",
+      "league": "National teams",
+      "country": "Japan",
+      "season": "2023",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "🇯🇵Japan League",
+        "new season"
+      ],
+      "sourceTitle": "2023 Japan S-XXL",
+      "updatedAt": "2026-10-12T22:35:41.349Z"
+    },
+    {
+      "id": "yupoo-131602285",
+      "name": "2023 Japan Special Edition",
+      "category": "🇯🇵Japan League",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/131602285?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2023-japan-special-edition/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2023-japan-special-edition/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2023-japan-special-edition/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2023-japan-special-edition/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2023-japan-special-edition/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2023-japan-special-edition/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2023-japan-special-edition/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2023-japan-special-edition/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2023-japan-special-edition/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2023-japan-special-edition/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "2023-japan-special-edition",
+      "siteCategory": "national",
+      "team": "Japan",
+      "league": "National teams",
+      "country": "Japan",
+      "season": "2023",
+      "type": "Shirt",
+      "variant": "Special edition",
+      "sourceCategories": [
+        "🇯🇵Japan League",
+        "new season"
+      ],
+      "sourceTitle": "2023 Japan Special Edition S-4XL",
+      "updatedAt": "2026-10-12T22:36:44.296Z"
+    },
+    {
+      "id": "yupoo-130120831",
+      "name": "2023 Japan Special Edition",
+      "category": "🇯🇵Japan League",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/130120831?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2023-japan-special-edition-2/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2023-japan-special-edition-2/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2023-japan-special-edition-2/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2023-japan-special-edition-2/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2023-japan-special-edition-2/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2023-japan-special-edition-2/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2023-japan-special-edition-2/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2023-japan-special-edition-2/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2023-japan-special-edition-2/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2023-japan-special-edition-2/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "2023-japan-special-edition-2",
+      "siteCategory": "national",
+      "team": "Japan",
+      "league": "National teams",
+      "country": "Japan",
+      "season": "2023",
+      "type": "Shirt",
+      "variant": "Special edition",
+      "sourceCategories": [
+        "🇯🇵Japan League",
+        "new season"
+      ],
+      "sourceTitle": "2023 Japan Special Edition S-XXL",
+      "updatedAt": "2026-10-12T22:37:01.534Z"
+    },
+    {
+      "id": "yupoo-135065117",
+      "name": "2023 Japan Tokyo Special Edition",
+      "category": "🇯🇵Japan League",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/135065117?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2023-japan-tokyo-special-edition/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2023-japan-tokyo-special-edition/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2023-japan-tokyo-special-edition/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2023-japan-tokyo-special-edition/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2023-japan-tokyo-special-edition/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2023-japan-tokyo-special-edition/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2023-japan-tokyo-special-edition/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2023-japan-tokyo-special-edition/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2023-japan-tokyo-special-edition/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "2023-japan-tokyo-special-edition",
+      "siteCategory": "national",
+      "team": "Japan",
+      "league": "National teams",
+      "country": "Japan",
+      "season": "2023",
+      "type": "Shirt",
+      "variant": "Special edition",
+      "sourceCategories": [
+        "🇯🇵Japan League",
+        "new season"
+      ],
+      "sourceTitle": "2023 Japan Tokyo Special Edition S-XXL",
+      "updatedAt": "2026-10-12T22:36:06.402Z"
+    },
+    {
       "id": "yupoo-160609341",
       "name": "2024 Brazil Away",
       "category": "Brazil team column",
@@ -2922,6 +3124,46 @@
       ],
       "sourceTitle": "2024 France Home S-4XL",
       "updatedAt": "2026-10-12T21:32:46.821Z"
+    },
+    {
+      "id": "yupoo-160609333",
+      "name": "2024 Japan Special Edition",
+      "category": "🇯🇵Japan League",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/160609333?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "2024-japan-special-edition",
+      "siteCategory": "national",
+      "team": "Japan",
+      "league": "National teams",
+      "country": "Japan",
+      "season": "2024",
+      "type": "Shirt",
+      "variant": "Special edition",
+      "sourceCategories": [
+        "🇯🇵Japan League",
+        "new season"
+      ],
+      "sourceTitle": "2024 Japan Special Edition S-4XL",
+      "updatedAt": "2026-10-12T22:35:24.796Z"
     },
     {
       "id": "yupoo-170004970",
@@ -5295,6 +5537,130 @@
       "updatedAt": "2026-10-11T13:19:07.501Z"
     },
     {
+      "id": "yupoo-134829534",
+      "name": "23/24 Japan Saint Seiya Blue",
+      "category": "🇯🇵Japan League",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/134829534?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/23-24-japan-saint-seiya-blue/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/23-24-japan-saint-seiya-blue/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/23-24-japan-saint-seiya-blue/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/23-24-japan-saint-seiya-blue/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/23-24-japan-saint-seiya-blue/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/23-24-japan-saint-seiya-blue/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/23-24-japan-saint-seiya-blue/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/23-24-japan-saint-seiya-blue/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/23-24-japan-saint-seiya-blue/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "23-24-japan-saint-seiya-blue",
+      "siteCategory": "national",
+      "team": "Japan",
+      "league": "National teams",
+      "country": "Japan",
+      "season": "2023/24",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "🇯🇵Japan League",
+        "new season"
+      ],
+      "sourceTitle": "23/24 Japan Saint Seiya Blue S-4XL",
+      "updatedAt": "2026-10-12T22:36:25.497Z"
+    },
+    {
+      "id": "yupoo-181884819",
+      "name": "24/25 Boca Juniors Home",
+      "category": "Liga Profesional",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/181884819?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-boca-juniors-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-boca-juniors-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-boca-juniors-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-boca-juniors-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-boca-juniors-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-boca-juniors-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-boca-juniors-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-boca-juniors-home/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-boca-juniors-home/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-boca-juniors-home/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "24-25-boca-juniors-home",
+      "siteCategory": "club",
+      "team": "Boca Juniors",
+      "league": "Other leagues",
+      "country": "Argentina",
+      "season": "2024/25",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "Liga Profesional",
+        "Boca Juniors",
+        "new season"
+      ],
+      "sourceTitle": "24/25 Boca Juniors Home S-4XL",
+      "updatedAt": "2026-10-12T22:21:26.615Z"
+    },
+    {
+      "id": "yupoo-160609304",
+      "name": "24/25 Celtic Special Edition",
+      "category": "Scottish League",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/160609304?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-celtic-special-edition/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-celtic-special-edition/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-celtic-special-edition/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-celtic-special-edition/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-celtic-special-edition/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-celtic-special-edition/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-celtic-special-edition/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-celtic-special-edition/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-celtic-special-edition/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-celtic-special-edition/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "24-25-celtic-special-edition",
+      "siteCategory": "club",
+      "team": "Celtic",
+      "league": "Other leagues",
+      "country": "Scotland",
+      "season": "2024/25",
+      "type": "Shirt",
+      "variant": "Special edition",
+      "sourceCategories": [
+        "Scottish League",
+        "Celtic F.C.",
+        "new season"
+      ],
+      "sourceTitle": "24/25 Celtic Special Edition S-4XL",
+      "updatedAt": "2026-10-12T22:31:47.056Z"
+    },
+    {
       "id": "yupoo-203669209",
       "name": "25/26 Ajax Retro",
       "category": "Retro football shirt",
@@ -5337,6 +5703,477 @@
       ],
       "sourceTitle": "25/26 Ajax Retro S-4XL",
       "updatedAt": "2026-10-11T16:56:32.010Z"
+    },
+    {
+      "id": "yupoo-196991347",
+      "name": "25/26 Boca Juniors Home Stadium",
+      "category": "Liga Profesional",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/196991347?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-boca-juniors-home-stadium/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-boca-juniors-home-stadium/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-boca-juniors-home-stadium/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-boca-juniors-home-stadium/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-boca-juniors-home-stadium/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-boca-juniors-home-stadium/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-boca-juniors-home-stadium/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-boca-juniors-home-stadium/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-boca-juniors-home-stadium/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-boca-juniors-home-stadium",
+      "siteCategory": "club",
+      "team": "Boca Juniors",
+      "league": "Other leagues",
+      "country": "Argentina",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "Liga Profesional",
+        "Boca Juniors",
+        "new season"
+      ],
+      "sourceTitle": "25/26 Boca Juniors Home Stadium S-4XL",
+      "updatedAt": "2026-10-12T22:20:51.874Z"
+    },
+    {
+      "id": "yupoo-210323680",
+      "name": "25/26 Boca Juniors Special Edition",
+      "category": "Liga Profesional",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/210323680?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-boca-juniors-special-edition/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-boca-juniors-special-edition/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-boca-juniors-special-edition/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-boca-juniors-special-edition/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-boca-juniors-special-edition/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-boca-juniors-special-edition/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-boca-juniors-special-edition/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-boca-juniors-special-edition/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-boca-juniors-special-edition/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-boca-juniors-special-edition",
+      "siteCategory": "club",
+      "team": "Boca Juniors",
+      "league": "Other leagues",
+      "country": "Argentina",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Special edition",
+      "sourceCategories": [
+        "Liga Profesional",
+        "Boca Juniors",
+        "new season"
+      ],
+      "sourceTitle": "25/26 Boca Juniors Special Edition S-4XL",
+      "updatedAt": "2026-10-12T22:18:38.067Z"
+    },
+    {
+      "id": "yupoo-193040701",
+      "name": "25/26 Boca Juniors Special Edition",
+      "category": "Liga Profesional",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/193040701?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-boca-juniors-special-edition-2/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-boca-juniors-special-edition-2/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-boca-juniors-special-edition-2/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-boca-juniors-special-edition-2/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-boca-juniors-special-edition-2/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-boca-juniors-special-edition-2/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-boca-juniors-special-edition-2/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-boca-juniors-special-edition-2/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-boca-juniors-special-edition-2/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-boca-juniors-special-edition-2",
+      "siteCategory": "club",
+      "team": "Boca Juniors",
+      "league": "Other leagues",
+      "country": "Argentina",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Special edition",
+      "sourceCategories": [
+        "Liga Profesional",
+        "Boca Juniors",
+        "new season"
+      ],
+      "sourceTitle": "25/26 Boca Juniors Special Edition S-XXL",
+      "updatedAt": "2026-10-12T22:21:07.271Z"
+    },
+    {
+      "id": "yupoo-210982599",
+      "name": "25/26 Boca training suit yellow",
+      "category": "Liga Profesional",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/210982599?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-boca-training-suit-yellow/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-boca-training-suit-yellow/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-boca-training-suit-yellow/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-boca-training-suit-yellow",
+      "siteCategory": "training",
+      "team": "Boca Juniors",
+      "league": "Other leagues",
+      "country": "Argentina",
+      "season": "2025/26",
+      "type": "Training",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "Liga Profesional",
+        "Boca Juniors",
+        "new season"
+      ],
+      "sourceTitle": "25/26 Boca training suit yellow S-3XL",
+      "updatedAt": "2026-10-12T22:18:13.676Z"
+    },
+    {
+      "id": "yupoo-210982587",
+      "name": "25/26 Boca training suit yellow",
+      "category": "Liga Profesional",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/210982587?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-boca-training-suit-yellow-2/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-boca-training-suit-yellow-2/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-boca-training-suit-yellow-2/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-boca-training-suit-yellow-2",
+      "siteCategory": "training",
+      "team": "Boca Juniors",
+      "league": "Other leagues",
+      "country": "Argentina",
+      "season": "2025/26",
+      "type": "Training",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "Liga Profesional",
+        "Boca Juniors",
+        "new season"
+      ],
+      "sourceTitle": "25/26 Boca training suit yellow S-3XL",
+      "updatedAt": "2026-10-12T22:18:22.234Z"
+    },
+    {
+      "id": "yupoo-210323711",
+      "name": "25/26 Celtic Special Edition",
+      "category": "Scottish League",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/210323711?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-celtic-special-edition/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-celtic-special-edition/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-celtic-special-edition/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-celtic-special-edition/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-celtic-special-edition/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-celtic-special-edition/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-celtic-special-edition/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-celtic-special-edition/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-celtic-special-edition/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-celtic-special-edition/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-celtic-special-edition/image-10.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-celtic-special-edition",
+      "siteCategory": "club",
+      "team": "Celtic",
+      "league": "Other leagues",
+      "country": "Scotland",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Special edition",
+      "sourceCategories": [
+        "Scottish League",
+        "Celtic F.C.",
+        "new season"
+      ],
+      "sourceTitle": "25/26 Celtic Special Edition S-4XL",
+      "updatedAt": "2026-10-12T22:30:50.871Z"
+    },
+    {
+      "id": "yupoo-214510739",
+      "name": "25／26 Celtic Windbreaker",
+      "category": "Scottish League",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/214510739?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-celtic-windbreaker/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-celtic-windbreaker/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-celtic-windbreaker/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-celtic-windbreaker/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-celtic-windbreaker/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-celtic-windbreaker/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-celtic-windbreaker/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-celtic-windbreaker/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-celtic-windbreaker/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-celtic-windbreaker",
+      "siteCategory": "training",
+      "team": "Celtic",
+      "league": "Other leagues",
+      "country": "Scotland",
+      "season": "",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "Scottish League",
+        "Celtic F.C.",
+        "💨🧥Windbreaker/Training Top"
+      ],
+      "sourceTitle": "25／26 Celtic Windbreaker S-XXL",
+      "updatedAt": "2026-10-12T22:29:08.103Z"
+    },
+    {
+      "id": "yupoo-210081248",
+      "name": "25/26 Celtics away",
+      "category": "Scottish League",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/210081248?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-celtics-away-2/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-celtics-away-2/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-celtics-away-2/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-celtics-away-2/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-celtics-away-2/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-celtics-away-2/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-celtics-away-2/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-celtics-away-2/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-celtics-away-2/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-celtics-away-2",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "Scottish League",
+        "Celtic F.C.",
+        "new season"
+      ],
+      "sourceTitle": "25/26 Celtics away S-4XL",
+      "updatedAt": "2026-10-12T22:31:06.568Z"
+    },
+    {
+      "id": "yupoo-194269662",
+      "name": "25/26 Celtics Away",
+      "category": "Scottish League",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/194269662?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-celtics-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-celtics-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-celtics-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-celtics-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-celtics-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-celtics-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-celtics-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-celtics-away/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-celtics-away/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-celtics-away/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-celtics-away",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "Scottish League",
+        "Celtic F.C.",
+        "new season",
+        "Premier League"
+      ],
+      "sourceTitle": "25/26 Celtics Away S-4XL",
+      "updatedAt": "2026-10-12T22:28:52.101Z"
+    },
+    {
+      "id": "yupoo-211960180",
+      "name": "25/26 Celtics Home",
+      "category": "Scottish League",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/211960180?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-celtics-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-celtics-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-celtics-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-celtics-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-celtics-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-celtics-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-celtics-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-celtics-home/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-celtics-home",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "Scottish League",
+        "Celtic F.C.",
+        "new season"
+      ],
+      "sourceTitle": "25/26 Celtics Home S-4XL",
+      "updatedAt": "2026-10-12T22:30:05.998Z"
+    },
+    {
+      "id": "yupoo-210982409",
+      "name": "25/26 Celtics Training Jersey Black",
+      "category": "Scottish League",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/210982409?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-celtics-training-jersey-black/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-celtics-training-jersey-black/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-celtics-training-jersey-black/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-celtics-training-jersey-black",
+      "siteCategory": "training",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2025/26",
+      "type": "Training",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "Scottish League",
+        "Celtic F.C.",
+        "new season"
+      ],
+      "sourceTitle": "25/26 Celtics Training Jersey Black S-3XL",
+      "updatedAt": "2026-10-12T22:30:15.755Z"
+    },
+    {
+      "id": "yupoo-210982372",
+      "name": "25/26 Celtics Training Jersey Black",
+      "category": "Scottish League",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/210982372?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-celtics-training-jersey-black-2/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-celtics-training-jersey-black-2/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-celtics-training-jersey-black-2/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-celtics-training-jersey-black-2",
+      "siteCategory": "training",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2025/26",
+      "type": "Training",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "Scottish League",
+        "Celtic F.C.",
+        "new season"
+      ],
+      "sourceTitle": "25/26 Celtics Training Jersey Black S-3XL",
+      "updatedAt": "2026-10-12T22:30:30.601Z"
     },
     {
       "id": "yupoo-193674264",
@@ -5419,6 +6256,128 @@
       ],
       "sourceTitle": "25/26 Long sleeve Flamengo Home S-4XL",
       "updatedAt": "2026-10-12T22:11:09.355Z"
+    },
+    {
+      "id": "yupoo-196991467",
+      "name": "25/26 National Athletic Home",
+      "category": "Liga Profesional",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/196991467?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-national-athletic-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-national-athletic-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-national-athletic-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-national-athletic-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-national-athletic-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-national-athletic-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-national-athletic-home/image-06.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-national-athletic-home",
+      "siteCategory": "club",
+      "team": "Athletic Club",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "Liga Profesional",
+        "new season"
+      ],
+      "sourceTitle": "25/26 National Athletic Home S-4XL",
+      "updatedAt": "2026-10-12T22:20:37.201Z"
+    },
+    {
+      "id": "yupoo-209263508",
+      "name": "25/26 Player Boca Juniors Away",
+      "category": "Liga Profesional",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/209263508?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-player-boca-juniors-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-player-boca-juniors-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-player-boca-juniors-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-player-boca-juniors-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-player-boca-juniors-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-player-boca-juniors-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-player-boca-juniors-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-player-boca-juniors-away/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-player-boca-juniors-away/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-player-boca-juniors-away",
+      "siteCategory": "club",
+      "team": "Boca Juniors",
+      "league": "Other leagues",
+      "country": "Argentina",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Player version",
+      "sourceCategories": [
+        "Liga Profesional",
+        "Boca Juniors",
+        "new season",
+        "⚽💪🏻Player Version"
+      ],
+      "sourceTitle": "25/26 Player Boca Juniors Away S-XXL",
+      "updatedAt": "2026-10-12T22:18:52.867Z"
+    },
+    {
+      "id": "yupoo-206448044",
+      "name": "25/26 Player Boca Juniors Home",
+      "category": "Liga Profesional",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/206448044?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-player-boca-juniors-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-player-boca-juniors-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-player-boca-juniors-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-player-boca-juniors-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-player-boca-juniors-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-player-boca-juniors-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-player-boca-juniors-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-player-boca-juniors-home/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-player-boca-juniors-home/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-player-boca-juniors-home",
+      "siteCategory": "club",
+      "team": "Boca Juniors",
+      "league": "Other leagues",
+      "country": "Argentina",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Player version",
+      "sourceCategories": [
+        "Liga Profesional",
+        "Boca Juniors",
+        "new season",
+        "⚽💪🏻Player Version"
+      ],
+      "sourceTitle": "25/26 Player Boca Juniors Home S-4XL",
+      "updatedAt": "2026-10-12T22:19:22.743Z"
     },
     {
       "id": "yupoo-190492872",
@@ -5549,6 +6508,254 @@
       ],
       "sourceTitle": "25/26 Player Long Sleeve Atletico Madrid Home Jersey S-3XL",
       "updatedAt": "2026-10-12T22:08:17.526Z"
+    },
+    {
+      "id": "yupoo-213375539",
+      "name": "25/26 Player River Plate Away",
+      "category": "Liga Profesional",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/213375539?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-player-river-plate-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-player-river-plate-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-player-river-plate-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-player-river-plate-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-player-river-plate-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-player-river-plate-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-player-river-plate-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-player-river-plate-away/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-player-river-plate-away/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-player-river-plate-away",
+      "siteCategory": "club",
+      "team": "River Plate",
+      "league": "Other leagues",
+      "country": "Argentina",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Player version",
+      "sourceCategories": [
+        "Liga Profesional",
+        "River Plate",
+        "new season",
+        "⚽💪🏻Player Version"
+      ],
+      "sourceTitle": "25/26 Player River Plate Away S-4XL",
+      "updatedAt": "2026-10-12T22:16:29.451Z"
+    },
+    {
+      "id": "yupoo-206448285",
+      "name": "25/26 Player River Plate Home",
+      "category": "Liga Profesional",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/206448285?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-player-river-plate-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-player-river-plate-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-player-river-plate-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-player-river-plate-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-player-river-plate-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-player-river-plate-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-player-river-plate-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-player-river-plate-home/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-player-river-plate-home/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-player-river-plate-home",
+      "siteCategory": "club",
+      "team": "River Plate",
+      "league": "Other leagues",
+      "country": "Argentina",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Player version",
+      "sourceCategories": [
+        "Liga Profesional",
+        "River Plate",
+        "new season",
+        "⚽💪🏻Player Version"
+      ],
+      "sourceTitle": "25/26 Player River Plate Home S-4XL",
+      "updatedAt": "2026-10-12T22:19:08.180Z"
+    },
+    {
+      "id": "yupoo-213143720",
+      "name": "25/26 Players National Athletic Away",
+      "category": "Liga Profesional",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/213143720?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-players-national-athletic-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-players-national-athletic-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-players-national-athletic-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-players-national-athletic-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-players-national-athletic-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-players-national-athletic-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-players-national-athletic-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-players-national-athletic-away/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-players-national-athletic-away/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-players-national-athletic-away",
+      "siteCategory": "club",
+      "team": "Athletic Club",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Player version",
+      "sourceCategories": [
+        "Liga Profesional",
+        "new season",
+        "⚽💪🏻Player Version"
+      ],
+      "sourceTitle": "25/26 Players National Athletic Away S-XXL",
+      "updatedAt": "2026-10-12T22:17:14.535Z"
+    },
+    {
+      "id": "yupoo-213142748",
+      "name": "25/26 Players National Athletic Home Stadium",
+      "category": "Liga Profesional",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/213142748?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-players-national-athletic-home-stadium/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-players-national-athletic-home-stadium/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-players-national-athletic-home-stadium/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-players-national-athletic-home-stadium/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-players-national-athletic-home-stadium/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-players-national-athletic-home-stadium/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-players-national-athletic-home-stadium/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-players-national-athletic-home-stadium/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-players-national-athletic-home-stadium/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-players-national-athletic-home-stadium",
+      "siteCategory": "club",
+      "team": "Athletic Club",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Player version",
+      "sourceCategories": [
+        "Liga Profesional",
+        "new season",
+        "⚽💪🏻Player Version"
+      ],
+      "sourceTitle": "25/26 Players National Athletic Home Stadium S-XXL",
+      "updatedAt": "2026-10-12T22:17:31.162Z"
+    },
+    {
+      "id": "yupoo-201768840",
+      "name": "25/26 River Plate Away",
+      "category": "Liga Profesional",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/201768840?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-river-plate-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-river-plate-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-river-plate-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-river-plate-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-river-plate-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-river-plate-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-river-plate-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-river-plate-away/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-river-plate-away/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-river-plate-away",
+      "siteCategory": "club",
+      "team": "River Plate",
+      "league": "Other leagues",
+      "country": "Argentina",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "Liga Profesional",
+        "River Plate",
+        "new season"
+      ],
+      "sourceTitle": "25/26 River Plate Away S-4XL",
+      "updatedAt": "2026-10-12T22:19:49.794Z"
+    },
+    {
+      "id": "yupoo-201768804",
+      "name": "25/26 River Plate Home",
+      "category": "Liga Profesional",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/201768804?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-river-plate-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-river-plate-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-river-plate-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-river-plate-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-river-plate-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-river-plate-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-river-plate-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-river-plate-home/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-river-plate-home/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-river-plate-home",
+      "siteCategory": "club",
+      "team": "River Plate",
+      "league": "Other leagues",
+      "country": "Argentina",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "Liga Profesional",
+        "River Plate",
+        "new season"
+      ],
+      "sourceTitle": "25/26 River Plate Home S-4XL",
+      "updatedAt": "2026-10-12T22:20:10.113Z"
     },
     {
       "id": "yupoo-214510295",
@@ -16129,6 +17336,40 @@
       "updatedAt": "2026-10-11T15:46:10.202Z"
     },
     {
+      "id": "yupoo-251866737",
+      "name": "Avispa Fukuoka 26/27 Home Jersey",
+      "category": "🇯🇵Japan League",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/251866737?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/avispa-fukuoka-26-27-home-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/avispa-fukuoka-26-27-home-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/avispa-fukuoka-26-27-home-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "avispa-fukuoka-26-27-home-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "🇯🇵Japan League",
+        "new season"
+      ],
+      "sourceTitle": "Avispa Fukuoka 26/27 Home Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:34:57.396Z"
+    },
+    {
       "id": "yupoo-226511214",
       "name": "BAPE Collaboration Player Version Jersey",
       "category": "⚽🌍 National Teams",
@@ -21947,6 +23188,49 @@
       ],
       "sourceTitle": "Boca Juniors 25/26 Player Version Home Long Sleeve Jersey S-4XL",
       "updatedAt": "2026-10-12T22:07:32.405Z"
+    },
+    {
+      "id": "yupoo-212258911",
+      "name": "Boca Juniors 25/26 second away Player Version Jersey",
+      "category": "Liga Profesional",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212258911?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/boca-juniors-25-26-second-away-player-version-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/boca-juniors-25-26-second-away-player-version-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/boca-juniors-25-26-second-away-player-version-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/boca-juniors-25-26-second-away-player-version-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/boca-juniors-25-26-second-away-player-version-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/boca-juniors-25-26-second-away-player-version-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/boca-juniors-25-26-second-away-player-version-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/boca-juniors-25-26-second-away-player-version-jersey/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/boca-juniors-25-26-second-away-player-version-jersey/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/boca-juniors-25-26-second-away-player-version-jersey/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "boca-juniors-25-26-second-away-player-version-jersey",
+      "siteCategory": "club",
+      "team": "Boca Juniors",
+      "league": "Other leagues",
+      "country": "Argentina",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Player version",
+      "sourceCategories": [
+        "Liga Profesional",
+        "Boca Juniors",
+        "new season",
+        "⚽💪🏻Player Version"
+      ],
+      "sourceTitle": "Boca Juniors 25/26 second away Player Version Jersey S-3XL",
+      "updatedAt": "2026-10-12T22:18:03.601Z"
     },
     {
       "id": "yupoo-229204560",
@@ -29584,6 +30868,201 @@
       "updatedAt": "2026-10-11T13:26:38.042Z"
     },
     {
+      "id": "yupoo-213273423",
+      "name": "Celtic 25/26 Player Version Third Jersey",
+      "category": "Scottish League",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/213273423?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-25-26-player-version-third-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-25-26-player-version-third-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-25-26-player-version-third-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-25-26-player-version-third-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-25-26-player-version-third-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-25-26-player-version-third-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-25-26-player-version-third-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-25-26-player-version-third-jersey/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-25-26-player-version-third-jersey/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "celtic-25-26-player-version-third-jersey",
+      "siteCategory": "club",
+      "team": "Celtic",
+      "league": "Other leagues",
+      "country": "Scotland",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Player version",
+      "sourceCategories": [
+        "Scottish League",
+        "Celtic F.C.",
+        "new season",
+        "⚽💪🏻Player Version"
+      ],
+      "sourceTitle": "Celtic 25/26 Player Version Third Jersey",
+      "updatedAt": "2026-10-12T22:29:22.797Z"
+    },
+    {
+      "id": "yupoo-213151644",
+      "name": "Celtic 25/26 Third Away Jersey",
+      "category": "Scottish League",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/213151644?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-25-26-third-away-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-25-26-third-away-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-25-26-third-away-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-25-26-third-away-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-25-26-third-away-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-25-26-third-away-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-25-26-third-away-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-25-26-third-away-jersey/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-25-26-third-away-jersey/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "celtic-25-26-third-away-jersey",
+      "siteCategory": "club",
+      "team": "Celtic",
+      "league": "Other leagues",
+      "country": "Scotland",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "Scottish League",
+        "Celtic F.C.",
+        "new season"
+      ],
+      "sourceTitle": "Celtic 25/26 Third Away Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:29:37.704Z"
+    },
+    {
+      "id": "yupoo-213151037",
+      "name": "Celtic 25/26 US Pack Full-Button Baseball Jersey White",
+      "category": "Scottish League",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/213151037?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-25-26-us-pack-full-button-baseball-jersey-white/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-25-26-us-pack-full-button-baseball-jersey-white/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-25-26-us-pack-full-button-baseball-jersey-white/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-25-26-us-pack-full-button-baseball-jersey-white/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-25-26-us-pack-full-button-baseball-jersey-white/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-25-26-us-pack-full-button-baseball-jersey-white/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-25-26-us-pack-full-button-baseball-jersey-white/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-25-26-us-pack-full-button-baseball-jersey-white/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-25-26-us-pack-full-button-baseball-jersey-white/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "celtic-25-26-us-pack-full-button-baseball-jersey-white",
+      "siteCategory": "club",
+      "team": "Celtic",
+      "league": "Other leagues",
+      "country": "Scotland",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "Scottish League",
+        "Celtic F.C.",
+        "new season"
+      ],
+      "sourceTitle": "Celtic 25/26 US Pack Full-Button Baseball Jersey White S-XXL",
+      "updatedAt": "2026-10-12T22:29:51.362Z"
+    },
+    {
+      "id": "yupoo-257730366",
+      "name": "Celtic 26/27 Away Jersey",
+      "category": "Scottish League",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257730366?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-26-27-away-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-26-27-away-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-26-27-away-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "celtic-26-27-away-jersey",
+      "siteCategory": "club",
+      "team": "Celtic",
+      "league": "Other leagues",
+      "country": "Scotland",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "Scottish League",
+        "Celtic F.C.",
+        "new season"
+      ],
+      "sourceTitle": "Celtic 26/27 Away Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:22:10.970Z"
+    },
+    {
+      "id": "yupoo-257730392",
+      "name": "Celtic 26/27 Away Kids Kit",
+      "category": "Scottish League",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257730392?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-26-27-away-kids-kit/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-26-27-away-kids-kit/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-26-27-away-kids-kit/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "celtic-26-27-away-kids-kit",
+      "siteCategory": "club",
+      "team": "Celtic",
+      "league": "Other leagues",
+      "country": "Scotland",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Kids",
+      "sourceCategories": [
+        "Scottish League",
+        "Celtic F.C.",
+        "new season",
+        "⚽👦🏻kids kit size：16-28"
+      ],
+      "sourceTitle": "Celtic 26/27 Away Kids Kit Size 16-28",
+      "updatedAt": "2026-10-12T22:22:01.719Z"
+    },
+    {
       "id": "yupoo-257730481",
       "name": "Celtic 26/27 Away Long-Sleeved Jersey",
       "category": "⚽Long sleeve shirt",
@@ -29620,6 +31099,207 @@
       "updatedAt": "2026-10-12T21:39:18.433Z"
     },
     {
+      "id": "yupoo-257730509",
+      "name": "Celtic 26/27 Away Player Version Jersey",
+      "category": "Scottish League",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/257730509?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-26-27-away-player-version-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-26-27-away-player-version-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-26-27-away-player-version-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "celtic-26-27-away-player-version-jersey",
+      "siteCategory": "club",
+      "team": "Celtic",
+      "league": "Other leagues",
+      "country": "Scotland",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Player version",
+      "sourceCategories": [
+        "Scottish League",
+        "Celtic F.C.",
+        "new season",
+        "⚽💪🏻Player Version"
+      ],
+      "sourceTitle": "Celtic 26/27 Away Player Version Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:22:19.521Z"
+    },
+    {
+      "id": "yupoo-255633599",
+      "name": "Celtic 26/27 Home Jersey",
+      "category": "Scottish League",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/255633599?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-26-27-home-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-26-27-home-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-26-27-home-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "celtic-26-27-home-jersey",
+      "siteCategory": "club",
+      "team": "Celtic",
+      "league": "Other leagues",
+      "country": "Scotland",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "Scottish League",
+        "Celtic F.C.",
+        "new season"
+      ],
+      "sourceTitle": "Celtic 26/27 Home Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:22:36.880Z"
+    },
+    {
+      "id": "yupoo-244522042",
+      "name": "Celtic 26/27 Home Jersey",
+      "category": "Scottish League",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/244522042?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-26-27-home-jersey-2/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-26-27-home-jersey-2/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-26-27-home-jersey-2/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-26-27-home-jersey-2/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-26-27-home-jersey-2/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-26-27-home-jersey-2/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-26-27-home-jersey-2/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-26-27-home-jersey-2/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-26-27-home-jersey-2/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "celtic-26-27-home-jersey-2",
+      "siteCategory": "club",
+      "team": "Celtic",
+      "league": "Other leagues",
+      "country": "Scotland",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "Scottish League",
+        "Celtic F.C.",
+        "new season"
+      ],
+      "sourceTitle": "Celtic 26/27 Home Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:25:54.610Z"
+    },
+    {
+      "id": "yupoo-251103228",
+      "name": "Celtic 26/27 Home Kids Kit Jersey",
+      "category": "Scottish League",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/251103228?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-26-27-home-kids-kit-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-26-27-home-kids-kit-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-26-27-home-kids-kit-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-26-27-home-kids-kit-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-26-27-home-kids-kit-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-26-27-home-kids-kit-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-26-27-home-kids-kit-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-26-27-home-kids-kit-jersey/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-26-27-home-kids-kit-jersey/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-26-27-home-kids-kit-jersey/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-26-27-home-kids-kit-jersey/image-10.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-26-27-home-kids-kit-jersey/image-11.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "celtic-26-27-home-kids-kit-jersey",
+      "siteCategory": "club",
+      "team": "Celtic",
+      "league": "Other leagues",
+      "country": "Scotland",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Kids",
+      "sourceCategories": [
+        "Scottish League",
+        "Celtic F.C.",
+        "new season",
+        "⚽👦🏻kids kit size：16-28"
+      ],
+      "sourceTitle": "Celtic 26/27 Home Kids Kit Jersey Size: 16-28",
+      "updatedAt": "2026-10-12T22:24:10.934Z"
+    },
+    {
+      "id": "yupoo-245426128",
+      "name": "Celtic 26/27 Home Kids Kit Jersey",
+      "category": "Scottish League",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/245426128?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-26-27-home-kids-kit-jersey-2/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-26-27-home-kids-kit-jersey-2/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-26-27-home-kids-kit-jersey-2/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-26-27-home-kids-kit-jersey-2/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-26-27-home-kids-kit-jersey-2/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-26-27-home-kids-kit-jersey-2/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-26-27-home-kids-kit-jersey-2/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-26-27-home-kids-kit-jersey-2/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-26-27-home-kids-kit-jersey-2/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-26-27-home-kids-kit-jersey-2/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-26-27-home-kids-kit-jersey-2/image-10.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "celtic-26-27-home-kids-kit-jersey-2",
+      "siteCategory": "club",
+      "team": "Celtic",
+      "league": "Other leagues",
+      "country": "Scotland",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Kids",
+      "sourceCategories": [
+        "Scottish League",
+        "Celtic F.C.",
+        "new season",
+        "⚽👦🏻kids kit size：16-28"
+      ],
+      "sourceTitle": "Celtic 26/27 Home Kids Kit Jersey Size：16-28",
+      "updatedAt": "2026-10-12T22:24:41.604Z"
+    },
+    {
       "id": "yupoo-257730561",
       "name": "Celtic 26/27 Home Long-Sleeved Jersey",
       "category": "⚽Long sleeve shirt",
@@ -29654,6 +31334,127 @@
       ],
       "sourceTitle": "Celtic 26/27 Home Long-Sleeved Jersey S-4XL",
       "updatedAt": "2026-10-12T21:39:01.834Z"
+    },
+    {
+      "id": "yupoo-244865712",
+      "name": "Celtic 26/27 Home Player Version Jersey",
+      "category": "Scottish League",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/244865712?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-26-27-home-player-version-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-26-27-home-player-version-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-26-27-home-player-version-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-26-27-home-player-version-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-26-27-home-player-version-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-26-27-home-player-version-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-26-27-home-player-version-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-26-27-home-player-version-jersey/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-26-27-home-player-version-jersey/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-26-27-home-player-version-jersey/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "celtic-26-27-home-player-version-jersey",
+      "siteCategory": "club",
+      "team": "Celtic",
+      "league": "Other leagues",
+      "country": "Scotland",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Player version",
+      "sourceCategories": [
+        "Scottish League",
+        "Celtic F.C.",
+        "new season",
+        "⚽💪🏻Player Version"
+      ],
+      "sourceTitle": "Celtic 26/27 Home Player Version Jersey S-3XL",
+      "updatedAt": "2026-10-12T22:25:23.678Z"
+    },
+    {
+      "id": "yupoo-255633636",
+      "name": "Celtic 26/27 Third Away Jersey",
+      "category": "Scottish League",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/255633636?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-26-27-third-away-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-26-27-third-away-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-26-27-third-away-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "celtic-26-27-third-away-jersey",
+      "siteCategory": "club",
+      "team": "Celtic",
+      "league": "Other leagues",
+      "country": "Scotland",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "Scottish League",
+        "Celtic F.C.",
+        "new season"
+      ],
+      "sourceTitle": "Celtic 26/27 Third Away Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:22:45.398Z"
+    },
+    {
+      "id": "yupoo-253283961",
+      "name": "Celtic 26/27 Third Away Kids kit",
+      "category": "Scottish League",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/253283961?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-26-27-third-away-kids-kit/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-26-27-third-away-kids-kit/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-26-27-third-away-kids-kit/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-26-27-third-away-kids-kit/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-26-27-third-away-kids-kit/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-26-27-third-away-kids-kit/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-26-27-third-away-kids-kit/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-26-27-third-away-kids-kit/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-26-27-third-away-kids-kit/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-26-27-third-away-kids-kit/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "celtic-26-27-third-away-kids-kit",
+      "siteCategory": "club",
+      "team": "Celtic",
+      "league": "Other leagues",
+      "country": "Scotland",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Kids",
+      "sourceCategories": [
+        "Scottish League",
+        "Celtic F.C.",
+        "new season",
+        "⚽👦🏻kids kit size：16-28"
+      ],
+      "sourceTitle": "Celtic 26/27 Third Away Kids kit Size 16-28",
+      "updatedAt": "2026-10-12T22:23:32.077Z"
     },
     {
       "id": "yupoo-229931863",
@@ -29694,6 +31495,45 @@
       ],
       "sourceTitle": "Celtic 26/27 Travel Long-Sleeve Shirt 4 S-4XL",
       "updatedAt": "2026-10-12T21:54:36.385Z"
+    },
+    {
+      "id": "yupoo-229894004",
+      "name": "Celtic 26/27 Travel Shirt 4",
+      "category": "Scottish League",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/229894004?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-26-27-travel-shirt-4/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-26-27-travel-shirt-4/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-26-27-travel-shirt-4/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-26-27-travel-shirt-4/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-26-27-travel-shirt-4/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-26-27-travel-shirt-4/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-26-27-travel-shirt-4/image-06.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "celtic-26-27-travel-shirt-4",
+      "siteCategory": "club",
+      "team": "Celtic",
+      "league": "Other leagues",
+      "country": "Scotland",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "Scottish League",
+        "Celtic F.C.",
+        "new season"
+      ],
+      "sourceTitle": "Celtic 26/27 Travel Shirt 4 S-4XL",
+      "updatedAt": "2026-10-12T22:26:37.509Z"
     },
     {
       "id": "yupoo-257329305",
@@ -29969,6 +31809,126 @@
       "updatedAt": "2026-10-11T10:41:33.544Z"
     },
     {
+      "id": "yupoo-252957624",
+      "name": "Celtic Originals Retro Style Casual Shirt",
+      "category": "Scottish League",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/252957624?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-originals-retro-style-casual-shirt/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-originals-retro-style-casual-shirt/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-originals-retro-style-casual-shirt/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-originals-retro-style-casual-shirt/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-originals-retro-style-casual-shirt/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-originals-retro-style-casual-shirt/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-originals-retro-style-casual-shirt/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-originals-retro-style-casual-shirt/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-originals-retro-style-casual-shirt/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-originals-retro-style-casual-shirt/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "celtic-originals-retro-style-casual-shirt",
+      "siteCategory": "other",
+      "team": "Celtic",
+      "league": "Other leagues",
+      "country": "Scotland",
+      "season": "",
+      "type": "Casual",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Scottish League",
+        "new season"
+      ],
+      "sourceTitle": "Celtic Originals Retro Style Casual Shirt S-XXL",
+      "updatedAt": "2026-10-12T22:22:58.235Z"
+    },
+    {
+      "id": "yupoo-236110269",
+      "name": "Celtic Terrace Icons Shorts Fluorescent Green",
+      "category": "Scottish League",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/236110269?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-terrace-icons-shorts-fluorescent-green/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-terrace-icons-shorts-fluorescent-green/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-terrace-icons-shorts-fluorescent-green/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-terrace-icons-shorts-fluorescent-green/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-terrace-icons-shorts-fluorescent-green/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-terrace-icons-shorts-fluorescent-green/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-terrace-icons-shorts-fluorescent-green/image-06.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "celtic-terrace-icons-shorts-fluorescent-green",
+      "siteCategory": "shorts",
+      "team": "Celtic",
+      "league": "Other leagues",
+      "country": "Scotland",
+      "season": "",
+      "type": "Shorts",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "Scottish League",
+        "Celtic F.C.",
+        "new season",
+        "Shorts"
+      ],
+      "sourceTitle": "Celtic Terrace Icons Shorts Fluorescent Green S-XXL",
+      "updatedAt": "2026-10-12T22:26:22.350Z"
+    },
+    {
+      "id": "yupoo-237392233",
+      "name": "Celtic Terrace Icons T-Shirt Black",
+      "category": "Scottish League",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/237392233?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-terrace-icons-t-shirt-black/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-terrace-icons-t-shirt-black/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-terrace-icons-t-shirt-black/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-terrace-icons-t-shirt-black/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-terrace-icons-t-shirt-black/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-terrace-icons-t-shirt-black/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtic-terrace-icons-t-shirt-black/image-06.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "celtic-terrace-icons-t-shirt-black",
+      "siteCategory": "other",
+      "team": "Celtic",
+      "league": "Other leagues",
+      "country": "Scotland",
+      "season": "",
+      "type": "Casual",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "Scottish League",
+        "Celtic F.C.",
+        "new season"
+      ],
+      "sourceTitle": "Celtic Terrace Icons T-Shirt Black S-XXL",
+      "updatedAt": "2026-10-12T22:26:08.069Z"
+    },
+    {
       "id": "yupoo-212194834",
       "name": "Celtics 1980 Home Retro Jersey",
       "category": "Retro football shirt",
@@ -30208,6 +32168,113 @@
       ],
       "sourceTitle": "Celtics 94/96 Away Retro Jersey S-XXL",
       "updatedAt": "2026-10-11T10:41:07.564Z"
+    },
+    {
+      "id": "yupoo-227758347",
+      "name": "Celtics Terrace Icons Shorts T-Shirt Fluorescent Green",
+      "category": "Scottish League",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/227758347?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtics-terrace-icons-shorts-t-shirt-fluorescent-green/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtics-terrace-icons-shorts-t-shirt-fluorescent-green/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtics-terrace-icons-shorts-t-shirt-fluorescent-green/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtics-terrace-icons-shorts-t-shirt-fluorescent-green/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtics-terrace-icons-shorts-t-shirt-fluorescent-green/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtics-terrace-icons-shorts-t-shirt-fluorescent-green/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celtics-terrace-icons-shorts-t-shirt-fluorescent-green/image-06.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "celtics-terrace-icons-shorts-t-shirt-fluorescent-green",
+      "siteCategory": "shorts",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "",
+      "type": "Shorts",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "Scottish League",
+        "Celtic F.C.",
+        "new season"
+      ],
+      "sourceTitle": "Celtics Terrace Icons Shorts T-Shirt Fluorescent Green S-XXL",
+      "updatedAt": "2026-10-12T22:26:54.382Z"
+    },
+    {
+      "id": "yupoo-251866754",
+      "name": "Cerezo Osaka 26/27 Away Jersey",
+      "category": "🇯🇵Japan League",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/251866754?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/cerezo-osaka-26-27-away-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/cerezo-osaka-26-27-away-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/cerezo-osaka-26-27-away-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "cerezo-osaka-26-27-away-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "🇯🇵Japan League",
+        "new season"
+      ],
+      "sourceTitle": "Cerezo Osaka 26/27 Away Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:34:48.659Z"
+    },
+    {
+      "id": "yupoo-251866766",
+      "name": "Cerezo Osaka 26/27 Home jersey",
+      "category": "🇯🇵Japan League",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/251866766?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/cerezo-osaka-26-27-home-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/cerezo-osaka-26-27-home-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/cerezo-osaka-26-27-home-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "cerezo-osaka-26-27-home-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "🇯🇵Japan League",
+        "new season"
+      ],
+      "sourceTitle": "Cerezo Osaka 26/27 Home jersey S-4XL",
+      "updatedAt": "2026-10-12T22:34:39.377Z"
     },
     {
       "id": "yupoo-255031731",
@@ -39682,6 +41749,41 @@
       "updatedAt": "2026-10-11T13:02:01.607Z"
     },
     {
+      "id": "yupoo-252347781",
+      "name": "Dundee United 26/27 Home Jersey",
+      "category": "Scottish League",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/252347781?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/dundee-united-26-27-home-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/dundee-united-26-27-home-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/dundee-united-26-27-home-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "dundee-united-26-27-home-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "Scottish League",
+        "Dundee United",
+        "new season"
+      ],
+      "sourceTitle": "Dundee United 26/27 Home Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:23:06.745Z"
+    },
+    {
       "id": "yupoo-245838000",
       "name": "Düsseldorf 1996 Away Retro Jersey",
       "category": "Retro football shirt",
@@ -42661,6 +44763,40 @@
       "updatedAt": "2026-10-11T10:57:49.594Z"
     },
     {
+      "id": "yupoo-251866795",
+      "name": "FC TOKYO 26/27 Home Jersey",
+      "category": "🇯🇵Japan League",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/251866795?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/fc-tokyo-26-27-home-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/fc-tokyo-26-27-home-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/fc-tokyo-26-27-home-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "fc-tokyo-26-27-home-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "🇯🇵Japan League",
+        "new season"
+      ],
+      "sourceTitle": "FC TOKYO 26/27 Home Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:34:31.357Z"
+    },
+    {
       "id": "yupoo-214129822",
       "name": "Fenerbahce 07/08 Away Retro Jersey",
       "category": "Retro football shirt",
@@ -44590,6 +46726,72 @@
       ],
       "sourceTitle": "Flamengo 26/27 Home Long-Sleeve Jersey S-4XL",
       "updatedAt": "2026-10-12T21:55:35.366Z"
+    },
+    {
+      "id": "yupoo-97221582",
+      "name": "Flamengo away video production",
+      "category": "Uncategorized album",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/97221582?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-away-video-production/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-away-video-production/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-away-video-production/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "flamengo-away-video-production",
+      "siteCategory": "club",
+      "team": "Flamengo",
+      "league": "Brasileiro Série A",
+      "country": "Brazil",
+      "season": "",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "Uncategorized album"
+      ],
+      "sourceTitle": "Flamengo away video production",
+      "updatedAt": "2026-10-12T22:37:47.932Z"
+    },
+    {
+      "id": "yupoo-102400369",
+      "name": "Flamengo's third away production video.",
+      "category": "Uncategorized album",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/102400369?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-s-third-away-production-video/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-s-third-away-production-video/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-s-third-away-production-video/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "flamengo-s-third-away-production-video",
+      "siteCategory": "club",
+      "team": "Flamengo",
+      "league": "Brasileiro Série A",
+      "country": "Brazil",
+      "season": "",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "Uncategorized album"
+      ],
+      "sourceTitle": "Flamengo's third away production video.",
+      "updatedAt": "2026-10-12T22:37:38.860Z"
     },
     {
       "id": "yupoo-212194247",
@@ -47361,6 +49563,74 @@
       ],
       "sourceTitle": "Galatasaray 99/00 Third Away Retro Jersey S-XXL",
       "updatedAt": "2026-10-11T13:57:40.576Z"
+    },
+    {
+      "id": "yupoo-251866825",
+      "name": "Gamba Osaka 26/27 Away Jersey",
+      "category": "🇯🇵Japan League",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/251866825?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/gamba-osaka-26-27-away-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/gamba-osaka-26-27-away-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/gamba-osaka-26-27-away-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "gamba-osaka-26-27-away-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "🇯🇵Japan League",
+        "new season"
+      ],
+      "sourceTitle": "Gamba Osaka 26/27 Away Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:34:22.783Z"
+    },
+    {
+      "id": "yupoo-251866836",
+      "name": "Gamba Osaka 26/27 Home Jersey",
+      "category": "🇯🇵Japan League",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/251866836?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/gamba-osaka-26-27-home-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/gamba-osaka-26-27-home-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/gamba-osaka-26-27-home-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "gamba-osaka-26-27-home-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "🇯🇵Japan League",
+        "new season"
+      ],
+      "sourceTitle": "Gamba Osaka 26/27 Home Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:34:13.019Z"
     },
     {
       "id": "yupoo-221175925",
@@ -59926,6 +62196,176 @@
       "updatedAt": "2026-10-11T11:13:55.751Z"
     },
     {
+      "id": "yupoo-251866859",
+      "name": "Kashima Antlers 26/27 Home Jersey",
+      "category": "🇯🇵Japan League",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/251866859?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kashima-antlers-26-27-home-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kashima-antlers-26-27-home-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kashima-antlers-26-27-home-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "kashima-antlers-26-27-home-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "🇯🇵Japan League",
+        "new season"
+      ],
+      "sourceTitle": "Kashima Antlers 26/27 Home Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:34:04.229Z"
+    },
+    {
+      "id": "yupoo-251866876",
+      "name": "Kashiwa Reysol 26/27 Away Jersey",
+      "category": "🇯🇵Japan League",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/251866876?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kashiwa-reysol-26-27-away-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kashiwa-reysol-26-27-away-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kashiwa-reysol-26-27-away-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "kashiwa-reysol-26-27-away-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "🇯🇵Japan League",
+        "new season"
+      ],
+      "sourceTitle": "Kashiwa Reysol 26/27 Away Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:33:55.719Z"
+    },
+    {
+      "id": "yupoo-251866899",
+      "name": "Kashiwa Reysol 26/27 Home Jersey",
+      "category": "🇯🇵Japan League",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/251866899?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kashiwa-reysol-26-27-home-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kashiwa-reysol-26-27-home-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kashiwa-reysol-26-27-home-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "kashiwa-reysol-26-27-home-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "🇯🇵Japan League",
+        "new season"
+      ],
+      "sourceTitle": "Kashiwa Reysol 26/27 Home Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:33:46.603Z"
+    },
+    {
+      "id": "yupoo-251866912",
+      "name": "Kawasaki Frontale 26/27 Away Jersey",
+      "category": "🇯🇵Japan League",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/251866912?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kawasaki-frontale-26-27-away-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kawasaki-frontale-26-27-away-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kawasaki-frontale-26-27-away-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "kawasaki-frontale-26-27-away-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "🇯🇵Japan League",
+        "new season"
+      ],
+      "sourceTitle": "Kawasaki Frontale 26/27 Away Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:33:38.071Z"
+    },
+    {
+      "id": "yupoo-251866959",
+      "name": "Kawasaki Frontale 26/27 Home Jersey",
+      "category": "🇯🇵Japan League",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/251866959?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kawasaki-frontale-26-27-home-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kawasaki-frontale-26-27-home-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kawasaki-frontale-26-27-home-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "kawasaki-frontale-26-27-home-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "🇯🇵Japan League",
+        "new season"
+      ],
+      "sourceTitle": "Kawasaki Frontale 26/27 Home Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:33:29.642Z"
+    },
+    {
       "id": "yupoo-160609393",
       "name": "kids AC Milan 06/07 Champions League away",
       "category": "Retro football shirt",
@@ -62725,6 +65165,74 @@
       ],
       "sourceTitle": "Köln 95/96 Away Retro Jersey S-XXL",
       "updatedAt": "2026-10-11T14:17:55.824Z"
+    },
+    {
+      "id": "yupoo-251866975",
+      "name": "Kyoto Sanga 26/27 Away Jersey S-4X",
+      "category": "🇯🇵Japan League",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/251866975?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kyoto-sanga-26-27-away-jersey-s-4x/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kyoto-sanga-26-27-away-jersey-s-4x/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kyoto-sanga-26-27-away-jersey-s-4x/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "kyoto-sanga-26-27-away-jersey-s-4x",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "🇯🇵Japan League",
+        "new season"
+      ],
+      "sourceTitle": "Kyoto Sanga 26/27 Away Jersey S-4X",
+      "updatedAt": "2026-10-12T22:33:21.186Z"
+    },
+    {
+      "id": "yupoo-251866992",
+      "name": "Kyoto Sanga 26/27 Home Jersey",
+      "category": "🇯🇵Japan League",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/251866992?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kyoto-sanga-26-27-home-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kyoto-sanga-26-27-home-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kyoto-sanga-26-27-home-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "kyoto-sanga-26-27-home-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "🇯🇵Japan League",
+        "new season"
+      ],
+      "sourceTitle": "Kyoto Sanga 26/27 Home Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:33:12.452Z"
     },
     {
       "id": "yupoo-212586102",
@@ -73474,6 +75982,74 @@
       ],
       "sourceTitle": "Nacional 80/82 Home Retro Jersey S-XXL",
       "updatedAt": "2026-10-11T10:20:21.879Z"
+    },
+    {
+      "id": "yupoo-251867089",
+      "name": "Nagoya Grampus 26/27 Away Jersey",
+      "category": "🇯🇵Japan League",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/251867089?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/nagoya-grampus-26-27-away-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/nagoya-grampus-26-27-away-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/nagoya-grampus-26-27-away-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "nagoya-grampus-26-27-away-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "🇯🇵Japan League",
+        "new season"
+      ],
+      "sourceTitle": "Nagoya Grampus 26/27 Away Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:33:04.171Z"
+    },
+    {
+      "id": "yupoo-251867102",
+      "name": "Nagoya Grampus 26/27 Home Jersey",
+      "category": "🇯🇵Japan League",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/251867102?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/nagoya-grampus-26-27-home-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/nagoya-grampus-26-27-home-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/nagoya-grampus-26-27-home-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "nagoya-grampus-26-27-home-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "🇯🇵Japan League",
+        "new season"
+      ],
+      "sourceTitle": "Nagoya Grampus 26/27 Home Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:32:56.120Z"
     },
     {
       "id": "yupoo-212584896",
@@ -85736,6 +88312,48 @@
       "updatedAt": "2026-10-11T13:46:49.368Z"
     },
     {
+      "id": "yupoo-213144848",
+      "name": "Racing Club 25/26 Away Player Version Jersey",
+      "category": "Liga Profesional",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/213144848?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/racing-club-25-26-away-player-version-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/racing-club-25-26-away-player-version-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/racing-club-25-26-away-player-version-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/racing-club-25-26-away-player-version-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/racing-club-25-26-away-player-version-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/racing-club-25-26-away-player-version-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/racing-club-25-26-away-player-version-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/racing-club-25-26-away-player-version-jersey/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/racing-club-25-26-away-player-version-jersey/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "racing-club-25-26-away-player-version-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Player version",
+      "sourceCategories": [
+        "Liga Profesional",
+        "Racing Club",
+        "new season",
+        "⚽💪🏻Player Version"
+      ],
+      "sourceTitle": "Racing Club 25/26 Away Player Version Jersey S-3XL",
+      "updatedAt": "2026-10-12T22:16:58.891Z"
+    },
+    {
       "id": "yupoo-213794735",
       "name": "Racing Club 97/98 Home Retro Jersey",
       "category": "Retro football shirt",
@@ -86048,6 +88666,416 @@
       ],
       "sourceTitle": "Rangers 1994 Away Retro Jersey S-XXL",
       "updatedAt": "2026-10-11T16:26:45.467Z"
+    },
+    {
+      "id": "yupoo-213267408",
+      "name": "Rangers 25/26 Away Jersey",
+      "category": "Scottish League",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/213267408?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-25-26-away-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-25-26-away-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-25-26-away-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-25-26-away-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-25-26-away-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-25-26-away-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-25-26-away-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-25-26-away-jersey/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-25-26-away-jersey/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "rangers-25-26-away-jersey",
+      "siteCategory": "club",
+      "team": "Rangers",
+      "league": "Other leagues",
+      "country": "Scotland",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "Scottish League",
+        "Rangers F.C.",
+        "new season",
+        "Premier League"
+      ],
+      "sourceTitle": "Rangers 25/26 Away Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:27:53.768Z"
+    },
+    {
+      "id": "yupoo-216215281",
+      "name": "Rangers 25/26 Home Jersey",
+      "category": "Scottish League",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/216215281?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-25-26-home-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-25-26-home-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-25-26-home-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-25-26-home-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-25-26-home-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-25-26-home-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-25-26-home-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-25-26-home-jersey/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-25-26-home-jersey/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "rangers-25-26-home-jersey",
+      "siteCategory": "club",
+      "team": "Rangers",
+      "league": "Other leagues",
+      "country": "Scotland",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "Scottish League",
+        "Rangers F.C.",
+        "new season"
+      ],
+      "sourceTitle": "Rangers 25/26 Home Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:27:28.720Z"
+    },
+    {
+      "id": "yupoo-216215310",
+      "name": "Rangers 25/26 Third Jersey",
+      "category": "Scottish League",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/216215310?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-25-26-third-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-25-26-third-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-25-26-third-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-25-26-third-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-25-26-third-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-25-26-third-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-25-26-third-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-25-26-third-jersey/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "rangers-25-26-third-jersey",
+      "siteCategory": "club",
+      "team": "Rangers",
+      "league": "Other leagues",
+      "country": "Scotland",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "Scottish League",
+        "Rangers F.C.",
+        "new season"
+      ],
+      "sourceTitle": "Rangers 25/26 Third Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:27:11.555Z"
+    },
+    {
+      "id": "yupoo-213268979",
+      "name": "Rangers 25/26 Third Jersey",
+      "category": "Scottish League",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/213268979?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-25-26-third-jersey-2/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-25-26-third-jersey-2/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-25-26-third-jersey-2/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-25-26-third-jersey-2/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-25-26-third-jersey-2/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-25-26-third-jersey-2/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-25-26-third-jersey-2/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-25-26-third-jersey-2/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-25-26-third-jersey-2/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "rangers-25-26-third-jersey-2",
+      "siteCategory": "club",
+      "team": "Rangers",
+      "league": "Other leagues",
+      "country": "Scotland",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "Scottish League",
+        "Rangers F.C.",
+        "new season",
+        "Premier League"
+      ],
+      "sourceTitle": "Rangers 25/26 Third Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:28:18.919Z"
+    },
+    {
+      "id": "yupoo-255634495",
+      "name": "Rangers 26/27 Away Jersey",
+      "category": "Scottish League",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/255634495?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-26-27-away-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-26-27-away-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-26-27-away-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "rangers-26-27-away-jersey",
+      "siteCategory": "club",
+      "team": "Rangers",
+      "league": "Other leagues",
+      "country": "Scotland",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "Scottish League",
+        "Rangers F.C.",
+        "new season"
+      ],
+      "sourceTitle": "Rangers 26/27 Away Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:22:28.391Z"
+    },
+    {
+      "id": "yupoo-245427692",
+      "name": "Rangers 26/27 Away Kids Kit Jersey",
+      "category": "Scottish League",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/245427692?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-26-27-away-kids-kit-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-26-27-away-kids-kit-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-26-27-away-kids-kit-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-26-27-away-kids-kit-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-26-27-away-kids-kit-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-26-27-away-kids-kit-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-26-27-away-kids-kit-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-26-27-away-kids-kit-jersey/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-26-27-away-kids-kit-jersey/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-26-27-away-kids-kit-jersey/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-26-27-away-kids-kit-jersey/image-10.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-26-27-away-kids-kit-jersey/image-11.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-26-27-away-kids-kit-jersey/image-12.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "rangers-26-27-away-kids-kit-jersey",
+      "siteCategory": "club",
+      "team": "Rangers",
+      "league": "Other leagues",
+      "country": "Scotland",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Kids",
+      "sourceCategories": [
+        "Scottish League",
+        "Rangers F.C.",
+        "new season",
+        "⚽👦🏻kids kit size：16-28"
+      ],
+      "sourceTitle": "Rangers 26/27 Away Kids Kit Jersey Size 16-28",
+      "updatedAt": "2026-10-12T22:25:06.769Z"
+    },
+    {
+      "id": "yupoo-244623420",
+      "name": "Rangers 26/27 Home Jersey",
+      "category": "Scottish League",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/244623420?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-26-27-home-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-26-27-home-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-26-27-home-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-26-27-home-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-26-27-home-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-26-27-home-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-26-27-home-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-26-27-home-jersey/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "rangers-26-27-home-jersey",
+      "siteCategory": "club",
+      "team": "Rangers",
+      "league": "Other leagues",
+      "country": "Scotland",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "Scottish League",
+        "Rangers F.C.",
+        "new season"
+      ],
+      "sourceTitle": "Rangers 26/27 Home Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:25:37.618Z"
+    },
+    {
+      "id": "yupoo-253283155",
+      "name": "Rangers 26/27 Home Kids kit",
+      "category": "Scottish League",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/253283155?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-26-27-home-kids-kit/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-26-27-home-kids-kit/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-26-27-home-kids-kit/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-26-27-home-kids-kit/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-26-27-home-kids-kit/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-26-27-home-kids-kit/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-26-27-home-kids-kit/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-26-27-home-kids-kit/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-26-27-home-kids-kit/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-26-27-home-kids-kit/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-26-27-home-kids-kit/image-10.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-26-27-home-kids-kit/image-11.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-26-27-home-kids-kit/image-12.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "rangers-26-27-home-kids-kit",
+      "siteCategory": "club",
+      "team": "Rangers",
+      "league": "Other leagues",
+      "country": "Scotland",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Kids",
+      "sourceCategories": [
+        "Scottish League",
+        "Rangers F.C.",
+        "new season",
+        "⚽👦🏻kids kit size：16-28"
+      ],
+      "sourceTitle": "Rangers 26/27 Home Kids kit Size 16-28",
+      "updatedAt": "2026-10-12T22:23:49.854Z"
+    },
+    {
+      "id": "yupoo-249065323",
+      "name": "Rangers 26/27 Third Away Game Jersey",
+      "category": "Scottish League",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/249065323?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-26-27-third-away-game-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-26-27-third-away-game-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-26-27-third-away-game-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-26-27-third-away-game-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-26-27-third-away-game-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-26-27-third-away-game-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-26-27-third-away-game-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-26-27-third-away-game-jersey/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-26-27-third-away-game-jersey/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-26-27-third-away-game-jersey/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "rangers-26-27-third-away-game-jersey",
+      "siteCategory": "club",
+      "team": "Rangers",
+      "league": "Other leagues",
+      "country": "Scotland",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "Scottish League",
+        "Rangers F.C.",
+        "new season"
+      ],
+      "sourceTitle": "Rangers 26/27 Third Away Game Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:24:26.047Z"
+    },
+    {
+      "id": "yupoo-253817748",
+      "name": "Rangers 26/27 Third Kids Kit",
+      "category": "Scottish League",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/253817748?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-26-27-third-kids-kit/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-26-27-third-kids-kit/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rangers-26-27-third-kids-kit/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "rangers-26-27-third-kids-kit",
+      "siteCategory": "club",
+      "team": "Rangers",
+      "league": "Other leagues",
+      "country": "Scotland",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Kids",
+      "sourceCategories": [
+        "Scottish League",
+        "Rangers F.C.",
+        "new season",
+        "⚽👦🏻kids kit size：16-28"
+      ],
+      "sourceTitle": "Rangers 26/27 Third Kids Kit Size 16-28",
+      "updatedAt": "2026-10-12T22:23:16.363Z"
     },
     {
       "id": "yupoo-255634520",
@@ -94806,6 +97834,45 @@
       ],
       "sourceTitle": "Retro 1978 Argentina home S-XXL",
       "updatedAt": "2026-10-12T20:37:12.793Z"
+    },
+    {
+      "id": "yupoo-128491894",
+      "name": "Retro 1978 Long Sleeve Argentina Home",
+      "category": "Liga Profesional",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/128491894?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-1978-long-sleeve-argentina-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-1978-long-sleeve-argentina-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-1978-long-sleeve-argentina-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-1978-long-sleeve-argentina-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-1978-long-sleeve-argentina-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-1978-long-sleeve-argentina-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-1978-long-sleeve-argentina-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-1978-long-sleeve-argentina-home/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-1978-long-sleeve-argentina-home",
+      "siteCategory": "retro",
+      "team": "Argentina",
+      "league": "National teams",
+      "country": "Argentina",
+      "season": "1978",
+      "type": "Shirt",
+      "variant": "Long sleeve",
+      "sourceCategories": [
+        "Liga Profesional",
+        "new season"
+      ],
+      "sourceTitle": "Retro 1978 Long Sleeve Argentina Home S-XXL",
+      "updatedAt": "2026-10-12T22:21:51.349Z"
     },
     {
       "id": "yupoo-85143777",
@@ -133473,6 +136540,47 @@
       "updatedAt": "2026-10-12T00:00:18.286Z"
     },
     {
+      "id": "yupoo-194449728",
+      "name": "Retro Sporting Lisbon 99/00 home",
+      "category": "Scottish League",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/194449728?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-sporting-lisbon-99-00-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-sporting-lisbon-99-00-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-sporting-lisbon-99-00-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-sporting-lisbon-99-00-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-sporting-lisbon-99-00-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-sporting-lisbon-99-00-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-sporting-lisbon-99-00-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-sporting-lisbon-99-00-home/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-sporting-lisbon-99-00-home",
+      "siteCategory": "retro",
+      "team": "Sporting CP",
+      "league": "Liga Portugal",
+      "country": "Portugal",
+      "season": "1999/00",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Scottish League",
+        "new season",
+        "Primeira Liga",
+        "Sporting CP"
+      ],
+      "sourceTitle": "Retro Sporting Lisbon 99/00 home S-XXL",
+      "updatedAt": "2026-10-12T22:31:20.995Z"
+    },
+    {
       "id": "yupoo-255037112",
       "name": "Retro SV Werder Bremen 95/96 Home Long Sleeve Jersey",
       "category": "Retro football shirt",
@@ -136087,6 +139195,49 @@
       "updatedAt": "2026-10-11T13:58:12.995Z"
     },
     {
+      "id": "yupoo-212393997",
+      "name": "River Plate 24/25 Player Version Home Jersey",
+      "category": "Liga Profesional",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212393997?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/river-plate-24-25-player-version-home-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/river-plate-24-25-player-version-home-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/river-plate-24-25-player-version-home-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/river-plate-24-25-player-version-home-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/river-plate-24-25-player-version-home-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/river-plate-24-25-player-version-home-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/river-plate-24-25-player-version-home-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/river-plate-24-25-player-version-home-jersey/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/river-plate-24-25-player-version-home-jersey/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/river-plate-24-25-player-version-home-jersey/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "river-plate-24-25-player-version-home-jersey",
+      "siteCategory": "club",
+      "team": "River Plate",
+      "league": "Other leagues",
+      "country": "Argentina",
+      "season": "2024/25",
+      "type": "Shirt",
+      "variant": "Player version",
+      "sourceCategories": [
+        "Liga Profesional",
+        "River Plate",
+        "new season",
+        "⚽💪🏻Player Version"
+      ],
+      "sourceTitle": "River Plate 24/25 Player Version Home Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:17:47.077Z"
+    },
+    {
       "id": "yupoo-213375588",
       "name": "River Plate 25/26 Player Version Away Long Sleeve Jersey",
       "category": "⚽Long sleeve shirt",
@@ -136128,6 +139279,86 @@
       ],
       "sourceTitle": "River Plate 25/26 Player Version Away Long Sleeve Jersey S-4XL",
       "updatedAt": "2026-10-12T22:07:18.960Z"
+    },
+    {
+      "id": "yupoo-214781634",
+      "name": "River Plate 25/26 Retro Special Edition",
+      "category": "Liga Profesional",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/214781634?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/river-plate-25-26-retro-special-edition/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/river-plate-25-26-retro-special-edition/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/river-plate-25-26-retro-special-edition/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/river-plate-25-26-retro-special-edition/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/river-plate-25-26-retro-special-edition/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/river-plate-25-26-retro-special-edition/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/river-plate-25-26-retro-special-edition/image-06.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "river-plate-25-26-retro-special-edition",
+      "siteCategory": "retro",
+      "team": "River Plate",
+      "league": "Other leagues",
+      "country": "Argentina",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Liga Profesional",
+        "River Plate",
+        "new season"
+      ],
+      "sourceTitle": "River Plate 25/26 Retro Special Edition S-4XL",
+      "updatedAt": "2026-10-12T22:16:15.608Z"
+    },
+    {
+      "id": "yupoo-213150959",
+      "name": "River Plate 25/26 US Pack Full-Button Baseball Jersey White",
+      "category": "Liga Profesional",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/213150959?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/river-plate-25-26-us-pack-full-button-baseball-jersey-white/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/river-plate-25-26-us-pack-full-button-baseball-jersey-white/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/river-plate-25-26-us-pack-full-button-baseball-jersey-white/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/river-plate-25-26-us-pack-full-button-baseball-jersey-white/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/river-plate-25-26-us-pack-full-button-baseball-jersey-white/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/river-plate-25-26-us-pack-full-button-baseball-jersey-white/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/river-plate-25-26-us-pack-full-button-baseball-jersey-white/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/river-plate-25-26-us-pack-full-button-baseball-jersey-white/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/river-plate-25-26-us-pack-full-button-baseball-jersey-white/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "river-plate-25-26-us-pack-full-button-baseball-jersey-white",
+      "siteCategory": "club",
+      "team": "River Plate",
+      "league": "Other leagues",
+      "country": "Argentina",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "Liga Profesional",
+        "River Plate",
+        "new season"
+      ],
+      "sourceTitle": "River Plate 25/26 US Pack Full-Button Baseball Jersey White S-XXL",
+      "updatedAt": "2026-10-12T22:16:44.848Z"
     },
     {
       "id": "yupoo-252347933",
@@ -137521,6 +140752,40 @@
       ],
       "sourceTitle": "San Lorenzo 99/00 Home Retro Jersey S-XXL",
       "updatedAt": "2026-10-11T14:28:55.228Z"
+    },
+    {
+      "id": "yupoo-251867196",
+      "name": "Sanfrecce Hiroshima 26/27 Home Jersey",
+      "category": "🇯🇵Japan League",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/251867196?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/sanfrecce-hiroshima-26-27-home-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/sanfrecce-hiroshima-26-27-home-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/sanfrecce-hiroshima-26-27-home-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "sanfrecce-hiroshima-26-27-home-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "🇯🇵Japan League",
+        "new season"
+      ],
+      "sourceTitle": "Sanfrecce Hiroshima 26/27 Home Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:32:47.748Z"
     },
     {
       "id": "yupoo-255028121",
@@ -140950,6 +144215,40 @@
       ],
       "sourceTitle": "Sheffield Wednesday 94/95 Home Retro Jersey S-XXL",
       "updatedAt": "2026-10-11T15:50:18.356Z"
+    },
+    {
+      "id": "yupoo-251867211",
+      "name": "Shimizu S-Pulse 26/27 Away Jersey",
+      "category": "🇯🇵Japan League",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/251867211?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/shimizu-s-pulse-26-27-away-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/shimizu-s-pulse-26-27-away-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/shimizu-s-pulse-26-27-away-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "shimizu-s-pulse-26-27-away-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "🇯🇵Japan League",
+        "new season"
+      ],
+      "sourceTitle": "Shimizu S-Pulse 26/27 Away Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:32:39.070Z"
     },
     {
       "id": "yupoo-239061753",
@@ -146323,6 +149622,39 @@
       "updatedAt": "2026-10-11T10:38:34.524Z"
     },
     {
+      "id": "yupoo-258186474",
+      "name": "Sporting CP 26/27 Home Women's Jersey",
+      "category": "Uncategorized album",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258186474?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/sporting-cp-26-27-home-women-s-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/sporting-cp-26-27-home-women-s-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/sporting-cp-26-27-home-women-s-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "sporting-cp-26-27-home-women-s-jersey",
+      "siteCategory": "club",
+      "team": "Sporting CP",
+      "league": "Liga Portugal",
+      "country": "Portugal",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Women's",
+      "sourceCategories": [
+        "Uncategorized album"
+      ],
+      "sourceTitle": "Sporting CP 26/27 Home Women's Jersey S-XXL",
+      "updatedAt": "2026-10-12T22:37:56.915Z"
+    },
+    {
       "id": "yupoo-231115501",
       "name": "Sporting CP 94/95 Away Retro Jersey",
       "category": "Retro football shirt",
@@ -148640,6 +151972,39 @@
       "updatedAt": "2026-10-11T10:03:21.691Z"
     },
     {
+      "id": "yupoo-258149158",
+      "name": "Torino FC 26/27 Away Jersey",
+      "category": "Uncategorized album",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258149158?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/torino-fc-26-27-away-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/torino-fc-26-27-away-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/torino-fc-26-27-away-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "torino-fc-26-27-away-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "Uncategorized album"
+      ],
+      "sourceTitle": "Torino FC 26/27 Away Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:39:14.889Z"
+    },
+    {
       "id": "yupoo-257640073",
       "name": "Torino FC 92/93 Home Retro Jersey",
       "category": "Retro football shirt",
@@ -149213,6 +152578,72 @@
       "updatedAt": "2026-10-11T14:53:17.751Z"
     },
     {
+      "id": "yupoo-258150405",
+      "name": "Trabzonspor 94/95 Third Away Retro Jersey",
+      "category": "Uncategorized album",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258150405?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/trabzonspor-94-95-third-away-retro-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/trabzonspor-94-95-third-away-retro-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/trabzonspor-94-95-third-away-retro-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "trabzonspor-94-95-third-away-retro-jersey",
+      "siteCategory": "retro",
+      "team": "Trabzonspor",
+      "league": "Other leagues",
+      "country": "Turkey",
+      "season": "1994/95",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Uncategorized album"
+      ],
+      "sourceTitle": "Trabzonspor 94/95 Third Away Retro Jersey S-XXL",
+      "updatedAt": "2026-10-12T22:39:06.257Z"
+    },
+    {
+      "id": "yupoo-258150455",
+      "name": "Trabzonspor 98/99 Home Retro Jersey",
+      "category": "Uncategorized album",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258150455?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/trabzonspor-98-99-home-retro-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/trabzonspor-98-99-home-retro-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/trabzonspor-98-99-home-retro-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "trabzonspor-98-99-home-retro-jersey",
+      "siteCategory": "retro",
+      "team": "Trabzonspor",
+      "league": "Other leagues",
+      "country": "Turkey",
+      "season": "1998/99",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Uncategorized album"
+      ],
+      "sourceTitle": "Trabzonspor 98/99 Home Retro Jersey S-XXL",
+      "updatedAt": "2026-10-12T22:38:57.443Z"
+    },
+    {
       "id": "yupoo-257640146",
       "name": "Travis Scott Cactus Jack x Nike Australia Total 90 Retro Jersey",
       "category": "Retro football shirt",
@@ -149283,6 +152714,39 @@
       "updatedAt": "2026-10-11T10:24:02.042Z"
     },
     {
+      "id": "yupoo-258150507",
+      "name": "Travis Scott Cactus Jack x NK for Canada Total 90 Retro Jersey",
+      "category": "Uncategorized album",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258150507?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/travis-scott-cactus-jack-x-nk-for-canada-total-90-retro-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/travis-scott-cactus-jack-x-nk-for-canada-total-90-retro-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/travis-scott-cactus-jack-x-nk-for-canada-total-90-retro-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "travis-scott-cactus-jack-x-nk-for-canada-total-90-retro-jersey",
+      "siteCategory": "retro",
+      "team": "Canada",
+      "league": "National teams",
+      "country": "Canada",
+      "season": "",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Uncategorized album"
+      ],
+      "sourceTitle": "Travis Scott Cactus Jack x NK for Canada Total 90 Retro Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:38:48.661Z"
+    },
+    {
       "id": "yupoo-257640322",
       "name": "Travis Scott Cactus Jack x NK Netherlands Total 90 Retro Jersey",
       "category": "Retro football shirt",
@@ -149351,6 +152815,39 @@
       ],
       "sourceTitle": "Travis Scott Cactus Jack x NK Norway Total 90 Retro Jersey S-4XL",
       "updatedAt": "2026-10-11T10:24:41.117Z"
+    },
+    {
+      "id": "yupoo-258150559",
+      "name": "Travis Scott Cactus Jack x NK Senegal Total 90 Retro Jersey",
+      "category": "Uncategorized album",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258150559?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/travis-scott-cactus-jack-x-nk-senegal-total-90-retro-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/travis-scott-cactus-jack-x-nk-senegal-total-90-retro-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/travis-scott-cactus-jack-x-nk-senegal-total-90-retro-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "travis-scott-cactus-jack-x-nk-senegal-total-90-retro-jersey",
+      "siteCategory": "retro",
+      "team": "Senegal",
+      "league": "National teams",
+      "country": "Senegal",
+      "season": "",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Uncategorized album"
+      ],
+      "sourceTitle": "Travis Scott Cactus Jack x NK Senegal Total 90 Retro Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:38:40.843Z"
     },
     {
       "id": "yupoo-257640392",
@@ -152708,6 +156205,105 @@
       "updatedAt": "2026-10-11T12:59:02.299Z"
     },
     {
+      "id": "yupoo-258150618",
+      "name": "Vélez Sarsfield 96/97 Home Retro Jersey",
+      "category": "Uncategorized album",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258150618?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/velez-sarsfield-96-97-home-retro-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/velez-sarsfield-96-97-home-retro-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/velez-sarsfield-96-97-home-retro-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "velez-sarsfield-96-97-home-retro-jersey",
+      "siteCategory": "retro",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "1996/97",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Uncategorized album"
+      ],
+      "sourceTitle": "Vélez Sarsfield 96/97 Home Retro Jersey S-XXL",
+      "updatedAt": "2026-10-12T22:38:32.434Z"
+    },
+    {
+      "id": "yupoo-258150981",
+      "name": "Vélez Sarsfield 97/98 Home Retro Jersey",
+      "category": "Uncategorized album",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258150981?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/velez-sarsfield-97-98-home-retro-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/velez-sarsfield-97-98-home-retro-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/velez-sarsfield-97-98-home-retro-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "velez-sarsfield-97-98-home-retro-jersey",
+      "siteCategory": "retro",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "1997/98",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Uncategorized album"
+      ],
+      "sourceTitle": "Vélez Sarsfield 97/98 Home Retro Jersey S-XXL",
+      "updatedAt": "2026-10-12T22:38:23.485Z"
+    },
+    {
+      "id": "yupoo-258151252",
+      "name": "Vélez Sarsfield 98/99 Home Retro Jersey",
+      "category": "Uncategorized album",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258151252?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/velez-sarsfield-98-99-home-retro-jersey-2/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/velez-sarsfield-98-99-home-retro-jersey-2/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/velez-sarsfield-98-99-home-retro-jersey-2/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "velez-sarsfield-98-99-home-retro-jersey-2",
+      "siteCategory": "retro",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "1998/99",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Uncategorized album"
+      ],
+      "sourceTitle": "Vélez Sarsfield 98/99 Home Retro Jersey S-XXL",
+      "updatedAt": "2026-10-12T22:38:14.389Z"
+    },
+    {
       "id": "yupoo-257640420",
       "name": "Vélez Sársfield 98/99 Home Retro Jersey",
       "category": "Retro football shirt",
@@ -153285,6 +156881,74 @@
       "updatedAt": "2026-10-11T19:36:35.042Z"
     },
     {
+      "id": "yupoo-251867410",
+      "name": "Vissel Kobe 26/27 Away Jersey",
+      "category": "🇯🇵Japan League",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/251867410?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/vissel-kobe-26-27-away-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/vissel-kobe-26-27-away-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/vissel-kobe-26-27-away-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "vissel-kobe-26-27-away-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "🇯🇵Japan League",
+        "new season"
+      ],
+      "sourceTitle": "Vissel Kobe 26/27 Away Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:32:30.507Z"
+    },
+    {
+      "id": "yupoo-251867421",
+      "name": "Vissel Kobe 26/27 Home Jersey",
+      "category": "🇯🇵Japan League",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/251867421?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/vissel-kobe-26-27-home-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/vissel-kobe-26-27-home-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/vissel-kobe-26-27-home-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "vissel-kobe-26-27-home-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "🇯🇵Japan League",
+        "new season"
+      ],
+      "sourceTitle": "Vissel Kobe 26/27 Home Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:32:21.631Z"
+    },
+    {
       "id": "yupoo-212486102",
       "name": "Vitória 1993 Home Retro Jersey",
       "category": "Retro football shirt",
@@ -153324,6 +156988,39 @@
       ],
       "sourceTitle": "Vitória 1993 Home Retro Jersey S-XXL",
       "updatedAt": "2026-10-11T15:48:28.728Z"
+    },
+    {
+      "id": "yupoo-258151278",
+      "name": "Vitória SC 26/27 Third Away Jersey",
+      "category": "Uncategorized album",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258151278?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/vitoria-sc-26-27-third-away-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/vitoria-sc-26-27-third-away-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/vitoria-sc-26-27-third-away-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "vitoria-sc-26-27-third-away-jersey",
+      "siteCategory": "club",
+      "team": "Vitória SC",
+      "league": "Liga Portugal",
+      "country": "Portugal",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "Uncategorized album"
+      ],
+      "sourceTitle": "Vitória SC 26/27 Third Away Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:38:05.293Z"
     },
     {
       "id": "yupoo-226516442",
@@ -154706,6 +158403,108 @@
       ],
       "sourceTitle": "Y-3 x Mercedes-AMG Petronas Formula 1 Team Driver S-5XL",
       "updatedAt": "2026-10-11T10:02:57.871Z"
+    },
+    {
+      "id": "yupoo-252315065",
+      "name": "Yakos 26/27 Home Jersey",
+      "category": "🇯🇵Japan League",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/252315065?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/yakos-26-27-home-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/yakos-26-27-home-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/yakos-26-27-home-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "yakos-26-27-home-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "🇯🇵Japan League",
+        "new season"
+      ],
+      "sourceTitle": "Yakos 26/27 Home Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:31:56.050Z"
+    },
+    {
+      "id": "yupoo-251867450",
+      "name": "Yokohama F. Marinos 26/27 Away Jersey",
+      "category": "🇯🇵Japan League",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/251867450?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/yokohama-f-marinos-26-27-away-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/yokohama-f-marinos-26-27-away-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/yokohama-f-marinos-26-27-away-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "yokohama-f-marinos-26-27-away-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "🇯🇵Japan League",
+        "new season"
+      ],
+      "sourceTitle": "Yokohama F. Marinos 26/27 Away Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:32:12.955Z"
+    },
+    {
+      "id": "yupoo-251867456",
+      "name": "Yokohama F. Marinos 26/27 Home Jersey",
+      "category": "🇯🇵Japan League",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/251867456?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/yokohama-f-marinos-26-27-home-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/yokohama-f-marinos-26-27-home-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/yokohama-f-marinos-26-27-home-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "yokohama-f-marinos-26-27-home-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "🇯🇵Japan League",
+        "new season"
+      ],
+      "sourceTitle": "Yokohama F. Marinos 26/27 Home Jersey S-4XL",
+      "updatedAt": "2026-10-12T22:32:04.467Z"
     },
     {
       "id": "yupoo-212328822",
