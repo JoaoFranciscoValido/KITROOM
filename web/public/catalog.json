@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-13T05:23:15.568Z",
+  "generatedAt": "2026-10-13T05:31:43.071Z",
   "source": {
     "name": "Supplier catalogue",
     "url": "https://minkang.x.yupoo.com/albums"
   },
-  "count": 5567,
+  "count": 5592,
   "items": [
     {
       "id": "yupoo-231422616",
@@ -10113,6 +10113,51 @@
       "updatedAt": "2026-10-13T05:04:27.747Z"
     },
     {
+      "id": "yupoo-221733694",
+      "name": "Ajax 25/26 Third Away Kids Kit Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/221733694?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ajax-25-26-third-away-kids-kit-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ajax-25-26-third-away-kids-kit-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ajax-25-26-third-away-kids-kit-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ajax-25-26-third-away-kids-kit-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ajax-25-26-third-away-kids-kit-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ajax-25-26-third-away-kids-kit-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ajax-25-26-third-away-kids-kit-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ajax-25-26-third-away-kids-kit-jersey/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ajax-25-26-third-away-kids-kit-jersey/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ajax-25-26-third-away-kids-kit-jersey/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ajax-25-26-third-away-kids-kit-jersey/image-10.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ajax-25-26-third-away-kids-kit-jersey/image-11.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "ajax-25-26-third-away-kids-kit-jersey",
+      "siteCategory": "club",
+      "team": "Ajax",
+      "league": "Other leagues",
+      "country": "Netherlands",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Kids",
+      "sourceCategories": [
+        "new season",
+        "⚽👦🏻kids kit size：16-28",
+        "EREDIVISIE",
+        "AFC Ajax"
+      ],
+      "sourceTitle": "Ajax 25/26 Third Away Kids Kit Jersey SIZE 16-28",
+      "updatedAt": "2026-10-13T05:28:18.083Z"
+    },
+    {
       "id": "yupoo-223851544",
       "name": "Ajax 25/26 Windbreaker - Crimson",
       "category": "new season",
@@ -11824,6 +11869,46 @@
       ],
       "sourceTitle": "Algeria Terrace Icons T-Shirt White S-XXL",
       "updatedAt": "2026-10-12T21:14:11.061Z"
+    },
+    {
+      "id": "yupoo-221731535",
+      "name": "Alverca 25/26 Home Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/221731535?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/alverca-25-26-home-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/alverca-25-26-home-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/alverca-25-26-home-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/alverca-25-26-home-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/alverca-25-26-home-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/alverca-25-26-home-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/alverca-25-26-home-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/alverca-25-26-home-jersey/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "alverca-25-26-home-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Primeira Liga",
+        "Alverca"
+      ],
+      "sourceTitle": "Alverca 25/26 Home Jersey S-4XL",
+      "updatedAt": "2026-10-13T05:31:43.060Z"
     },
     {
       "id": "yupoo-256214649",
@@ -32656,6 +32741,51 @@
       "updatedAt": "2026-10-13T04:54:19.009Z"
     },
     {
+      "id": "yupoo-221916405",
+      "name": "Bayern Munich 25/26 Thids Away Kids kit Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/221916405?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/bayern-munich-25-26-thids-away-kids-kit-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/bayern-munich-25-26-thids-away-kids-kit-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/bayern-munich-25-26-thids-away-kids-kit-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/bayern-munich-25-26-thids-away-kids-kit-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/bayern-munich-25-26-thids-away-kids-kit-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/bayern-munich-25-26-thids-away-kids-kit-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/bayern-munich-25-26-thids-away-kids-kit-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/bayern-munich-25-26-thids-away-kids-kit-jersey/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/bayern-munich-25-26-thids-away-kids-kit-jersey/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/bayern-munich-25-26-thids-away-kids-kit-jersey/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/bayern-munich-25-26-thids-away-kids-kit-jersey/image-10.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/bayern-munich-25-26-thids-away-kids-kit-jersey/image-11.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "bayern-munich-25-26-thids-away-kids-kit-jersey",
+      "siteCategory": "club",
+      "team": "Bayern Munich",
+      "league": "Bundesliga",
+      "country": "Germany",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Kids",
+      "sourceCategories": [
+        "new season",
+        "⚽👦🏻kids kit size：16-28",
+        "Bundesliga",
+        "Bayern Munich"
+      ],
+      "sourceTitle": "Bayern Munich 25/26 Thids Away Kids kit Jersey SIZE 16-28",
+      "updatedAt": "2026-10-13T05:27:05.120Z"
+    },
+    {
       "id": "yupoo-252348030",
       "name": "Bayern Munich 26/27 Away Jersey",
       "category": "new season",
@@ -34714,6 +34844,47 @@
       ],
       "sourceTitle": "Benfica 25/26 Fourth Third Away Jersey S-4XL",
       "updatedAt": "2026-10-13T03:59:49.781Z"
+    },
+    {
+      "id": "yupoo-221731743",
+      "name": "Benfica 25/26 POLO - White",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/221731743?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/benfica-25-26-polo-white/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/benfica-25-26-polo-white/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/benfica-25-26-polo-white/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/benfica-25-26-polo-white/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/benfica-25-26-polo-white/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/benfica-25-26-polo-white/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/benfica-25-26-polo-white/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/benfica-25-26-polo-white/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "benfica-25-26-polo-white",
+      "siteCategory": "other",
+      "team": "SL Benfica",
+      "league": "Liga Portugal",
+      "country": "Portugal",
+      "season": "2025/26",
+      "type": "Casual",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "⚽Polos",
+        "Primeira Liga",
+        "S.L. Benfica"
+      ],
+      "sourceTitle": "Benfica 25/26 POLO - White S-3XL",
+      "updatedAt": "2026-10-13T05:31:27.013Z"
     },
     {
       "id": "yupoo-227571071",
@@ -44874,6 +45045,51 @@
       "updatedAt": "2026-10-12T23:27:25.457Z"
     },
     {
+      "id": "yupoo-221917104",
+      "name": "Brighton 25/26 Home Kids kit Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/221917104?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/brighton-25-26-home-kids-kit-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/brighton-25-26-home-kids-kit-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/brighton-25-26-home-kids-kit-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/brighton-25-26-home-kids-kit-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/brighton-25-26-home-kids-kit-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/brighton-25-26-home-kids-kit-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/brighton-25-26-home-kids-kit-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/brighton-25-26-home-kids-kit-jersey/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/brighton-25-26-home-kids-kit-jersey/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/brighton-25-26-home-kids-kit-jersey/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/brighton-25-26-home-kids-kit-jersey/image-10.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/brighton-25-26-home-kids-kit-jersey/image-11.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "brighton-25-26-home-kids-kit-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Kids",
+      "sourceCategories": [
+        "new season",
+        "⚽👦🏻kids kit size：16-28",
+        "Premier League",
+        "Brighton"
+      ],
+      "sourceTitle": "Brighton 25/26 Home Kids kit Jersey SIZE 16-28",
+      "updatedAt": "2026-10-13T05:26:45.552Z"
+    },
+    {
       "id": "yupoo-244272918",
       "name": "Brighton 26/27 125th Anniversary Jersey",
       "category": "new season",
@@ -46898,6 +47114,81 @@
       "updatedAt": "2026-10-11T09:35:53.403Z"
     },
     {
+      "id": "yupoo-221731787",
+      "name": "Casual T-shirt Black",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/221731787?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/casual-t-shirt-black/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/casual-t-shirt-black/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/casual-t-shirt-black/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/casual-t-shirt-black/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/casual-t-shirt-black/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/casual-t-shirt-black/image-05.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "casual-t-shirt-black",
+      "siteCategory": "other",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "",
+      "type": "Casual",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Worldwide Other League"
+      ],
+      "sourceTitle": "Casual T-shirt Black S-4XL",
+      "updatedAt": "2026-10-13T05:31:07.760Z"
+    },
+    {
+      "id": "yupoo-221731827",
+      "name": "Casual T-shirt white",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/221731827?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/casual-t-shirt-white/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/casual-t-shirt-white/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/casual-t-shirt-white/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/casual-t-shirt-white/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/casual-t-shirt-white/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/casual-t-shirt-white/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/casual-t-shirt-white/image-06.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "casual-t-shirt-white",
+      "siteCategory": "other",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "",
+      "type": "Casual",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Worldwide Other League"
+      ],
+      "sourceTitle": "Casual T-shirt white S-4XL",
+      "updatedAt": "2026-10-13T05:30:48.903Z"
+    },
+    {
       "id": "yupoo-236326905",
       "name": "CD Tenerife 25/26 Home Jersey",
       "category": "new season",
@@ -47144,6 +47435,94 @@
       ],
       "sourceTitle": "Celta de Vigo 25/26 Retro Style Jersey S-4XL",
       "updatedAt": "2026-10-13T03:26:41.118Z"
+    },
+    {
+      "id": "yupoo-221917169",
+      "name": "Celta de Vigo 25/26 Third Away Kids kit Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/221917169?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celta-de-vigo-25-26-third-away-kids-kit-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celta-de-vigo-25-26-third-away-kids-kit-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celta-de-vigo-25-26-third-away-kids-kit-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celta-de-vigo-25-26-third-away-kids-kit-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celta-de-vigo-25-26-third-away-kids-kit-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celta-de-vigo-25-26-third-away-kids-kit-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celta-de-vigo-25-26-third-away-kids-kit-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celta-de-vigo-25-26-third-away-kids-kit-jersey/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celta-de-vigo-25-26-third-away-kids-kit-jersey/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celta-de-vigo-25-26-third-away-kids-kit-jersey/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celta-de-vigo-25-26-third-away-kids-kit-jersey/image-10.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celta-de-vigo-25-26-third-away-kids-kit-jersey/image-11.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celta-de-vigo-25-26-third-away-kids-kit-jersey/image-12.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "celta-de-vigo-25-26-third-away-kids-kit-jersey",
+      "siteCategory": "club",
+      "team": "Celta de Vigo",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Kids",
+      "sourceCategories": [
+        "new season",
+        "⚽👦🏻kids kit size：16-28",
+        "La Liga",
+        "Celta de Vigo"
+      ],
+      "sourceTitle": "Celta de Vigo 25/26 Third Away Kids kit Jersey SIZE 16-28",
+      "updatedAt": "2026-10-13T05:26:24.121Z"
+    },
+    {
+      "id": "yupoo-222223538",
+      "name": "Celta de Vigo 25/26 Training Top Off-White",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/222223538?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celta-de-vigo-25-26-training-top-off-white/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celta-de-vigo-25-26-training-top-off-white/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celta-de-vigo-25-26-training-top-off-white/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celta-de-vigo-25-26-training-top-off-white/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celta-de-vigo-25-26-training-top-off-white/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celta-de-vigo-25-26-training-top-off-white/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celta-de-vigo-25-26-training-top-off-white/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celta-de-vigo-25-26-training-top-off-white/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celta-de-vigo-25-26-training-top-off-white/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "celta-de-vigo-25-26-training-top-off-white",
+      "siteCategory": "training",
+      "team": "Celta de Vigo",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2025/26",
+      "type": "Training",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "💨🧥Windbreaker/Training Top",
+        "La Liga",
+        "Celta de Vigo"
+      ],
+      "sourceTitle": "Celta de Vigo 25/26 Training Top Off-White S-XXL",
+      "updatedAt": "2026-10-13T05:25:22.640Z"
     },
     {
       "id": "yupoo-256215241",
@@ -50290,6 +50669,49 @@
       ],
       "sourceTitle": "Chelsea 25/26 Home Long Sleeve Jersey S-4XL",
       "updatedAt": "2026-10-12T22:06:23.325Z"
+    },
+    {
+      "id": "yupoo-221732135",
+      "name": "Chelsea 25/26 Limited Edition Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/221732135?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/chelsea-25-26-limited-edition-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/chelsea-25-26-limited-edition-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/chelsea-25-26-limited-edition-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/chelsea-25-26-limited-edition-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/chelsea-25-26-limited-edition-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/chelsea-25-26-limited-edition-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/chelsea-25-26-limited-edition-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/chelsea-25-26-limited-edition-jersey/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/chelsea-25-26-limited-edition-jersey/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/chelsea-25-26-limited-edition-jersey/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/chelsea-25-26-limited-edition-jersey/image-10.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "chelsea-25-26-limited-edition-jersey",
+      "siteCategory": "club",
+      "team": "Chelsea",
+      "league": "Premier League",
+      "country": "England",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Special edition",
+      "sourceCategories": [
+        "new season",
+        "Premier League",
+        "Chelsea"
+      ],
+      "sourceTitle": "Chelsea 25/26 Limited Edition Jersey S-4XL",
+      "updatedAt": "2026-10-13T05:30:34.108Z"
     },
     {
       "id": "yupoo-223561218",
@@ -64238,6 +64660,50 @@
       "updatedAt": "2026-10-13T05:10:16.215Z"
     },
     {
+      "id": "yupoo-222223612",
+      "name": "Deportivo La Coruña 25/26 Training top White",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/222223612?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/deportivo-la-coruna-25-26-training-top-white/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/deportivo-la-coruna-25-26-training-top-white/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/deportivo-la-coruna-25-26-training-top-white/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/deportivo-la-coruna-25-26-training-top-white/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/deportivo-la-coruna-25-26-training-top-white/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/deportivo-la-coruna-25-26-training-top-white/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/deportivo-la-coruna-25-26-training-top-white/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/deportivo-la-coruna-25-26-training-top-white/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/deportivo-la-coruna-25-26-training-top-white/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/deportivo-la-coruna-25-26-training-top-white/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/deportivo-la-coruna-25-26-training-top-white/image-10.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "deportivo-la-coruna-25-26-training-top-white",
+      "siteCategory": "training",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2025/26",
+      "type": "Training",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "💨🧥Windbreaker/Training Top",
+        "La Liga",
+        "Deportivo La Coruna"
+      ],
+      "sourceTitle": "Deportivo La Coruña 25/26 Training top White S-XXL",
+      "updatedAt": "2026-10-13T05:25:07.806Z"
+    },
+    {
       "id": "yupoo-249052255",
       "name": "Deportivo La Coruña 26/27 Away Jersey",
       "category": "new season",
@@ -66591,6 +67057,48 @@
       ],
       "sourceTitle": "Elche 25/26 Retro Style Jersey S-4XL",
       "updatedAt": "2026-10-13T03:21:39.334Z"
+    },
+    {
+      "id": "yupoo-222223697",
+      "name": "Elche 25/26 Training Top Black",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/222223697?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/elche-25-26-training-top-black/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/elche-25-26-training-top-black/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/elche-25-26-training-top-black/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/elche-25-26-training-top-black/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/elche-25-26-training-top-black/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/elche-25-26-training-top-black/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/elche-25-26-training-top-black/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/elche-25-26-training-top-black/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/elche-25-26-training-top-black/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "elche-25-26-training-top-black",
+      "siteCategory": "training",
+      "team": "Elche",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2025/26",
+      "type": "Training",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "💨🧥Windbreaker/Training Top",
+        "La Liga",
+        "Elche"
+      ],
+      "sourceTitle": "Elche 25/26 Training Top Black S-XXL",
+      "updatedAt": "2026-10-13T05:24:43.751Z"
     },
     {
       "id": "yupoo-254280946",
@@ -83314,6 +83822,49 @@
       "updatedAt": "2026-10-13T03:28:08.748Z"
     },
     {
+      "id": "yupoo-222223752",
+      "name": "Granada 25/26 Training top black",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/222223752?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/granada-25-26-training-top-black/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/granada-25-26-training-top-black/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/granada-25-26-training-top-black/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/granada-25-26-training-top-black/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/granada-25-26-training-top-black/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/granada-25-26-training-top-black/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/granada-25-26-training-top-black/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/granada-25-26-training-top-black/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/granada-25-26-training-top-black/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/granada-25-26-training-top-black/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "granada-25-26-training-top-black",
+      "siteCategory": "training",
+      "team": "Granada",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2025/26",
+      "type": "Training",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "💨🧥Windbreaker/Training Top",
+        "La Liga",
+        "Granada"
+      ],
+      "sourceTitle": "Granada 25/26 Training top black S-XXL",
+      "updatedAt": "2026-10-13T05:24:26.320Z"
+    },
+    {
       "id": "yupoo-254281248",
       "name": "Granada 26/27 Away Jersey",
       "category": "new season",
@@ -99418,6 +99969,49 @@
       "updatedAt": "2026-10-11T12:23:22.865Z"
     },
     {
+      "id": "yupoo-222223824",
+      "name": "Las Palmas 25/26 Training Top Blue",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/222223824?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/las-palmas-25-26-training-top-blue/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/las-palmas-25-26-training-top-blue/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/las-palmas-25-26-training-top-blue/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/las-palmas-25-26-training-top-blue/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/las-palmas-25-26-training-top-blue/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/las-palmas-25-26-training-top-blue/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/las-palmas-25-26-training-top-blue/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/las-palmas-25-26-training-top-blue/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/las-palmas-25-26-training-top-blue/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/las-palmas-25-26-training-top-blue/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "las-palmas-25-26-training-top-blue",
+      "siteCategory": "training",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2025/26",
+      "type": "Training",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "💨🧥Windbreaker/Training Top",
+        "La Liga",
+        "Las Palmas"
+      ],
+      "sourceTitle": "Las Palmas 25/26 Training Top Blue S-XXL",
+      "updatedAt": "2026-10-13T05:24:02.086Z"
+    },
+    {
       "id": "yupoo-249049936",
       "name": "Las Palmas 26/27 Home Jersey",
       "category": "new season",
@@ -99950,6 +100544,95 @@
       ],
       "sourceTitle": "Lazio 99/00 Centenary Retro Jersey S-XXL",
       "updatedAt": "2026-10-11T13:46:05.242Z"
+    },
+    {
+      "id": "yupoo-221917210",
+      "name": "Leeds United 25/26 Away Kids kit Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/221917210?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/leeds-united-25-26-away-kids-kit-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/leeds-united-25-26-away-kids-kit-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/leeds-united-25-26-away-kids-kit-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/leeds-united-25-26-away-kids-kit-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/leeds-united-25-26-away-kids-kit-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/leeds-united-25-26-away-kids-kit-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/leeds-united-25-26-away-kids-kit-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/leeds-united-25-26-away-kids-kit-jersey/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/leeds-united-25-26-away-kids-kit-jersey/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/leeds-united-25-26-away-kids-kit-jersey/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/leeds-united-25-26-away-kids-kit-jersey/image-10.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/leeds-united-25-26-away-kids-kit-jersey/image-11.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "leeds-united-25-26-away-kids-kit-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Kids",
+      "sourceCategories": [
+        "new season",
+        "⚽👦🏻kids kit size：16-28",
+        "Premier League",
+        "Leeds United"
+      ],
+      "sourceTitle": "Leeds United 25/26 Away Kids kit Jersey SIZE 16-28",
+      "updatedAt": "2026-10-13T05:26:00.256Z"
+    },
+    {
+      "id": "yupoo-221734042",
+      "name": "Leeds United 25/26 Home Kids Kit Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/221734042?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/leeds-united-25-26-home-kids-kit-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/leeds-united-25-26-home-kids-kit-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/leeds-united-25-26-home-kids-kit-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/leeds-united-25-26-home-kids-kit-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/leeds-united-25-26-home-kids-kit-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/leeds-united-25-26-home-kids-kit-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/leeds-united-25-26-home-kids-kit-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/leeds-united-25-26-home-kids-kit-jersey/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/leeds-united-25-26-home-kids-kit-jersey/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/leeds-united-25-26-home-kids-kit-jersey/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/leeds-united-25-26-home-kids-kit-jersey/image-10.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "leeds-united-25-26-home-kids-kit-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Kids",
+      "sourceCategories": [
+        "new season",
+        "⚽👦🏻kids kit size：16-28",
+        "Premier League",
+        "Leeds United"
+      ],
+      "sourceTitle": "Leeds United 25/26 Home Kids Kit Jersey Size 16-28",
+      "updatedAt": "2026-10-13T05:27:55.106Z"
     },
     {
       "id": "yupoo-244274202",
@@ -101267,6 +101950,49 @@
       ],
       "sourceTitle": "Malaga 1998 Home Retro Jersey S-XXL",
       "updatedAt": "2026-10-11T15:48:45.726Z"
+    },
+    {
+      "id": "yupoo-221733266",
+      "name": "Malaga 25/26 Away Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/221733266?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/malaga-25-26-away-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/malaga-25-26-away-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/malaga-25-26-away-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/malaga-25-26-away-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/malaga-25-26-away-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/malaga-25-26-away-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/malaga-25-26-away-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/malaga-25-26-away-jersey/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/malaga-25-26-away-jersey/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/malaga-25-26-away-jersey/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/malaga-25-26-away-jersey/image-10.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "malaga-25-26-away-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "La Liga",
+        "Malaga"
+      ],
+      "sourceTitle": "Malaga 25/26 Away Jersey S-4XL",
+      "updatedAt": "2026-10-13T05:30:09.481Z"
     },
     {
       "id": "yupoo-214399041",
@@ -102834,6 +103560,45 @@
       ],
       "sourceTitle": "Manchester City 25/26 Long-sleeved Sweatshirt M-4XL",
       "updatedAt": "2026-10-13T04:51:45.476Z"
+    },
+    {
+      "id": "yupoo-221733317",
+      "name": "Manchester City 25/26 Special Edition #9 Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/221733317?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-city-25-26-special-edition-9-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-city-25-26-special-edition-9-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-city-25-26-special-edition-9-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-city-25-26-special-edition-9-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-city-25-26-special-edition-9-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-city-25-26-special-edition-9-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-city-25-26-special-edition-9-jersey/image-06.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "manchester-city-25-26-special-edition-9-jersey",
+      "siteCategory": "club",
+      "team": "Manchester City",
+      "league": "Premier League",
+      "country": "England",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Special edition",
+      "sourceCategories": [
+        "new season",
+        "Premier League",
+        "Manchester City"
+      ],
+      "sourceTitle": "Manchester City 25/26 Special Edition #9 Jersey S-XXL",
+      "updatedAt": "2026-10-13T05:29:49.551Z"
     },
     {
       "id": "yupoo-253307430",
@@ -107415,6 +108180,47 @@
       ],
       "sourceTitle": "M-U 25/26 POLO - White S-XXL",
       "updatedAt": "2026-10-13T05:06:19.182Z"
+    },
+    {
+      "id": "yupoo-221733362",
+      "name": "Manchester United 25/26 Third Away Goalkeeper Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/221733362?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-united-25-26-third-away-goalkeeper-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-united-25-26-third-away-goalkeeper-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-united-25-26-third-away-goalkeeper-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-united-25-26-third-away-goalkeeper-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-united-25-26-third-away-goalkeeper-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-united-25-26-third-away-goalkeeper-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-united-25-26-third-away-goalkeeper-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-united-25-26-third-away-goalkeeper-jersey/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-united-25-26-third-away-goalkeeper-jersey/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "manchester-united-25-26-third-away-goalkeeper-jersey",
+      "siteCategory": "club",
+      "team": "Manchester United",
+      "league": "Premier League",
+      "country": "England",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Goalkeeper",
+      "sourceCategories": [
+        "new season",
+        "Premier League",
+        "M-U"
+      ],
+      "sourceTitle": "M-U 25/26 Third Away Goalkeeper Jersey S-4XL",
+      "updatedAt": "2026-10-13T05:29:29.604Z"
     },
     {
       "id": "yupoo-213386556",
@@ -123844,6 +124650,52 @@
       "updatedAt": "2026-10-11T11:40:27.089Z"
     },
     {
+      "id": "yupoo-221734090",
+      "name": "Osasuna 25/26 Away Kids Kit Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/221734090?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/osasuna-25-26-away-kids-kit-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/osasuna-25-26-away-kids-kit-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/osasuna-25-26-away-kids-kit-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/osasuna-25-26-away-kids-kit-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/osasuna-25-26-away-kids-kit-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/osasuna-25-26-away-kids-kit-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/osasuna-25-26-away-kids-kit-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/osasuna-25-26-away-kids-kit-jersey/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/osasuna-25-26-away-kids-kit-jersey/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/osasuna-25-26-away-kids-kit-jersey/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/osasuna-25-26-away-kids-kit-jersey/image-10.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/osasuna-25-26-away-kids-kit-jersey/image-11.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/osasuna-25-26-away-kids-kit-jersey/image-12.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "osasuna-25-26-away-kids-kit-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Kids",
+      "sourceCategories": [
+        "new season",
+        "⚽👦🏻kids kit size：16-28",
+        "La Liga",
+        "Osasuna"
+      ],
+      "sourceTitle": "Osasuna 25/26 Away Kids Kit Jersey SIZE 16-28",
+      "updatedAt": "2026-10-13T05:27:29.778Z"
+    },
+    {
       "id": "yupoo-233498314",
       "name": "Osasuna 25/26 Retro Style Jersey",
       "category": "new season",
@@ -138439,6 +139291,48 @@
       "updatedAt": "2026-10-12T23:46:16.039Z"
     },
     {
+      "id": "yupoo-221733495",
+      "name": "RCD Mallorca 25/26 Third Away Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/221733495?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rcd-mallorca-25-26-third-away-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rcd-mallorca-25-26-third-away-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rcd-mallorca-25-26-third-away-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rcd-mallorca-25-26-third-away-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rcd-mallorca-25-26-third-away-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rcd-mallorca-25-26-third-away-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rcd-mallorca-25-26-third-away-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rcd-mallorca-25-26-third-away-jersey/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rcd-mallorca-25-26-third-away-jersey/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/rcd-mallorca-25-26-third-away-jersey/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "rcd-mallorca-25-26-third-away-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "La Liga",
+        "Mallorca"
+      ],
+      "sourceTitle": "RCD Mallorca 25/26 Third Away Jersey S-4XL",
+      "updatedAt": "2026-10-13T05:29:12.726Z"
+    },
+    {
       "id": "yupoo-256216098",
       "name": "RCD Mallorca 26/27 Away Jersey",
       "category": "new season",
@@ -144964,6 +145858,45 @@
       ],
       "sourceTitle": "Real Madrid 25/26 POLO - Yellow S-XXL",
       "updatedAt": "2026-10-13T05:01:00.852Z"
+    },
+    {
+      "id": "yupoo-221733540",
+      "name": "Real Madrid 25/26 Purple Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/221733540?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-25-26-purple-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-25-26-purple-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-25-26-purple-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-25-26-purple-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-25-26-purple-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-25-26-purple-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-25-26-purple-jersey/image-06.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "real-madrid-25-26-purple-jersey",
+      "siteCategory": "club",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "La Liga",
+        "Real Madrid"
+      ],
+      "sourceTitle": "Real Madrid 25/26 Purple Jersey S-XXL",
+      "updatedAt": "2026-10-13T05:28:52.417Z"
     },
     {
       "id": "yupoo-227575158",
@@ -201781,6 +202714,49 @@
       "updatedAt": "2026-10-13T05:08:54.120Z"
     },
     {
+      "id": "yupoo-222223890",
+      "name": "Sevilla 25/26 Training Top Black",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/222223890?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/sevilla-25-26-training-top-black/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/sevilla-25-26-training-top-black/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/sevilla-25-26-training-top-black/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/sevilla-25-26-training-top-black/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/sevilla-25-26-training-top-black/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/sevilla-25-26-training-top-black/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/sevilla-25-26-training-top-black/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/sevilla-25-26-training-top-black/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/sevilla-25-26-training-top-black/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/sevilla-25-26-training-top-black/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "sevilla-25-26-training-top-black",
+      "siteCategory": "training",
+      "team": "Sevilla",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2025/26",
+      "type": "Training",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "💨🧥Windbreaker/Training Top",
+        "La Liga",
+        "Sevilla"
+      ],
+      "sourceTitle": "Sevilla 25/26 Training Top Black S-XXL",
+      "updatedAt": "2026-10-13T05:23:38.868Z"
+    },
+    {
       "id": "yupoo-222224382",
       "name": "Sevilla 25/26 Training Top Red",
       "category": "new season",
@@ -208945,6 +209921,47 @@
       ],
       "sourceTitle": "Sporting CP 02/03 Third Away Retro Jersey S-XXL",
       "updatedAt": "2026-10-11T10:38:34.524Z"
+    },
+    {
+      "id": "yupoo-221733581",
+      "name": "Sporting CP 25/26 Special Edition Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/221733581?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/sporting-cp-25-26-special-edition-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/sporting-cp-25-26-special-edition-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/sporting-cp-25-26-special-edition-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/sporting-cp-25-26-special-edition-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/sporting-cp-25-26-special-edition-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/sporting-cp-25-26-special-edition-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/sporting-cp-25-26-special-edition-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/sporting-cp-25-26-special-edition-jersey/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/sporting-cp-25-26-special-edition-jersey/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "sporting-cp-25-26-special-edition-jersey",
+      "siteCategory": "club",
+      "team": "Sporting CP",
+      "league": "Liga Portugal",
+      "country": "Portugal",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Special edition",
+      "sourceCategories": [
+        "new season",
+        "Primeira Liga",
+        "Sporting CP"
+      ],
+      "sourceTitle": "Sporting CP 25/26 Special Edition Jersey S-4XL",
+      "updatedAt": "2026-10-13T05:28:38.635Z"
     },
     {
       "id": "yupoo-247787926",
@@ -223148,6 +224165,49 @@
       ],
       "sourceTitle": "West Ham United 1999 Away (Iron Lady) Retro Jersey S-XXL",
       "updatedAt": "2026-10-11T15:44:20.524Z"
+    },
+    {
+      "id": "yupoo-221917557",
+      "name": "West Ham United 25/26 Third Away Kids kit Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/221917557?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/west-ham-united-25-26-third-away-kids-kit-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/west-ham-united-25-26-third-away-kids-kit-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/west-ham-united-25-26-third-away-kids-kit-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/west-ham-united-25-26-third-away-kids-kit-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/west-ham-united-25-26-third-away-kids-kit-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/west-ham-united-25-26-third-away-kids-kit-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/west-ham-united-25-26-third-away-kids-kit-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/west-ham-united-25-26-third-away-kids-kit-jersey/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/west-ham-united-25-26-third-away-kids-kit-jersey/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/west-ham-united-25-26-third-away-kids-kit-jersey/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "west-ham-united-25-26-third-away-kids-kit-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Kids",
+      "sourceCategories": [
+        "new season",
+        "⚽👦🏻kids kit size：16-28",
+        "Premier League",
+        "West Ham United"
+      ],
+      "sourceTitle": "West Ham United 25/26 Third Away Kids kit Jersey SIZE 16-28",
+      "updatedAt": "2026-10-13T05:25:39.612Z"
     },
     {
       "id": "yupoo-251867437",
