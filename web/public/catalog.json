@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-13T19:06:13.886Z",
+  "generatedAt": "2026-10-13T21:52:43.289Z",
   "source": {
     "name": "Supplier catalogue",
     "url": "https://minkang.x.yupoo.com/albums"
   },
-  "count": 5992,
+  "count": 6002,
   "items": [
     {
       "id": "yupoo-231422616",
@@ -9979,6 +9979,46 @@
       ],
       "sourceTitle": "AC Milan 26/27 Third Away Long-Sleeve Jersey S-4XL",
       "updatedAt": "2026-10-12T21:38:16.209Z"
+    },
+    {
+      "id": "yupoo-258449214",
+      "name": "AC Milan 26/27 Third Away Player Edition Jersey",
+      "category": "Uncategorized album",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258449214?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ac-milan-26-27-third-away-player-edition-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ac-milan-26-27-third-away-player-edition-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ac-milan-26-27-third-away-player-edition-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ac-milan-26-27-third-away-player-edition-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ac-milan-26-27-third-away-player-edition-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ac-milan-26-27-third-away-player-edition-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ac-milan-26-27-third-away-player-edition-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ac-milan-26-27-third-away-player-edition-jersey/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ac-milan-26-27-third-away-player-edition-jersey/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ac-milan-26-27-third-away-player-edition-jersey/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "ac-milan-26-27-third-away-player-edition-jersey",
+      "siteCategory": "club",
+      "team": "AC Milan",
+      "league": "Serie A",
+      "country": "Italy",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Player version",
+      "sourceCategories": [
+        "Uncategorized album"
+      ],
+      "sourceTitle": "AC Milan 26/27 Third Away Player Edition Jersey S-4XL",
+      "updatedAt": "2026-10-13T21:52:34.345Z"
     },
     {
       "id": "yupoo-213002260",
@@ -26011,6 +26051,44 @@
       "updatedAt": "2026-10-13T03:38:36.113Z"
     },
     {
+      "id": "yupoo-258450633",
+      "name": "Atlético Mineiro 26/27 Third Away",
+      "category": "Uncategorized album",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258450633?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/atletico-mineiro-26-27-third-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/atletico-mineiro-26-27-third-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/atletico-mineiro-26-27-third-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/atletico-mineiro-26-27-third-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/atletico-mineiro-26-27-third-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/atletico-mineiro-26-27-third-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/atletico-mineiro-26-27-third-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/atletico-mineiro-26-27-third-away/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "atletico-mineiro-26-27-third-away",
+      "siteCategory": "club",
+      "team": "Atlético Madrid",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "Uncategorized album"
+      ],
+      "sourceTitle": "Atlético Mineiro 26/27 Third Away S-4XL",
+      "updatedAt": "2026-10-13T21:51:13.097Z"
+    },
+    {
       "id": "yupoo-256197744",
       "name": "Atlético Mineiro 26/27 Third Away Jersey",
       "category": "new season",
@@ -26049,6 +26127,46 @@
       ],
       "sourceTitle": "Atlético Mineiro 26/27 Third Away Jersey S-4XL",
       "updatedAt": "2026-10-12T23:20:02.136Z"
+    },
+    {
+      "id": "yupoo-258449606",
+      "name": "Atlético Mineiro 26/27 Third Away Player Version",
+      "category": "Uncategorized album",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258449606?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/atletico-mineiro-26-27-third-away-player-version/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/atletico-mineiro-26-27-third-away-player-version/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/atletico-mineiro-26-27-third-away-player-version/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/atletico-mineiro-26-27-third-away-player-version/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/atletico-mineiro-26-27-third-away-player-version/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/atletico-mineiro-26-27-third-away-player-version/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/atletico-mineiro-26-27-third-away-player-version/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/atletico-mineiro-26-27-third-away-player-version/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/atletico-mineiro-26-27-third-away-player-version/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/atletico-mineiro-26-27-third-away-player-version/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "atletico-mineiro-26-27-third-away-player-version",
+      "siteCategory": "club",
+      "team": "Atlético Madrid",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Player version",
+      "sourceCategories": [
+        "Uncategorized album"
+      ],
+      "sourceTitle": "Atlético Mineiro 26/27 Third Away Player Version S-3XL",
+      "updatedAt": "2026-10-13T21:52:20.402Z"
     },
     {
       "id": "yupoo-231121582",
@@ -27955,6 +28073,84 @@
       ],
       "sourceTitle": "Bahia 26/27 Special Edition - Yellow Jersey S-4XL",
       "updatedAt": "2026-10-13T01:00:15.542Z"
+    },
+    {
+      "id": "yupoo-258450521",
+      "name": "Bahia 26/27 Third Away",
+      "category": "Uncategorized album",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258450521?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/bahia-26-27-third-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/bahia-26-27-third-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/bahia-26-27-third-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/bahia-26-27-third-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/bahia-26-27-third-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/bahia-26-27-third-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/bahia-26-27-third-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/bahia-26-27-third-away/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "bahia-26-27-third-away",
+      "siteCategory": "club",
+      "team": "Bahia",
+      "league": "Brasileiro Série A",
+      "country": "Brazil",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "Uncategorized album"
+      ],
+      "sourceTitle": "Bahia 26/27 Third Away S-4XL",
+      "updatedAt": "2026-10-13T21:51:26.196Z"
+    },
+    {
+      "id": "yupoo-258449842",
+      "name": "Bahia 26/27 Third Away Player Version",
+      "category": "Uncategorized album",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258449842?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/bahia-26-27-third-away-player-version/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/bahia-26-27-third-away-player-version/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/bahia-26-27-third-away-player-version/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/bahia-26-27-third-away-player-version/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/bahia-26-27-third-away-player-version/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/bahia-26-27-third-away-player-version/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/bahia-26-27-third-away-player-version/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/bahia-26-27-third-away-player-version/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/bahia-26-27-third-away-player-version/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/bahia-26-27-third-away-player-version/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "bahia-26-27-third-away-player-version",
+      "siteCategory": "club",
+      "team": "Bahia",
+      "league": "Brasileiro Série A",
+      "country": "Brazil",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Player version",
+      "sourceCategories": [
+        "Uncategorized album"
+      ],
+      "sourceTitle": "Bahia 26/27 Third Away Player Version S-3XL",
+      "updatedAt": "2026-10-13T21:52:06.588Z"
     },
     {
       "id": "yupoo-254288325",
@@ -65241,6 +65437,45 @@
       "updatedAt": "2026-10-12T23:19:49.993Z"
     },
     {
+      "id": "yupoo-258450071",
+      "name": "Corinthians 26/27 Third Away Player Version",
+      "category": "Uncategorized album",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258450071?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/corinthians-26-27-third-away-player-version/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/corinthians-26-27-third-away-player-version/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/corinthians-26-27-third-away-player-version/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/corinthians-26-27-third-away-player-version/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/corinthians-26-27-third-away-player-version/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/corinthians-26-27-third-away-player-version/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/corinthians-26-27-third-away-player-version/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/corinthians-26-27-third-away-player-version/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/corinthians-26-27-third-away-player-version/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "corinthians-26-27-third-away-player-version",
+      "siteCategory": "club",
+      "team": "Corinthians",
+      "league": "Brasileiro Série A",
+      "country": "Brazil",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Player version",
+      "sourceCategories": [
+        "Uncategorized album"
+      ],
+      "sourceTitle": "Corinthians 26/27 Third Away Player Version S-3XL",
+      "updatedAt": "2026-10-13T21:51:52.923Z"
+    },
+    {
       "id": "yupoo-224860955",
       "name": "Corinthians 26/27 Training - Maroon Jersey",
       "category": "new season",
@@ -68647,6 +68882,43 @@
       ],
       "sourceTitle": "Cruzeiro 26/27 Training Shorts - Dark Blue S-4XL",
       "updatedAt": "2026-10-13T04:26:13.677Z"
+    },
+    {
+      "id": "yupoo-258451059",
+      "name": "Cruzeiro 26/27 Women's Adidas Originals Blue T-shirt",
+      "category": "Uncategorized album",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258451059?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/cruzeiro-26-27-women-s-adidas-originals-blue-t-shirt/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/cruzeiro-26-27-women-s-adidas-originals-blue-t-shirt/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/cruzeiro-26-27-women-s-adidas-originals-blue-t-shirt/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/cruzeiro-26-27-women-s-adidas-originals-blue-t-shirt/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/cruzeiro-26-27-women-s-adidas-originals-blue-t-shirt/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/cruzeiro-26-27-women-s-adidas-originals-blue-t-shirt/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/cruzeiro-26-27-women-s-adidas-originals-blue-t-shirt/image-06.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "cruzeiro-26-27-women-s-adidas-originals-blue-t-shirt",
+      "siteCategory": "other",
+      "team": "Cruzeiro",
+      "league": "Brasileiro Série A",
+      "country": "Brazil",
+      "season": "2026/27",
+      "type": "Casual",
+      "variant": "Women's",
+      "sourceCategories": [
+        "Uncategorized album"
+      ],
+      "sourceTitle": "Cruzeiro 26/27 Women's Adidas Originals Blue T-shirt S-XXL",
+      "updatedAt": "2026-10-13T21:50:48.237Z"
     },
     {
       "id": "yupoo-224384579",
@@ -77212,6 +77484,45 @@
       ],
       "sourceTitle": "Feyenoord 25/26 Fourth Aawy Jersey S-XXL",
       "updatedAt": "2026-10-13T05:12:34.958Z"
+    },
+    {
+      "id": "yupoo-258450200",
+      "name": "Feyenoord 26/27 Third Away Player Version",
+      "category": "Uncategorized album",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258450200?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/feyenoord-26-27-third-away-player-version/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/feyenoord-26-27-third-away-player-version/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/feyenoord-26-27-third-away-player-version/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/feyenoord-26-27-third-away-player-version/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/feyenoord-26-27-third-away-player-version/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/feyenoord-26-27-third-away-player-version/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/feyenoord-26-27-third-away-player-version/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/feyenoord-26-27-third-away-player-version/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/feyenoord-26-27-third-away-player-version/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "feyenoord-26-27-third-away-player-version",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Player version",
+      "sourceCategories": [
+        "Uncategorized album"
+      ],
+      "sourceTitle": "Feyenoord 26/27 Third Away Player Version S-3XL",
+      "updatedAt": "2026-10-13T21:51:39.417Z"
     },
     {
       "id": "yupoo-245426069",
@@ -238025,6 +238336,44 @@
       "updatedAt": "2026-10-12T23:02:04.516Z"
     },
     {
+      "id": "yupoo-258450922",
+      "name": "Vasco da Gama 26/27 Third away Women's Jersey",
+      "category": "Uncategorized album",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258450922?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/vasco-da-gama-26-27-third-away-women-s-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/vasco-da-gama-26-27-third-away-women-s-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/vasco-da-gama-26-27-third-away-women-s-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/vasco-da-gama-26-27-third-away-women-s-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/vasco-da-gama-26-27-third-away-women-s-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/vasco-da-gama-26-27-third-away-women-s-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/vasco-da-gama-26-27-third-away-women-s-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/vasco-da-gama-26-27-third-away-women-s-jersey/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "vasco-da-gama-26-27-third-away-women-s-jersey",
+      "siteCategory": "club",
+      "team": "Vasco da Gama",
+      "league": "Brasileiro Série A",
+      "country": "Brazil",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Women's",
+      "sourceCategories": [
+        "Uncategorized album"
+      ],
+      "sourceTitle": "Vasco da Gama 26/27 Third away Women's Jersey S-XXL",
+      "updatedAt": "2026-10-13T21:51:00.392Z"
+    },
+    {
       "id": "yupoo-251867387",
       "name": "Vélez Sarsfield 26/27 Away Jersey",
       "category": "new season",
@@ -240818,6 +241167,39 @@
       ],
       "sourceTitle": "West Ham United 26/27 Away Kids kit Size 16-28",
       "updatedAt": "2026-10-13T00:35:03.353Z"
+    },
+    {
+      "id": "yupoo-258446520",
+      "name": "West Ham United 26/27 Third Away Jersey",
+      "category": "Uncategorized album",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/258446520?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/west-ham-united-26-27-third-away-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/west-ham-united-26-27-third-away-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/west-ham-united-26-27-third-away-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "west-ham-united-26-27-third-away-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "Uncategorized album"
+      ],
+      "sourceTitle": "West Ham United 26/27 Third Away Jersey S-4XL",
+      "updatedAt": "2026-10-13T21:52:43.270Z"
     },
     {
       "id": "yupoo-255836087",
