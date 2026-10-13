@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-13T22:26:02.808Z",
+  "generatedAt": "2026-10-13T22:32:53.345Z",
   "source": {
     "name": "Supplier catalogue",
     "url": "https://minkang.x.yupoo.com/albums"
   },
-  "count": 6143,
+  "count": 6166,
   "items": [
     {
       "id": "yupoo-231422616",
@@ -6682,6 +6682,49 @@
       "updatedAt": "2026-10-12T22:31:47.056Z"
     },
     {
+      "id": "yupoo-212393881",
+      "name": "24/25 Player Barcelona Away",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212393881?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-player-barcelona-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-player-barcelona-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-player-barcelona-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-player-barcelona-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-player-barcelona-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-player-barcelona-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-player-barcelona-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-player-barcelona-away/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-player-barcelona-away/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-player-barcelona-away/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "24-25-player-barcelona-away",
+      "siteCategory": "club",
+      "team": "FC Barcelona",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2024/25",
+      "type": "Shirt",
+      "variant": "Player version",
+      "sourceCategories": [
+        "new season",
+        "La Liga",
+        "Barcelona",
+        "⚽💪🏻Player Version"
+      ],
+      "sourceTitle": "24/25 Player Barcelona Away S-4XL",
+      "updatedAt": "2026-10-13T22:26:18.178Z"
+    },
+    {
       "id": "yupoo-203669209",
       "name": "25/26 Ajax Retro",
       "category": "Retro football shirt",
@@ -7487,6 +7530,48 @@
       "updatedAt": "2026-10-12T22:20:37.201Z"
     },
     {
+      "id": "yupoo-212307375",
+      "name": "25/26 Player Bayern Munich Home",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212307375?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-player-bayern-munich-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-player-bayern-munich-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-player-bayern-munich-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-player-bayern-munich-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-player-bayern-munich-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-player-bayern-munich-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-player-bayern-munich-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-player-bayern-munich-home/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-player-bayern-munich-home/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-player-bayern-munich-home",
+      "siteCategory": "club",
+      "team": "Bayern Munich",
+      "league": "Bundesliga",
+      "country": "Germany",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Player version",
+      "sourceCategories": [
+        "new season",
+        "⚽💪🏻Player Version",
+        "Bundesliga",
+        "Bayern Munich"
+      ],
+      "sourceTitle": "25/26 Player Bayern Munich Home S-4XL",
+      "updatedAt": "2026-10-13T22:32:53.341Z"
+    },
+    {
       "id": "yupoo-209263508",
       "name": "25/26 Player Boca Juniors Away",
       "category": "Liga Profesional",
@@ -7611,6 +7696,46 @@
       ],
       "sourceTitle": "25/26 Player Chelsea Home S-4XL",
       "updatedAt": "2026-10-12T22:03:28.128Z"
+    },
+    {
+      "id": "yupoo-212392707",
+      "name": "25/26 Player Corinthians All Sponsors Home",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212392707?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-player-corinthians-all-sponsors-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-player-corinthians-all-sponsors-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-player-corinthians-all-sponsors-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-player-corinthians-all-sponsors-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-player-corinthians-all-sponsors-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-player-corinthians-all-sponsors-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-player-corinthians-all-sponsors-home/image-06.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-player-corinthians-all-sponsors-home",
+      "siteCategory": "club",
+      "team": "Corinthians",
+      "league": "Brasileiro Série A",
+      "country": "Brazil",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Player version",
+      "sourceCategories": [
+        "new season",
+        "⚽💪🏻Player Version",
+        "Brasileiro Série A",
+        "Corinthians"
+      ],
+      "sourceTitle": "25/26 Player Corinthians All Sponsors Home S-4XL",
+      "updatedAt": "2026-10-13T22:27:25.021Z"
     },
     {
       "id": "yupoo-212821732",
@@ -9055,6 +9180,46 @@
       "updatedAt": "2026-10-11T15:02:50.867Z"
     },
     {
+      "id": "yupoo-212307437",
+      "name": "AC Milan 125th Anniversary Edition - Black Player Version Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212307437?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ac-milan-125th-anniversary-edition-black-player-version-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ac-milan-125th-anniversary-edition-black-player-version-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ac-milan-125th-anniversary-edition-black-player-version-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ac-milan-125th-anniversary-edition-black-player-version-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ac-milan-125th-anniversary-edition-black-player-version-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ac-milan-125th-anniversary-edition-black-player-version-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ac-milan-125th-anniversary-edition-black-player-version-jersey/image-06.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "ac-milan-125th-anniversary-edition-black-player-version-jersey",
+      "siteCategory": "club",
+      "team": "AC Milan",
+      "league": "Serie A",
+      "country": "Italy",
+      "season": "",
+      "type": "Shirt",
+      "variant": "Player version",
+      "sourceCategories": [
+        "new season",
+        "⚽💪🏻Player Version",
+        "Serie A",
+        "AC Milan"
+      ],
+      "sourceTitle": "AC Milan 125th Anniversary Edition - Black Player Version Jersey S-3XL",
+      "updatedAt": "2026-10-13T22:31:50.203Z"
+    },
+    {
       "id": "yupoo-237792506",
       "name": "AC Milan 13/14 Home Retro Kids Kit Jersey",
       "category": "new season",
@@ -9307,6 +9472,48 @@
       "updatedAt": "2026-10-11T12:37:18.045Z"
     },
     {
+      "id": "yupoo-212392691",
+      "name": "AC Milan 25/26 Away Player Version Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212392691?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ac-milan-25-26-away-player-version-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ac-milan-25-26-away-player-version-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ac-milan-25-26-away-player-version-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ac-milan-25-26-away-player-version-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ac-milan-25-26-away-player-version-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ac-milan-25-26-away-player-version-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ac-milan-25-26-away-player-version-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ac-milan-25-26-away-player-version-jersey/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ac-milan-25-26-away-player-version-jersey/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "ac-milan-25-26-away-player-version-jersey",
+      "siteCategory": "club",
+      "team": "AC Milan",
+      "league": "Serie A",
+      "country": "Italy",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Player version",
+      "sourceCategories": [
+        "new season",
+        "⚽💪🏻Player Version",
+        "Serie A",
+        "AC Milan"
+      ],
+      "sourceTitle": "AC Milan 25/26 Away Player Version Jersey S-4XL",
+      "updatedAt": "2026-10-13T22:27:47.776Z"
+    },
+    {
       "id": "yupoo-213373862",
       "name": "AC Milan 25/26 Away Player Version Long Sleeve Jersey",
       "category": "⚽Long sleeve shirt",
@@ -9553,6 +9760,48 @@
       ],
       "sourceTitle": "AC Milan 25/26 Player Version Special Edition - Purple Jersey S-XXL",
       "updatedAt": "2026-10-13T07:22:14.492Z"
+    },
+    {
+      "id": "yupoo-212307432",
+      "name": "AC Milan 25/26 Second Away Player Version Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212307432?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ac-milan-25-26-second-away-player-version-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ac-milan-25-26-second-away-player-version-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ac-milan-25-26-second-away-player-version-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ac-milan-25-26-second-away-player-version-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ac-milan-25-26-second-away-player-version-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ac-milan-25-26-second-away-player-version-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ac-milan-25-26-second-away-player-version-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ac-milan-25-26-second-away-player-version-jersey/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ac-milan-25-26-second-away-player-version-jersey/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "ac-milan-25-26-second-away-player-version-jersey",
+      "siteCategory": "club",
+      "team": "AC Milan",
+      "league": "Serie A",
+      "country": "Italy",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Player version",
+      "sourceCategories": [
+        "new season",
+        "⚽💪🏻Player Version",
+        "Serie A",
+        "AC Milan"
+      ],
+      "sourceTitle": "AC Milan 25/26 Second Away Player Version Jersey S-3XL",
+      "updatedAt": "2026-10-13T22:32:39.492Z"
     },
     {
       "id": "yupoo-257635820",
@@ -14138,6 +14387,89 @@
       ],
       "sourceTitle": "America 25/26 Home Player Version Jersey S-3XL",
       "updatedAt": "2026-10-13T21:56:56.184Z"
+    },
+    {
+      "id": "yupoo-212308451",
+      "name": "America 25/26 Special Edition Player Version Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212308451?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/america-25-26-special-edition-player-version-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/america-25-26-special-edition-player-version-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/america-25-26-special-edition-player-version-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/america-25-26-special-edition-player-version-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/america-25-26-special-edition-player-version-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/america-25-26-special-edition-player-version-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/america-25-26-special-edition-player-version-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/america-25-26-special-edition-player-version-jersey/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "america-25-26-special-edition-player-version-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Player version",
+      "sourceCategories": [
+        "new season",
+        "⚽💪🏻Player Version",
+        "LIGA MX",
+        "America"
+      ],
+      "sourceTitle": "America 25/26 Special Edition Player Version Jersey S-3XL",
+      "updatedAt": "2026-10-13T22:30:53.662Z"
+    },
+    {
+      "id": "yupoo-212308448",
+      "name": "America 25/26 Special Edition Player Version Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212308448?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/america-25-26-special-edition-player-version-jersey-2/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/america-25-26-special-edition-player-version-jersey-2/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/america-25-26-special-edition-player-version-jersey-2/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/america-25-26-special-edition-player-version-jersey-2/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/america-25-26-special-edition-player-version-jersey-2/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/america-25-26-special-edition-player-version-jersey-2/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/america-25-26-special-edition-player-version-jersey-2/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/america-25-26-special-edition-player-version-jersey-2/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/america-25-26-special-edition-player-version-jersey-2/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "america-25-26-special-edition-player-version-jersey-2",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Player version",
+      "sourceCategories": [
+        "new season",
+        "⚽💪🏻Player Version",
+        "LIGA MX",
+        "America"
+      ],
+      "sourceTitle": "America 25/26 Special Edition Player Version Jersey S-3XL",
+      "updatedAt": "2026-10-13T22:31:09.112Z"
     },
     {
       "id": "yupoo-251869123",
@@ -32025,6 +32357,48 @@
       "updatedAt": "2026-10-12T22:00:33.998Z"
     },
     {
+      "id": "yupoo-212307843",
+      "name": "Barcelona 25/26 Away Player Version Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212307843?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-25-26-away-player-version-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-25-26-away-player-version-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-25-26-away-player-version-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-25-26-away-player-version-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-25-26-away-player-version-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-25-26-away-player-version-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-25-26-away-player-version-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-25-26-away-player-version-jersey/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-25-26-away-player-version-jersey/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "barcelona-25-26-away-player-version-jersey",
+      "siteCategory": "club",
+      "team": "FC Barcelona",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Player version",
+      "sourceCategories": [
+        "new season",
+        "La Liga",
+        "Barcelona",
+        "⚽💪🏻Player Version"
+      ],
+      "sourceTitle": "Barcelona 25/26 Away Player Version Jersey S-4XL",
+      "updatedAt": "2026-10-13T22:31:23.731Z"
+    },
+    {
       "id": "yupoo-222812398",
       "name": "Barcelona 25/26 Away Women's Vest",
       "category": "new season",
@@ -32148,6 +32522,132 @@
       ],
       "sourceTitle": "Barcelona 25/26 Concept Edition - Pink Women's Vest S-XXL",
       "updatedAt": "2026-10-13T05:15:03.941Z"
+    },
+    {
+      "id": "yupoo-212307838",
+      "name": "Barcelona 25/26 Concept Edition Player Version Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212307838?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-25-26-concept-edition-player-version-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-25-26-concept-edition-player-version-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-25-26-concept-edition-player-version-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-25-26-concept-edition-player-version-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-25-26-concept-edition-player-version-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-25-26-concept-edition-player-version-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-25-26-concept-edition-player-version-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-25-26-concept-edition-player-version-jersey/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-25-26-concept-edition-player-version-jersey/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "barcelona-25-26-concept-edition-player-version-jersey",
+      "siteCategory": "club",
+      "team": "FC Barcelona",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Player version",
+      "sourceCategories": [
+        "new season",
+        "La Liga",
+        "Barcelona",
+        "⚽💪🏻Player Version"
+      ],
+      "sourceTitle": "Barcelona 25/26 Concept Edition Player Version Jersey S-3XL",
+      "updatedAt": "2026-10-13T22:31:38.357Z"
+    },
+    {
+      "id": "yupoo-212307435",
+      "name": "Barcelona 25/26 Concept Edition Player Version Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212307435?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-25-26-concept-edition-player-version-jersey-2/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-25-26-concept-edition-player-version-jersey-2/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-25-26-concept-edition-player-version-jersey-2/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-25-26-concept-edition-player-version-jersey-2/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-25-26-concept-edition-player-version-jersey-2/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-25-26-concept-edition-player-version-jersey-2/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-25-26-concept-edition-player-version-jersey-2/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-25-26-concept-edition-player-version-jersey-2/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-25-26-concept-edition-player-version-jersey-2/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "barcelona-25-26-concept-edition-player-version-jersey-2",
+      "siteCategory": "club",
+      "team": "FC Barcelona",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Player version",
+      "sourceCategories": [
+        "new season",
+        "La Liga",
+        "Barcelona",
+        "⚽💪🏻Player Version"
+      ],
+      "sourceTitle": "Barcelona 25/26 Concept Edition Player Version Jersey S-3XL",
+      "updatedAt": "2026-10-13T22:32:08.405Z"
+    },
+    {
+      "id": "yupoo-212307434",
+      "name": "Barcelona 25/26 Concept Edition Player Version Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212307434?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-25-26-concept-edition-player-version-jersey-3/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-25-26-concept-edition-player-version-jersey-3/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-25-26-concept-edition-player-version-jersey-3/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-25-26-concept-edition-player-version-jersey-3/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-25-26-concept-edition-player-version-jersey-3/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-25-26-concept-edition-player-version-jersey-3/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-25-26-concept-edition-player-version-jersey-3/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-25-26-concept-edition-player-version-jersey-3/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-25-26-concept-edition-player-version-jersey-3/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "barcelona-25-26-concept-edition-player-version-jersey-3",
+      "siteCategory": "club",
+      "team": "FC Barcelona",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Player version",
+      "sourceCategories": [
+        "new season",
+        "La Liga",
+        "Barcelona",
+        "⚽💪🏻Player Version"
+      ],
+      "sourceTitle": "Barcelona 25/26 Concept Edition Player Version Jersey S-3XL",
+      "updatedAt": "2026-10-13T22:32:24.201Z"
     },
     {
       "id": "yupoo-222812461",
@@ -43422,6 +43922,47 @@
       "updatedAt": "2026-10-13T05:41:41.017Z"
     },
     {
+      "id": "yupoo-212308786",
+      "name": "Borussia Dortmund 25/26 Home Player Version Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212308786?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/borussia-dortmund-25-26-home-player-version-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/borussia-dortmund-25-26-home-player-version-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/borussia-dortmund-25-26-home-player-version-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/borussia-dortmund-25-26-home-player-version-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/borussia-dortmund-25-26-home-player-version-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/borussia-dortmund-25-26-home-player-version-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/borussia-dortmund-25-26-home-player-version-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/borussia-dortmund-25-26-home-player-version-jersey/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "borussia-dortmund-25-26-home-player-version-jersey",
+      "siteCategory": "club",
+      "team": "Borussia Dortmund",
+      "league": "Bundesliga",
+      "country": "Germany",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Player version",
+      "sourceCategories": [
+        "new season",
+        "⚽💪🏻Player Version",
+        "Bundesliga",
+        "Borussia Dortmund"
+      ],
+      "sourceTitle": "Borussia Dortmund 25/26 Home Player Version Jersey S-4XL",
+      "updatedAt": "2026-10-13T22:29:30.995Z"
+    },
+    {
       "id": "yupoo-251869405",
       "name": "Borussia Dortmund 26/27 Away Jersey",
       "category": "new season",
@@ -49124,7 +49665,7 @@
     {
       "id": "yupoo-212384087",
       "name": "Brazil 22/23 Lake Blue-Jacket",
-      "category": "Brazil team column",
+      "category": "new season",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/212384087?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/brazil-22-23-lake-blue-jacket/cover.webp",
       "images": [
@@ -49156,10 +49697,11 @@
       "type": "Jacket",
       "variant": "Fan version",
       "sourceCategories": [
+        "new season",
         "Brazil team column"
       ],
       "sourceTitle": "Brazil 22/23 Lake Blue-Jacket S-XXL",
-      "updatedAt": "2026-10-11T00:21:19.763Z"
+      "updatedAt": "2026-10-13T22:29:00.794Z"
     },
     {
       "id": "yupoo-212384067",
@@ -49206,7 +49748,7 @@
     {
       "id": "yupoo-212384103",
       "name": "Brazil 22/23 Royal Blue - Jacket",
-      "category": "Brazil team column",
+      "category": "new season",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/212384103?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/brazil-22-23-royal-blue-jacket/cover.webp",
       "images": [
@@ -49238,10 +49780,11 @@
       "type": "Jacket",
       "variant": "Fan version",
       "sourceCategories": [
+        "new season",
         "Brazil team column"
       ],
       "sourceTitle": "Brazil 22/23 Royal Blue - Jacket S-XXL",
-      "updatedAt": "2026-10-11T00:21:09.252Z"
+      "updatedAt": "2026-10-13T22:28:44.619Z"
     },
     {
       "id": "yupoo-238629311",
@@ -98794,6 +99337,90 @@
       "updatedAt": "2026-10-11T12:40:14.079Z"
     },
     {
+      "id": "yupoo-212393738",
+      "name": "Inter Milan 24/25 Away (Joint Edition) Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212393738?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/inter-milan-24-25-away-joint-edition-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/inter-milan-24-25-away-joint-edition-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/inter-milan-24-25-away-joint-edition-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/inter-milan-24-25-away-joint-edition-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/inter-milan-24-25-away-joint-edition-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/inter-milan-24-25-away-joint-edition-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/inter-milan-24-25-away-joint-edition-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/inter-milan-24-25-away-joint-edition-jersey/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/inter-milan-24-25-away-joint-edition-jersey/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/inter-milan-24-25-away-joint-edition-jersey/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "inter-milan-24-25-away-joint-edition-jersey",
+      "siteCategory": "club",
+      "team": "Inter",
+      "league": "Serie A",
+      "country": "Italy",
+      "season": "2024/25",
+      "type": "Shirt",
+      "variant": "Special edition",
+      "sourceCategories": [
+        "new season",
+        "Serie A",
+        "Inter Milan"
+      ],
+      "sourceTitle": "Inter Milan 24/25 Away (Joint Edition) Jersey S-4XL",
+      "updatedAt": "2026-10-13T22:26:34.530Z"
+    },
+    {
+      "id": "yupoo-212392490",
+      "name": "Inter Milan 24/25 Home Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212392490?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/inter-milan-24-25-home-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/inter-milan-24-25-home-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/inter-milan-24-25-home-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/inter-milan-24-25-home-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/inter-milan-24-25-home-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/inter-milan-24-25-home-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/inter-milan-24-25-home-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/inter-milan-24-25-home-jersey/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/inter-milan-24-25-home-jersey/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/inter-milan-24-25-home-jersey/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "inter-milan-24-25-home-jersey",
+      "siteCategory": "club",
+      "team": "Inter",
+      "league": "Serie A",
+      "country": "Italy",
+      "season": "2024/25",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Serie A",
+        "Inter Milan"
+      ],
+      "sourceTitle": "Inter Milan 24/25 Home Jersey S-4XL",
+      "updatedAt": "2026-10-13T22:28:27.979Z"
+    },
+    {
       "id": "yupoo-213387806",
       "name": "Inter Milan 25/26 Away kids kit Jersey",
       "category": "new season",
@@ -98837,6 +99464,48 @@
       ],
       "sourceTitle": "Inter Milan 25/26 Away kids kit Jersey SIZE 16-28",
       "updatedAt": "2026-10-13T07:15:40.388Z"
+    },
+    {
+      "id": "yupoo-212308471",
+      "name": "Inter Milan 25/26 Away Player Version Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212308471?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/inter-milan-25-26-away-player-version-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/inter-milan-25-26-away-player-version-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/inter-milan-25-26-away-player-version-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/inter-milan-25-26-away-player-version-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/inter-milan-25-26-away-player-version-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/inter-milan-25-26-away-player-version-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/inter-milan-25-26-away-player-version-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/inter-milan-25-26-away-player-version-jersey/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/inter-milan-25-26-away-player-version-jersey/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "inter-milan-25-26-away-player-version-jersey",
+      "siteCategory": "club",
+      "team": "Inter",
+      "league": "Serie A",
+      "country": "Italy",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Player version",
+      "sourceCategories": [
+        "new season",
+        "⚽💪🏻Player Version",
+        "Serie A",
+        "Inter Milan"
+      ],
+      "sourceTitle": "Inter Milan 25/26 Away Player Version Jersey S-4XL",
+      "updatedAt": "2026-10-13T22:30:01.269Z"
     },
     {
       "id": "yupoo-216225292",
@@ -98912,6 +99581,47 @@
       ],
       "sourceTitle": "Inter Milan 25/26 Full Zip Hooded Jacket - Cyan S-XXL",
       "updatedAt": "2026-10-12T23:03:19.703Z"
+    },
+    {
+      "id": "yupoo-212393644",
+      "name": "Inter Milan 25/26 Home Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212393644?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/inter-milan-25-26-home-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/inter-milan-25-26-home-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/inter-milan-25-26-home-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/inter-milan-25-26-home-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/inter-milan-25-26-home-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/inter-milan-25-26-home-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/inter-milan-25-26-home-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/inter-milan-25-26-home-jersey/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/inter-milan-25-26-home-jersey/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "inter-milan-25-26-home-jersey",
+      "siteCategory": "club",
+      "team": "Inter",
+      "league": "Serie A",
+      "country": "Italy",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Serie A",
+        "Inter Milan"
+      ],
+      "sourceTitle": "Inter Milan 25/26 Home Jersey S-4XL",
+      "updatedAt": "2026-10-13T22:26:50.139Z"
     },
     {
       "id": "yupoo-213137760",
@@ -120374,6 +121084,48 @@
       "updatedAt": "2026-10-12T22:09:31.670Z"
     },
     {
+      "id": "yupoo-212308456",
+      "name": "Manchester United 25/26 Home Player Version Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212308456?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-united-25-26-home-player-version-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-united-25-26-home-player-version-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-united-25-26-home-player-version-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-united-25-26-home-player-version-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-united-25-26-home-player-version-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-united-25-26-home-player-version-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-united-25-26-home-player-version-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-united-25-26-home-player-version-jersey/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-united-25-26-home-player-version-jersey/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "manchester-united-25-26-home-player-version-jersey",
+      "siteCategory": "club",
+      "team": "Manchester United",
+      "league": "Premier League",
+      "country": "England",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Player version",
+      "sourceCategories": [
+        "new season",
+        "Premier League",
+        "M-U",
+        "⚽💪🏻Player Version"
+      ],
+      "sourceTitle": "M-U 25/26 Home Player Version Jersey S-4XL",
+      "updatedAt": "2026-10-13T22:30:33.214Z"
+    },
+    {
       "id": "yupoo-218961781",
       "name": "Manchester United 25/26 Home Women's Jersey",
       "category": "new season",
@@ -120621,6 +121373,47 @@
       ],
       "sourceTitle": "M-U 25/26 Originals Stone Roses Player Version Jersey S-2XL",
       "updatedAt": "2026-10-13T02:56:00.665Z"
+    },
+    {
+      "id": "yupoo-212308460",
+      "name": "Manchester United 25/26 Player Version Away Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212308460?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-united-25-26-player-version-away-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-united-25-26-player-version-away-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-united-25-26-player-version-away-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-united-25-26-player-version-away-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-united-25-26-player-version-away-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-united-25-26-player-version-away-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-united-25-26-player-version-away-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-united-25-26-player-version-away-jersey/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-united-25-26-player-version-away-jersey/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "manchester-united-25-26-player-version-away-jersey",
+      "siteCategory": "club",
+      "team": "Manchester United",
+      "league": "Premier League",
+      "country": "England",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Player version",
+      "sourceCategories": [
+        "new season",
+        "Premier League",
+        "⚽💪🏻Player Version"
+      ],
+      "sourceTitle": "Manchester United 25/26 Player Version Away Jersey S-4XL",
+      "updatedAt": "2026-10-13T22:30:17.467Z"
     },
     {
       "id": "yupoo-213374907",
@@ -134734,6 +135527,46 @@
       ],
       "sourceTitle": "Neymar jr 25/26 Commemorative kids kit Jersey SIZE 16-28",
       "updatedAt": "2026-10-13T22:04:24.094Z"
+    },
+    {
+      "id": "yupoo-212308803",
+      "name": "Neymar Jr 25/26 Player Version Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212308803?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/neymar-jr-25-26-player-version-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/neymar-jr-25-26-player-version-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/neymar-jr-25-26-player-version-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/neymar-jr-25-26-player-version-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/neymar-jr-25-26-player-version-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/neymar-jr-25-26-player-version-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/neymar-jr-25-26-player-version-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/neymar-jr-25-26-player-version-jersey/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/neymar-jr-25-26-player-version-jersey/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "neymar-jr-25-26-player-version-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Player version",
+      "sourceCategories": [
+        "new season",
+        "⚽💪🏻Player Version"
+      ],
+      "sourceTitle": "Neymar Jr 25/26 Player Version Jersey S-3XL",
+      "updatedAt": "2026-10-13T22:29:17.254Z"
     },
     {
       "id": "yupoo-257639078",
@@ -149255,6 +150088,47 @@
       "updatedAt": "2026-10-13T22:26:02.802Z"
     },
     {
+      "id": "yupoo-212392843",
+      "name": "PSG 24/25 Home Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212392843?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/psg-24-25-home-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/psg-24-25-home-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/psg-24-25-home-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/psg-24-25-home-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/psg-24-25-home-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/psg-24-25-home-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/psg-24-25-home-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/psg-24-25-home-jersey/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/psg-24-25-home-jersey/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "psg-24-25-home-jersey",
+      "siteCategory": "club",
+      "team": "Paris Saint-Germain",
+      "league": "Ligue 1",
+      "country": "France",
+      "season": "2024/25",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Ligue 1",
+        "PSG"
+      ],
+      "sourceTitle": "PSG 24/25 Home Jersey S-4XL",
+      "updatedAt": "2026-10-13T22:27:04.943Z"
+    },
+    {
       "id": "yupoo-212393975",
       "name": "PSG 24/25 Home Player Version Jersey",
       "category": "new season",
@@ -162560,6 +163434,48 @@
       ],
       "sourceTitle": "Real Madrid 25/26 Player Version Away Jersey S-3XL",
       "updatedAt": "2026-10-12T22:07:47.878Z"
+    },
+    {
+      "id": "yupoo-212308784",
+      "name": "Real Madrid 25/26 Player Version Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212308784?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-25-26-player-version-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-25-26-player-version-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-25-26-player-version-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-25-26-player-version-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-25-26-player-version-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-25-26-player-version-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-25-26-player-version-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-25-26-player-version-jersey/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-25-26-player-version-jersey/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "real-madrid-25-26-player-version-jersey",
+      "siteCategory": "club",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Player version",
+      "sourceCategories": [
+        "new season",
+        "La Liga",
+        "Real Madrid",
+        "⚽💪🏻Player Version"
+      ],
+      "sourceTitle": "Real Madrid 25/26 Player Version Jersey S-3XL",
+      "updatedAt": "2026-10-13T22:29:46.546Z"
     },
     {
       "id": "yupoo-223561661",
@@ -215482,6 +216398,47 @@
       ],
       "sourceTitle": "Romania 2026 Home S-4XL",
       "updatedAt": "2026-10-11T09:34:31.604Z"
+    },
+    {
+      "id": "yupoo-212392641",
+      "name": "Ronaldo 25/26 Player Version Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/212392641?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ronaldo-25-26-player-version-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ronaldo-25-26-player-version-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ronaldo-25-26-player-version-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ronaldo-25-26-player-version-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ronaldo-25-26-player-version-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ronaldo-25-26-player-version-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ronaldo-25-26-player-version-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ronaldo-25-26-player-version-jersey/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ronaldo-25-26-player-version-jersey/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ronaldo-25-26-player-version-jersey/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "ronaldo-25-26-player-version-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Player version",
+      "sourceCategories": [
+        "new season",
+        "⚽💪🏻Player Version"
+      ],
+      "sourceTitle": "Ronaldo 25/26 Player Version Jersey S-XL",
+      "updatedAt": "2026-10-13T22:28:04.899Z"
     },
     {
       "id": "yupoo-213135144",
