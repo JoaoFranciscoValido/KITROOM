@@ -91,20 +91,28 @@ async function main() {
     // With --limit (and no --album), stop listing as soon as enough albums are known instead of crawling the whole store.
     const wanted = args.limit && !args.album ? args.limit : 0;
     const enough = () => wanted && albums.size >= wanted;
+    const failedCats = new Set(); // categories whose listing failed: their albums keep the category they had
     for (const c of cats) {
       if (enough()) break;
       if (args.category && !c.name.toLowerCase().includes(args.category)) continue;
-      try {
-        const list = await client.albumsIn(c.url, { stopAfter: wanted && wanted - albums.size });
-        log(`  ${c.name}: ${list.length} albums`);
-        for (const a of list) {
-          const cur = albums.get(a.albumId) || { ...a, categories: [] };
-          if (!cur.categories.includes(c.name)) cur.categories.push(c.name);
-          albums.set(a.albumId, cur);
+      let list = null;
+      for (let attempt = 1; attempt <= 2 && !list; attempt++) {
+        try {
+          list = await client.albumsIn(c.url, { stopAfter: wanted && wanted - albums.size });
+        } catch (e) {
+          if (attempt < 2) continue;
+          listingComplete = false;
+          failedCats.add(c.name);
+          report.errors.push({ scope: 'category', id: c.id, url: c.url, message: e.message });
+          log(`  ${c.name}: ERROR ${e.message}`);
         }
-      } catch (e) {
-        listingComplete = false;
-        report.errors.push({ scope: 'category', id: c.id, url: c.url, message: e.message });
+      }
+      if (!list) continue;
+      log(`  ${c.name}: ${list.length} albums`);
+      for (const a of list) {
+        const cur = albums.get(a.albumId) || { ...a, categories: [] };
+        if (!cur.categories.includes(c.name)) cur.categories.push(c.name);
+        albums.set(a.albumId, cur);
       }
     }
     // 2. All albums (catches albums outside any category)
@@ -116,6 +124,16 @@ async function main() {
       } catch (e) {
         listingComplete = false;
         report.errors.push({ scope: 'albums', message: e.message });
+      }
+    }
+
+    // A category that could not be listed is not evidence that its albums left it: keep it on the products that had it,
+    // in their previous order, so a failed page does not strip "National Teams" from a thousand products.
+    if (failedCats.size) {
+      for (const a of albums.values()) {
+        const had = prevById.get(`yupoo-${a.albumId}`)?.sourceCategories || [];
+        if (!had.some(c => failedCats.has(c))) continue;
+        a.categories = [...had.filter(c => a.categories.includes(c) || failedCats.has(c)), ...a.categories.filter(c => !had.includes(c))];
       }
     }
 

@@ -53,6 +53,7 @@ const server = http.createServer((req, res) => {
   if (u.pathname === '/albums') return send(200, page(albumList(pageOf(Object.keys(store.albums)))));
   let m;
   if ((m = u.pathname.match(/^\/categories\/(\d+)$/))) {
+    if (store.failCategory === m[1]) return send(500, 'server error');
     return send(200, page(albumList(pageOf(Object.keys(store.albums).filter(id => store.albums[id].cats.includes(m[1]))))));
   }
   if ((m = u.pathname.match(/^\/albums\/(\d+)$/))) {
@@ -148,6 +149,17 @@ try {
   assert.equal(albumVisits - visitsBefore, 1, 'recently checked albums are not visited again');
   assert.equal(rep.totals.unchanged, 3);
   assert.equal((await catalog()).items.length, 3, 'skipped albums stay in the catalogue');
+
+  // Run 2c: a category page fails -> its products keep that category (and are not marked unavailable)
+  store.failCategory = '10';
+  await importer();
+  delete store.failCategory;
+  rep = await lastReport();
+  assert.ok(rep.errors.some(e => e.scope === 'category' && e.id === '10'), 'failed category is reported');
+  const ptAfterFail = (await catalog()).items.find(i => i.id === 'yupoo-1001');
+  assert.equal(ptAfterFail.category, '⚽🌍 National Teams', 'category kept when its listing failed');
+  assert.deepEqual(ptAfterFail.sourceCategories, ['⚽🌍 National Teams']);
+  assert.notEqual(ptAfterFail.availability, 'unavailable');
 
   // Run 2b: the supplier picks another cover -> photos reordered and cover remade, without downloading anything
   store.albums['1001'].cover = 'a1';
