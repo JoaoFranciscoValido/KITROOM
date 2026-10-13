@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-13T22:58:19.227Z",
+  "generatedAt": "2026-10-13T23:14:11.976Z",
   "source": {
     "name": "Supplier catalogue",
     "url": "https://minkang.x.yupoo.com/albums"
   },
-  "count": 6291,
+  "count": 6341,
   "items": [
     {
       "id": "yupoo-231422616",
@@ -7083,6 +7083,47 @@
       "updatedAt": "2026-10-11T16:56:32.010Z"
     },
     {
+      "id": "yupoo-210081180",
+      "name": "25/26 Ajax third away",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/210081180?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-ajax-third-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-ajax-third-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-ajax-third-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-ajax-third-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-ajax-third-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-ajax-third-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-ajax-third-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-ajax-third-away/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-ajax-third-away/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-ajax-third-away",
+      "siteCategory": "club",
+      "team": "Ajax",
+      "league": "Other leagues",
+      "country": "Netherlands",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "EREDIVISIE",
+        "AFC Ajax"
+      ],
+      "sourceTitle": "25/26 Ajax third away S-4XL",
+      "updatedAt": "2026-10-13T23:11:05.056Z"
+    },
+    {
       "id": "yupoo-210982335",
       "name": "25/26 Ajax training jersey black",
       "category": "new season",
@@ -7414,6 +7455,49 @@
       "updatedAt": "2026-10-13T22:55:34.199Z"
     },
     {
+      "id": "yupoo-210323859",
+      "name": "25/26 Aston Villa third away",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/210323859?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-aston-villa-third-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-aston-villa-third-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-aston-villa-third-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-aston-villa-third-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-aston-villa-third-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-aston-villa-third-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-aston-villa-third-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-aston-villa-third-away/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-aston-villa-third-away/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-aston-villa-third-away/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-aston-villa-third-away/image-10.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-aston-villa-third-away",
+      "siteCategory": "club",
+      "team": "Aston Villa",
+      "league": "Premier League",
+      "country": "England",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Premier League",
+        "Aston Villa"
+      ],
+      "sourceTitle": "25/26 Aston Villa third away S-4XL",
+      "updatedAt": "2026-10-13T23:01:33.305Z"
+    },
+    {
       "id": "yupoo-210982495",
       "name": "25/26 Aston Villa training jersey light green",
       "category": "new season",
@@ -7634,6 +7718,46 @@
       "updatedAt": "2026-10-13T22:49:23.587Z"
     },
     {
+      "id": "yupoo-210081045",
+      "name": "25/26 Atlético Mineiro away",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/210081045?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-atletico-mineiro-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-atletico-mineiro-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-atletico-mineiro-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-atletico-mineiro-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-atletico-mineiro-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-atletico-mineiro-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-atletico-mineiro-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-atletico-mineiro-away/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-atletico-mineiro-away",
+      "siteCategory": "club",
+      "team": "Atlético Madrid",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Brasileiro Série A",
+        "Atlético Mineiro"
+      ],
+      "sourceTitle": "25/26 Atlético Mineiro away S-4XL",
+      "updatedAt": "2026-10-13T23:12:49.387Z"
+    },
+    {
       "id": "yupoo-211563176",
       "name": "25/26 Atlético Mineiro Home All Sponsor",
       "category": "new season",
@@ -7679,6 +7803,210 @@
       "updatedAt": "2026-10-13T22:48:41.419Z"
     },
     {
+      "id": "yupoo-210081129",
+      "name": "25/26 Bahia Goalkeeper Red",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/210081129?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-bahia-goalkeeper-red/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-bahia-goalkeeper-red/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-bahia-goalkeeper-red/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-bahia-goalkeeper-red/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-bahia-goalkeeper-red/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-bahia-goalkeeper-red/image-05.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-bahia-goalkeeper-red",
+      "siteCategory": "club",
+      "team": "Bahia",
+      "league": "Brasileiro Série A",
+      "country": "Brazil",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Goalkeeper",
+      "sourceCategories": [
+        "new season",
+        "Brasileiro Série A",
+        "Bahia"
+      ],
+      "sourceTitle": "25/26 Bahia Goalkeeper Red S-4XL",
+      "updatedAt": "2026-10-13T23:11:17.232Z"
+    },
+    {
+      "id": "yupoo-210081121",
+      "name": "25/26 Bahia Goalkeeper Yellow",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/210081121?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-bahia-goalkeeper-yellow/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-bahia-goalkeeper-yellow/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-bahia-goalkeeper-yellow/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-bahia-goalkeeper-yellow/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-bahia-goalkeeper-yellow/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-bahia-goalkeeper-yellow/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-bahia-goalkeeper-yellow/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-bahia-goalkeeper-yellow/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-bahia-goalkeeper-yellow",
+      "siteCategory": "club",
+      "team": "Bahia",
+      "league": "Brasileiro Série A",
+      "country": "Brazil",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Goalkeeper",
+      "sourceCategories": [
+        "new season",
+        "Brasileiro Série A",
+        "Bahia"
+      ],
+      "sourceTitle": "25/26 Bahia Goalkeeper Yellow S-4XL",
+      "updatedAt": "2026-10-13T23:11:32.025Z"
+    },
+    {
+      "id": "yupoo-210081018",
+      "name": "25/26 Bahia Superman Edition",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/210081018?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-bahia-superman-edition/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-bahia-superman-edition/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-bahia-superman-edition/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-bahia-superman-edition/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-bahia-superman-edition/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-bahia-superman-edition/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-bahia-superman-edition/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-bahia-superman-edition/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-bahia-superman-edition/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-bahia-superman-edition/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-bahia-superman-edition",
+      "siteCategory": "club",
+      "team": "Bahia",
+      "league": "Brasileiro Série A",
+      "country": "Brazil",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Special edition",
+      "sourceCategories": [
+        "new season",
+        "Brasileiro Série A",
+        "Bahia"
+      ],
+      "sourceTitle": "25/26 Bahia Superman Edition S-4XL",
+      "updatedAt": "2026-10-13T23:13:09.278Z"
+    },
+    {
+      "id": "yupoo-210081080",
+      "name": "25/26 Bahia training suit",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/210081080?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-bahia-training-suit/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-bahia-training-suit/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-bahia-training-suit/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-bahia-training-suit/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-bahia-training-suit/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-bahia-training-suit/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-bahia-training-suit/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-bahia-training-suit/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-bahia-training-suit/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-bahia-training-suit/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-bahia-training-suit/image-10.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-bahia-training-suit",
+      "siteCategory": "training",
+      "team": "Bahia",
+      "league": "Brasileiro Série A",
+      "country": "Brazil",
+      "season": "2025/26",
+      "type": "Training",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Brasileiro Série A",
+        "Bahia"
+      ],
+      "sourceTitle": "25/26 Bahia training suit S-4XL",
+      "updatedAt": "2026-10-13T23:12:20.514Z"
+    },
+    {
+      "id": "yupoo-210879831",
+      "name": "25/26 Barcelona away",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/210879831?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-barcelona-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-barcelona-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-barcelona-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-barcelona-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-barcelona-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-barcelona-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-barcelona-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-barcelona-away/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-barcelona-away/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-barcelona-away",
+      "siteCategory": "club",
+      "team": "FC Barcelona",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "La Liga",
+        "Barcelona"
+      ],
+      "sourceTitle": "25/26 Barcelona away S-4XL",
+      "updatedAt": "2026-10-13T22:59:00.190Z"
+    },
+    {
       "id": "yupoo-211958125",
       "name": "25/26 Barcelona home",
       "category": "new season",
@@ -7717,6 +8045,47 @@
       ],
       "sourceTitle": "25/26 Barcelona home S-4XL",
       "updatedAt": "2026-10-13T22:45:27.335Z"
+    },
+    {
+      "id": "yupoo-210323816",
+      "name": "25/26 Barcelona joint edition",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/210323816?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-barcelona-joint-edition/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-barcelona-joint-edition/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-barcelona-joint-edition/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-barcelona-joint-edition/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-barcelona-joint-edition/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-barcelona-joint-edition/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-barcelona-joint-edition/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-barcelona-joint-edition/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-barcelona-joint-edition/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-barcelona-joint-edition",
+      "siteCategory": "club",
+      "team": "FC Barcelona",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Special edition",
+      "sourceCategories": [
+        "new season",
+        "La Liga",
+        "Barcelona"
+      ],
+      "sourceTitle": "25/26 Barcelona joint edition S-4XL",
+      "updatedAt": "2026-10-13T23:02:19.372Z"
     },
     {
       "id": "yupoo-211563534",
@@ -7842,6 +8211,47 @@
       "updatedAt": "2026-10-13T22:45:00.050Z"
     },
     {
+      "id": "yupoo-209571790",
+      "name": "25/26 Bayern Munich Baseball Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/209571790?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-bayern-munich-baseball-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-bayern-munich-baseball-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-bayern-munich-baseball-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-bayern-munich-baseball-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-bayern-munich-baseball-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-bayern-munich-baseball-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-bayern-munich-baseball-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-bayern-munich-baseball-jersey/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-bayern-munich-baseball-jersey/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-bayern-munich-baseball-jersey",
+      "siteCategory": "club",
+      "team": "Bayern Munich",
+      "league": "Bundesliga",
+      "country": "Germany",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Bundesliga",
+        "Bayern Munich"
+      ],
+      "sourceTitle": "25/26 Bayern Munich Baseball Jersey S-4XL",
+      "updatedAt": "2026-10-13T23:14:11.971Z"
+    },
+    {
       "id": "yupoo-211958211",
       "name": "25/26 Bayern Munich Home",
       "category": "new season",
@@ -7920,6 +8330,47 @@
       ],
       "sourceTitle": "25/26 Bayern Munich Special Edition S-4XL",
       "updatedAt": "2026-10-13T22:42:49.445Z"
+    },
+    {
+      "id": "yupoo-210323768",
+      "name": "25/26 Bayern Munich third away",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/210323768?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-bayern-munich-third-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-bayern-munich-third-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-bayern-munich-third-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-bayern-munich-third-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-bayern-munich-third-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-bayern-munich-third-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-bayern-munich-third-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-bayern-munich-third-away/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-bayern-munich-third-away/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-bayern-munich-third-away",
+      "siteCategory": "club",
+      "team": "Bayern Munich",
+      "league": "Bundesliga",
+      "country": "Germany",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Bundesliga",
+        "Bayern Munich"
+      ],
+      "sourceTitle": "25/26 Bayern Munich third away S-4XL",
+      "updatedAt": "2026-10-13T23:04:18.248Z"
     },
     {
       "id": "yupoo-210982098",
@@ -8067,6 +8518,89 @@
       ],
       "sourceTitle": "25/26 Benfica Home S-4XL",
       "updatedAt": "2026-10-13T22:47:43.429Z"
+    },
+    {
+      "id": "yupoo-210081378",
+      "name": "25/26 Benfica Retro Special Edition",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/210081378?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-benfica-retro-special-edition/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-benfica-retro-special-edition/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-benfica-retro-special-edition/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-benfica-retro-special-edition/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-benfica-retro-special-edition/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-benfica-retro-special-edition/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-benfica-retro-special-edition/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-benfica-retro-special-edition/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-benfica-retro-special-edition/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-benfica-retro-special-edition/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-benfica-retro-special-edition",
+      "siteCategory": "retro",
+      "team": "SL Benfica",
+      "league": "Liga Portugal",
+      "country": "Portugal",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Kids",
+      "sourceCategories": [
+        "new season",
+        "⚽👦🏻kids kit size：16-28",
+        "Primeira Liga",
+        "S.L. Benfica"
+      ],
+      "sourceTitle": "25/26 Benfica Retro Special Edition Size: 16-28",
+      "updatedAt": "2026-10-13T23:07:06.697Z"
+    },
+    {
+      "id": "yupoo-210323889",
+      "name": "25/26 Benfica Special Edition",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/210323889?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-benfica-special-edition/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-benfica-special-edition/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-benfica-special-edition/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-benfica-special-edition/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-benfica-special-edition/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-benfica-special-edition/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-benfica-special-edition/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-benfica-special-edition/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-benfica-special-edition",
+      "siteCategory": "club",
+      "team": "SL Benfica",
+      "league": "Liga Portugal",
+      "country": "Portugal",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Special edition",
+      "sourceCategories": [
+        "new season",
+        "Primeira Liga",
+        "S.L. Benfica"
+      ],
+      "sourceTitle": "25/26 Benfica Special Edition S-4XL",
+      "updatedAt": "2026-10-13T22:59:46.061Z"
     },
     {
       "id": "yupoo-210982870",
@@ -8330,6 +8864,92 @@
       ],
       "sourceTitle": "25/26 Boca training suit yellow S-3XL",
       "updatedAt": "2026-10-12T22:18:22.234Z"
+    },
+    {
+      "id": "yupoo-210323729",
+      "name": "25/26 Braga Away",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/210323729?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-braga-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-braga-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-braga-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-braga-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-braga-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-braga-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-braga-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-braga-away/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-braga-away/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-braga-away/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-braga-away",
+      "siteCategory": "club",
+      "team": "SC Braga",
+      "league": "Liga Portugal",
+      "country": "Portugal",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Primeira Liga",
+        "Braga"
+      ],
+      "sourceTitle": "25/26 Braga Away S-4XL",
+      "updatedAt": "2026-10-13T23:05:43.796Z"
+    },
+    {
+      "id": "yupoo-210081366",
+      "name": "25/26 Braga Home",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/210081366?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-braga-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-braga-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-braga-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-braga-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-braga-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-braga-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-braga-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-braga-home/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-braga-home/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-braga-home/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-braga-home/image-10.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-braga-home",
+      "siteCategory": "club",
+      "team": "SC Braga",
+      "league": "Liga Portugal",
+      "country": "Portugal",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Kids",
+      "sourceCategories": [
+        "new season",
+        "⚽👦🏻kids kit size：16-28",
+        "Primeira Liga",
+        "Braga"
+      ],
+      "sourceTitle": "25/26 Braga Home Size: 16-28",
+      "updatedAt": "2026-10-13T23:07:29.455Z"
     },
     {
       "id": "yupoo-211961982",
@@ -8811,6 +9431,47 @@
       "updatedAt": "2026-10-13T06:59:13.275Z"
     },
     {
+      "id": "yupoo-210081062",
+      "name": "25/26 Cruzeiro away",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/210081062?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-cruzeiro-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-cruzeiro-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-cruzeiro-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-cruzeiro-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-cruzeiro-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-cruzeiro-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-cruzeiro-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-cruzeiro-away/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-cruzeiro-away/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-cruzeiro-away",
+      "siteCategory": "club",
+      "team": "Cruzeiro",
+      "league": "Brasileiro Série A",
+      "country": "Brazil",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Brasileiro Série A",
+        "Cruzeiro"
+      ],
+      "sourceTitle": "25/26 Cruzeiro away S-4XL",
+      "updatedAt": "2026-10-13T23:12:35.638Z"
+    },
+    {
       "id": "yupoo-210982203",
       "name": "25/26 Feyenoord training jersey grey",
       "category": "new season",
@@ -9012,6 +9673,47 @@
       "updatedAt": "2026-10-13T22:39:49.207Z"
     },
     {
+      "id": "yupoo-210323841",
+      "name": "25/26 Fulham Home",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/210323841?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-fulham-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-fulham-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-fulham-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-fulham-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-fulham-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-fulham-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-fulham-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-fulham-home/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-fulham-home/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-fulham-home",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Premier League",
+        "Fulham"
+      ],
+      "sourceTitle": "25/26 Fulham Home S-4XL",
+      "updatedAt": "2026-10-13T23:02:02.832Z"
+    },
+    {
       "id": "yupoo-210981922",
       "name": "25/26 Fulham Training Jersey sapphire",
       "category": "new season",
@@ -9122,6 +9824,129 @@
       "updatedAt": "2026-10-13T22:40:02.268Z"
     },
     {
+      "id": "yupoo-210323809",
+      "name": "25/26 Guimarães away",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/210323809?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-guimaraes-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-guimaraes-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-guimaraes-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-guimaraes-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-guimaraes-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-guimaraes-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-guimaraes-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-guimaraes-away/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-guimaraes-away/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-guimaraes-away/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-guimaraes-away",
+      "siteCategory": "club",
+      "team": "Vitória SC",
+      "league": "Liga Portugal",
+      "country": "Portugal",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Primeira Liga"
+      ],
+      "sourceTitle": "25/26 Guimarães away S-4XL",
+      "updatedAt": "2026-10-13T23:02:47.831Z"
+    },
+    {
+      "id": "yupoo-210081261",
+      "name": "25/26 Guimarães Home",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/210081261?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-guimaraes-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-guimaraes-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-guimaraes-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-guimaraes-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-guimaraes-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-guimaraes-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-guimaraes-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-guimaraes-home/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-guimaraes-home/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-guimaraes-home/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-guimaraes-home/image-10.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-guimaraes-home/image-11.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-guimaraes-home",
+      "siteCategory": "club",
+      "team": "Vitória SC",
+      "league": "Liga Portugal",
+      "country": "Portugal",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Primeira Liga"
+      ],
+      "sourceTitle": "25/26 Guimarães Home S-XXL",
+      "updatedAt": "2026-10-13T23:09:07.153Z"
+    },
+    {
+      "id": "yupoo-210323791",
+      "name": "25/26 Iwaka Home",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/210323791?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-iwaka-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-iwaka-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-iwaka-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-iwaka-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-iwaka-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-iwaka-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-iwaka-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-iwaka-home/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-iwaka-home",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Primeira Liga"
+      ],
+      "sourceTitle": "25/26 Iwaka Home S-4XL",
+      "updatedAt": "2026-10-13T23:03:34.860Z"
+    },
+    {
       "id": "yupoo-215022483",
       "name": "25/26 Kids Barcelona third away game 16-28",
       "category": "new season",
@@ -9210,6 +10035,47 @@
       "updatedAt": "2026-10-13T22:04:05.096Z"
     },
     {
+      "id": "yupoo-210323847",
+      "name": "25/26 Leeds United away",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/210323847?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-leeds-united-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-leeds-united-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-leeds-united-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-leeds-united-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-leeds-united-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-leeds-united-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-leeds-united-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-leeds-united-away/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-leeds-united-away/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-leeds-united-away",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Premier League",
+        "Leeds United"
+      ],
+      "sourceTitle": "25/26 Leeds United away S-4XL",
+      "updatedAt": "2026-10-13T23:01:49.349Z"
+    },
+    {
       "id": "yupoo-210982751",
       "name": "25/26 Leeds United training jersey royal blue",
       "category": "new season",
@@ -9278,6 +10144,49 @@
       ],
       "sourceTitle": "25/26 Leeds United training jersey royal blue S-3XL",
       "updatedAt": "2026-10-13T22:53:35.968Z"
+    },
+    {
+      "id": "yupoo-210323784",
+      "name": "25/26 Lens third away",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/210323784?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-lens-third-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-lens-third-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-lens-third-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-lens-third-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-lens-third-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-lens-third-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-lens-third-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-lens-third-away/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-lens-third-away/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-lens-third-away/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-lens-third-away/image-10.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-lens-third-away/image-11.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-lens-third-away",
+      "siteCategory": "club",
+      "team": "RC Lens",
+      "league": "Ligue 1",
+      "country": "France",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Ligue 1"
+      ],
+      "sourceTitle": "25/26 Lens third away S-4XL",
+      "updatedAt": "2026-10-13T23:03:58.632Z"
     },
     {
       "id": "yupoo-210982948",
@@ -9496,6 +10405,76 @@
       ],
       "sourceTitle": "25/26 Long sleeve Flamengo Home S-4XL",
       "updatedAt": "2026-10-12T22:11:09.355Z"
+    },
+    {
+      "id": "yupoo-210981777",
+      "name": "25/26 Los Angeles Training suit gray",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/210981777?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-los-angeles-training-suit-gray/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-los-angeles-training-suit-gray/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-los-angeles-training-suit-gray/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-los-angeles-training-suit-gray",
+      "siteCategory": "training",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2025/26",
+      "type": "Training",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "MLS",
+        "Los Angeles FC"
+      ],
+      "sourceTitle": "25/26 Los Angeles Training suit gray S-3XL",
+      "updatedAt": "2026-10-13T22:58:37.413Z"
+    },
+    {
+      "id": "yupoo-210981762",
+      "name": "25/26 Los Angeles Training suit gray",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/210981762?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-los-angeles-training-suit-gray-2/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-los-angeles-training-suit-gray-2/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-los-angeles-training-suit-gray-2/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-los-angeles-training-suit-gray-2",
+      "siteCategory": "training",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2025/26",
+      "type": "Training",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "MLS",
+        "Los Angeles FC"
+      ],
+      "sourceTitle": "25/26 Los Angeles Training suit gray S-3XL",
+      "updatedAt": "2026-10-13T22:58:46.563Z"
     },
     {
       "id": "yupoo-211959441",
@@ -9782,6 +10761,41 @@
       "updatedAt": "2026-10-13T22:37:31.551Z"
     },
     {
+      "id": "yupoo-210981839",
+      "name": "25/26 Manchester United Training Suit Blue",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/210981839?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-manchester-united-training-suit-blue/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-manchester-united-training-suit-blue/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-manchester-united-training-suit-blue/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-manchester-united-training-suit-blue",
+      "siteCategory": "training",
+      "team": "Manchester United",
+      "league": "Premier League",
+      "country": "England",
+      "season": "2025/26",
+      "type": "Training",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Premier League",
+        "M-U"
+      ],
+      "sourceTitle": "25/26 M-U Training Suit Blue S-3XL",
+      "updatedAt": "2026-10-13T22:58:28.392Z"
+    },
+    {
       "id": "yupoo-210982534",
       "name": "25/26 Manchester United Training Suit Purple",
       "category": "new season",
@@ -9926,6 +10940,48 @@
       ],
       "sourceTitle": "25/26 Marseille Home S-4XL",
       "updatedAt": "2026-10-13T22:43:19.710Z"
+    },
+    {
+      "id": "yupoo-209908961",
+      "name": "25/26 Marseille third away",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/209908961?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-marseille-third-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-marseille-third-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-marseille-third-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-marseille-third-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-marseille-third-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-marseille-third-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-marseille-third-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-marseille-third-away/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-marseille-third-away/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-marseille-third-away/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-marseille-third-away",
+      "siteCategory": "club",
+      "team": "Olympique de Marseille",
+      "league": "Ligue 1",
+      "country": "France",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Ligue 1",
+        "Olympique de Marseille"
+      ],
+      "sourceTitle": "25/26 Marseille third away S-4XL",
+      "updatedAt": "2026-10-13T23:13:56.577Z"
     },
     {
       "id": "yupoo-211563201",
@@ -10151,6 +11207,49 @@
       "updatedAt": "2026-10-13T22:52:39.792Z"
     },
     {
+      "id": "yupoo-210081211",
+      "name": "25/26 Napoli training suit",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/210081211?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-napoli-training-suit/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-napoli-training-suit/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-napoli-training-suit/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-napoli-training-suit/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-napoli-training-suit/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-napoli-training-suit/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-napoli-training-suit/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-napoli-training-suit/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-napoli-training-suit/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-napoli-training-suit/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-napoli-training-suit/image-10.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-napoli-training-suit",
+      "siteCategory": "training",
+      "team": "Napoli",
+      "league": "Serie A",
+      "country": "Italy",
+      "season": "2025/26",
+      "type": "Training",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Serie A",
+        "Napoli"
+      ],
+      "sourceTitle": "25/26 Napoli training suit S-4XL",
+      "updatedAt": "2026-10-13T23:10:21.982Z"
+    },
+    {
       "id": "yupoo-196991467",
       "name": "25/26 National Athletic Home",
       "category": "Liga Profesional",
@@ -10265,6 +11364,47 @@
       "updatedAt": "2026-10-13T22:54:13.051Z"
     },
     {
+      "id": "yupoo-210323875",
+      "name": "25/26 Nottingham Forest Away",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/210323875?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-nottingham-forest-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-nottingham-forest-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-nottingham-forest-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-nottingham-forest-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-nottingham-forest-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-nottingham-forest-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-nottingham-forest-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-nottingham-forest-away/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-nottingham-forest-away/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-nottingham-forest-away",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Premier League",
+        "Nottingham Forest"
+      ],
+      "sourceTitle": "25/26 Nottingham Forest Away S-4XL",
+      "updatedAt": "2026-10-13T23:00:45.779Z"
+    },
+    {
       "id": "yupoo-210982631",
       "name": "25/26 Nottingham Forest training jersey red",
       "category": "new season",
@@ -10333,6 +11473,49 @@
       ],
       "sourceTitle": "25/26 Nottingham Forest training jersey red S-3XL",
       "updatedAt": "2026-10-13T22:54:30.863Z"
+    },
+    {
+      "id": "yupoo-210323867",
+      "name": "25/26 Olympique lyonnais Home",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/210323867?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-olympique-lyonnais-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-olympique-lyonnais-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-olympique-lyonnais-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-olympique-lyonnais-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-olympique-lyonnais-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-olympique-lyonnais-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-olympique-lyonnais-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-olympique-lyonnais-home/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-olympique-lyonnais-home/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-olympique-lyonnais-home/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-olympique-lyonnais-home/image-10.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-olympique-lyonnais-home",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Ligue 1",
+        "Olympique lyonnais"
+      ],
+      "sourceTitle": "25/26 Olympique lyonnais Home S-4XL",
+      "updatedAt": "2026-10-13T23:01:12.797Z"
     },
     {
       "id": "yupoo-210981891",
@@ -10408,6 +11591,47 @@
       ],
       "sourceTitle": "25/26 Palmeiras home All Sponsor S-4XL",
       "updatedAt": "2026-10-13T22:49:08.742Z"
+    },
+    {
+      "id": "yupoo-210081096",
+      "name": "25/26 Palmeiras third away",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/210081096?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-palmeiras-third-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-palmeiras-third-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-palmeiras-third-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-palmeiras-third-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-palmeiras-third-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-palmeiras-third-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-palmeiras-third-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-palmeiras-third-away/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-palmeiras-third-away/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-palmeiras-third-away",
+      "siteCategory": "club",
+      "team": "Palmeiras",
+      "league": "Brasileiro Série A",
+      "country": "Brazil",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Brasileiro Série A",
+        "Palmeiras"
+      ],
+      "sourceTitle": "25/26 Palmeiras third away S-4XL",
+      "updatedAt": "2026-10-13T23:11:59.491Z"
     },
     {
       "id": "yupoo-212307375",
@@ -11153,6 +12377,88 @@
       "updatedAt": "2026-10-13T22:39:02.122Z"
     },
     {
+      "id": "yupoo-210323720",
+      "name": "25/26 PSG Special Edition",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/210323720?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-psg-special-edition/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-psg-special-edition/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-psg-special-edition/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-psg-special-edition/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-psg-special-edition/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-psg-special-edition/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-psg-special-edition/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-psg-special-edition/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-psg-special-edition/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-psg-special-edition",
+      "siteCategory": "club",
+      "team": "Paris Saint-Germain",
+      "league": "Ligue 1",
+      "country": "France",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Special edition",
+      "sourceCategories": [
+        "new season",
+        "Ligue 1",
+        "PSG"
+      ],
+      "sourceTitle": "25/26 PSG Special Edition S-4XL",
+      "updatedAt": "2026-10-13T23:05:58.905Z"
+    },
+    {
+      "id": "yupoo-210879756",
+      "name": "25/26 PSG third away",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/210879756?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-psg-third-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-psg-third-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-psg-third-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-psg-third-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-psg-third-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-psg-third-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-psg-third-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-psg-third-away/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-psg-third-away/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-psg-third-away",
+      "siteCategory": "club",
+      "team": "Paris Saint-Germain",
+      "league": "Ligue 1",
+      "country": "France",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Ligue 1",
+        "PSG"
+      ],
+      "sourceTitle": "25/26 PSG third away S-4XL",
+      "updatedAt": "2026-10-13T22:59:16.691Z"
+    },
+    {
       "id": "yupoo-212192323",
       "name": "25/26 Real Betis Home",
       "category": "new season",
@@ -11320,6 +12626,50 @@
       ],
       "sourceTitle": "25/26 Real Madrid third away S-4XL",
       "updatedAt": "2026-10-13T22:46:15.054Z"
+    },
+    {
+      "id": "yupoo-210323799",
+      "name": "25/26 Real Oviedo third away",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/210323799?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-oviedo-third-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-oviedo-third-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-oviedo-third-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-oviedo-third-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-oviedo-third-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-oviedo-third-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-oviedo-third-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-oviedo-third-away/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-oviedo-third-away/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-oviedo-third-away/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-oviedo-third-away/image-10.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-oviedo-third-away/image-11.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-real-oviedo-third-away",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "La Liga",
+        "Real Oviedo"
+      ],
+      "sourceTitle": "25/26 Real Oviedo third away S-4XL",
+      "updatedAt": "2026-10-13T23:03:08.276Z"
     },
     {
       "id": "yupoo-201768840",
@@ -11552,6 +12902,46 @@
       "updatedAt": "2026-10-13T22:42:07.684Z"
     },
     {
+      "id": "yupoo-209908994",
+      "name": "25/26 Roma third away",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/209908994?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-roma-third-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-roma-third-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-roma-third-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-roma-third-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-roma-third-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-roma-third-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-roma-third-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-roma-third-away/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-roma-third-away",
+      "siteCategory": "club",
+      "team": "AS Roma",
+      "league": "Serie A",
+      "country": "Italy",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Serie A",
+        "Roma"
+      ],
+      "sourceTitle": "25/26 Roma third away S-4XL",
+      "updatedAt": "2026-10-13T23:13:24.680Z"
+    },
+    {
       "id": "yupoo-210982720",
       "name": "25/26 Roma training suit red",
       "category": "new season",
@@ -11750,6 +13140,49 @@
       "updatedAt": "2026-10-13T22:38:34.360Z"
     },
     {
+      "id": "yupoo-209908983",
+      "name": "25/26 Sao Paulo third away",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/209908983?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-sao-paulo-third-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-sao-paulo-third-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-sao-paulo-third-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-sao-paulo-third-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-sao-paulo-third-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-sao-paulo-third-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-sao-paulo-third-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-sao-paulo-third-away/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-sao-paulo-third-away/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-sao-paulo-third-away/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-sao-paulo-third-away",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Player version",
+      "sourceCategories": [
+        "new season",
+        "⚽💪🏻Player Version",
+        "Brasileiro Série A",
+        "São Paulo"
+      ],
+      "sourceTitle": "25/26 Sao Paulo third away S-4XL",
+      "updatedAt": "2026-10-13T23:13:40.048Z"
+    },
+    {
       "id": "yupoo-211957780",
       "name": "25/26 Sporting Gijon away",
       "category": "new season",
@@ -11792,6 +13225,220 @@
       ],
       "sourceTitle": "25/26 Sporting Gijon away S-4XL",
       "updatedAt": "2026-10-13T22:46:01.020Z"
+    },
+    {
+      "id": "yupoo-210081416",
+      "name": "25/26 Sporting Lisbon Goalkeeper Black",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/210081416?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-sporting-lisbon-goalkeeper-black/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-sporting-lisbon-goalkeeper-black/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-sporting-lisbon-goalkeeper-black/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-sporting-lisbon-goalkeeper-black/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-sporting-lisbon-goalkeeper-black/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-sporting-lisbon-goalkeeper-black/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-sporting-lisbon-goalkeeper-black/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-sporting-lisbon-goalkeeper-black/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-sporting-lisbon-goalkeeper-black/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-sporting-lisbon-goalkeeper-black/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-sporting-lisbon-goalkeeper-black/image-10.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-sporting-lisbon-goalkeeper-black",
+      "siteCategory": "club",
+      "team": "Sporting CP",
+      "league": "Liga Portugal",
+      "country": "Portugal",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Goalkeeper",
+      "sourceCategories": [
+        "new season",
+        "⚽👦🏻kids kit size：16-28",
+        "Primeira Liga",
+        "Sporting CP"
+      ],
+      "sourceTitle": "25/26 Sporting Lisbon Goalkeeper Black Size: 16-28",
+      "updatedAt": "2026-10-13T23:06:31.869Z"
+    },
+    {
+      "id": "yupoo-210081397",
+      "name": "25/26 Sporting Lisbon Goalkeeper Green",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/210081397?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-sporting-lisbon-goalkeeper-green/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-sporting-lisbon-goalkeeper-green/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-sporting-lisbon-goalkeeper-green/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-sporting-lisbon-goalkeeper-green/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-sporting-lisbon-goalkeeper-green/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-sporting-lisbon-goalkeeper-green/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-sporting-lisbon-goalkeeper-green/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-sporting-lisbon-goalkeeper-green/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-sporting-lisbon-goalkeeper-green/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-sporting-lisbon-goalkeeper-green/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-sporting-lisbon-goalkeeper-green/image-10.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-sporting-lisbon-goalkeeper-green",
+      "siteCategory": "club",
+      "team": "Sporting CP",
+      "league": "Liga Portugal",
+      "country": "Portugal",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Goalkeeper",
+      "sourceCategories": [
+        "new season",
+        "⚽👦🏻kids kit size：16-28",
+        "Primeira Liga",
+        "Sporting CP"
+      ],
+      "sourceTitle": "25/26 Sporting Lisbon Goalkeeper Green Size: 16-28",
+      "updatedAt": "2026-10-13T23:06:50.715Z"
+    },
+    {
+      "id": "yupoo-210323741",
+      "name": "25/26 Sporting Lisbon Special Edition",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/210323741?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-sporting-lisbon-special-edition/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-sporting-lisbon-special-edition/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-sporting-lisbon-special-edition/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-sporting-lisbon-special-edition/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-sporting-lisbon-special-edition/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-sporting-lisbon-special-edition/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-sporting-lisbon-special-edition/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-sporting-lisbon-special-edition/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-sporting-lisbon-special-edition/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-sporting-lisbon-special-edition/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-sporting-lisbon-special-edition",
+      "siteCategory": "club",
+      "team": "Sporting CP",
+      "league": "Liga Portugal",
+      "country": "Portugal",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Special edition",
+      "sourceCategories": [
+        "new season",
+        "Primeira Liga",
+        "Sporting CP"
+      ],
+      "sourceTitle": "25/26 Sporting Lisbon Special Edition S-4XL",
+      "updatedAt": "2026-10-13T23:05:27.568Z"
+    },
+    {
+      "id": "yupoo-210323756",
+      "name": "25/26 Sporting Lisbon Training Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/210323756?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-sporting-lisbon-training-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-sporting-lisbon-training-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-sporting-lisbon-training-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-sporting-lisbon-training-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-sporting-lisbon-training-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-sporting-lisbon-training-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-sporting-lisbon-training-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-sporting-lisbon-training-jersey/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-sporting-lisbon-training-jersey/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-sporting-lisbon-training-jersey/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-sporting-lisbon-training-jersey",
+      "siteCategory": "training",
+      "team": "Sporting CP",
+      "league": "Liga Portugal",
+      "country": "Portugal",
+      "season": "2025/26",
+      "type": "Training",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Primeira Liga",
+        "Sporting CP"
+      ],
+      "sourceTitle": "25/26 Sporting Lisbon Training Jersey S-4XL",
+      "updatedAt": "2026-10-13T23:04:38.313Z"
+    },
+    {
+      "id": "yupoo-210323749",
+      "name": "25/26 Sporting Lisbon Training Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/210323749?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-sporting-lisbon-training-jersey-2/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-sporting-lisbon-training-jersey-2/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-sporting-lisbon-training-jersey-2/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-sporting-lisbon-training-jersey-2/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-sporting-lisbon-training-jersey-2/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-sporting-lisbon-training-jersey-2/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-sporting-lisbon-training-jersey-2/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-sporting-lisbon-training-jersey-2/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-sporting-lisbon-training-jersey-2/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-sporting-lisbon-training-jersey-2/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-sporting-lisbon-training-jersey-2",
+      "siteCategory": "training",
+      "team": "Sporting CP",
+      "league": "Liga Portugal",
+      "country": "Portugal",
+      "season": "2025/26",
+      "type": "Training",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Primeira Liga",
+        "Sporting CP"
+      ],
+      "sourceTitle": "25/26 Sporting Lisbon Training Jersey S-4XL",
+      "updatedAt": "2026-10-13T23:05:09.767Z"
     },
     {
       "id": "yupoo-210982167",
@@ -12065,6 +13712,44 @@
       "updatedAt": "2026-10-13T22:37:01.467Z"
     },
     {
+      "id": "yupoo-210081110",
+      "name": "25/26 Victoria Away",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/210081110?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-victoria-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-victoria-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-victoria-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-victoria-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-victoria-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-victoria-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-victoria-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-victoria-away/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-victoria-away",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season"
+      ],
+      "sourceTitle": "25/26 Victoria Away S-4XL",
+      "updatedAt": "2026-10-13T23:11:45.974Z"
+    },
+    {
       "id": "yupoo-211962592",
       "name": "25/26 Villarreal away7",
       "category": "new season",
@@ -12104,6 +13789,131 @@
       ],
       "sourceTitle": "25/26 Villarreal away S-4XL7",
       "updatedAt": "2026-10-13T22:39:15.908Z"
+    },
+    {
+      "id": "yupoo-210323878",
+      "name": "25/26 West Ham United away",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/210323878?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-west-ham-united-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-west-ham-united-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-west-ham-united-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-west-ham-united-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-west-ham-united-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-west-ham-united-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-west-ham-united-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-west-ham-united-away/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-west-ham-united-away/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-west-ham-united-away",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Premier League",
+        "West Ham United"
+      ],
+      "sourceTitle": "25/26 West Ham United away S-4XL",
+      "updatedAt": "2026-10-13T23:00:29.782Z"
+    },
+    {
+      "id": "yupoo-210323882",
+      "name": "25/26 West Ham United Home",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/210323882?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-west-ham-united-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-west-ham-united-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-west-ham-united-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-west-ham-united-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-west-ham-united-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-west-ham-united-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-west-ham-united-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-west-ham-united-home/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-west-ham-united-home/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-west-ham-united-home/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-west-ham-united-home",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Premier League",
+        "West Ham United"
+      ],
+      "sourceTitle": "25/26 West Ham United Home S-4XL",
+      "updatedAt": "2026-10-13T23:00:14.790Z"
+    },
+    {
+      "id": "yupoo-210081228",
+      "name": "25/26 West Ham United third away",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/210081228?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-west-ham-united-third-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-west-ham-united-third-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-west-ham-united-third-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-west-ham-united-third-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-west-ham-united-third-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-west-ham-united-third-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-west-ham-united-third-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-west-ham-united-third-away/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-west-ham-united-third-away/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-west-ham-united-third-away/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-west-ham-united-third-away",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Premier League",
+        "West Ham United"
+      ],
+      "sourceTitle": "25/26 West Ham United third away S-4XL",
+      "updatedAt": "2026-10-13T23:09:36.982Z"
     },
     {
       "id": "yupoo-210981984",
@@ -12209,6 +14019,86 @@
       ],
       "sourceTitle": "25/26 West Ham United Training Red S-3XL",
       "updatedAt": "2026-10-13T22:57:24.870Z"
+    },
+    {
+      "id": "yupoo-210081223",
+      "name": "25/26 Wolves Home",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/210081223?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-wolves-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-wolves-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-wolves-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-wolves-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-wolves-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-wolves-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-wolves-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-wolves-home/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-wolves-home",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Premier League",
+        "Wolves"
+      ],
+      "sourceTitle": "25/26 Wolves Home S-4XL",
+      "updatedAt": "2026-10-13T23:09:49.854Z"
+    },
+    {
+      "id": "yupoo-210323914",
+      "name": "25/26 Zaragoza Home",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/210323914?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-zaragoza-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-zaragoza-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-zaragoza-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-zaragoza-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-zaragoza-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-zaragoza-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-zaragoza-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-zaragoza-home/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-zaragoza-home",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "La Liga",
+        "Zaragoza"
+      ],
+      "sourceTitle": "25/26 Zaragoza Home S-4XL",
+      "updatedAt": "2026-10-13T22:59:32.374Z"
     },
     {
       "id": "yupoo-210983032",
@@ -64259,6 +66149,50 @@
       ],
       "sourceTitle": "Chivas de Guadalajara 120 Aniversario Long Sleeve Jersey S-4XL",
       "updatedAt": "2026-10-12T21:49:43.489Z"
+    },
+    {
+      "id": "yupoo-210081195",
+      "name": "Chivas de Guadalajara 25/26 Home",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/210081195?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/chivas-de-guadalajara-25-26-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/chivas-de-guadalajara-25-26-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/chivas-de-guadalajara-25-26-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/chivas-de-guadalajara-25-26-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/chivas-de-guadalajara-25-26-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/chivas-de-guadalajara-25-26-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/chivas-de-guadalajara-25-26-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/chivas-de-guadalajara-25-26-home/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/chivas-de-guadalajara-25-26-home/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/chivas-de-guadalajara-25-26-home/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/chivas-de-guadalajara-25-26-home/image-10.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/chivas-de-guadalajara-25-26-home/image-11.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "chivas-de-guadalajara-25-26-home",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "LIGA MX",
+        "Chivas de Guadalajara"
+      ],
+      "sourceTitle": "Chivas de Guadalajara 25/26 Home S-4XL",
+      "updatedAt": "2026-10-13T23:10:49.895Z"
     },
     {
       "id": "yupoo-253282587",
@@ -141951,6 +143885,86 @@
       "updatedAt": "2026-10-13T22:36:31.949Z"
     },
     {
+      "id": "yupoo-210081284",
+      "name": "Oasis Tour",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/210081284?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/oasis-tour-4/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/oasis-tour-4/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/oasis-tour-4/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/oasis-tour-4/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/oasis-tour-4/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/oasis-tour-4/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/oasis-tour-4/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/oasis-tour-4/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/oasis-tour-4/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/oasis-tour-4/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "oasis-tour-4",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season"
+      ],
+      "sourceTitle": "Oasis Tour S-4XL",
+      "updatedAt": "2026-10-13T23:07:57.379Z"
+    },
+    {
+      "id": "yupoo-210081278",
+      "name": "Oasis Tour",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/210081278?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/oasis-tour-5/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/oasis-tour-5/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/oasis-tour-5/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/oasis-tour-5/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/oasis-tour-5/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/oasis-tour-5/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/oasis-tour-5/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/oasis-tour-5/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/oasis-tour-5/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/oasis-tour-5/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "oasis-tour-5",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season"
+      ],
+      "sourceTitle": "Oasis Tour S-4XL",
+      "updatedAt": "2026-10-13T23:08:28.005Z"
+    },
+    {
       "id": "yupoo-221734482",
       "name": "Oasis Tour Jacquard Striped Long-Sleeve Sweatshirt - Black",
       "category": "⚽Long sleeve shirt",
@@ -167644,6 +169658,47 @@
       ],
       "sourceTitle": "Real Madrid 25/26 Baseball - Navy Blue Jersey S-4XL",
       "updatedAt": "2026-10-13T06:50:58.536Z"
+    },
+    {
+      "id": "yupoo-210323670",
+      "name": "Real Madrid 25/26 Baseball - White Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/210323670?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-25-26-baseball-white-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-25-26-baseball-white-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-25-26-baseball-white-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-25-26-baseball-white-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-25-26-baseball-white-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-25-26-baseball-white-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-25-26-baseball-white-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-25-26-baseball-white-jersey/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-25-26-baseball-white-jersey/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "real-madrid-25-26-baseball-white-jersey",
+      "siteCategory": "club",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "La Liga",
+        "Real Madrid"
+      ],
+      "sourceTitle": "Real Madrid 25/26 Baseball - White Jersey S-4XL",
+      "updatedAt": "2026-10-13T23:06:14.391Z"
     },
     {
       "id": "yupoo-224798955",
