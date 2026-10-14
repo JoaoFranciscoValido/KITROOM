@@ -24,9 +24,10 @@ Yupoo blocks plain HTTP scraping and image hotlinking, so the importer loads the
 
 ```sh
 npm run import                          # full import
-npm run import -- --limit 10            # first 10 albums only (good for a first try)
+npm run import -- --limit 10            # first 10 albums only (good for a first try; stops listing once it has 10)
 npm run import -- --category "retro"    # only Yupoo categories whose name contains "retro"
 npm run import -- --album 123456789     # one album by its Yupoo id
+npm run import -- --skip-checked 24     # resume a long run: albums checked in the last 24 h (same categories) are not opened again
 npm run import -- --dry-run --limit 5   # list what would be imported; downloads and writes nothing
 npm run import -- --headed              # show the browser window (useful if Yupoo changes its pages)
 npm test                                # offline end-to-end test against a local mock store
@@ -35,9 +36,10 @@ npm test                                # offline end-to-end test against a loca
 ## What it does
 
 1. Opens `https://minkang.x.yupoo.com/albums`, reads the category links, then every album in every category (following `?page=N`), and finally the full album list to catch albums outside any category.
+   With `--limit N` it stops listing as soon as it knows N albums, so a trial run takes a minute or two instead of crawling the whole store; those albums only carry the categories seen so far, and the next full run fills in the rest.
 2. Opens each album, scrolls to load every photo and reads the full-size photo URLs. Password-protected albums and albums without photos are skipped and listed in the report.
 3. Downloads each photo with the album page as Referer, hashes it (SHA-1) and stores identical photos only once per album.
-4. Converts to WebP (max 1200 px wide; cover 640 px) and saves through the storage driver.
+4. Converts to WebP (max 1200 px wide; cover 640 px) and saves through the storage driver. Photos are ordered with the supplier's album cover first (the photo Yupoo shows on the album list, usually the whole shirt), then the rest in album order, then size charts (a table on a white page), so the site's cover and first photo are a product photo. If the supplier changes an album's cover, the next import reorders the stored photos without downloading them again.
 5. Builds one catalogue item per album and writes `catalog.json` atomically.
 
 Each item has the requested fields, plus the fields the website uses for its filters:
@@ -92,11 +94,32 @@ Then commit `web/public/catalog.json`, `web/public/catalog/` and `importer/state
 - `selectors`: CSS selectors for Yupoo's pages. If Yupoo changes its layout and albums or photos stop being found, adjust these (run with `--headed` to look at the page).
 - `categoryMap`: Yupoo category name (lower case, partial match) to site category key.
 
-## Changing storage (Cloudinary, Supabase Storage, Amazon S3)
+## Photos in Cloudflare R2 (or another S3-compatible service)
 
-All storage goes through `lib/storage/`. A driver implements `put(key, buffer, contentType) → public URL`, `exists(key)`, `url(key)`, `list(prefix)` and `remove(key)`. To move the photos:
+By default photos are files in `web/public/catalog/`, served by the site. For the full catalogue (several GB) keep them in object storage instead; `catalog.json` then holds the bucket's public URLs and the website needs no change.
 
-1. Add `lib/storage/s3.mjs` (or `cloudinary.mjs`, `supabase.mjs`) implementing those functions.
-2. Register it in `lib/storage/index.mjs` and set `"storage": { "driver": "s3", … }` in `config.json`.
+**1. Create the bucket (Cloudflare dashboard)**
+- R2 → Create bucket, e.g. `kitroom-photos`.
+- Bucket → Settings → Public access: enable the `r2.dev` URL (or connect a custom domain such as `photos.yourdomain.com`). Copy that public URL.
+- R2 → Manage API tokens → Create API token with *Object Read & Write* on that bucket. Note the Access Key ID, the Secret Access Key and your Account ID.
 
-`catalog.json` then contains that service's URLs, and the website needs no change.
+**2. Configure the importer**
+- `config.json` → `"storage": { "driver": "r2", "r2": { "accountId": "<account id>", "bucket": "kitroom-photos", "publicBase": "https://pub-….r2.dev/" } }` (these are not secret; they can also be the environment variables `R2_ACCOUNT_ID`, `R2_BUCKET`, `R2_PUBLIC_BASE`).
+- The keys are secret and only read from the environment: `R2_ACCESS_KEY_ID` and `R2_SECRET_ACCESS_KEY`. Never put them in `config.json` or commit them.
+
+**3. Move the photos already imported**
+
+```sh
+npm run migrate-storage -- --to r2 --dry-run   # what would be uploaded
+npm run migrate-storage -- --to r2             # upload, then point catalog.json at the bucket
+```
+
+It skips photos already in the bucket, so it can be re-run after an interruption, and only rewrites `catalog.json` when every photo made it. After that, `npm run import` stores new photos straight in R2 and reorders existing ones there. Once the site works with the bucket URLs, remove the local copies from the repository (`git rm -r web/public/catalog`).
+
+Behind an HTTP proxy, run Node with `NODE_USE_ENV_PROXY=1` (Node ≥ 22.21) so its `fetch` uses `HTTPS_PROXY`.
+
+Amazon S3, Supabase Storage (S3 API) or MinIO work the same way with `"driver": "s3"` and `"s3": { "endpoint": "…", "bucket": "…", "publicBase": "…", "region": "…" }`, keys in `S3_ACCESS_KEY_ID` / `S3_SECRET_ACCESS_KEY`.
+
+## Other storage (Cloudinary, …)
+
+All storage goes through `lib/storage/`. A driver implements `put(key, buffer, contentType) → public URL`, `exists(key)`, `url(key)`, `list(prefix)`, `remove(key)` and, optionally, `get(key)` (lets re-imports reorder stored photos without downloading them again). Add `lib/storage/<name>.mjs`, register it in `lib/storage/index.mjs` and set `"storage": { "driver": "<name>", … }` in `config.json`.

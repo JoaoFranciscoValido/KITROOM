@@ -21,23 +21,29 @@ const PHOTOS = {
   b1: await color(240, 200, 20), c1: await color(30, 30, 30), d1: await color(250, 250, 250), new1: await color(120, 0, 120),
 };
 PHOTOS.a2dup = PHOTOS.a2; // same content under another URL
+// A size chart: black table lines and text on a white page.
+const rows = Array.from({ length: 8 }, (_, r) => `<line x1="40" y1="${120 + r * 80}" x2="860" y2="${120 + r * 80}" stroke="#000" stroke-width="3"/>` +
+  Array.from({ length: 6 }, (_, c) => `<text x="${70 + c * 135}" y="${170 + r * 80}" font-size="30" font-family="sans-serif">${r ? 40 + r * 2 + c : 'SIZE'}</text>`).join('')).join('');
+PHOTOS.chart = await sharp(Buffer.from(`<svg xmlns="http://www.w3.org/2000/svg" width="900" height="760"><rect width="100%" height="100%" fill="#fff"/><text x="330" y="80" font-size="44" font-family="sans-serif">SIZE CHART</text>${rows}</svg>`)).jpeg().toBuffer();
 
 // Mutable store so the test can add photos / remove albums between runs.
 const store = {
   categories: [{ id: '10', name: '⚽🌍 National Teams' }, { id: '11', name: 'Retro football shirt' }],
   albums: {
-    '1001': { title: 'Portugal 2026 Home Jersey S-4XL', cats: ['10'], photos: ['a1', 'a2', 'a2dup', 'a3'] },
+    '1001': { title: 'Portugal 2026 Home Jersey S-4XL', cats: ['10'], photos: ['chart', 'a1', 'a2', 'a2dup', 'a3'], cover: 'a3' },
     '1002': { title: 'Barcelona 80/81 Home Retro Jersey S-XXL', cats: ['11'], photos: ['b1'] },
     '1003': { title: 'Secret Album', cats: ['11'], photos: ['c1'], password: true },
     '1004': { title: 'Benfica 26/27 Third Kids kit Size 16-28', cats: [], photos: ['d1'] },
   },
 };
 let downloads = 0;
+let albumVisits = 0;
 const PER_PAGE = 2;
 
 const page = (body, title = 'Store') => `<!doctype html><html><head><title>${title}</title></head><body>
 <nav>${store.categories.map(c => `<a href="/categories/${c.id}?isSubCate=false" title="${c.name}">${c.name}</a>`).join(' ')}</nav>${body}</body></html>`;
-const albumList = ids => `<div class="album__list">${ids.map(id => `<a class="album__main" href="/albums/${id}?uid=1" title="${store.albums[id].title}"><div class="album__title">${store.albums[id].title}</div></a>`).join('')}</div>`;
+// Like Yupoo: each album link shows the cover the supplier picked (store.albums[id].cover, else the first photo).
+const albumList = ids => `<div class="album__list">${ids.map(id => { const a = store.albums[id]; return `<a class="album__main" href="/albums/${id}?uid=1" title="${a.title}"><img class="album__img" src="/photo/${a.cover || a.photos[0]}/medium.jpg"><div class="album__title">${a.title}</div></a>`; }).join('')}</div>`;
 
 const server = http.createServer((req, res) => {
   const u = new URL(req.url, 'http://x');
@@ -47,16 +53,19 @@ const server = http.createServer((req, res) => {
   if (u.pathname === '/albums') return send(200, page(albumList(pageOf(Object.keys(store.albums)))));
   let m;
   if ((m = u.pathname.match(/^\/categories\/(\d+)$/))) {
+    if (store.failCategory === m[1]) return send(500, 'server error');
     return send(200, page(albumList(pageOf(Object.keys(store.albums).filter(id => store.albums[id].cats.includes(m[1]))))));
   }
   if ((m = u.pathname.match(/^\/albums\/(\d+)$/))) {
+    albumVisits++;
     const a = store.albums[m[1]];
     if (!a) return send(404, 'not found');
     if (a.password) return send(200, page('<div class="showalbum__password"><input type="password"></div>'));
     const photos = n === 1 ? a.photos : [];
-    return send(200, page(`<h1 class="showalbumheader__gallerytitle">${a.title}</h1><div class="showalbum__children">${photos.map(p => `<div class="image__imagewrap"><img src="data:image/gif;base64,R0lGODlhAQABAAAAACw=" data-origin-src="//${req.headers.host}/photo/${p}.jpg"></div>`).join('')}</div>`));
+    // Like Yupoo: the <h1> holds the title and the photo count.
+    return send(200, page(`<h1><span class="showalbumheader__gallerytitle" data-name="${a.title}">${a.title}</span><span><i class="showalbumheader__separator"></i>${a.photos.length}</span></h1><div class="showalbum__children">${photos.map(p => `<div class="image__imagewrap"><img src="data:image/gif;base64,R0lGODlhAQABAAAAACw=" data-origin-src="//${req.headers.host}/photo/${p}/big.jpg"></div>`).join('')}</div>`));
   }
-  if ((m = u.pathname.match(/^\/photo\/(\w+)\.jpg$/))) {
+  if ((m = u.pathname.match(/^\/photo\/(\w+)\/big\.jpg$/))) {
     // Like Yupoo: refuse requests without a Referer from the store (hotlink protection).
     if (!(req.headers.referer || '').includes(req.headers.host)) return send(403, 'hotlink', 'text/plain');
     downloads++;
@@ -71,6 +80,8 @@ const tmp = await mkdtemp(path.join(os.tmpdir(), 'kitroom-import-'));
 const config = JSON.parse(await readFile(path.join(HERE, '..', 'config.json'), 'utf8'));
 config.source.baseUrl = base;
 config.output.dir = path.join(tmp, 'public');
+// Always local files: config.json may point at the real R2/S3 bucket, and the test's albums would overwrite real photos.
+config.storage = { driver: 'local', local: { publicBase: '/' } };
 config.requests.delayMs = 0;
 config.requests.retries = 2;
 await writeFile(path.join(tmp, 'config.json'), JSON.stringify(config));
@@ -101,12 +112,20 @@ try {
   assert.equal(pt.siteCategory, 'national');
   assert.equal(pt.sourceUrl, `${base}/albums/1001?uid=1`);
   assert.equal(pt.coverImage, '/catalog/portugal-2026-home-jersey/cover.webp');
-  assert.deepEqual(pt.images, [1, 2, 3].map(i => `/catalog/portugal-2026-home-jersey/image-0${i}.webp`), '4 photos, 1 duplicate -> 3 images');
+  assert.deepEqual(pt.images, [1, 2, 3, 4].map(i => `/catalog/portugal-2026-home-jersey/image-0${i}.webp`), '5 photos, 1 duplicate -> 4 images');
   assert.deepEqual(pt.availableSizes, ['S', 'M', 'L', 'XL', 'XXL']);
   assert.equal(pt.availability, 'unknown');
   assert.ok(!JSON.stringify(cat).includes('/photo/'), 'no source image URLs in catalog.json');
   const files = await readdir(path.join(tmp, 'public', 'catalog', 'portugal-2026-home-jersey'));
-  assert.deepEqual(files.sort(), ['cover.webp', 'image-01.webp', 'image-02.webp', 'image-03.webp']);
+  assert.deepEqual(files.sort(), ['cover.webp', 'image-01.webp', 'image-02.webp', 'image-03.webp', 'image-04.webp']);
+  // The supplier's album cover (green, last in the album) comes first; the size chart (first in the album) moves to the end.
+  const rgb = async f => (await sharp(path.join(tmp, 'public', 'catalog', 'portugal-2026-home-jersey', f)).stats()).channels.map(c => Math.round(c.mean));
+  const isGreen = ([r, g, b]) => g > 120 && r < 80 && b < 120;
+  const isRed = ([r, g, b]) => r > 150 && g < 80 && b < 80;
+  for (const f of ['cover.webp', 'image-01.webp']) assert.ok(isGreen(await rgb(f)), `${f} is the supplier's album cover`);
+  assert.ok(isRed(await rgb('image-02.webp')), 'then the album order');
+  const [cr, cg, cb] = await rgb('image-04.webp');
+  assert.ok(cr > 200 && cg > 200 && cb > 200, 'size chart is last');
   const meta = await sharp(path.join(tmp, 'public', 'catalog', 'portugal-2026-home-jersey', 'image-01.webp')).metadata();
   assert.equal(meta.format, 'webp');
   assert.ok(meta.width <= 1200);
@@ -123,6 +142,33 @@ try {
   assert.equal(downloads, firstDownloads, 'no re-downloads on an unchanged store');
   assert.equal(rep.totals.unchanged, 3);
 
+  // Run 2b: --skip-checked keeps recently checked albums without visiting them; only the password album (no product) is opened.
+  const visitsBefore = albumVisits;
+  await importer('--skip-checked', '24');
+  rep = await lastReport();
+  assert.equal(albumVisits - visitsBefore, 1, 'recently checked albums are not visited again');
+  assert.equal(rep.totals.unchanged, 3);
+  assert.equal((await catalog()).items.length, 3, 'skipped albums stay in the catalogue');
+
+  // Run 2c: a category page fails -> its products keep that category (and are not marked unavailable)
+  store.failCategory = '10';
+  await importer();
+  delete store.failCategory;
+  rep = await lastReport();
+  assert.ok(rep.errors.some(e => e.scope === 'category' && e.id === '10'), 'failed category is reported');
+  const ptAfterFail = (await catalog()).items.find(i => i.id === 'yupoo-1001');
+  assert.equal(ptAfterFail.category, '⚽🌍 National Teams', 'category kept when its listing failed');
+  assert.deepEqual(ptAfterFail.sourceCategories, ['⚽🌍 National Teams']);
+  assert.notEqual(ptAfterFail.availability, 'unavailable');
+
+  // Run 2b: the supplier picks another cover -> photos reordered and cover remade, without downloading anything
+  store.albums['1001'].cover = 'a1';
+  await importer();
+  assert.equal(downloads, firstDownloads, 'reordering reuses the stored photos');
+  for (const f of ['cover.webp', 'image-01.webp']) assert.ok(isRed(await rgb(f)), `${f} follows the new album cover`);
+  assert.ok(isGreen(await rgb('image-03.webp')), 'previous cover back in its album position');
+  assert.equal((await readdir(path.join(tmp, 'public', 'catalog', 'portugal-2026-home-jersey'))).length, 5, 'no leftover files');
+
   // Run 3: a new photo in one album, one album removed from the store
   store.albums['1002'].photos.push('new1');
   delete store.albums['1004'];
@@ -137,8 +183,10 @@ try {
 
   // Run 4: limited run does not mark anything unavailable and dry run writes nothing
   const before = JSON.stringify(await catalog());
-  await importer('--dry-run', '--limit', '1');
+  const { stdout } = await importer('--dry-run', '--limit', '1');
   assert.equal(JSON.stringify(await catalog()), before, 'dry run leaves catalog.json untouched');
+  assert.match(stdout, /Processing 1 of 1 albums/, '--limit stops listing once it has enough albums');
+  assert.doesNotMatch(stdout, /All albums listing|Retro football shirt/, '--limit skips the remaining listings');
 
   console.log('e2e: all checks passed');
   // E2E_KEEP=<dir>: keep the generated catalog.json + images (e.g. to view them in the site).

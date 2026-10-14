@@ -7,11 +7,15 @@
   "scripts": {
     "import": "node import.mjs",
     "import:dry": "node import.mjs --dry-run --limit 5",
-    "test": "node test/e2e.mjs"
+    "migrate-storage": "node migrate-storage.mjs",
+    "test": "node test/e2e.mjs && node test/s3.mjs"
   },
   "dependencies": {
+    "aws4fetch": "^1.0.20",
     "playwright": "1.56.1",
     "sharp": "^0.33.5"
   },
-  "engines": { "node": ">=18.17" }
+  "engines": {
+    "node": ">=18.17"
+  }
 }

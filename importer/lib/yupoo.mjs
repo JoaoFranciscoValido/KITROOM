@@ -20,6 +20,14 @@ export async function withRetry(fn, { retries = 3, delayMs = 1000, label = '' } 
 
 const albumIdOf = href => (href.match(/\/albums\/(\d+)/) || [])[1] || null;
 const categoryIdOf = href => (href.match(/\/categories\/(\d+)/) || [])[1] || null;
+/**
+ * Yupoo photo id: the folder holding a photo's sizes, e.g. 05b75aba in https://photo.yupoo.com/minkang/05b75aba/medium.jpg.
+ * The album's cover thumbnail and the full-size photo share it.
+ */
+export const photoIdOf = url => {
+  const parts = String(url || '').split(/[?#]/)[0].split('/').filter(Boolean);
+  return parts.length >= 3 ? parts[parts.length - 2] : null;
+};
 
 export function withPage(url, n) {
   const u = new URL(url);
@@ -73,22 +81,28 @@ export class YupooClient {
     return [...seen.values()];
   }
 
-  /** All albums in a listing (category page or /albums), following ?page=N until a page adds nothing new. */
-  async albumsIn(listUrl) {
+  /**
+   * All albums in a listing (category page or /albums), following ?page=N until a page adds nothing new.
+   * With stopAfter, stops paging once that many albums were found.
+   */
+  async albumsIn(listUrl, { stopAfter = 0 } = {}) {
     const found = new Map();
     for (let n = 1; n <= this.config.source.maxListPages; n++) {
+      if (stopAfter && found.size >= stopAfter) break;
       await this.goto(withPage(listUrl, n));
       const links = await this.page.$$eval(this.sel.albumLinks.join(','), as =>
         as.map(a => ({
           href: a.href,
           title: (a.getAttribute('title') || a.querySelector('.album__title')?.textContent || a.textContent || '').replace(/\s+/g, ' ').trim(),
+          cover: a.querySelector('img')?.getAttribute('src') || '',
         })));
       let added = 0;
       for (const l of links) {
         const id = albumIdOf(l.href);
         if (!id || found.has(id) || !l.title) continue;
         const u = new URL(l.href);
-        found.set(id, { albumId: id, title: l.title, url: `${u.origin}${u.pathname}${u.searchParams.get('uid') ? '?uid=' + u.searchParams.get('uid') : ''}` });
+        // coverId: the photo the supplier picked as the album's cover (usually the whole shirt), shown first on the site.
+        found.set(id, { albumId: id, title: l.title, url: `${u.origin}${u.pathname}${u.searchParams.get('uid') ? '?uid=' + u.searchParams.get('uid') : ''}`, coverId: photoIdOf(l.cover) });
         added++;
       }
       if (!added) break;
@@ -105,7 +119,16 @@ export class YupooClient {
       if (n === 1) {
         const locked = await this.page.$(this.sel.passwordMarkers.join(','));
         if (locked) return { title: '', imageUrls: [], passwordProtected: true };
-        title = await this.page.$$eval(this.sel.albumTitle.join(','), els => (els[0]?.textContent || '').replace(/\s+/g, ' ').trim()).catch(() => '');
+        // Selectors in priority order. Yupoo wraps the title and the photo count in one <h1>, so a generic
+        // selector must not win just by coming first in the document.
+        title = await this.page.evaluate(sels => {
+          for (const s of sels) {
+            const el = document.querySelector(s);
+            const t = (el?.getAttribute('data-name') || el?.textContent || '').replace(/\s+/g, ' ').trim();
+            if (t) return t;
+          }
+          return '';
+        }, this.sel.albumTitle).catch(() => '');
       }
       await this.autoScroll();
       const pageUrls = await this.page.$$eval(
@@ -144,10 +167,15 @@ export class YupooClient {
   async download(imageUrl, referer) {
     return withRetry(async () => {
       const res = await this.context.request.get(imageUrl, { headers: { Referer: referer }, timeout: this.req.timeoutMs });
-      if (!res.ok()) throw new Error(`HTTP ${res.status()}`);
-      const type = res.headers()['content-type'] || '';
-      if (type && !type.startsWith('image/')) throw new Error(`Not an image (${type})`);
-      return await res.body();
+      // Playwright keeps every response body in memory until dispose(); without it a long run grows until it is OOM-killed.
+      try {
+        if (!res.ok()) throw new Error(`HTTP ${res.status()}`);
+        const type = res.headers()['content-type'] || '';
+        if (type && !type.startsWith('image/')) throw new Error(`Not an image (${type})`);
+        return await res.body();
+      } finally {
+        await res.dispose().catch(() => {});
+      }
     }, { retries: this.req.retries, delayMs: this.req.delayMs, label: `Image ${imageUrl}` });
   }
 }

@@ -10,10 +10,7 @@
     "catalogFile": "catalog.json",
     "imagesPrefix": "catalog"
   },
-  "storage": {
-    "driver": "local",
-    "local": { "publicBase": "/" }
-  },
+  "storage": { "driver": "r2" },
   "images": {
     "maxWidth": 1200,
     "coverWidth": 640,
