@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-14T04:43:56.870Z",
+  "generatedAt": "2026-10-14T05:05:20.111Z",
   "source": {
     "name": "Supplier catalogue",
     "url": "https://minkang.x.yupoo.com/albums"
   },
-  "count": 7160,
+  "count": 7224,
   "items": [
     {
       "id": "yupoo-231422616",
@@ -535,6 +535,132 @@
       "updatedAt": "2026-10-11T15:50:01.730Z"
     },
     {
+      "id": "yupoo-85693427",
+      "name": "20/21 AC Milan home",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/85693427?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/20-21-ac-milan-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/20-21-ac-milan-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/20-21-ac-milan-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/20-21-ac-milan-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/20-21-ac-milan-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/20-21-ac-milan-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/20-21-ac-milan-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/20-21-ac-milan-home/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/20-21-ac-milan-home/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/20-21-ac-milan-home/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/20-21-ac-milan-home/image-10.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/20-21-ac-milan-home/image-11.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "20-21-ac-milan-home",
+      "siteCategory": "club",
+      "team": "AC Milan",
+      "league": "Serie A",
+      "country": "Italy",
+      "season": "2020/21",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Serie A",
+        "AC Milan"
+      ],
+      "sourceTitle": "20/21 AC Milan home S-XXL",
+      "updatedAt": "2026-10-14T04:54:00.182Z"
+    },
+    {
+      "id": "yupoo-85351820",
+      "name": "20/21 Barcelona away S-XXXL",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/85351820?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/20-21-barcelona-away-s-xxxl/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/20-21-barcelona-away-s-xxxl/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/20-21-barcelona-away-s-xxxl/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/20-21-barcelona-away-s-xxxl/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/20-21-barcelona-away-s-xxxl/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/20-21-barcelona-away-s-xxxl/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/20-21-barcelona-away-s-xxxl/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/20-21-barcelona-away-s-xxxl/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/20-21-barcelona-away-s-xxxl/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "20-21-barcelona-away-s-xxxl",
+      "siteCategory": "club",
+      "team": "FC Barcelona",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2020/21",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "La Liga",
+        "Barcelona"
+      ],
+      "sourceTitle": "20/21 Barcelona away S-XXXL",
+      "updatedAt": "2026-10-14T04:54:46.869Z"
+    },
+    {
+      "id": "yupoo-79952657",
+      "name": "20/21 Barcelona home S-XXXL",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/79952657?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/20-21-barcelona-home-s-xxxl/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/20-21-barcelona-home-s-xxxl/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/20-21-barcelona-home-s-xxxl/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/20-21-barcelona-home-s-xxxl/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/20-21-barcelona-home-s-xxxl/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/20-21-barcelona-home-s-xxxl/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/20-21-barcelona-home-s-xxxl/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/20-21-barcelona-home-s-xxxl/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/20-21-barcelona-home-s-xxxl/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "20-21-barcelona-home-s-xxxl",
+      "siteCategory": "club",
+      "team": "FC Barcelona",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2020/21",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "La Liga",
+        "Barcelona"
+      ],
+      "sourceTitle": "20/21 Barcelona home S-XXXL",
+      "updatedAt": "2026-10-14T04:55:03.054Z"
+    },
+    {
       "id": "yupoo-83485819",
       "name": "20/21 Chelsea home S-XXXL",
       "category": "Retro football shirt",
@@ -580,6 +706,50 @@
       "updatedAt": "2026-10-11T13:33:01.640Z"
     },
     {
+      "id": "yupoo-92279309",
+      "name": "20/21 Jordan PSG fourth away purple M-XXXL",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/92279309?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/20-21-jordan-psg-fourth-away-purple-m-xxxl/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/20-21-jordan-psg-fourth-away-purple-m-xxxl/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/20-21-jordan-psg-fourth-away-purple-m-xxxl/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/20-21-jordan-psg-fourth-away-purple-m-xxxl/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/20-21-jordan-psg-fourth-away-purple-m-xxxl/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/20-21-jordan-psg-fourth-away-purple-m-xxxl/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/20-21-jordan-psg-fourth-away-purple-m-xxxl/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/20-21-jordan-psg-fourth-away-purple-m-xxxl/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/20-21-jordan-psg-fourth-away-purple-m-xxxl/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/20-21-jordan-psg-fourth-away-purple-m-xxxl/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/20-21-jordan-psg-fourth-away-purple-m-xxxl/image-10.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/20-21-jordan-psg-fourth-away-purple-m-xxxl/image-11.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "20-21-jordan-psg-fourth-away-purple-m-xxxl",
+      "siteCategory": "club",
+      "team": "Paris Saint-Germain",
+      "league": "Ligue 1",
+      "country": "France",
+      "season": "2020/21",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Ligue 1",
+        "PSG"
+      ],
+      "sourceTitle": "20/21 Jordan PSG fourth away purple M-XXXL",
+      "updatedAt": "2026-10-14T04:52:38.141Z"
+    },
+    {
       "id": "yupoo-82783555",
       "name": "20/21 Manchester City Away S-XXXL",
       "category": "Retro football shirt",
@@ -620,6 +790,89 @@
       ],
       "sourceTitle": "20/21 Manchester City Away S-XXXL",
       "updatedAt": "2026-10-11T13:34:20.449Z"
+    },
+    {
+      "id": "yupoo-86090974",
+      "name": "20/21 Real Madrid third away",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/86090974?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/20-21-real-madrid-third-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/20-21-real-madrid-third-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/20-21-real-madrid-third-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/20-21-real-madrid-third-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/20-21-real-madrid-third-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/20-21-real-madrid-third-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/20-21-real-madrid-third-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/20-21-real-madrid-third-away/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/20-21-real-madrid-third-away/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/20-21-real-madrid-third-away/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "20-21-real-madrid-third-away",
+      "siteCategory": "club",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2020/21",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "La Liga"
+      ],
+      "sourceTitle": "20/21 Real Madrid third away S-XXL",
+      "updatedAt": "2026-10-14T04:53:28.868Z"
+    },
+    {
+      "id": "yupoo-85571831",
+      "name": "20/21 Rome away S-XXXL",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/85571831?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/20-21-rome-away-s-xxxl/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/20-21-rome-away-s-xxxl/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/20-21-rome-away-s-xxxl/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/20-21-rome-away-s-xxxl/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/20-21-rome-away-s-xxxl/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/20-21-rome-away-s-xxxl/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/20-21-rome-away-s-xxxl/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/20-21-rome-away-s-xxxl/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/20-21-rome-away-s-xxxl/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/20-21-rome-away-s-xxxl/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/20-21-rome-away-s-xxxl/image-10.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "20-21-rome-away-s-xxxl",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2020/21",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Serie A"
+      ],
+      "sourceTitle": "20/21 Rome away S-XXXL",
+      "updatedAt": "2026-10-14T04:54:30.330Z"
     },
     {
       "id": "yupoo-64405123",
@@ -745,7 +998,7 @@
     {
       "id": "yupoo-64707998",
       "name": "2019 Brazil away",
-      "category": "Brazil team column",
+      "category": "new season",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/64707998?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2019-brazil-away/cover.webp",
       "images": [
@@ -774,10 +1027,11 @@
       "type": "Shirt",
       "variant": "Fan version",
       "sourceCategories": [
+        "new season",
         "Brazil team column"
       ],
       "sourceTitle": "2019 Brazil away S-XXL",
-      "updatedAt": "2026-10-11T00:24:56.082Z"
+      "updatedAt": "2026-10-14T04:47:25.856Z"
     },
     {
       "id": "yupoo-79952674",
@@ -1306,7 +1560,7 @@
     {
       "id": "yupoo-115379284",
       "name": "2022 Brazil all black",
-      "category": "Brazil team column",
+      "category": "new season",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/115379284?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2022-brazil-all-black/cover.webp",
       "images": [
@@ -1338,15 +1592,16 @@
       "type": "Shirt",
       "variant": "Fan version",
       "sourceCategories": [
+        "new season",
         "Brazil team column"
       ],
       "sourceTitle": "2022 Brazil all black S-XXL",
-      "updatedAt": "2026-10-11T00:27:27.193Z"
+      "updatedAt": "2026-10-14T04:45:09.263Z"
     },
     {
       "id": "yupoo-111031878",
       "name": "2022 Brazil Black",
-      "category": "Brazil team column",
+      "category": "new season",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/111031878?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2022-brazil-black/cover.webp",
       "images": [
@@ -1378,10 +1633,11 @@
       "type": "Shirt",
       "variant": "Fan version",
       "sourceCategories": [
+        "new season",
         "Brazil team column"
       ],
       "sourceTitle": "2022 Brazil Black S-XXL",
-      "updatedAt": "2026-10-11T00:27:41.178Z"
+      "updatedAt": "2026-10-14T04:48:17.491Z"
     },
     {
       "id": "yupoo-118785423",
@@ -14107,6 +14363,176 @@
       "updatedAt": "2026-10-11T08:25:18.108Z"
     },
     {
+      "id": "yupoo-106418924",
+      "name": "21/22 Ajax Game version Third away",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/106418924?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-ajax-game-version-third-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-ajax-game-version-third-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-ajax-game-version-third-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-ajax-game-version-third-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-ajax-game-version-third-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-ajax-game-version-third-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-ajax-game-version-third-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-ajax-game-version-third-away/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-ajax-game-version-third-away/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-ajax-game-version-third-away/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-ajax-game-version-third-away/image-10.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "21-22-ajax-game-version-third-away",
+      "siteCategory": "club",
+      "team": "Ajax",
+      "league": "Other leagues",
+      "country": "Netherlands",
+      "season": "2021/22",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "EREDIVISIE",
+        "AFC Ajax"
+      ],
+      "sourceTitle": "21/22 Ajax Game version Third away S-XXL",
+      "updatedAt": "2026-10-14T04:48:38.984Z"
+    },
+    {
+      "id": "yupoo-101948191",
+      "name": "21/22 Ajax third away S-XXXL",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/101948191?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-ajax-third-away-s-xxxl/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-ajax-third-away-s-xxxl/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-ajax-third-away-s-xxxl/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-ajax-third-away-s-xxxl/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-ajax-third-away-s-xxxl/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-ajax-third-away-s-xxxl/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-ajax-third-away-s-xxxl/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-ajax-third-away-s-xxxl/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-ajax-third-away-s-xxxl/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-ajax-third-away-s-xxxl/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "21-22-ajax-third-away-s-xxxl",
+      "siteCategory": "club",
+      "team": "Ajax",
+      "league": "Other leagues",
+      "country": "Netherlands",
+      "season": "2021/22",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "EREDIVISIE",
+        "AFC Ajax"
+      ],
+      "sourceTitle": "21/22 Ajax third away S-XXXL",
+      "updatedAt": "2026-10-14T04:50:14.314Z"
+    },
+    {
+      "id": "yupoo-100056143",
+      "name": "21/22 Barcelona away S-XXXL",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/100056143?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-barcelona-away-s-xxxl/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-barcelona-away-s-xxxl/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-barcelona-away-s-xxxl/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-barcelona-away-s-xxxl/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-barcelona-away-s-xxxl/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-barcelona-away-s-xxxl/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-barcelona-away-s-xxxl/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-barcelona-away-s-xxxl/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-barcelona-away-s-xxxl/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-barcelona-away-s-xxxl/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-barcelona-away-s-xxxl/image-10.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "21-22-barcelona-away-s-xxxl",
+      "siteCategory": "club",
+      "team": "FC Barcelona",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2021/22",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "La Liga",
+        "Barcelona"
+      ],
+      "sourceTitle": "21/22 Barcelona away S-XXXL",
+      "updatedAt": "2026-10-14T04:52:04.920Z"
+    },
+    {
+      "id": "yupoo-92814178",
+      "name": "21/22 Barcelona home S-XXXL",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/92814178?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-barcelona-home-s-xxxl/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-barcelona-home-s-xxxl/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-barcelona-home-s-xxxl/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-barcelona-home-s-xxxl/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-barcelona-home-s-xxxl/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-barcelona-home-s-xxxl/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-barcelona-home-s-xxxl/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-barcelona-home-s-xxxl/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-barcelona-home-s-xxxl/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-barcelona-home-s-xxxl/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "21-22-barcelona-home-s-xxxl",
+      "siteCategory": "club",
+      "team": "FC Barcelona",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2021/22",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "La Liga",
+        "Barcelona"
+      ],
+      "sourceTitle": "21/22 Barcelona home S-XXXL",
+      "updatedAt": "2026-10-14T04:53:04.458Z"
+    },
+    {
       "id": "yupoo-97625757",
       "name": "21/22 Bayern Munich away S-XXXL",
       "category": "Retro football shirt",
@@ -14192,6 +14618,92 @@
       ],
       "sourceTitle": "21/22 Chelsea home S-XXXL",
       "updatedAt": "2026-10-11T13:33:27.057Z"
+    },
+    {
+      "id": "yupoo-98952600",
+      "name": "21/22 Inter Milan away",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/98952600?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-inter-milan-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-inter-milan-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-inter-milan-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-inter-milan-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-inter-milan-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-inter-milan-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-inter-milan-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-inter-milan-away/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-inter-milan-away/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-inter-milan-away/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-inter-milan-away/image-10.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "21-22-inter-milan-away",
+      "siteCategory": "club",
+      "team": "Inter",
+      "league": "Serie A",
+      "country": "Italy",
+      "season": "2021/22",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Serie A",
+        "Inter Milan"
+      ],
+      "sourceTitle": "21/22 Inter Milan away S-XXL",
+      "updatedAt": "2026-10-14T04:51:01.552Z"
+    },
+    {
+      "id": "yupoo-96145020",
+      "name": "21/22 Inter Milan home S-XXXL",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/96145020?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-inter-milan-home-s-xxxl/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-inter-milan-home-s-xxxl/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-inter-milan-home-s-xxxl/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-inter-milan-home-s-xxxl/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-inter-milan-home-s-xxxl/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-inter-milan-home-s-xxxl/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-inter-milan-home-s-xxxl/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-inter-milan-home-s-xxxl/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-inter-milan-home-s-xxxl/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-inter-milan-home-s-xxxl/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-inter-milan-home-s-xxxl/image-10.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "21-22-inter-milan-home-s-xxxl",
+      "siteCategory": "club",
+      "team": "Inter",
+      "league": "Serie A",
+      "country": "Italy",
+      "season": "2021/22",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Serie A",
+        "Inter Milan"
+      ],
+      "sourceTitle": "21/22 Inter Milan home S-XXXL",
+      "updatedAt": "2026-10-14T04:51:37.408Z"
     },
     {
       "id": "yupoo-100871532",
@@ -14421,6 +14933,284 @@
       "updatedAt": "2026-10-11T13:19:07.501Z"
     },
     {
+      "id": "yupoo-101948185",
+      "name": "21/22 Real Madrid away S-XXXL",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/101948185?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-real-madrid-away-s-xxxl/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-real-madrid-away-s-xxxl/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-real-madrid-away-s-xxxl/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-real-madrid-away-s-xxxl/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-real-madrid-away-s-xxxl/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-real-madrid-away-s-xxxl/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-real-madrid-away-s-xxxl/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-real-madrid-away-s-xxxl/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "21-22-real-madrid-away-s-xxxl",
+      "siteCategory": "club",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2021/22",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "La Liga",
+        "Real Madrid"
+      ],
+      "sourceTitle": "21/22 Real Madrid away S-XXXL",
+      "updatedAt": "2026-10-14T04:50:43.318Z"
+    },
+    {
+      "id": "yupoo-115871675",
+      "name": "21/22 Real Madrid final version home",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/115871675?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-real-madrid-final-version-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-real-madrid-final-version-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-real-madrid-final-version-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-real-madrid-final-version-home/image-03.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "21-22-real-madrid-final-version-home",
+      "siteCategory": "club",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2021/22",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "La Liga",
+        "Real Madrid"
+      ],
+      "sourceTitle": "21/22 Real Madrid final version home S-XXL",
+      "updatedAt": "2026-10-14T04:44:39.659Z"
+    },
+    {
+      "id": "yupoo-104150382",
+      "name": "21/22 Real Madrid third away S-XXXL",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/104150382?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-real-madrid-third-away-s-xxxl/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-real-madrid-third-away-s-xxxl/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-real-madrid-third-away-s-xxxl/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-real-madrid-third-away-s-xxxl/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-real-madrid-third-away-s-xxxl/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-real-madrid-third-away-s-xxxl/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-real-madrid-third-away-s-xxxl/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-real-madrid-third-away-s-xxxl/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-real-madrid-third-away-s-xxxl/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "21-22-real-madrid-third-away-s-xxxl",
+      "siteCategory": "club",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2021/22",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "La Liga"
+      ],
+      "sourceTitle": "21/22 Real Madrid third away S-XXXL",
+      "updatedAt": "2026-10-14T04:49:02.096Z"
+    },
+    {
+      "id": "yupoo-102364609",
+      "name": "21/22 Venice home",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/102364609?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-venice-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-venice-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-venice-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-venice-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-venice-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-venice-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-venice-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-venice-home/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-venice-home/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/21-22-venice-home/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "21-22-venice-home",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2021/22",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Serie A"
+      ],
+      "sourceTitle": "21/22 Venice home S-XXL",
+      "updatedAt": "2026-10-14T04:49:39.499Z"
+    },
+    {
+      "id": "yupoo-113975627",
+      "name": "22 / 23 Arsenal away S-XXXL",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/113975627?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-arsenal-away-s-xxxl/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-arsenal-away-s-xxxl/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-arsenal-away-s-xxxl/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-arsenal-away-s-xxxl/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-arsenal-away-s-xxxl/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-arsenal-away-s-xxxl/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-arsenal-away-s-xxxl/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-arsenal-away-s-xxxl/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-arsenal-away-s-xxxl/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-arsenal-away-s-xxxl/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "22-23-arsenal-away-s-xxxl",
+      "siteCategory": "club",
+      "team": "Arsenal",
+      "league": "Premier League",
+      "country": "England",
+      "season": "2022/23",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Premier League",
+        "Arsenal"
+      ],
+      "sourceTitle": "22 / 23 Arsenal away S-XXXL",
+      "updatedAt": "2026-10-14T04:46:27.328Z"
+    },
+    {
+      "id": "yupoo-113757671",
+      "name": "22 / 23 Real Madrid home s-xxxl",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/113757671?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-real-madrid-home-s-xxxl/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-real-madrid-home-s-xxxl/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-real-madrid-home-s-xxxl/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-real-madrid-home-s-xxxl/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-real-madrid-home-s-xxxl/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-real-madrid-home-s-xxxl/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-real-madrid-home-s-xxxl/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-real-madrid-home-s-xxxl/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-real-madrid-home-s-xxxl/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-real-madrid-home-s-xxxl/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-real-madrid-home-s-xxxl/image-10.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "22-23-real-madrid-home-s-xxxl",
+      "siteCategory": "club",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2022/23",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "La Liga",
+        "Real Madrid"
+      ],
+      "sourceTitle": "22 / 23 Real Madrid home s-xxxl",
+      "updatedAt": "2026-10-14T04:46:49.317Z"
+    },
+    {
+      "id": "yupoo-115865192",
+      "name": "22/23 14 Champions Edition Real Madrid home S-XXXL",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/115865192?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-14-champions-edition-real-madrid-home-s-xxxl/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-14-champions-edition-real-madrid-home-s-xxxl/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-14-champions-edition-real-madrid-home-s-xxxl/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-14-champions-edition-real-madrid-home-s-xxxl/image-03.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "22-23-14-champions-edition-real-madrid-home-s-xxxl",
+      "siteCategory": "club",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2022/23",
+      "type": "Shirt",
+      "variant": "Special edition",
+      "sourceCategories": [
+        "new season",
+        "La Liga",
+        "Real Madrid"
+      ],
+      "sourceTitle": "22/23 14 Champions Edition Real Madrid home S-XXXL",
+      "updatedAt": "2026-10-14T04:45:01.373Z"
+    },
+    {
       "id": "yupoo-118093840",
       "name": "22/23 AC Milan Home S-XXXL",
       "category": "new season",
@@ -14536,6 +15326,49 @@
       "updatedAt": "2026-10-13T21:59:22.612Z"
     },
     {
+      "id": "yupoo-115196765",
+      "name": "22/23 Atlético Mineiro Commemorative Edition Black",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/115196765?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-atletico-mineiro-commemorative-edition-black/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-atletico-mineiro-commemorative-edition-black/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-atletico-mineiro-commemorative-edition-black/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-atletico-mineiro-commemorative-edition-black/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-atletico-mineiro-commemorative-edition-black/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-atletico-mineiro-commemorative-edition-black/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-atletico-mineiro-commemorative-edition-black/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-atletico-mineiro-commemorative-edition-black/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-atletico-mineiro-commemorative-edition-black/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-atletico-mineiro-commemorative-edition-black/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-atletico-mineiro-commemorative-edition-black/image-10.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "22-23-atletico-mineiro-commemorative-edition-black",
+      "siteCategory": "club",
+      "team": "Atlético Madrid",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2022/23",
+      "type": "Shirt",
+      "variant": "Special edition",
+      "sourceCategories": [
+        "new season",
+        "Brasileiro Série A",
+        "Atlético Mineiro"
+      ],
+      "sourceTitle": "22/23 Atlético Mineiro Commemorative Edition Black S-XXL",
+      "updatedAt": "2026-10-14T04:45:36.151Z"
+    },
+    {
       "id": "yupoo-119441295",
       "name": "22/23 Barcelona away S-XXXL",
       "category": "new season",
@@ -14619,6 +15452,50 @@
       "updatedAt": "2026-10-14T04:34:53.949Z"
     },
     {
+      "id": "yupoo-111370144",
+      "name": "22/23 Barcelona home",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/111370144?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-barcelona-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-barcelona-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-barcelona-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-barcelona-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-barcelona-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-barcelona-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-barcelona-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-barcelona-home/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-barcelona-home/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-barcelona-home/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-barcelona-home/image-10.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-barcelona-home/image-11.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "22-23-barcelona-home",
+      "siteCategory": "club",
+      "team": "FC Barcelona",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2022/23",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "La Liga",
+        "Barcelona"
+      ],
+      "sourceTitle": "22/23 Barcelona home S-4XL",
+      "updatedAt": "2026-10-14T04:44:27.640Z"
+    },
+    {
       "id": "yupoo-127089750",
       "name": "22/23 Barcelona Owl Sponsor Home S-XXXL",
       "category": "new season",
@@ -14693,6 +15570,49 @@
       ],
       "sourceTitle": "22/23 Barcelona Special Edition Sponsor Home",
       "updatedAt": "2026-10-14T04:28:35.636Z"
+    },
+    {
+      "id": "yupoo-113340343",
+      "name": "22/23 Chelsea home S-XXXL",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/113340343?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-chelsea-home-s-xxxl/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-chelsea-home-s-xxxl/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-chelsea-home-s-xxxl/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-chelsea-home-s-xxxl/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-chelsea-home-s-xxxl/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-chelsea-home-s-xxxl/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-chelsea-home-s-xxxl/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-chelsea-home-s-xxxl/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-chelsea-home-s-xxxl/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-chelsea-home-s-xxxl/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-chelsea-home-s-xxxl/image-10.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "22-23-chelsea-home-s-xxxl",
+      "siteCategory": "club",
+      "team": "Chelsea",
+      "league": "Premier League",
+      "country": "England",
+      "season": "2022/23",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Premier League",
+        "Chelsea"
+      ],
+      "sourceTitle": "22/23 Chelsea home S-XXXL",
+      "updatedAt": "2026-10-14T04:47:58.989Z"
     },
     {
       "id": "yupoo-114589803",
@@ -15034,6 +15954,50 @@
       "updatedAt": "2026-10-14T04:37:02.716Z"
     },
     {
+      "id": "yupoo-113757659",
+      "name": "22/23 Manchester United home S-XXXL",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/113757659?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-manchester-united-home-s-xxxl/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-manchester-united-home-s-xxxl/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-manchester-united-home-s-xxxl/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-manchester-united-home-s-xxxl/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-manchester-united-home-s-xxxl/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-manchester-united-home-s-xxxl/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-manchester-united-home-s-xxxl/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-manchester-united-home-s-xxxl/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-manchester-united-home-s-xxxl/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-manchester-united-home-s-xxxl/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-manchester-united-home-s-xxxl/image-10.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-manchester-united-home-s-xxxl/image-11.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "22-23-manchester-united-home-s-xxxl",
+      "siteCategory": "club",
+      "team": "Manchester United",
+      "league": "Premier League",
+      "country": "England",
+      "season": "2022/23",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Premier League",
+        "M-U"
+      ],
+      "sourceTitle": "22/23 M-U home S-XXXL",
+      "updatedAt": "2026-10-14T04:47:16.080Z"
+    },
+    {
       "id": "yupoo-121145451",
       "name": "22/23 Manchester United third away S-XXXL",
       "category": "new season",
@@ -15245,6 +16209,49 @@
       ],
       "sourceTitle": "22/23 Real Madrid away S-XXXL",
       "updatedAt": "2026-10-14T04:43:56.863Z"
+    },
+    {
+      "id": "yupoo-114114317",
+      "name": "22/23 Real Madrid Chinese Dragon White",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/114114317?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-real-madrid-chinese-dragon-white/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-real-madrid-chinese-dragon-white/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-real-madrid-chinese-dragon-white/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-real-madrid-chinese-dragon-white/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-real-madrid-chinese-dragon-white/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-real-madrid-chinese-dragon-white/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-real-madrid-chinese-dragon-white/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-real-madrid-chinese-dragon-white/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-real-madrid-chinese-dragon-white/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-real-madrid-chinese-dragon-white/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/22-23-real-madrid-chinese-dragon-white/image-10.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "22-23-real-madrid-chinese-dragon-white",
+      "siteCategory": "club",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2022/23",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "La Liga",
+        "Real Madrid"
+      ],
+      "sourceTitle": "22/23 Real Madrid Chinese Dragon White S-XXL",
+      "updatedAt": "2026-10-14T04:45:58.660Z"
     },
     {
       "id": "yupoo-118924246",
@@ -47415,6 +48422,38 @@
       "updatedAt": "2026-10-12T23:05:23.256Z"
     },
     {
+      "id": "yupoo-116978059",
+      "name": "AFL",
+      "category": "Menu 2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/116978059?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/afl/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/afl/image-01.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "afl",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "Menu 2"
+      ],
+      "sourceTitle": "AFL",
+      "updatedAt": "2026-10-14T04:56:49.512Z"
+    },
+    {
       "id": "yupoo-231416437",
       "name": "AIK 26/27 Home Jersey",
       "category": "new season",
@@ -58761,6 +59800,138 @@
       ],
       "sourceTitle": "Arsenal Originals Retro Style Casual Shirt S-XXL",
       "updatedAt": "2026-10-12T23:58:30.268Z"
+    },
+    {
+      "id": "yupoo-215949754",
+      "name": "Arsenal Reversible Jacket Windbreaker - Black",
+      "category": "💨🧥Windbreaker/Training Top",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/215949754?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/arsenal-reversible-jacket-windbreaker-black/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/arsenal-reversible-jacket-windbreaker-black/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/arsenal-reversible-jacket-windbreaker-black/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/arsenal-reversible-jacket-windbreaker-black/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/arsenal-reversible-jacket-windbreaker-black/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/arsenal-reversible-jacket-windbreaker-black/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/arsenal-reversible-jacket-windbreaker-black/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/arsenal-reversible-jacket-windbreaker-black/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/arsenal-reversible-jacket-windbreaker-black/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/arsenal-reversible-jacket-windbreaker-black/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/arsenal-reversible-jacket-windbreaker-black/image-10.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/arsenal-reversible-jacket-windbreaker-black/image-11.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "arsenal-reversible-jacket-windbreaker-black",
+      "siteCategory": "training",
+      "team": "Arsenal",
+      "league": "Premier League",
+      "country": "England",
+      "season": "",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "💨🧥Windbreaker/Training Top",
+        "Premier League",
+        "Arsenal"
+      ],
+      "sourceTitle": "Arsenal Reversible Jacket Windbreaker - Black S-XXL",
+      "updatedAt": "2026-10-14T05:02:27.902Z"
+    },
+    {
+      "id": "yupoo-215949772",
+      "name": "Arsenal Reversible Jacket Windbreaker - Red & Black",
+      "category": "💨🧥Windbreaker/Training Top",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/215949772?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/arsenal-reversible-jacket-windbreaker-red-black/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/arsenal-reversible-jacket-windbreaker-red-black/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/arsenal-reversible-jacket-windbreaker-red-black/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/arsenal-reversible-jacket-windbreaker-red-black/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/arsenal-reversible-jacket-windbreaker-red-black/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/arsenal-reversible-jacket-windbreaker-red-black/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/arsenal-reversible-jacket-windbreaker-red-black/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/arsenal-reversible-jacket-windbreaker-red-black/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/arsenal-reversible-jacket-windbreaker-red-black/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/arsenal-reversible-jacket-windbreaker-red-black/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/arsenal-reversible-jacket-windbreaker-red-black/image-10.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/arsenal-reversible-jacket-windbreaker-red-black/image-11.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "arsenal-reversible-jacket-windbreaker-red-black",
+      "siteCategory": "training",
+      "team": "Arsenal",
+      "league": "Premier League",
+      "country": "England",
+      "season": "",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "💨🧥Windbreaker/Training Top",
+        "Premier League",
+        "Arsenal"
+      ],
+      "sourceTitle": "Arsenal Reversible Jacket Windbreaker - Red & Black S-XXL",
+      "updatedAt": "2026-10-14T05:04:37.524Z"
+    },
+    {
+      "id": "yupoo-215949763",
+      "name": "Arsenal Reversible Jacket Windbreaker - Yellow & Grey",
+      "category": "💨🧥Windbreaker/Training Top",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/215949763?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/arsenal-reversible-jacket-windbreaker-yellow-grey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/arsenal-reversible-jacket-windbreaker-yellow-grey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/arsenal-reversible-jacket-windbreaker-yellow-grey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/arsenal-reversible-jacket-windbreaker-yellow-grey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/arsenal-reversible-jacket-windbreaker-yellow-grey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/arsenal-reversible-jacket-windbreaker-yellow-grey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/arsenal-reversible-jacket-windbreaker-yellow-grey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/arsenal-reversible-jacket-windbreaker-yellow-grey/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/arsenal-reversible-jacket-windbreaker-yellow-grey/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/arsenal-reversible-jacket-windbreaker-yellow-grey/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/arsenal-reversible-jacket-windbreaker-yellow-grey/image-10.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/arsenal-reversible-jacket-windbreaker-yellow-grey/image-11.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "arsenal-reversible-jacket-windbreaker-yellow-grey",
+      "siteCategory": "training",
+      "team": "Arsenal",
+      "league": "Premier League",
+      "country": "England",
+      "season": "",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "💨🧥Windbreaker/Training Top",
+        "Premier League",
+        "Arsenal"
+      ],
+      "sourceTitle": "Arsenal Reversible Jacket Windbreaker - Yellow & Grey S-XXL",
+      "updatedAt": "2026-10-14T05:03:12.129Z"
     },
     {
       "id": "yupoo-236101286",
@@ -71992,6 +73163,50 @@
       "updatedAt": "2026-10-13T05:19:48.912Z"
     },
     {
+      "id": "yupoo-215947763",
+      "name": "Barcelona Reversible Jacket Windbreaker - Red & Navy",
+      "category": "💨🧥Windbreaker/Training Top",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/215947763?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-reversible-jacket-windbreaker-red-navy/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-reversible-jacket-windbreaker-red-navy/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-reversible-jacket-windbreaker-red-navy/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-reversible-jacket-windbreaker-red-navy/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-reversible-jacket-windbreaker-red-navy/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-reversible-jacket-windbreaker-red-navy/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-reversible-jacket-windbreaker-red-navy/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-reversible-jacket-windbreaker-red-navy/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-reversible-jacket-windbreaker-red-navy/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-reversible-jacket-windbreaker-red-navy/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-reversible-jacket-windbreaker-red-navy/image-10.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/barcelona-reversible-jacket-windbreaker-red-navy/image-11.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "barcelona-reversible-jacket-windbreaker-red-navy",
+      "siteCategory": "training",
+      "team": "FC Barcelona",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "💨🧥Windbreaker/Training Top",
+        "La Liga",
+        "Barcelona"
+      ],
+      "sourceTitle": "Barcelona Reversible Jacket Windbreaker - Red & Navy S-XXL",
+      "updatedAt": "2026-10-14T05:00:50.161Z"
+    },
+    {
       "id": "yupoo-221175526",
       "name": "Barcelona Windbreaker - Deep Royal Blue & Noble Red",
       "category": "new season",
@@ -82644,6 +83859,38 @@
       "updatedAt": "2026-10-12T22:49:37.056Z"
     },
     {
+      "id": "yupoo-14188135",
+      "name": "Brasileiro Série A",
+      "category": "Menu 2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/14188135?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/brasileiro-serie-a/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/brasileiro-serie-a/image-01.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "brasileiro-serie-a",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "Menu 2"
+      ],
+      "sourceTitle": "Brasileiro Série A",
+      "updatedAt": "2026-10-14T04:57:19.446Z"
+    },
+    {
       "id": "yupoo-219523903",
       "name": "Brazil 10/11 Windbreaker - Yellow",
       "category": "⚽🌍 National Teams",
@@ -87953,6 +89200,38 @@
       ],
       "sourceTitle": "Bulgaria 1986 Home Retro Jersey S-XXL",
       "updatedAt": "2026-10-11T11:27:38.590Z"
+    },
+    {
+      "id": "yupoo-14188154",
+      "name": "Bundesliga",
+      "category": "Menu 2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/14188154?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/bundesliga/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/bundesliga/image-01.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "bundesliga",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "Menu 2"
+      ],
+      "sourceTitle": "Bundesliga",
+      "updatedAt": "2026-10-14T04:57:46.451Z"
     },
     {
       "id": "yupoo-213790880",
@@ -94918,6 +96197,50 @@
       "updatedAt": "2026-10-11T12:43:36.069Z"
     },
     {
+      "id": "yupoo-215949745",
+      "name": "Chelsea Reversible Jacket Windbreaker - Blue & Sky Blue",
+      "category": "💨🧥Windbreaker/Training Top",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/215949745?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/chelsea-reversible-jacket-windbreaker-blue-sky-blue/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/chelsea-reversible-jacket-windbreaker-blue-sky-blue/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/chelsea-reversible-jacket-windbreaker-blue-sky-blue/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/chelsea-reversible-jacket-windbreaker-blue-sky-blue/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/chelsea-reversible-jacket-windbreaker-blue-sky-blue/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/chelsea-reversible-jacket-windbreaker-blue-sky-blue/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/chelsea-reversible-jacket-windbreaker-blue-sky-blue/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/chelsea-reversible-jacket-windbreaker-blue-sky-blue/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/chelsea-reversible-jacket-windbreaker-blue-sky-blue/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/chelsea-reversible-jacket-windbreaker-blue-sky-blue/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/chelsea-reversible-jacket-windbreaker-blue-sky-blue/image-10.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/chelsea-reversible-jacket-windbreaker-blue-sky-blue/image-11.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "chelsea-reversible-jacket-windbreaker-blue-sky-blue",
+      "siteCategory": "training",
+      "team": "Chelsea",
+      "league": "Premier League",
+      "country": "England",
+      "season": "",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "💨🧥Windbreaker/Training Top",
+        "Premier League",
+        "Chelsea"
+      ],
+      "sourceTitle": "Chelsea Reversible Jacket Windbreaker - Blue & Sky Blue S-XXL",
+      "updatedAt": "2026-10-14T05:01:48.643Z"
+    },
+    {
       "id": "yupoo-236110389",
       "name": "Chelsea Terrace Icons Shorts Blue",
       "category": "new season",
@@ -95673,6 +96996,38 @@
       ],
       "sourceTitle": "Chile 2026 Home Women Jersey S-XXL",
       "updatedAt": "2026-10-11T09:24:23.183Z"
+    },
+    {
+      "id": "yupoo-100959061",
+      "name": "Chilean League",
+      "category": "Menu 2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/100959061?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/chilean-league/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/chilean-league/image-01.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "chilean-league",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "Menu 2"
+      ],
+      "sourceTitle": "Chilean League",
+      "updatedAt": "2026-10-14T04:58:22.561Z"
     },
     {
       "id": "yupoo-255628507",
@@ -114317,6 +115672,38 @@
       "updatedAt": "2026-10-12T21:15:00.427Z"
     },
     {
+      "id": "yupoo-83917868",
+      "name": "EREDIVISIE",
+      "category": "Menu 2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/83917868?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/eredivisie/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/eredivisie/image-01.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "eredivisie",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "Menu 2"
+      ],
+      "sourceTitle": "EREDIVISIE",
+      "updatedAt": "2026-10-14T04:59:04.080Z"
+    },
+    {
       "id": "yupoo-238630648",
       "name": "Errea CD Castellón 2526 Retro Style Jersey",
       "category": "new season",
@@ -115000,6 +116387,38 @@
       ],
       "sourceTitle": "Everton 26/27 St. Patrick's Day Jersey S-XXL",
       "updatedAt": "2026-10-13T03:26:25.194Z"
+    },
+    {
+      "id": "yupoo-105173343",
+      "name": "F1",
+      "category": "Menu 2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/105173343?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/f1/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/f1/image-01.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "f1",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "Menu 2"
+      ],
+      "sourceTitle": "F1",
+      "updatedAt": "2026-10-14T04:57:09.107Z"
     },
     {
       "id": "yupoo-236327030",
@@ -122434,6 +123853,50 @@
       "updatedAt": "2026-10-12T22:37:47.932Z"
     },
     {
+      "id": "yupoo-215947766",
+      "name": "Flamengo Reversible Jacket Windbreaker - Red & Cyan",
+      "category": "💨🧥Windbreaker/Training Top",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/215947766?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-reversible-jacket-windbreaker-red-cyan/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-reversible-jacket-windbreaker-red-cyan/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-reversible-jacket-windbreaker-red-cyan/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-reversible-jacket-windbreaker-red-cyan/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-reversible-jacket-windbreaker-red-cyan/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-reversible-jacket-windbreaker-red-cyan/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-reversible-jacket-windbreaker-red-cyan/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-reversible-jacket-windbreaker-red-cyan/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-reversible-jacket-windbreaker-red-cyan/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-reversible-jacket-windbreaker-red-cyan/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-reversible-jacket-windbreaker-red-cyan/image-10.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-reversible-jacket-windbreaker-red-cyan/image-11.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "flamengo-reversible-jacket-windbreaker-red-cyan",
+      "siteCategory": "training",
+      "team": "Flamengo",
+      "league": "Brasileiro Série A",
+      "country": "Brazil",
+      "season": "",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "💨🧥Windbreaker/Training Top",
+        "Brasileiro Série A",
+        "Flamengo"
+      ],
+      "sourceTitle": "Flamengo Reversible Jacket Windbreaker - Red & Cyan S-XXL",
+      "updatedAt": "2026-10-14T05:01:09.036Z"
+    },
+    {
       "id": "yupoo-102400369",
       "name": "Flamengo's third away production video.",
       "category": "Uncategorized album",
@@ -126275,6 +127738,38 @@
       ],
       "sourceTitle": "Fulham 98/99 Home Retro Jersey S-XXL",
       "updatedAt": "2026-10-11T11:25:18.456Z"
+    },
+    {
+      "id": "yupoo-116978082",
+      "name": "GAA",
+      "category": "Menu 2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/116978082?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/gaa/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/gaa/image-01.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "gaa",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "Menu 2"
+      ],
+      "sourceTitle": "GAA",
+      "updatedAt": "2026-10-14T04:56:59.939Z"
     },
     {
       "id": "yupoo-247185553",
@@ -149884,6 +151379,40 @@
       "updatedAt": "2026-10-13T00:37:09.928Z"
     },
     {
+      "id": "yupoo-14188190",
+      "name": "La Liga",
+      "category": "Menu 2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/14188190?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/la-liga/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/la-liga/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/la-liga/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/la-liga/image-03.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "la-liga",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "Menu 2"
+      ],
+      "sourceTitle": "La Liga",
+      "updatedAt": "2026-10-14T04:57:38.484Z"
+    },
+    {
       "id": "yupoo-224149403",
       "name": "Las Palmas 00/01 Home Retro Jersey",
       "category": "Retro football shirt",
@@ -152064,6 +153593,70 @@
       ],
       "sourceTitle": "Leyard Victory 25/26 Home Kids Size: 16-28",
       "updatedAt": "2026-10-13T07:00:49.330Z"
+    },
+    {
+      "id": "yupoo-83917926",
+      "name": "LIGA MX",
+      "category": "Menu 2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/83917926?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/liga-mx/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/liga-mx/image-01.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "liga-mx",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "Menu 2"
+      ],
+      "sourceTitle": "LIGA MX",
+      "updatedAt": "2026-10-14T04:59:12.722Z"
+    },
+    {
+      "id": "yupoo-14188184",
+      "name": "LIGUE 1",
+      "category": "Menu 2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/14188184?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ligue-1/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/ligue-1/image-01.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "ligue-1",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "Menu 2"
+      ],
+      "sourceTitle": "LIGUE 1",
+      "updatedAt": "2026-10-14T04:58:04.501Z"
     },
     {
       "id": "yupoo-215045982",
@@ -155620,6 +157213,50 @@
       ],
       "sourceTitle": "Manchester City 97/98 Away Long Sleeve Retro Jersey S-XXL",
       "updatedAt": "2026-10-11T14:52:13.959Z"
+    },
+    {
+      "id": "yupoo-215949770",
+      "name": "Manchester City Reversible Jacket Windbreaker - White & Mint Green",
+      "category": "💨🧥Windbreaker/Training Top",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/215949770?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-city-reversible-jacket-windbreaker-white-mint-green/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-city-reversible-jacket-windbreaker-white-mint-green/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-city-reversible-jacket-windbreaker-white-mint-green/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-city-reversible-jacket-windbreaker-white-mint-green/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-city-reversible-jacket-windbreaker-white-mint-green/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-city-reversible-jacket-windbreaker-white-mint-green/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-city-reversible-jacket-windbreaker-white-mint-green/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-city-reversible-jacket-windbreaker-white-mint-green/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-city-reversible-jacket-windbreaker-white-mint-green/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-city-reversible-jacket-windbreaker-white-mint-green/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-city-reversible-jacket-windbreaker-white-mint-green/image-10.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-city-reversible-jacket-windbreaker-white-mint-green/image-11.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "manchester-city-reversible-jacket-windbreaker-white-mint-green",
+      "siteCategory": "training",
+      "team": "Manchester City",
+      "league": "Premier League",
+      "country": "England",
+      "season": "",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "💨🧥Windbreaker/Training Top",
+        "Premier League",
+        "Manchester City"
+      ],
+      "sourceTitle": "Manchester City Reversible Jacket Windbreaker - White & Mint Green S-XXL",
+      "updatedAt": "2026-10-14T05:04:15.753Z"
     },
     {
       "id": "yupoo-247788130",
@@ -162743,6 +164380,94 @@
       "updatedAt": "2026-10-13T04:45:07.417Z"
     },
     {
+      "id": "yupoo-215949768",
+      "name": "Manchester United Reversible Jacket Windbreaker - Blue & B Army Green",
+      "category": "💨🧥Windbreaker/Training Top",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/215949768?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-united-reversible-jacket-windbreaker-blue-b-army-green/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-united-reversible-jacket-windbreaker-blue-b-army-green/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-united-reversible-jacket-windbreaker-blue-b-army-green/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-united-reversible-jacket-windbreaker-blue-b-army-green/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-united-reversible-jacket-windbreaker-blue-b-army-green/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-united-reversible-jacket-windbreaker-blue-b-army-green/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-united-reversible-jacket-windbreaker-blue-b-army-green/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-united-reversible-jacket-windbreaker-blue-b-army-green/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-united-reversible-jacket-windbreaker-blue-b-army-green/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-united-reversible-jacket-windbreaker-blue-b-army-green/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-united-reversible-jacket-windbreaker-blue-b-army-green/image-10.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-united-reversible-jacket-windbreaker-blue-b-army-green/image-11.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "manchester-united-reversible-jacket-windbreaker-blue-b-army-green",
+      "siteCategory": "training",
+      "team": "Manchester United",
+      "league": "Premier League",
+      "country": "England",
+      "season": "",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "💨🧥Windbreaker/Training Top",
+        "Premier League",
+        "M-U"
+      ],
+      "sourceTitle": "M-U Reversible Jacket Windbreaker - Blue & B Army Green S-XXL",
+      "updatedAt": "2026-10-14T05:03:55.668Z"
+    },
+    {
+      "id": "yupoo-215946895",
+      "name": "Manchester United Reversible Jacket Windbreaker - White & Blue",
+      "category": "💨🧥Windbreaker/Training Top",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/215946895?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-united-reversible-jacket-windbreaker-white-blue/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-united-reversible-jacket-windbreaker-white-blue/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-united-reversible-jacket-windbreaker-white-blue/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-united-reversible-jacket-windbreaker-white-blue/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-united-reversible-jacket-windbreaker-white-blue/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-united-reversible-jacket-windbreaker-white-blue/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-united-reversible-jacket-windbreaker-white-blue/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-united-reversible-jacket-windbreaker-white-blue/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-united-reversible-jacket-windbreaker-white-blue/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-united-reversible-jacket-windbreaker-white-blue/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-united-reversible-jacket-windbreaker-white-blue/image-10.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-united-reversible-jacket-windbreaker-white-blue/image-11.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "manchester-united-reversible-jacket-windbreaker-white-blue",
+      "siteCategory": "training",
+      "team": "Manchester United",
+      "league": "Premier League",
+      "country": "England",
+      "season": "",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "💨🧥Windbreaker/Training Top",
+        "Premier League",
+        "M-U"
+      ],
+      "sourceTitle": "M-U Reversible Jacket Windbreaker - White & Blue S-XXL",
+      "updatedAt": "2026-10-14T05:00:31.189Z"
+    },
+    {
       "id": "yupoo-237393088",
       "name": "Manchester United Terrace Icons Long Sleeve T-Shirt Red",
       "category": "⚽Long sleeve shirt",
@@ -168034,6 +169759,38 @@
       "updatedAt": "2026-10-13T00:02:02.599Z"
     },
     {
+      "id": "yupoo-81151173",
+      "name": "MLS",
+      "category": "Menu 2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/81151173?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/mls/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/mls/image-01.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "mls",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "Menu 2"
+      ],
+      "sourceTitle": "MLS",
+      "updatedAt": "2026-10-14T04:58:44.685Z"
+    },
+    {
       "id": "yupoo-216212958",
       "name": "Monaco 25/26 Home Jersey",
       "category": "new season",
@@ -171753,6 +173510,39 @@
       "updatedAt": "2026-10-13T01:46:25.106Z"
     },
     {
+      "id": "yupoo-105163725",
+      "name": "NBA",
+      "category": "Menu 2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/105163725?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/nba/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/nba/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/nba/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "nba",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "Menu 2"
+      ],
+      "sourceTitle": "NBA",
+      "updatedAt": "2026-10-14T04:56:29.685Z"
+    },
+    {
       "id": "yupoo-258144176",
       "name": "Necaxa 26/27 Away Jersey",
       "category": "Uncategorized album",
@@ -173980,6 +175770,50 @@
       "updatedAt": "2026-10-11T14:47:45.706Z"
     },
     {
+      "id": "yupoo-215946889",
+      "name": "Newcastle United Reversible Jacket Windbreaker - Army Green & Yellow",
+      "category": "💨🧥Windbreaker/Training Top",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/215946889?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/newcastle-united-reversible-jacket-windbreaker-army-green-yellow/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/newcastle-united-reversible-jacket-windbreaker-army-green-yellow/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/newcastle-united-reversible-jacket-windbreaker-army-green-yellow/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/newcastle-united-reversible-jacket-windbreaker-army-green-yellow/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/newcastle-united-reversible-jacket-windbreaker-army-green-yellow/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/newcastle-united-reversible-jacket-windbreaker-army-green-yellow/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/newcastle-united-reversible-jacket-windbreaker-army-green-yellow/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/newcastle-united-reversible-jacket-windbreaker-army-green-yellow/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/newcastle-united-reversible-jacket-windbreaker-army-green-yellow/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/newcastle-united-reversible-jacket-windbreaker-army-green-yellow/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/newcastle-united-reversible-jacket-windbreaker-army-green-yellow/image-10.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/newcastle-united-reversible-jacket-windbreaker-army-green-yellow/image-11.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "newcastle-united-reversible-jacket-windbreaker-army-green-yellow",
+      "siteCategory": "training",
+      "team": "Newcastle United",
+      "league": "Premier League",
+      "country": "England",
+      "season": "",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "💨🧥Windbreaker/Training Top",
+        "Premier League",
+        "Newcastle United"
+      ],
+      "sourceTitle": "Newcastle United Reversible Jacket Windbreaker - Army Green & Yellow S-XXL",
+      "updatedAt": "2026-10-14T05:00:13.096Z"
+    },
+    {
       "id": "yupoo-236113189",
       "name": "Newcastle United Terrace Icons Long Sleeve T-Shirt Blue",
       "category": "⚽Long sleeve shirt",
@@ -174263,6 +176097,40 @@
       ],
       "sourceTitle": "Neymar Jr 25/26 Player Version Jersey S-3XL",
       "updatedAt": "2026-10-13T22:29:17.254Z"
+    },
+    {
+      "id": "yupoo-108976058",
+      "name": "NFL-NHL",
+      "category": "Menu 2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/108976058?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/nfl-nhl/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/nfl-nhl/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/nfl-nhl/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/nfl-nhl/image-03.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "nfl-nhl",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "Menu 2"
+      ],
+      "sourceTitle": "NFL-NHL",
+      "updatedAt": "2026-10-14T04:56:39.643Z"
     },
     {
       "id": "yupoo-257639078",
@@ -175065,6 +176933,49 @@
       "updatedAt": "2026-10-11T10:56:37.596Z"
     },
     {
+      "id": "yupoo-215949757",
+      "name": "Norwich City Reversible Jacket Windbreaker - Blue & Yellow",
+      "category": "💨🧥Windbreaker/Training Top",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/215949757?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/norwich-city-reversible-jacket-windbreaker-blue-yellow/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/norwich-city-reversible-jacket-windbreaker-blue-yellow/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/norwich-city-reversible-jacket-windbreaker-blue-yellow/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/norwich-city-reversible-jacket-windbreaker-blue-yellow/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/norwich-city-reversible-jacket-windbreaker-blue-yellow/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/norwich-city-reversible-jacket-windbreaker-blue-yellow/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/norwich-city-reversible-jacket-windbreaker-blue-yellow/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/norwich-city-reversible-jacket-windbreaker-blue-yellow/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/norwich-city-reversible-jacket-windbreaker-blue-yellow/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/norwich-city-reversible-jacket-windbreaker-blue-yellow/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/norwich-city-reversible-jacket-windbreaker-blue-yellow/image-10.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/norwich-city-reversible-jacket-windbreaker-blue-yellow/image-11.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "norwich-city-reversible-jacket-windbreaker-blue-yellow",
+      "siteCategory": "training",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "💨🧥Windbreaker/Training Top",
+        "Premier League"
+      ],
+      "sourceTitle": "Norwich City Reversible Jacket Windbreaker - Blue & Yellow S-XXL",
+      "updatedAt": "2026-10-14T04:59:31.504Z"
+    },
+    {
       "id": "yupoo-242504645",
       "name": "Notice to European Customers",
       "category": "📢 New Notice 2-Star 🏆 Large Stock Available",
@@ -175706,6 +177617,38 @@
       ],
       "sourceTitle": "Nottingham Forest 82/84 Away Retro Jersey S-XXL",
       "updatedAt": "2026-10-11T13:00:01.072Z"
+    },
+    {
+      "id": "yupoo-221252272",
+      "name": "NRL",
+      "category": "Menu 2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/221252272?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/nrl/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/nrl/image-01.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "nrl",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "Menu 2"
+      ],
+      "sourceTitle": "NRL",
+      "updatedAt": "2026-10-14T04:56:20.431Z"
     },
     {
       "id": "yupoo-238618390",
@@ -188433,6 +190376,38 @@
       "updatedAt": "2026-10-12T21:32:12.808Z"
     },
     {
+      "id": "yupoo-14188165",
+      "name": "Premier League",
+      "category": "Menu 2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/14188165?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/premier-league/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/premier-league/image-01.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "premier-league",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "Menu 2"
+      ],
+      "sourceTitle": "Premier League",
+      "updatedAt": "2026-10-14T04:57:28.399Z"
+    },
+    {
       "id": "yupoo-249065757",
       "name": "Preston 26/27 Home Jersey",
       "category": "new season",
@@ -188473,6 +190448,38 @@
       ],
       "sourceTitle": "Preston 26/27 Home Jersey S-4XL",
       "updatedAt": "2026-10-13T01:10:08.225Z"
+    },
+    {
+      "id": "yupoo-83919002",
+      "name": "Primeira Liga",
+      "category": "Menu 2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/83919002?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/primeira-liga/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/primeira-liga/image-01.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "primeira-liga",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "Menu 2"
+      ],
+      "sourceTitle": "Primeira Liga",
+      "updatedAt": "2026-10-14T04:58:13.474Z"
     },
     {
       "id": "yupoo-213002722",
@@ -191263,6 +193270,50 @@
       ],
       "sourceTitle": "PSG Collaboration Windbreaker - White S-XXL",
       "updatedAt": "2026-10-13T05:35:08.375Z"
+    },
+    {
+      "id": "yupoo-215949755",
+      "name": "PSG Reversible Jacket Windbreaker - White & Brown",
+      "category": "💨🧥Windbreaker/Training Top",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/215949755?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/psg-reversible-jacket-windbreaker-white-brown/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/psg-reversible-jacket-windbreaker-white-brown/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/psg-reversible-jacket-windbreaker-white-brown/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/psg-reversible-jacket-windbreaker-white-brown/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/psg-reversible-jacket-windbreaker-white-brown/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/psg-reversible-jacket-windbreaker-white-brown/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/psg-reversible-jacket-windbreaker-white-brown/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/psg-reversible-jacket-windbreaker-white-brown/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/psg-reversible-jacket-windbreaker-white-brown/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/psg-reversible-jacket-windbreaker-white-brown/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/psg-reversible-jacket-windbreaker-white-brown/image-10.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/psg-reversible-jacket-windbreaker-white-brown/image-11.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "psg-reversible-jacket-windbreaker-white-brown",
+      "siteCategory": "training",
+      "team": "Paris Saint-Germain",
+      "league": "Ligue 1",
+      "country": "France",
+      "season": "",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "💨🧥Windbreaker/Training Top",
+        "Ligue 1",
+        "PSG"
+      ],
+      "sourceTitle": "PSG Reversible Jacket Windbreaker - White & Brown S-XXL",
+      "updatedAt": "2026-10-14T05:02:46.375Z"
     },
     {
       "id": "yupoo-252957932",
@@ -207003,6 +209054,94 @@
       "updatedAt": "2026-10-13T03:51:44.938Z"
     },
     {
+      "id": "yupoo-215949775",
+      "name": "Real Madrid Reversible Jacket Windbreaker - Beige & Blue",
+      "category": "💨🧥Windbreaker/Training Top",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/215949775?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-reversible-jacket-windbreaker-beige-blue/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-reversible-jacket-windbreaker-beige-blue/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-reversible-jacket-windbreaker-beige-blue/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-reversible-jacket-windbreaker-beige-blue/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-reversible-jacket-windbreaker-beige-blue/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-reversible-jacket-windbreaker-beige-blue/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-reversible-jacket-windbreaker-beige-blue/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-reversible-jacket-windbreaker-beige-blue/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-reversible-jacket-windbreaker-beige-blue/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-reversible-jacket-windbreaker-beige-blue/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-reversible-jacket-windbreaker-beige-blue/image-10.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-reversible-jacket-windbreaker-beige-blue/image-11.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "real-madrid-reversible-jacket-windbreaker-beige-blue",
+      "siteCategory": "training",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "💨🧥Windbreaker/Training Top",
+        "La Liga",
+        "Real Madrid"
+      ],
+      "sourceTitle": "Real Madrid Reversible Jacket Windbreaker - Beige & Blue S-XXL",
+      "updatedAt": "2026-10-14T05:04:57.083Z"
+    },
+    {
+      "id": "yupoo-215949765",
+      "name": "Real Madrid Reversible Jacket Windbreaker - Beige & Red",
+      "category": "💨🧥Windbreaker/Training Top",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/215949765?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-reversible-jacket-windbreaker-beige-red/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-reversible-jacket-windbreaker-beige-red/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-reversible-jacket-windbreaker-beige-red/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-reversible-jacket-windbreaker-beige-red/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-reversible-jacket-windbreaker-beige-red/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-reversible-jacket-windbreaker-beige-red/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-reversible-jacket-windbreaker-beige-red/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-reversible-jacket-windbreaker-beige-red/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-reversible-jacket-windbreaker-beige-red/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-reversible-jacket-windbreaker-beige-red/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-reversible-jacket-windbreaker-beige-red/image-10.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-reversible-jacket-windbreaker-beige-red/image-11.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "real-madrid-reversible-jacket-windbreaker-beige-red",
+      "siteCategory": "training",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "💨🧥Windbreaker/Training Top",
+        "La Liga",
+        "Real Madrid"
+      ],
+      "sourceTitle": "Real Madrid Reversible Jacket Windbreaker - Beige & Red S-XXL",
+      "updatedAt": "2026-10-14T05:03:34.868Z"
+    },
+    {
       "id": "yupoo-224170054",
       "name": "Real Madrid Reversible Jacket Windbreaker - Blue & Yellow",
       "category": "new season",
@@ -207046,6 +209185,94 @@
       ],
       "sourceTitle": "Real Madrid Reversible Jacket Windbreaker - Blue & Yellow S-XXL",
       "updatedAt": "2026-10-13T04:45:46.261Z"
+    },
+    {
+      "id": "yupoo-215949752",
+      "name": "Real Madrid Reversible Jacket Windbreaker - Navy & Sky Blue",
+      "category": "💨🧥Windbreaker/Training Top",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/215949752?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-reversible-jacket-windbreaker-navy-sky-blue/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-reversible-jacket-windbreaker-navy-sky-blue/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-reversible-jacket-windbreaker-navy-sky-blue/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-reversible-jacket-windbreaker-navy-sky-blue/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-reversible-jacket-windbreaker-navy-sky-blue/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-reversible-jacket-windbreaker-navy-sky-blue/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-reversible-jacket-windbreaker-navy-sky-blue/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-reversible-jacket-windbreaker-navy-sky-blue/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-reversible-jacket-windbreaker-navy-sky-blue/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-reversible-jacket-windbreaker-navy-sky-blue/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-reversible-jacket-windbreaker-navy-sky-blue/image-10.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-reversible-jacket-windbreaker-navy-sky-blue/image-11.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "real-madrid-reversible-jacket-windbreaker-navy-sky-blue",
+      "siteCategory": "training",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "💨🧥Windbreaker/Training Top",
+        "La Liga",
+        "Real Madrid"
+      ],
+      "sourceTitle": "Real Madrid Reversible Jacket Windbreaker - Navy & Sky Blue S-XXL",
+      "updatedAt": "2026-10-14T05:02:07.301Z"
+    },
+    {
+      "id": "yupoo-215947767",
+      "name": "Real Madrid Reversible Jacket Windbreaker - Red & Heiss",
+      "category": "💨🧥Windbreaker/Training Top",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/215947767?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-reversible-jacket-windbreaker-red-heiss/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-reversible-jacket-windbreaker-red-heiss/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-reversible-jacket-windbreaker-red-heiss/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-reversible-jacket-windbreaker-red-heiss/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-reversible-jacket-windbreaker-red-heiss/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-reversible-jacket-windbreaker-red-heiss/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-reversible-jacket-windbreaker-red-heiss/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-reversible-jacket-windbreaker-red-heiss/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-reversible-jacket-windbreaker-red-heiss/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-reversible-jacket-windbreaker-red-heiss/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-reversible-jacket-windbreaker-red-heiss/image-10.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-reversible-jacket-windbreaker-red-heiss/image-11.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "real-madrid-reversible-jacket-windbreaker-red-heiss",
+      "siteCategory": "training",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "💨🧥Windbreaker/Training Top",
+        "La Liga",
+        "Real Madrid"
+      ],
+      "sourceTitle": "Real Madrid Reversible Jacket Windbreaker - Red & Heiss S-XXL",
+      "updatedAt": "2026-10-14T05:01:32.171Z"
     },
     {
       "id": "yupoo-237393483",
@@ -212528,6 +214755,47 @@
       "updatedAt": "2026-10-11T13:18:40.576Z"
     },
     {
+      "id": "yupoo-73509715",
+      "name": "Retro 19/20 PSG third away",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/73509715?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-19-20-psg-third-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-19-20-psg-third-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-19-20-psg-third-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-19-20-psg-third-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-19-20-psg-third-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-19-20-psg-third-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-19-20-psg-third-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-19-20-psg-third-away/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-19-20-psg-third-away/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-19-20-psg-third-away",
+      "siteCategory": "retro",
+      "team": "Paris Saint-Germain",
+      "league": "Ligue 1",
+      "country": "France",
+      "season": "2019/20",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "new season",
+        "Ligue 1",
+        "PSG"
+      ],
+      "sourceTitle": "Retro 19/20 PSG third away",
+      "updatedAt": "2026-10-14T04:55:51.570Z"
+    },
+    {
       "id": "yupoo-190510755",
       "name": "Retro 1970 Mexico home",
       "category": "Retro football shirt",
@@ -214553,6 +216821,50 @@
       ],
       "sourceTitle": "Retro 1999 Flamengo home S-XXL",
       "updatedAt": "2026-10-11T13:19:41.049Z"
+    },
+    {
+      "id": "yupoo-78823128",
+      "name": "Retro 20/21 Inter home",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/78823128?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-20-21-inter-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-20-21-inter-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-20-21-inter-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-20-21-inter-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-20-21-inter-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-20-21-inter-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-20-21-inter-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-20-21-inter-home/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-20-21-inter-home/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-20-21-inter-home/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-20-21-inter-home/image-10.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-20-21-inter-home/image-11.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-20-21-inter-home",
+      "siteCategory": "retro",
+      "team": "Inter",
+      "league": "Serie A",
+      "country": "Italy",
+      "season": "2020/21",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "new season",
+        "Serie A",
+        "Inter Milan"
+      ],
+      "sourceTitle": "Retro 20/21 Inter home S-XXL",
+      "updatedAt": "2026-10-14T04:55:33.241Z"
     },
     {
       "id": "yupoo-108854445",
@@ -254111,6 +256423,47 @@
       "updatedAt": "2026-10-11T17:18:22.551Z"
     },
     {
+      "id": "yupoo-67179334",
+      "name": "Retro19/20 Barcelona home",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/67179334?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro19-20-barcelona-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro19-20-barcelona-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro19-20-barcelona-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro19-20-barcelona-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro19-20-barcelona-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro19-20-barcelona-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro19-20-barcelona-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro19-20-barcelona-home/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro19-20-barcelona-home/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro19-20-barcelona-home",
+      "siteCategory": "retro",
+      "team": "FC Barcelona",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2019/20",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "new season",
+        "La Liga",
+        "Barcelona"
+      ],
+      "sourceTitle": "Retro19/20 Barcelona home",
+      "updatedAt": "2026-10-14T04:56:10.279Z"
+    },
+    {
       "id": "yupoo-84065052",
       "name": "RetroM-U 1983 away",
       "category": "Retro football shirt",
@@ -255915,6 +258268,50 @@
       "updatedAt": "2026-10-11T11:37:25.535Z"
     },
     {
+      "id": "yupoo-215946886",
+      "name": "Roma Reversible Jacket Windbreaker - Red & Beige",
+      "category": "💨🧥Windbreaker/Training Top",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/215946886?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/roma-reversible-jacket-windbreaker-red-beige/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/roma-reversible-jacket-windbreaker-red-beige/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/roma-reversible-jacket-windbreaker-red-beige/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/roma-reversible-jacket-windbreaker-red-beige/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/roma-reversible-jacket-windbreaker-red-beige/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/roma-reversible-jacket-windbreaker-red-beige/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/roma-reversible-jacket-windbreaker-red-beige/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/roma-reversible-jacket-windbreaker-red-beige/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/roma-reversible-jacket-windbreaker-red-beige/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/roma-reversible-jacket-windbreaker-red-beige/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/roma-reversible-jacket-windbreaker-red-beige/image-10.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/roma-reversible-jacket-windbreaker-red-beige/image-11.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "roma-reversible-jacket-windbreaker-red-beige",
+      "siteCategory": "training",
+      "team": "AS Roma",
+      "league": "Serie A",
+      "country": "Italy",
+      "season": "",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "💨🧥Windbreaker/Training Top",
+        "Serie A",
+        "Roma"
+      ],
+      "sourceTitle": "Roma Reversible Jacket Windbreaker - Red & Beige S-XXL",
+      "updatedAt": "2026-10-14T04:59:52.579Z"
+    },
+    {
       "id": "yupoo-237393522",
       "name": "Roma Terrace Icons Long Sleeve T-Shirt Orange",
       "category": "⚽Long sleeve shirt",
@@ -256353,6 +258750,38 @@
       ],
       "sourceTitle": "Rot-Weiss Essen 100th Anniversary Edition Jersey S-4XL",
       "updatedAt": "2026-10-13T02:16:17.082Z"
+    },
+    {
+      "id": "yupoo-83918195",
+      "name": "SAF",
+      "category": "Menu 2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/83918195?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/saf/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/saf/image-01.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "saf",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "Menu 2"
+      ],
+      "sourceTitle": "SAF",
+      "updatedAt": "2026-10-14T04:58:56.550Z"
     },
     {
       "id": "yupoo-226671644",
@@ -261441,6 +263870,38 @@
       "updatedAt": "2026-10-11T15:52:21.300Z"
     },
     {
+      "id": "yupoo-91946433",
+      "name": "Scottish League",
+      "category": "Menu 2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/91946433?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/scottish-league/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/scottish-league/image-01.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "scottish-league",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "Menu 2"
+      ],
+      "sourceTitle": "Scottish League",
+      "updatedAt": "2026-10-14T04:58:33.489Z"
+    },
+    {
       "id": "yupoo-238632901",
       "name": "Scuderia Ferrari 2026 F1 Reissue T-shirt S-5XL",
       "category": "newF1",
@@ -262275,6 +264736,38 @@
       ],
       "sourceTitle": "Senegal Terrace Icons T-Shirt White S-XXL",
       "updatedAt": "2026-10-12T21:12:50.827Z"
+    },
+    {
+      "id": "yupoo-14188159",
+      "name": "Serie A",
+      "category": "Menu 2",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/14188159?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/serie-a/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/serie-a/image-01.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "serie-a",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "Menu 2"
+      ],
+      "sourceTitle": "Serie A",
+      "updatedAt": "2026-10-14T04:57:54.846Z"
     },
     {
       "id": "yupoo-257639712",
@@ -275189,6 +277682,50 @@
       ],
       "sourceTitle": "Tigers UANL 26/27 Home Women's Jersey S-XXL",
       "updatedAt": "2026-10-12T22:39:24.074Z"
+    },
+    {
+      "id": "yupoo-215949786",
+      "name": "Tigres Reversible Jacket Windbreaker - Beige & Blue",
+      "category": "💨🧥Windbreaker/Training Top",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/215949786?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/tigres-reversible-jacket-windbreaker-beige-blue/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/tigres-reversible-jacket-windbreaker-beige-blue/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/tigres-reversible-jacket-windbreaker-beige-blue/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/tigres-reversible-jacket-windbreaker-beige-blue/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/tigres-reversible-jacket-windbreaker-beige-blue/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/tigres-reversible-jacket-windbreaker-beige-blue/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/tigres-reversible-jacket-windbreaker-beige-blue/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/tigres-reversible-jacket-windbreaker-beige-blue/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/tigres-reversible-jacket-windbreaker-beige-blue/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/tigres-reversible-jacket-windbreaker-beige-blue/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/tigres-reversible-jacket-windbreaker-beige-blue/image-10.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/tigres-reversible-jacket-windbreaker-beige-blue/image-11.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "tigres-reversible-jacket-windbreaker-beige-blue",
+      "siteCategory": "training",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "💨🧥Windbreaker/Training Top",
+        "LIGA MX",
+        "Tigres UANL"
+      ],
+      "sourceTitle": "Tigres Reversible Jacket Windbreaker - Beige & Blue S-XXL",
+      "updatedAt": "2026-10-14T05:05:20.104Z"
     },
     {
       "id": "yupoo-227575886",
