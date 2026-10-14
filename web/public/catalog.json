@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-14T01:40:37.183Z",
+  "generatedAt": "2026-10-14T01:59:00.053Z",
   "source": {
     "name": "Supplier catalogue",
     "url": "https://minkang.x.yupoo.com/albums"
   },
-  "count": 6741,
+  "count": 6788,
   "items": [
     {
       "id": "yupoo-231422616",
@@ -3128,6 +3128,45 @@
       "updatedAt": "2026-10-14T01:33:48.218Z"
     },
     {
+      "id": "yupoo-169091724",
+      "name": "2024 Argentina pre-match uniform",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/169091724?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-argentina-pre-match-uniform/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-argentina-pre-match-uniform/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-argentina-pre-match-uniform/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-argentina-pre-match-uniform/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-argentina-pre-match-uniform/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-argentina-pre-match-uniform/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-argentina-pre-match-uniform/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-argentina-pre-match-uniform/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-argentina-pre-match-uniform/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "2024-argentina-pre-match-uniform",
+      "siteCategory": "training",
+      "team": "Argentina",
+      "league": "National teams",
+      "country": "Argentina",
+      "season": "2024",
+      "type": "Training",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season"
+      ],
+      "sourceTitle": "2024 Argentina pre-match uniform S-4XL",
+      "updatedAt": "2026-10-14T01:55:43.171Z"
+    },
+    {
       "id": "yupoo-160609341",
       "name": "2024 Brazil Away",
       "category": "Brazil team column",
@@ -3524,6 +3563,45 @@
       ],
       "sourceTitle": "2024 France Home S-4XL",
       "updatedAt": "2026-10-12T21:32:46.821Z"
+    },
+    {
+      "id": "yupoo-171879646",
+      "name": "2024 German Special Edition",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/171879646?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-german-special-edition/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-german-special-edition/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-german-special-edition/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-german-special-edition/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-german-special-edition/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-german-special-edition/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-german-special-edition/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-german-special-edition/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-german-special-edition/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "2024-german-special-edition",
+      "siteCategory": "national",
+      "team": "Germany",
+      "league": "National teams",
+      "country": "Germany",
+      "season": "2024",
+      "type": "Shirt",
+      "variant": "Special edition",
+      "sourceCategories": [
+        "new season"
+      ],
+      "sourceTitle": "2024 German Special Edition S-XXL",
+      "updatedAt": "2026-10-14T01:48:54.185Z"
     },
     {
       "id": "yupoo-160609333",
@@ -4159,7 +4237,7 @@
     {
       "id": "yupoo-170004970",
       "name": "2024 Kids Brazil Special Edition",
-      "category": "Brazil team column",
+      "category": "new season",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/170004970?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-kids-brazil-special-edition/cover.webp",
       "images": [
@@ -4191,15 +4269,17 @@
       "type": "Shirt",
       "variant": "Kids",
       "sourceCategories": [
-        "Brazil team column"
+        "new season",
+        "Brazil team column",
+        "⚽👦🏻kids kit size：16-28"
       ],
       "sourceTitle": "2024 Kids Brazil Special Edition Size: 16-28",
-      "updatedAt": "2026-10-11T00:25:40.933Z"
+      "updatedAt": "2026-10-14T01:51:57.031Z"
     },
     {
       "id": "yupoo-170004938",
       "name": "2024 Kids Brazil Special Edition",
-      "category": "Brazil team column",
+      "category": "new season",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/170004938?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-kids-brazil-special-edition-2/cover.webp",
       "images": [
@@ -4230,15 +4310,17 @@
       "type": "Shirt",
       "variant": "Kids",
       "sourceCategories": [
-        "Brazil team column"
+        "new season",
+        "Brazil team column",
+        "⚽👦🏻kids kit size：16-28"
       ],
       "sourceTitle": "2024 Kids Brazil Special Edition Size: 16-28",
-      "updatedAt": "2026-10-11T00:25:54.540Z"
+      "updatedAt": "2026-10-14T01:52:05.933Z"
     },
     {
       "id": "yupoo-170004912",
       "name": "2024 Kids Brazil Special Edition",
-      "category": "Brazil team column",
+      "category": "new season",
       "sourceUrl": "https://minkang.x.yupoo.com/albums/170004912?uid=1",
       "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-kids-brazil-special-edition-3/cover.webp",
       "images": [
@@ -4269,10 +4351,12 @@
       "type": "Shirt",
       "variant": "Kids",
       "sourceCategories": [
-        "Brazil team column"
+        "new season",
+        "Brazil team column",
+        "⚽👦🏻kids kit size：16-28"
       ],
       "sourceTitle": "2024 Kids Brazil Special Edition Size: 16-28",
-      "updatedAt": "2026-10-11T00:26:34.278Z"
+      "updatedAt": "2026-10-14T01:52:14.677Z"
     },
     {
       "id": "yupoo-213148440",
@@ -4590,6 +4674,196 @@
       ],
       "sourceTitle": "2024 polo F1 Formula One S-5XL",
       "updatedAt": "2026-10-11T10:02:14.980Z"
+    },
+    {
+      "id": "yupoo-169091753",
+      "name": "2024 Portugal Goalkeeper Blue",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/169091753?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-portugal-goalkeeper-blue/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-portugal-goalkeeper-blue/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-portugal-goalkeeper-blue/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-portugal-goalkeeper-blue/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-portugal-goalkeeper-blue/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-portugal-goalkeeper-blue/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-portugal-goalkeeper-blue/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-portugal-goalkeeper-blue/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-portugal-goalkeeper-blue/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-portugal-goalkeeper-blue/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "2024-portugal-goalkeeper-blue",
+      "siteCategory": "national",
+      "team": "Portugal",
+      "league": "National teams",
+      "country": "Portugal",
+      "season": "2024",
+      "type": "Shirt",
+      "variant": "Goalkeeper",
+      "sourceCategories": [
+        "new season"
+      ],
+      "sourceTitle": "2024 Portugal Goalkeeper Blue S-XXL",
+      "updatedAt": "2026-10-14T01:54:53.511Z"
+    },
+    {
+      "id": "yupoo-169091743",
+      "name": "2024 Portugal Training Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/169091743?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-portugal-training-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-portugal-training-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-portugal-training-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-portugal-training-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-portugal-training-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-portugal-training-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-portugal-training-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-portugal-training-jersey/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-portugal-training-jersey/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "2024-portugal-training-jersey",
+      "siteCategory": "training",
+      "team": "Portugal",
+      "league": "National teams",
+      "country": "Portugal",
+      "season": "2024",
+      "type": "Training",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season"
+      ],
+      "sourceTitle": "2024 Portugal Training Jersey S-XXL",
+      "updatedAt": "2026-10-14T01:55:13.718Z"
+    },
+    {
+      "id": "yupoo-169375772",
+      "name": "2024 Spain Home",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/169375772?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-spain-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-spain-home/image-01.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "2024-spain-home",
+      "siteCategory": "national",
+      "team": "Spain",
+      "league": "National teams",
+      "country": "Spain",
+      "season": "2024",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season"
+      ],
+      "sourceTitle": "2024 Spain Home",
+      "updatedAt": "2026-10-14T01:53:59.373Z"
+    },
+    {
+      "id": "yupoo-168820785",
+      "name": "2024 Uruguay Away",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/168820785?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-uruguay-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-uruguay-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-uruguay-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-uruguay-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-uruguay-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-uruguay-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-uruguay-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-uruguay-away/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-uruguay-away/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-uruguay-away/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "2024-uruguay-away",
+      "siteCategory": "national",
+      "team": "Uruguay",
+      "league": "National teams",
+      "country": "Uruguay",
+      "season": "2024",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season"
+      ],
+      "sourceTitle": "2024 Uruguay Away S-4XL",
+      "updatedAt": "2026-10-14T01:56:12.893Z"
+    },
+    {
+      "id": "yupoo-168820757",
+      "name": "2024 Uruguay Home",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/168820757?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-uruguay-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-uruguay-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-uruguay-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-uruguay-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-uruguay-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-uruguay-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-uruguay-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-uruguay-home/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-uruguay-home/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "2024-uruguay-home",
+      "siteCategory": "national",
+      "team": "Uruguay",
+      "league": "National teams",
+      "country": "Uruguay",
+      "season": "2024",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season"
+      ],
+      "sourceTitle": "2024 Uruguay Home S-4XL",
+      "updatedAt": "2026-10-14T01:56:54.212Z"
     },
     {
       "id": "yupoo-181124652",
@@ -8948,6 +9222,40 @@
       "updatedAt": "2026-10-14T00:16:30.792Z"
     },
     {
+      "id": "yupoo-175045225",
+      "name": "24/25 Barcelona Away",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/175045225?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-barcelona-away-3/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-barcelona-away-3/image-01.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "24-25-barcelona-away-3",
+      "siteCategory": "club",
+      "team": "FC Barcelona",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2024/25",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "La Liga",
+        "Barcelona"
+      ],
+      "sourceTitle": "24/25 Barcelona Away S-4XL",
+      "updatedAt": "2026-10-14T01:44:58.748Z"
+    },
+    {
       "id": "yupoo-197163883",
       "name": "24/25 Barcelona Home",
       "category": "new season",
@@ -8988,6 +9296,247 @@
       ],
       "sourceTitle": "24/25 Barcelona Home S-4XL",
       "updatedAt": "2026-10-14T00:10:46.043Z"
+    },
+    {
+      "id": "yupoo-173977261",
+      "name": "24/25 Barcelona Home",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/173977261?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-barcelona-home-2/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-barcelona-home-2/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-barcelona-home-2/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-barcelona-home-2/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-barcelona-home-2/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-barcelona-home-2/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-barcelona-home-2/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-barcelona-home-2/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-barcelona-home-2/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "24-25-barcelona-home-2",
+      "siteCategory": "club",
+      "team": "FC Barcelona",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2024/25",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "La Liga",
+        "Barcelona"
+      ],
+      "sourceTitle": "24/25 Barcelona Home S-4XL",
+      "updatedAt": "2026-10-14T01:47:20.985Z"
+    },
+    {
+      "id": "yupoo-176116553",
+      "name": "24/25 Barcelona Third Away",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/176116553?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-barcelona-third-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-barcelona-third-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-barcelona-third-away/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "24-25-barcelona-third-away",
+      "siteCategory": "club",
+      "team": "FC Barcelona",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2024/25",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "La Liga",
+        "Barcelona"
+      ],
+      "sourceTitle": "24/25 Barcelona Third Away S-4XL",
+      "updatedAt": "2026-10-14T01:44:49.315Z"
+    },
+    {
+      "id": "yupoo-168820657",
+      "name": "24/25 Barranquilla Youth Team Home",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/168820657?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-barranquilla-youth-team-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-barranquilla-youth-team-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-barranquilla-youth-team-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-barranquilla-youth-team-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-barranquilla-youth-team-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-barranquilla-youth-team-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-barranquilla-youth-team-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-barranquilla-youth-team-home/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-barranquilla-youth-team-home/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-barranquilla-youth-team-home/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "24-25-barranquilla-youth-team-home",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2024/25",
+      "type": "Shirt",
+      "variant": "Kids",
+      "sourceCategories": [
+        "new season"
+      ],
+      "sourceTitle": "24/25 Barranquilla Youth Team Home S-XXL",
+      "updatedAt": "2026-10-14T01:57:50.814Z"
+    },
+    {
+      "id": "yupoo-174670440",
+      "name": "24/25 Bayern Munich Away",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/174670440?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-bayern-munich-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-bayern-munich-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-bayern-munich-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-bayern-munich-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-bayern-munich-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-bayern-munich-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-bayern-munich-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-bayern-munich-away/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-bayern-munich-away/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-bayern-munich-away/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "24-25-bayern-munich-away",
+      "siteCategory": "club",
+      "team": "Bayern Munich",
+      "league": "Bundesliga",
+      "country": "Germany",
+      "season": "2024/25",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Bundesliga",
+        "Bayern Munich"
+      ],
+      "sourceTitle": "24/25 Bayern Munich Away S-4XL",
+      "updatedAt": "2026-10-14T01:46:48.196Z"
+    },
+    {
+      "id": "yupoo-175044975",
+      "name": "24/25 Bayern Munich third away",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/175044975?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-bayern-munich-third-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-bayern-munich-third-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-bayern-munich-third-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-bayern-munich-third-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-bayern-munich-third-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-bayern-munich-third-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-bayern-munich-third-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-bayern-munich-third-away/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-bayern-munich-third-away/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "24-25-bayern-munich-third-away",
+      "siteCategory": "club",
+      "team": "Bayern Munich",
+      "league": "Bundesliga",
+      "country": "Germany",
+      "season": "2024/25",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Bundesliga",
+        "Bayern Munich"
+      ],
+      "sourceTitle": "24/25 Bayern Munich third away S-4XL",
+      "updatedAt": "2026-10-14T01:46:19.260Z"
+    },
+    {
+      "id": "yupoo-170642102",
+      "name": "24/25 Benfica Away",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/170642102?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-benfica-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-benfica-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-benfica-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-benfica-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-benfica-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-benfica-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-benfica-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-benfica-away/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-benfica-away/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-benfica-away/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "24-25-benfica-away",
+      "siteCategory": "club",
+      "team": "SL Benfica",
+      "league": "Liga Portugal",
+      "country": "Portugal",
+      "season": "2024/25",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Primeira Liga",
+        "S.L. Benfica"
+      ],
+      "sourceTitle": "24/25 Benfica Away S-4XL",
+      "updatedAt": "2026-10-14T01:51:16.099Z"
     },
     {
       "id": "yupoo-181684191",
@@ -9228,6 +9777,45 @@
       "updatedAt": "2026-10-12T22:31:47.056Z"
     },
     {
+      "id": "yupoo-177065237",
+      "name": "24/25 Chelsea Third Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/177065237?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-chelsea-third-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-chelsea-third-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-chelsea-third-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-chelsea-third-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-chelsea-third-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-chelsea-third-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-chelsea-third-jersey/image-06.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "24-25-chelsea-third-jersey",
+      "siteCategory": "club",
+      "team": "Chelsea",
+      "league": "Premier League",
+      "country": "England",
+      "season": "2024/25",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Premier League",
+        "Chelsea"
+      ],
+      "sourceTitle": "24/25 Chelsea Third Jersey S-4XL",
+      "updatedAt": "2026-10-14T01:42:30.763Z"
+    },
+    {
       "id": "yupoo-194270308",
       "name": "24/25 Estoril Four Guests",
       "category": "new season",
@@ -9342,6 +9930,48 @@
       ],
       "sourceTitle": "24/25 Fluminense III Jersey S-4XL",
       "updatedAt": "2026-10-14T01:29:48.142Z"
+    },
+    {
+      "id": "yupoo-169377122",
+      "name": "24/25 Gremio Home Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/169377122?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-gremio-home-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-gremio-home-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-gremio-home-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-gremio-home-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-gremio-home-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-gremio-home-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-gremio-home-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-gremio-home-jersey/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-gremio-home-jersey/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "24-25-gremio-home-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2024/25",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "🔥 Clearance Sale: $9/PCS, Minimum Order 5PCS 🔥",
+        "Brasileiro Série A",
+        "Gremio"
+      ],
+      "sourceTitle": "24/25 Gremio Home Jersey S-4XL",
+      "updatedAt": "2026-10-14T01:53:02.249Z"
     },
     {
       "id": "yupoo-184319534",
@@ -9544,6 +10174,48 @@
       "updatedAt": "2026-10-14T00:55:00.636Z"
     },
     {
+      "id": "yupoo-175045129",
+      "name": "24/25 Lens away",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/175045129?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-lens-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-lens-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-lens-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-lens-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-lens-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-lens-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-lens-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-lens-away/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-lens-away/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-lens-away/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-lens-away/image-10.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "24-25-lens-away",
+      "siteCategory": "club",
+      "team": "RC Lens",
+      "league": "Ligue 1",
+      "country": "France",
+      "season": "2024/25",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Primeira Liga"
+      ],
+      "sourceTitle": "24/25 Lens away S-3XL",
+      "updatedAt": "2026-10-14T01:45:24.208Z"
+    },
+    {
       "id": "yupoo-179316184",
       "name": "24/25 Lisbon Third Away",
       "category": "new season",
@@ -9616,6 +10288,91 @@
       ],
       "sourceTitle": "24/25 Malaga basketball uniform home size S-XXL",
       "updatedAt": "2026-10-14T01:28:49.845Z"
+    },
+    {
+      "id": "yupoo-170679407",
+      "name": "24/25 Manchester City Third Away",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/170679407?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-manchester-city-third-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-manchester-city-third-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-manchester-city-third-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-manchester-city-third-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-manchester-city-third-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-manchester-city-third-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-manchester-city-third-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-manchester-city-third-away/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-manchester-city-third-away/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-manchester-city-third-away/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-manchester-city-third-away/image-10.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "24-25-manchester-city-third-away",
+      "siteCategory": "club",
+      "team": "Manchester City",
+      "league": "Premier League",
+      "country": "England",
+      "season": "2024/25",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Premier League",
+        "Manchester City"
+      ],
+      "sourceTitle": "24/25 Manchester City Third Away S-4XL",
+      "updatedAt": "2026-10-14T01:50:17.763Z"
+    },
+    {
+      "id": "yupoo-170574432",
+      "name": "24/25 Marseille Home",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/170574432?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-marseille-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-marseille-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-marseille-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-marseille-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-marseille-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-marseille-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-marseille-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-marseille-home/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-marseille-home/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-marseille-home/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "24-25-marseille-home",
+      "siteCategory": "club",
+      "team": "Olympique de Marseille",
+      "league": "Ligue 1",
+      "country": "France",
+      "season": "2024/25",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Ligue 1",
+        "Olympique de Marseille"
+      ],
+      "sourceTitle": "24/25 Marseille Home S-4XL",
+      "updatedAt": "2026-10-14T01:51:48.012Z"
     },
     {
       "id": "yupoo-179316110",
@@ -9698,6 +10455,87 @@
       ],
       "sourceTitle": "24/25 Marseille Special Edition White S-4xL",
       "updatedAt": "2026-10-14T01:37:24.279Z"
+    },
+    {
+      "id": "yupoo-172638243",
+      "name": "24/25 Miami Third away",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/172638243?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-miami-third-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-miami-third-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-miami-third-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-miami-third-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-miami-third-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-miami-third-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-miami-third-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-miami-third-away/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-miami-third-away/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-miami-third-away/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "24-25-miami-third-away",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2024/25",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "MLS",
+        "Inter Miami CF"
+      ],
+      "sourceTitle": "24/25 Miami Third away S-XXL",
+      "updatedAt": "2026-10-14T01:47:47.238Z"
+    },
+    {
+      "id": "yupoo-168820369",
+      "name": "24/25 Millionaire Away",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/168820369?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-millionaire-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-millionaire-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-millionaire-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-millionaire-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-millionaire-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-millionaire-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-millionaire-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-millionaire-away/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-millionaire-away/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "24-25-millionaire-away",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2024/25",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season"
+      ],
+      "sourceTitle": "24/25 Millionaire Away S-XXL",
+      "updatedAt": "2026-10-14T01:59:00.047Z"
     },
     {
       "id": "yupoo-186050756",
@@ -9824,6 +10662,47 @@
       ],
       "sourceTitle": "24/25 Monterrey home S-4XL",
       "updatedAt": "2026-10-14T01:15:23.104Z"
+    },
+    {
+      "id": "yupoo-168820628",
+      "name": "24/25 Palestinian Away",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/168820628?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-palestinian-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-palestinian-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-palestinian-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-palestinian-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-palestinian-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-palestinian-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-palestinian-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-palestinian-away/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-palestinian-away/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-palestinian-away/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-palestinian-away/image-10.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "24-25-palestinian-away",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2024/25",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season"
+      ],
+      "sourceTitle": "24/25 Palestinian Away S-XXL",
+      "updatedAt": "2026-10-14T01:58:33.839Z"
     },
     {
       "id": "yupoo-181079586",
@@ -10207,6 +11086,48 @@
       "updatedAt": "2026-10-13T22:33:23.752Z"
     },
     {
+      "id": "yupoo-169091773",
+      "name": "24/25 Porto Away",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/169091773?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-porto-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-porto-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-porto-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-porto-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-porto-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-porto-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-porto-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-porto-away/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-porto-away/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-porto-away/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "24-25-porto-away",
+      "siteCategory": "club",
+      "team": "FC Porto",
+      "league": "Liga Portugal",
+      "country": "Portugal",
+      "season": "2024/25",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Primeira Liga",
+        "FC Porto"
+      ],
+      "sourceTitle": "24/25 Porto Away S-XXL",
+      "updatedAt": "2026-10-14T01:54:24.323Z"
+    },
+    {
       "id": "yupoo-181124844",
       "name": "24/25 Porto Halloween Blue",
       "category": "new season",
@@ -10244,6 +11165,47 @@
       ],
       "sourceTitle": "24/25 Porto Halloween Blue size S-3XL",
       "updatedAt": "2026-10-14T01:31:49.414Z"
+    },
+    {
+      "id": "yupoo-170642124",
+      "name": "24/25 Porto Third away",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/170642124?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-porto-third-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-porto-third-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-porto-third-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-porto-third-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-porto-third-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-porto-third-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-porto-third-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-porto-third-away/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-porto-third-away/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "24-25-porto-third-away",
+      "siteCategory": "club",
+      "team": "FC Porto",
+      "league": "Liga Portugal",
+      "country": "Portugal",
+      "season": "2024/25",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Primeira Liga",
+        "FC Porto"
+      ],
+      "sourceTitle": "24/25 Porto Third away S-4XL",
+      "updatedAt": "2026-10-14T01:50:56.683Z"
     },
     {
       "id": "yupoo-211563240",
@@ -10369,6 +11331,47 @@
       "updatedAt": "2026-10-14T01:01:55.437Z"
     },
     {
+      "id": "yupoo-170679198",
+      "name": "24/25 Real Madrid Away",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/170679198?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-real-madrid-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-real-madrid-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-real-madrid-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-real-madrid-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-real-madrid-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-real-madrid-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-real-madrid-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-real-madrid-away/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-real-madrid-away/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "24-25-real-madrid-away",
+      "siteCategory": "club",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2024/25",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "La Liga",
+        "Real Madrid"
+      ],
+      "sourceTitle": "24/25 Real Madrid Away S-4XL",
+      "updatedAt": "2026-10-14T01:50:37.131Z"
+    },
+    {
       "id": "yupoo-181341702",
       "name": "24/25 Real Madrid Blue",
       "category": "new season",
@@ -10440,6 +11443,48 @@
       ],
       "sourceTitle": "24/25 Real Madrid Red size S-XXL",
       "updatedAt": "2026-10-14T01:31:29.649Z"
+    },
+    {
+      "id": "yupoo-171879248",
+      "name": "24/25 Real Madrid Special Edition",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/171879248?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-real-madrid-special-edition/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-real-madrid-special-edition/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-real-madrid-special-edition/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-real-madrid-special-edition/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-real-madrid-special-edition/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-real-madrid-special-edition/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-real-madrid-special-edition/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-real-madrid-special-edition/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-real-madrid-special-edition/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-real-madrid-special-edition/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "24-25-real-madrid-special-edition",
+      "siteCategory": "club",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2024/25",
+      "type": "Shirt",
+      "variant": "Special edition",
+      "sourceCategories": [
+        "new season",
+        "La Liga",
+        "Real Madrid"
+      ],
+      "sourceTitle": "24/25 Real Madrid Special Edition S-XXL",
+      "updatedAt": "2026-10-14T01:49:43.881Z"
     },
     {
       "id": "yupoo-183392495",
@@ -10522,6 +11567,170 @@
       ],
       "sourceTitle": "24/25 Recife sports Away Third Jersey S-4XL",
       "updatedAt": "2026-10-14T01:30:50.012Z"
+    },
+    {
+      "id": "yupoo-171879288",
+      "name": "24/25 Riyadh Victory Home",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/171879288?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-riyadh-victory-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-riyadh-victory-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-riyadh-victory-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-riyadh-victory-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-riyadh-victory-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-riyadh-victory-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-riyadh-victory-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-riyadh-victory-home/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-riyadh-victory-home/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-riyadh-victory-home/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "24-25-riyadh-victory-home",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2024/25",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season"
+      ],
+      "sourceTitle": "24/25 Riyadh Victory Home S-4XL",
+      "updatedAt": "2026-10-14T01:49:15.488Z"
+    },
+    {
+      "id": "yupoo-175045054",
+      "name": "24/25 Sporting Lisbon Away",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/175045054?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-sporting-lisbon-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-sporting-lisbon-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-sporting-lisbon-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-sporting-lisbon-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-sporting-lisbon-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-sporting-lisbon-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-sporting-lisbon-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-sporting-lisbon-away/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-sporting-lisbon-away/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-sporting-lisbon-away/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "24-25-sporting-lisbon-away",
+      "siteCategory": "club",
+      "team": "Sporting CP",
+      "league": "Liga Portugal",
+      "country": "Portugal",
+      "season": "2024/25",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Primeira Liga",
+        "Sporting CP",
+        "🔥 Clearance Sale: $9/PCS, Minimum Order 5PCS 🔥"
+      ],
+      "sourceTitle": "24/25 Sporting Lisbon Away S-4XL",
+      "updatedAt": "2026-10-14T01:45:50.812Z"
+    },
+    {
+      "id": "yupoo-171879860",
+      "name": "24/25 Tottenham Third Away",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/171879860?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-tottenham-third-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-tottenham-third-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-tottenham-third-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-tottenham-third-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-tottenham-third-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-tottenham-third-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-tottenham-third-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-tottenham-third-away/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-tottenham-third-away/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-tottenham-third-away/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "24-25-tottenham-third-away",
+      "siteCategory": "club",
+      "team": "Tottenham Hotspur",
+      "league": "Premier League",
+      "country": "England",
+      "season": "2024/25",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Premier League",
+        "Tottenham Hotspur"
+      ],
+      "sourceTitle": "24/25 Tottenham Third Away S-4XL",
+      "updatedAt": "2026-10-14T01:48:20.942Z"
+    },
+    {
+      "id": "yupoo-168820689",
+      "name": "24/25 Turkmenistan Home",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/168820689?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-turkmenistan-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-turkmenistan-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-turkmenistan-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-turkmenistan-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-turkmenistan-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-turkmenistan-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-turkmenistan-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-turkmenistan-home/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-turkmenistan-home/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "24-25-turkmenistan-home",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2024/25",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season"
+      ],
+      "sourceTitle": "24/25 Turkmenistan Home S-XXL",
+      "updatedAt": "2026-10-14T01:57:20.928Z"
     },
     {
       "id": "yupoo-181079585",
@@ -46830,6 +48039,47 @@
       "updatedAt": "2026-10-11T13:39:10.508Z"
     },
     {
+      "id": "yupoo-177065704",
+      "name": "Atletico Madrid 24/25 Home Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/177065704?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/atletico-madrid-24-25-home-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/atletico-madrid-24-25-home-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/atletico-madrid-24-25-home-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/atletico-madrid-24-25-home-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/atletico-madrid-24-25-home-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/atletico-madrid-24-25-home-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/atletico-madrid-24-25-home-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/atletico-madrid-24-25-home-jersey/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/atletico-madrid-24-25-home-jersey/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "atletico-madrid-24-25-home-jersey",
+      "siteCategory": "club",
+      "team": "Atlético Madrid",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2024/25",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "La Liga",
+        "Atletico Madrid"
+      ],
+      "sourceTitle": "Atletico Madrid 24/25 Home Jersey S-4XL",
+      "updatedAt": "2026-10-14T01:41:07.093Z"
+    },
+    {
       "id": "yupoo-216225295",
       "name": "Atletico Madrid 25/26 Third Away Jersey",
       "category": "new season",
@@ -48028,6 +49278,46 @@
       ],
       "sourceTitle": "Atlético Mineiro 2013 Home Retro Jersey S-XXL",
       "updatedAt": "2026-10-11T10:28:24.326Z"
+    },
+    {
+      "id": "yupoo-177064614",
+      "name": "Atletico Mineiro 2024/25 Third Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/177064614?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/atletico-mineiro-2024-25-third-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/atletico-mineiro-2024-25-third-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/atletico-mineiro-2024-25-third-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/atletico-mineiro-2024-25-third-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/atletico-mineiro-2024-25-third-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/atletico-mineiro-2024-25-third-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/atletico-mineiro-2024-25-third-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/atletico-mineiro-2024-25-third-jersey/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "atletico-mineiro-2024-25-third-jersey",
+      "siteCategory": "club",
+      "team": "Atlético Madrid",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2024/25",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Brasileiro Série A",
+        "Atlético Mineiro"
+      ],
+      "sourceTitle": "Atletico Mineiro 2024/25 Third Jersey S-4XL",
+      "updatedAt": "2026-10-14T01:43:19.047Z"
     },
     {
       "id": "yupoo-216325502",
@@ -61341,6 +62631,44 @@
       "updatedAt": "2026-10-11T10:44:09.512Z"
     },
     {
+      "id": "yupoo-177065411",
+      "name": "Benfica 2024/25 Pre-Match Training Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/177065411?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/benfica-2024-25-pre-match-training-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/benfica-2024-25-pre-match-training-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/benfica-2024-25-pre-match-training-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/benfica-2024-25-pre-match-training-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/benfica-2024-25-pre-match-training-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/benfica-2024-25-pre-match-training-jersey/image-05.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "benfica-2024-25-pre-match-training-jersey",
+      "siteCategory": "training",
+      "team": "SL Benfica",
+      "league": "Liga Portugal",
+      "country": "Portugal",
+      "season": "2024/25",
+      "type": "Training",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Primeira Liga",
+        "S.L. Benfica"
+      ],
+      "sourceTitle": "Benfica 2024/25 Pre-Match Training JerseyS-3XL",
+      "updatedAt": "2026-10-14T01:41:59.259Z"
+    },
+    {
       "id": "yupoo-215413548",
       "name": "Benfica 25/26 Baseball Uniform",
       "category": "new season",
@@ -66579,6 +67907,88 @@
       ],
       "sourceTitle": "Botafogo 1995 Away Jersey S-4XL",
       "updatedAt": "2026-10-11T15:30:34.892Z"
+    },
+    {
+      "id": "yupoo-177064248",
+      "name": "Botafogo 2024/25 Away Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/177064248?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/botafogo-2024-25-away-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/botafogo-2024-25-away-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/botafogo-2024-25-away-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/botafogo-2024-25-away-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/botafogo-2024-25-away-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/botafogo-2024-25-away-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/botafogo-2024-25-away-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/botafogo-2024-25-away-jersey/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/botafogo-2024-25-away-jersey/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/botafogo-2024-25-away-jersey/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "botafogo-2024-25-away-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2024/25",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Brasileiro Série A",
+        "Botafogo"
+      ],
+      "sourceTitle": "Botafogo 2024/25 Away Jersey S-4XL",
+      "updatedAt": "2026-10-14T01:44:04.530Z"
+    },
+    {
+      "id": "yupoo-177064881",
+      "name": "Botafogo 2024/25 Away Tank Top Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/177064881?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/botafogo-2024-25-away-tank-top-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/botafogo-2024-25-away-tank-top-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/botafogo-2024-25-away-tank-top-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/botafogo-2024-25-away-tank-top-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/botafogo-2024-25-away-tank-top-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/botafogo-2024-25-away-tank-top-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/botafogo-2024-25-away-tank-top-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/botafogo-2024-25-away-tank-top-jersey/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "botafogo-2024-25-away-tank-top-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2024/25",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Brasileiro Série A",
+        "Botafogo"
+      ],
+      "sourceTitle": "Botafogo 2024/25 Away Tank Top Jersey S-4XL",
+      "updatedAt": "2026-10-14T01:43:05.252Z"
     },
     {
       "id": "yupoo-212698929",
@@ -75994,6 +77404,46 @@
       ],
       "sourceTitle": "Celta de Vigo Retro 97/99 Home S-XXL",
       "updatedAt": "2026-10-11T17:19:56.923Z"
+    },
+    {
+      "id": "yupoo-173977276",
+      "name": "Celta de Vigo Retro 99/00 Home",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/173977276?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celta-de-vigo-retro-99-00-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celta-de-vigo-retro-99-00-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celta-de-vigo-retro-99-00-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celta-de-vigo-retro-99-00-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celta-de-vigo-retro-99-00-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celta-de-vigo-retro-99-00-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celta-de-vigo-retro-99-00-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/celta-de-vigo-retro-99-00-home/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "celta-de-vigo-retro-99-00-home",
+      "siteCategory": "retro",
+      "team": "Celta de Vigo",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "1999/00",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "new season",
+        "La Liga",
+        "Celta de Vigo"
+      ],
+      "sourceTitle": "Celta de Vigo Retro 99/00 Home S-XXL",
+      "updatedAt": "2026-10-14T01:47:06.355Z"
     },
     {
       "id": "yupoo-249062084",
@@ -103711,6 +105161,45 @@
       "updatedAt": "2026-10-11T12:46:26.164Z"
     },
     {
+      "id": "yupoo-177064065",
+      "name": "Flamengo 2018 Commemorative Edition Retro Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/177064065?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-2018-commemorative-edition-retro-jersey-2/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-2018-commemorative-edition-retro-jersey-2/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-2018-commemorative-edition-retro-jersey-2/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-2018-commemorative-edition-retro-jersey-2/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-2018-commemorative-edition-retro-jersey-2/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-2018-commemorative-edition-retro-jersey-2/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-2018-commemorative-edition-retro-jersey-2/image-06.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "flamengo-2018-commemorative-edition-retro-jersey-2",
+      "siteCategory": "retro",
+      "team": "Flamengo",
+      "league": "Brasileiro Série A",
+      "country": "Brazil",
+      "season": "2018",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "new season",
+        "Brasileiro Série A",
+        "Flamengo"
+      ],
+      "sourceTitle": "Flamengo 2018 Commemorative Edition Retro Jersey S-XXL",
+      "updatedAt": "2026-10-14T01:44:38.846Z"
+    },
+    {
       "id": "yupoo-212194734",
       "name": "Flamengo 2019/20 Black Classic Edition Long Sleeve Retro Jersey",
       "category": "Retro football shirt",
@@ -103750,6 +105239,46 @@
       ],
       "sourceTitle": "Flamengo 2019/20 Black Classic Edition Long Sleeve Retro Jersey S-XXL",
       "updatedAt": "2026-10-11T16:34:29.779Z"
+    },
+    {
+      "id": "yupoo-177064388",
+      "name": "Flamengo 2024/25 Lifestyler Retro Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/177064388?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-2024-25-lifestyler-retro-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-2024-25-lifestyler-retro-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-2024-25-lifestyler-retro-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-2024-25-lifestyler-retro-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-2024-25-lifestyler-retro-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-2024-25-lifestyler-retro-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-2024-25-lifestyler-retro-jersey/image-06.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "flamengo-2024-25-lifestyler-retro-jersey",
+      "siteCategory": "retro",
+      "team": "Flamengo",
+      "league": "Brasileiro Série A",
+      "country": "Brazil",
+      "season": "2024/25",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "new season",
+        "🔥 Clearance Sale: $9/PCS, Minimum Order 5PCS 🔥",
+        "Brasileiro Série A",
+        "Flamengo"
+      ],
+      "sourceTitle": "Flamengo 2024/25 Lifestyler Retro Jersey S-4XL",
+      "updatedAt": "2026-10-14T01:43:33.632Z"
     },
     {
       "id": "yupoo-226669664",
@@ -107607,6 +109136,45 @@
       ],
       "sourceTitle": "Fluminense 2015 Originals branca Retro Jersey S-XXL",
       "updatedAt": "2026-10-11T16:35:35.279Z"
+    },
+    {
+      "id": "yupoo-169377522",
+      "name": "Fluminense 2024/25 Goalkeeper Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/169377522?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/fluminense-2024-25-goalkeeper-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/fluminense-2024-25-goalkeeper-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/fluminense-2024-25-goalkeeper-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/fluminense-2024-25-goalkeeper-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/fluminense-2024-25-goalkeeper-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/fluminense-2024-25-goalkeeper-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/fluminense-2024-25-goalkeeper-jersey/image-06.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "fluminense-2024-25-goalkeeper-jersey",
+      "siteCategory": "club",
+      "team": "Fluminense",
+      "league": "Brasileiro Série A",
+      "country": "Brazil",
+      "season": "2024/25",
+      "type": "Shirt",
+      "variant": "Goalkeeper",
+      "sourceCategories": [
+        "new season",
+        "Brasileiro Série A",
+        "Fluminense"
+      ],
+      "sourceTitle": "Fluminense 2024/25 Goalkeeper Jersey",
+      "updatedAt": "2026-10-14T01:52:42.686Z"
     },
     {
       "id": "yupoo-212702984",
@@ -120058,6 +121626,44 @@
       ],
       "sourceTitle": "Inte Milan 24/25 Retro Special Edition Player Version Jersey S-3XL",
       "updatedAt": "2026-10-13T22:35:22.114Z"
+    },
+    {
+      "id": "yupoo-177067069",
+      "name": "Inter Miami 2024/25 Flame Edition Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/177067069?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/inter-miami-2024-25-flame-edition-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/inter-miami-2024-25-flame-edition-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/inter-miami-2024-25-flame-edition-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/inter-miami-2024-25-flame-edition-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/inter-miami-2024-25-flame-edition-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/inter-miami-2024-25-flame-edition-jersey/image-05.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "inter-miami-2024-25-flame-edition-jersey",
+      "siteCategory": "club",
+      "team": "Inter Miami",
+      "league": "Other leagues",
+      "country": "USA",
+      "season": "2024/25",
+      "type": "Shirt",
+      "variant": "Special edition",
+      "sourceCategories": [
+        "new season",
+        "MLS",
+        "Inter Miami CF"
+      ],
+      "sourceTitle": "Inter Miami 2024/25 Flame Edition Jersey S-XXL",
+      "updatedAt": "2026-10-14T01:40:51.988Z"
     },
     {
       "id": "yupoo-177067268",
@@ -137636,6 +139242,85 @@
       ],
       "sourceTitle": "Manchester City 20/21 Third Away Retro Jersey S-XXL",
       "updatedAt": "2026-10-11T12:39:30.444Z"
+    },
+    {
+      "id": "yupoo-177065272",
+      "name": "Manchester City 2024/25 Away Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/177065272?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-city-2024-25-away-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-city-2024-25-away-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-city-2024-25-away-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-city-2024-25-away-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-city-2024-25-away-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-city-2024-25-away-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-city-2024-25-away-jersey/image-06.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "manchester-city-2024-25-away-jersey",
+      "siteCategory": "club",
+      "team": "Manchester City",
+      "league": "Premier League",
+      "country": "England",
+      "season": "2024/25",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Premier League",
+        "Manchester City"
+      ],
+      "sourceTitle": "Manchester City 2024/25 Away Jersey S-4XL",
+      "updatedAt": "2026-10-14T01:42:15.047Z"
+    },
+    {
+      "id": "yupoo-177065205",
+      "name": "Manchester City 2024/25 Fourth Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/177065205?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-city-2024-25-fourth-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-city-2024-25-fourth-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-city-2024-25-fourth-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-city-2024-25-fourth-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-city-2024-25-fourth-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-city-2024-25-fourth-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-city-2024-25-fourth-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-city-2024-25-fourth-jersey/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "manchester-city-2024-25-fourth-jersey",
+      "siteCategory": "club",
+      "team": "Manchester City",
+      "league": "Premier League",
+      "country": "England",
+      "season": "2024/25",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Premier League",
+        "Manchester City"
+      ],
+      "sourceTitle": "Manchester City 2024/25 Fourth Jersey S-4XL",
+      "updatedAt": "2026-10-14T01:42:46.323Z"
     },
     {
       "id": "yupoo-222043009",
@@ -163898,6 +165583,47 @@
       ],
       "sourceTitle": "Palmeiras 24/25 Home Jersey S-4XL",
       "updatedAt": "2026-10-13T22:03:03.535Z"
+    },
+    {
+      "id": "yupoo-177064320",
+      "name": "Palmeiras 24/25 Thirds Away Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/177064320?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/palmeiras-24-25-thirds-away-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/palmeiras-24-25-thirds-away-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/palmeiras-24-25-thirds-away-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/palmeiras-24-25-thirds-away-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/palmeiras-24-25-thirds-away-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/palmeiras-24-25-thirds-away-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/palmeiras-24-25-thirds-away-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/palmeiras-24-25-thirds-away-jersey/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "palmeiras-24-25-thirds-away-jersey",
+      "siteCategory": "club",
+      "team": "Palmeiras",
+      "league": "Brasileiro Série A",
+      "country": "Brazil",
+      "season": "2024/25",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "🔥 Clearance Sale: $9/PCS, Minimum Order 5PCS 🔥",
+        "Brasileiro Série A",
+        "Palmeiras"
+      ],
+      "sourceTitle": "Palmeiras 24/25 Thirds Away Jersey S-4XL",
+      "updatedAt": "2026-10-14T01:43:48.586Z"
     },
     {
       "id": "yupoo-216709314",
@@ -242173,6 +243899,50 @@
       "updatedAt": "2026-10-12T22:55:31.672Z"
     },
     {
+      "id": "yupoo-177064152",
+      "name": "Sao Paulo 2024/25 Third Away Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/177064152?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/sao-paulo-2024-25-third-away-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/sao-paulo-2024-25-third-away-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/sao-paulo-2024-25-third-away-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/sao-paulo-2024-25-third-away-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/sao-paulo-2024-25-third-away-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/sao-paulo-2024-25-third-away-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/sao-paulo-2024-25-third-away-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/sao-paulo-2024-25-third-away-jersey/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/sao-paulo-2024-25-third-away-jersey/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/sao-paulo-2024-25-third-away-jersey/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/sao-paulo-2024-25-third-away-jersey/image-10.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "sao-paulo-2024-25-third-away-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2024/25",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "🔥 Clearance Sale: $9/PCS, Minimum Order 5PCS 🔥",
+        "Brasileiro Série A",
+        "São Paulo"
+      ],
+      "sourceTitle": "Sao Paulo 2024/25 Third Away Jersey S-4XL",
+      "updatedAt": "2026-10-14T01:44:26.035Z"
+    },
+    {
       "id": "yupoo-212258372",
       "name": "Sao Paulo 25/26 Player Version Home Jersey",
       "category": "new season",
@@ -253510,6 +255280,44 @@
       ],
       "sourceTitle": "Sporting CP 02/03 Third Away Retro Jersey S-XXL",
       "updatedAt": "2026-10-11T10:38:34.524Z"
+    },
+    {
+      "id": "yupoo-177065457",
+      "name": "Sporting CP 2024/25 Third Away Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/177065457?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/sporting-cp-2024-25-third-away-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/sporting-cp-2024-25-third-away-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/sporting-cp-2024-25-third-away-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/sporting-cp-2024-25-third-away-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/sporting-cp-2024-25-third-away-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/sporting-cp-2024-25-third-away-jersey/image-05.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "sporting-cp-2024-25-third-away-jersey",
+      "siteCategory": "club",
+      "team": "Sporting CP",
+      "league": "Liga Portugal",
+      "country": "Portugal",
+      "season": "2024/25",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Primeira Liga",
+        "Sporting CP"
+      ],
+      "sourceTitle": "Sporting CP 2024/25 Third Away Jersey S-XXL",
+      "updatedAt": "2026-10-14T01:41:44.099Z"
     },
     {
       "id": "yupoo-181124602",
@@ -265930,6 +267738,53 @@
       "updatedAt": "2026-10-13T05:31:56.082Z"
     },
     {
+      "id": "yupoo-169376121",
+      "name": "Vasco da Gama 2024/25 Home Jersey S-XXXXL",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/169376121?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/vasco-da-gama-2024-25-home-jersey-s-xxxxl/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/vasco-da-gama-2024-25-home-jersey-s-xxxxl/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/vasco-da-gama-2024-25-home-jersey-s-xxxxl/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/vasco-da-gama-2024-25-home-jersey-s-xxxxl/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/vasco-da-gama-2024-25-home-jersey-s-xxxxl/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/vasco-da-gama-2024-25-home-jersey-s-xxxxl/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/vasco-da-gama-2024-25-home-jersey-s-xxxxl/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/vasco-da-gama-2024-25-home-jersey-s-xxxxl/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/vasco-da-gama-2024-25-home-jersey-s-xxxxl/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/vasco-da-gama-2024-25-home-jersey-s-xxxxl/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/vasco-da-gama-2024-25-home-jersey-s-xxxxl/image-10.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/vasco-da-gama-2024-25-home-jersey-s-xxxxl/image-11.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/vasco-da-gama-2024-25-home-jersey-s-xxxxl/image-12.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/vasco-da-gama-2024-25-home-jersey-s-xxxxl/image-13.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/vasco-da-gama-2024-25-home-jersey-s-xxxxl/image-14.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "vasco-da-gama-2024-25-home-jersey-s-xxxxl",
+      "siteCategory": "club",
+      "team": "Vasco da Gama",
+      "league": "Brasileiro Série A",
+      "country": "Brazil",
+      "season": "2024/25",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Brasileiro Série A",
+        "Vasco da Gama"
+      ],
+      "sourceTitle": "Vasco da Gama 2024/25 Home Jersey S-XXXXL",
+      "updatedAt": "2026-10-14T01:53:27.767Z"
+    },
+    {
       "id": "yupoo-212698837",
       "name": "Vasco da Gama 24/25 Away Women's Jersey",
       "category": "new season",
@@ -269715,6 +271570,44 @@
       ],
       "sourceTitle": "Vitória 26/27 New Year's Eve Special Edition Jersey S-4XL",
       "updatedAt": "2026-10-13T03:36:04.206Z"
+    },
+    {
+      "id": "yupoo-177065500",
+      "name": "Vitoria de Guimaraes 2024/25 Away Jersey",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/177065500?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/vitoria-de-guimaraes-2024-25-away-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/vitoria-de-guimaraes-2024-25-away-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/vitoria-de-guimaraes-2024-25-away-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/vitoria-de-guimaraes-2024-25-away-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/vitoria-de-guimaraes-2024-25-away-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/vitoria-de-guimaraes-2024-25-away-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/vitoria-de-guimaraes-2024-25-away-jersey/image-06.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "vitoria-de-guimaraes-2024-25-away-jersey",
+      "siteCategory": "club",
+      "team": "Vitória SC",
+      "league": "Liga Portugal",
+      "country": "Portugal",
+      "season": "2024/25",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Primeira Liga"
+      ],
+      "sourceTitle": "Vitoria de Guimaraes 2024/25 Away Jersey S-3XL",
+      "updatedAt": "2026-10-14T01:41:22.191Z"
     },
     {
       "id": "yupoo-254288030",
