@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-14T02:21:39.777Z",
+  "generatedAt": "2026-10-14T02:34:14.602Z",
   "source": {
     "name": "Supplier catalogue",
     "url": "https://minkang.x.yupoo.com/albums"
   },
-  "count": 6837,
+  "count": 6862,
   "items": [
     {
       "id": "yupoo-231422616",
@@ -3247,6 +3247,45 @@
       "updatedAt": "2026-10-14T02:05:24.690Z"
     },
     {
+      "id": "yupoo-166257973",
+      "name": "2024 Canada Home",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/166257973?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-canada-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-canada-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-canada-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-canada-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-canada-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-canada-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-canada-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-canada-home/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-canada-home/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "2024-canada-home",
+      "siteCategory": "national",
+      "team": "Canada",
+      "league": "National teams",
+      "country": "Canada",
+      "season": "2024",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season"
+      ],
+      "sourceTitle": "2024 Canada Home S-4XL",
+      "updatedAt": "2026-10-14T02:23:23.204Z"
+    },
+    {
       "id": "yupoo-168016990",
       "name": "2024 Costa Rica Away",
       "category": "new season",
@@ -3915,6 +3954,45 @@
       ],
       "sourceTitle": "2024 Honduras Black S-XXL",
       "updatedAt": "2026-10-14T02:07:10.703Z"
+    },
+    {
+      "id": "yupoo-166257362",
+      "name": "2024 Italy Special Edition",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/166257362?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-italy-special-edition/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-italy-special-edition/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-italy-special-edition/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-italy-special-edition/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-italy-special-edition/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-italy-special-edition/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-italy-special-edition/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-italy-special-edition/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-italy-special-edition/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "2024-italy-special-edition",
+      "siteCategory": "national",
+      "team": "Italy",
+      "league": "National teams",
+      "country": "Italy",
+      "season": "2024",
+      "type": "Shirt",
+      "variant": "Special edition",
+      "sourceCategories": [
+        "new season"
+      ],
+      "sourceTitle": "2024 Italy Special Edition S-XXL",
+      "updatedAt": "2026-10-14T02:24:56.762Z"
     },
     {
       "id": "yupoo-167395787",
@@ -4667,6 +4745,518 @@
       "updatedAt": "2026-10-14T02:19:17.542Z"
     },
     {
+      "id": "yupoo-166257993",
+      "name": "2024 Japan Special Edition",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/166257993?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-18/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-18/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-18/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-18/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-18/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-18/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-18/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-18/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-18/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-18/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "2024-japan-special-edition-18",
+      "siteCategory": "national",
+      "team": "Japan",
+      "league": "National teams",
+      "country": "Japan",
+      "season": "2024",
+      "type": "Shirt",
+      "variant": "Special edition",
+      "sourceCategories": [
+        "new season"
+      ],
+      "sourceTitle": "2024 Japan Special Edition S-4XL",
+      "updatedAt": "2026-10-14T02:22:52.012Z"
+    },
+    {
+      "id": "yupoo-165159684",
+      "name": "2024 Japan Special Edition",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/165159684?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-19/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-19/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-19/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-19/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-19/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-19/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-19/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-19/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-19/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "2024-japan-special-edition-19",
+      "siteCategory": "national",
+      "team": "Japan",
+      "league": "National teams",
+      "country": "Japan",
+      "season": "2024",
+      "type": "Shirt",
+      "variant": "Special edition",
+      "sourceCategories": [
+        "new season"
+      ],
+      "sourceTitle": "2024 Japan Special Edition S-XXL",
+      "updatedAt": "2026-10-14T02:29:08.124Z"
+    },
+    {
+      "id": "yupoo-165159675",
+      "name": "2024 Japan Special Edition",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/165159675?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-20/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-20/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-20/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-20/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-20/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-20/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-20/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-20/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-20/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "2024-japan-special-edition-20",
+      "siteCategory": "national",
+      "team": "Japan",
+      "league": "National teams",
+      "country": "Japan",
+      "season": "2024",
+      "type": "Shirt",
+      "variant": "Special edition",
+      "sourceCategories": [
+        "new season"
+      ],
+      "sourceTitle": "2024 Japan Special Edition S-XXL",
+      "updatedAt": "2026-10-14T02:29:38.074Z"
+    },
+    {
+      "id": "yupoo-165159665",
+      "name": "2024 Japan Special Edition",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/165159665?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-21/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-21/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-21/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-21/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-21/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-21/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-21/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-21/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-21/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-21/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "2024-japan-special-edition-21",
+      "siteCategory": "national",
+      "team": "Japan",
+      "league": "National teams",
+      "country": "Japan",
+      "season": "2024",
+      "type": "Shirt",
+      "variant": "Special edition",
+      "sourceCategories": [
+        "new season"
+      ],
+      "sourceTitle": "2024 Japan Special Edition S-XXL",
+      "updatedAt": "2026-10-14T02:29:59.899Z"
+    },
+    {
+      "id": "yupoo-165159657",
+      "name": "2024 Japan Special Edition",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/165159657?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-22/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-22/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-22/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-22/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-22/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-22/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-22/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-22/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "2024-japan-special-edition-22",
+      "siteCategory": "national",
+      "team": "Japan",
+      "league": "National teams",
+      "country": "Japan",
+      "season": "2024",
+      "type": "Shirt",
+      "variant": "Special edition",
+      "sourceCategories": [
+        "new season"
+      ],
+      "sourceTitle": "2024 Japan Special Edition S-XXL",
+      "updatedAt": "2026-10-14T02:30:17.129Z"
+    },
+    {
+      "id": "yupoo-165159651",
+      "name": "2024 Japan Special Edition",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/165159651?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-23/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-23/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-23/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-23/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-23/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-23/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-23/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-23/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-23/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "2024-japan-special-edition-23",
+      "siteCategory": "national",
+      "team": "Japan",
+      "league": "National teams",
+      "country": "Japan",
+      "season": "2024",
+      "type": "Shirt",
+      "variant": "Special edition",
+      "sourceCategories": [
+        "new season"
+      ],
+      "sourceTitle": "2024 Japan Special Edition S-XXL",
+      "updatedAt": "2026-10-14T02:30:51.568Z"
+    },
+    {
+      "id": "yupoo-165159631",
+      "name": "2024 Japan Special Edition",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/165159631?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-24/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-24/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-24/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-24/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-24/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-24/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-24/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-24/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-24/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "2024-japan-special-edition-24",
+      "siteCategory": "national",
+      "team": "Japan",
+      "league": "National teams",
+      "country": "Japan",
+      "season": "2024",
+      "type": "Shirt",
+      "variant": "Special edition",
+      "sourceCategories": [
+        "new season"
+      ],
+      "sourceTitle": "2024 Japan Special Edition S-XXL",
+      "updatedAt": "2026-10-14T02:31:22.085Z"
+    },
+    {
+      "id": "yupoo-165159623",
+      "name": "2024 Japan Special Edition",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/165159623?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-25/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-25/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-25/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-25/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-25/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-25/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-25/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-25/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-25/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-25/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "2024-japan-special-edition-25",
+      "siteCategory": "national",
+      "team": "Japan",
+      "league": "National teams",
+      "country": "Japan",
+      "season": "2024",
+      "type": "Shirt",
+      "variant": "Special edition",
+      "sourceCategories": [
+        "new season"
+      ],
+      "sourceTitle": "2024 Japan Special Edition S-XXL",
+      "updatedAt": "2026-10-14T02:31:51.857Z"
+    },
+    {
+      "id": "yupoo-165159618",
+      "name": "2024 Japan Special Edition",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/165159618?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-26/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-26/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-26/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-26/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-26/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-26/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-26/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-26/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-26/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-26/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "2024-japan-special-edition-26",
+      "siteCategory": "national",
+      "team": "Japan",
+      "league": "National teams",
+      "country": "Japan",
+      "season": "2024",
+      "type": "Shirt",
+      "variant": "Special edition",
+      "sourceCategories": [
+        "new season"
+      ],
+      "sourceTitle": "2024 Japan Special Edition S-XXL",
+      "updatedAt": "2026-10-14T02:32:23.937Z"
+    },
+    {
+      "id": "yupoo-165159613",
+      "name": "2024 Japan Special Edition",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/165159613?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-27/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-27/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-27/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-27/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-27/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-27/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-27/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-27/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-27/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "2024-japan-special-edition-27",
+      "siteCategory": "national",
+      "team": "Japan",
+      "league": "National teams",
+      "country": "Japan",
+      "season": "2024",
+      "type": "Shirt",
+      "variant": "Special edition",
+      "sourceCategories": [
+        "new season"
+      ],
+      "sourceTitle": "2024 Japan Special Edition S-XXL",
+      "updatedAt": "2026-10-14T02:32:49.114Z"
+    },
+    {
+      "id": "yupoo-165159607",
+      "name": "2024 Japan Special Edition",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/165159607?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-28/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-28/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-28/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-28/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-28/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-28/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-28/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-28/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-28/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "2024-japan-special-edition-28",
+      "siteCategory": "national",
+      "team": "Japan",
+      "league": "National teams",
+      "country": "Japan",
+      "season": "2024",
+      "type": "Shirt",
+      "variant": "Special edition",
+      "sourceCategories": [
+        "new season"
+      ],
+      "sourceTitle": "2024 Japan Special Edition S-XXL",
+      "updatedAt": "2026-10-14T02:33:08.808Z"
+    },
+    {
+      "id": "yupoo-165159602",
+      "name": "2024 Japan Special Edition",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/165159602?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-29/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-29/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-29/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-29/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-29/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-29/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-29/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-29/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-29/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-29/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "2024-japan-special-edition-29",
+      "siteCategory": "national",
+      "team": "Japan",
+      "league": "National teams",
+      "country": "Japan",
+      "season": "2024",
+      "type": "Shirt",
+      "variant": "Special edition",
+      "sourceCategories": [
+        "new season"
+      ],
+      "sourceTitle": "2024 Japan Special Edition S-XXL",
+      "updatedAt": "2026-10-14T02:33:40.088Z"
+    },
+    {
+      "id": "yupoo-165159594",
+      "name": "2024 Japan Special Edition",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/165159594?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-30/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-30/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-30/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-30/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-30/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-30/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-30/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-30/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-30/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-30/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "2024-japan-special-edition-30",
+      "siteCategory": "national",
+      "team": "Japan",
+      "league": "National teams",
+      "country": "Japan",
+      "season": "2024",
+      "type": "Shirt",
+      "variant": "Special edition",
+      "sourceCategories": [
+        "new season"
+      ],
+      "sourceTitle": "2024 Japan Special Edition S-XXL",
+      "updatedAt": "2026-10-14T02:34:14.597Z"
+    },
+    {
       "id": "yupoo-170004970",
       "name": "2024 Kids Brazil Special Edition",
       "category": "new season",
@@ -4869,6 +5459,45 @@
       "updatedAt": "2026-10-14T02:01:33.501Z"
     },
     {
+      "id": "yupoo-166257950",
+      "name": "2024 Nigeria Home",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/166257950?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-nigeria-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-nigeria-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-nigeria-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-nigeria-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-nigeria-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-nigeria-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-nigeria-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-nigeria-home/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-nigeria-home/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "2024-nigeria-home",
+      "siteCategory": "national",
+      "team": "Nigeria",
+      "league": "National teams",
+      "country": "Nigeria",
+      "season": "2024",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season"
+      ],
+      "sourceTitle": "2024 Nigeria Home S-4XL",
+      "updatedAt": "2026-10-14T02:24:08.802Z"
+    },
+    {
       "id": "yupoo-168016800",
       "name": "2024 Panama Red",
       "category": "new season",
@@ -4907,6 +5536,46 @@
       ],
       "sourceTitle": "2024 Panama Red S-XXL",
       "updatedAt": "2026-10-14T02:07:57.941Z"
+    },
+    {
+      "id": "yupoo-166257960",
+      "name": "2024 Panama Special Edition Black",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/166257960?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-panama-special-edition-black/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-panama-special-edition-black/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-panama-special-edition-black/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-panama-special-edition-black/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-panama-special-edition-black/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-panama-special-edition-black/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-panama-special-edition-black/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-panama-special-edition-black/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-panama-special-edition-black/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-panama-special-edition-black/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "2024-panama-special-edition-black",
+      "siteCategory": "national",
+      "team": "Panama",
+      "league": "National teams",
+      "country": "Panama",
+      "season": "2024",
+      "type": "Shirt",
+      "variant": "Special edition",
+      "sourceCategories": [
+        "new season"
+      ],
+      "sourceTitle": "2024 Panama Special Edition Black S-4XL",
+      "updatedAt": "2026-10-14T02:23:48.346Z"
     },
     {
       "id": "yupoo-168016778",
@@ -5415,6 +6084,47 @@
       ],
       "sourceTitle": "2024 Spain Home",
       "updatedAt": "2026-10-14T01:53:59.373Z"
+    },
+    {
+      "id": "yupoo-166258021",
+      "name": "2024 Swiss Home",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/166258021?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-swiss-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-swiss-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-swiss-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-swiss-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-swiss-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-swiss-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-swiss-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-swiss-home/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-swiss-home/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-swiss-home/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-swiss-home/image-10.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "2024-swiss-home",
+      "siteCategory": "national",
+      "team": "Switzerland",
+      "league": "National teams",
+      "country": "Switzerland",
+      "season": "2024",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season"
+      ],
+      "sourceTitle": "2024 Swiss Home S-4XL",
+      "updatedAt": "2026-10-14T02:22:29.871Z"
     },
     {
       "id": "yupoo-168820785",
@@ -9767,6 +10477,67 @@
       "updatedAt": "2026-10-12T22:36:25.497Z"
     },
     {
+      "id": "yupoo-166152006",
+      "name": "23/24 Real Madrid Home",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/166152006?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/23-24-real-madrid-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/23-24-real-madrid-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/23-24-real-madrid-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/23-24-real-madrid-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/23-24-real-madrid-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/23-24-real-madrid-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/23-24-real-madrid-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/23-24-real-madrid-home/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/23-24-real-madrid-home/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/23-24-real-madrid-home/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/23-24-real-madrid-home/image-10.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/23-24-real-madrid-home/image-11.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/23-24-real-madrid-home/image-12.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/23-24-real-madrid-home/image-13.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/23-24-real-madrid-home/image-14.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/23-24-real-madrid-home/image-15.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/23-24-real-madrid-home/image-16.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/23-24-real-madrid-home/image-17.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/23-24-real-madrid-home/image-18.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/23-24-real-madrid-home/image-19.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/23-24-real-madrid-home/image-20.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/23-24-real-madrid-home/image-21.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/23-24-real-madrid-home/image-22.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/23-24-real-madrid-home/image-23.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/23-24-real-madrid-home/image-24.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/23-24-real-madrid-home/image-25.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/23-24-real-madrid-home/image-26.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/23-24-real-madrid-home/image-27.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/23-24-real-madrid-home/image-28.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "23-24-real-madrid-home",
+      "siteCategory": "club",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2023/24",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "La Liga",
+        "Real Madrid"
+      ],
+      "sourceTitle": "23/24 Real Madrid Home",
+      "updatedAt": "2026-10-14T02:26:43.554Z"
+    },
+    {
       "id": "yupoo-167395834",
       "name": "24/25 AC Milan Home",
       "category": "new season",
@@ -9808,6 +10579,48 @@
       ],
       "sourceTitle": "24/25 AC Milan Home S-4XL",
       "updatedAt": "2026-10-14T02:15:29.068Z"
+    },
+    {
+      "id": "yupoo-166258069",
+      "name": "24/25 Arsenal away",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/166258069?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-arsenal-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-arsenal-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-arsenal-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-arsenal-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-arsenal-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-arsenal-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-arsenal-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-arsenal-away/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-arsenal-away/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-arsenal-away/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "24-25-arsenal-away",
+      "siteCategory": "club",
+      "team": "Arsenal",
+      "league": "Premier League",
+      "country": "England",
+      "season": "2024/25",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Premier League",
+        "Arsenal"
+      ],
+      "sourceTitle": "24/25 Arsenal away S-4XL",
+      "updatedAt": "2026-10-14T02:22:06.596Z"
     },
     {
       "id": "yupoo-167395809",
@@ -10377,6 +11190,48 @@
       ],
       "sourceTitle": "24/25 Bayern Munich Away S-4XL",
       "updatedAt": "2026-10-14T01:46:48.196Z"
+    },
+    {
+      "id": "yupoo-165364043",
+      "name": "24/25 Bayern Munich Home",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/165364043?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-bayern-munich-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-bayern-munich-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-bayern-munich-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-bayern-munich-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-bayern-munich-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-bayern-munich-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-bayern-munich-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-bayern-munich-home/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-bayern-munich-home/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-bayern-munich-home/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "24-25-bayern-munich-home",
+      "siteCategory": "club",
+      "team": "Bayern Munich",
+      "league": "Bundesliga",
+      "country": "Germany",
+      "season": "2024/25",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Bundesliga",
+        "Bayern Munich"
+      ],
+      "sourceTitle": "24/25 Bayern Munich Home S-4XL",
+      "updatedAt": "2026-10-14T02:27:16.575Z"
     },
     {
       "id": "yupoo-175044975",
@@ -11627,6 +12482,49 @@
       "updatedAt": "2026-10-14T01:28:49.845Z"
     },
     {
+      "id": "yupoo-165159735",
+      "name": "24/25 Manchester City Home",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/165159735?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-manchester-city-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-manchester-city-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-manchester-city-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-manchester-city-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-manchester-city-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-manchester-city-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-manchester-city-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-manchester-city-home/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-manchester-city-home/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-manchester-city-home/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-manchester-city-home/image-10.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "24-25-manchester-city-home",
+      "siteCategory": "club",
+      "team": "Manchester City",
+      "league": "Premier League",
+      "country": "England",
+      "season": "2024/25",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Premier League",
+        "Manchester City"
+      ],
+      "sourceTitle": "24/25 Manchester City Home S-4XL",
+      "updatedAt": "2026-10-14T02:27:55.484Z"
+    },
+    {
       "id": "yupoo-170679407",
       "name": "24/25 Manchester City Third Away",
       "category": "new season",
@@ -12203,6 +13101,47 @@
       ],
       "sourceTitle": "24/25 Peñarol Black S-XXL",
       "updatedAt": "2026-10-14T01:34:07.684Z"
+    },
+    {
+      "id": "yupoo-166257909",
+      "name": "24/25 Peñarol Home",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/166257909?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-penarol-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-penarol-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-penarol-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-penarol-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-penarol-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-penarol-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-penarol-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-penarol-home/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-penarol-home/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-penarol-home/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-penarol-home/image-10.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "24-25-penarol-home",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2024/25",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season"
+      ],
+      "sourceTitle": "24/25 Peñarol Home S-XXL",
+      "updatedAt": "2026-10-14T02:24:33.071Z"
     },
     {
       "id": "yupoo-212393881",
@@ -12950,6 +13889,63 @@
       ],
       "sourceTitle": "24/25 Real Madrid Blue Size S-XXL",
       "updatedAt": "2026-10-14T01:31:06.223Z"
+    },
+    {
+      "id": "yupoo-166152009",
+      "name": "24/25 Real Madrid home",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/166152009?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-real-madrid-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-real-madrid-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-real-madrid-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-real-madrid-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-real-madrid-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-real-madrid-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-real-madrid-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-real-madrid-home/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-real-madrid-home/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-real-madrid-home/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-real-madrid-home/image-10.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-real-madrid-home/image-11.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-real-madrid-home/image-12.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-real-madrid-home/image-13.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-real-madrid-home/image-14.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-real-madrid-home/image-15.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-real-madrid-home/image-16.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-real-madrid-home/image-17.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-real-madrid-home/image-18.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-real-madrid-home/image-19.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-real-madrid-home/image-20.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-real-madrid-home/image-21.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-real-madrid-home/image-22.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-real-madrid-home/image-23.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-real-madrid-home/image-24.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "24-25-real-madrid-home",
+      "siteCategory": "club",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2024/25",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "La Liga",
+        "Real Madrid"
+      ],
+      "sourceTitle": "24/25 Real Madrid home S-4XL",
+      "updatedAt": "2026-10-14T02:25:52.713Z"
     },
     {
       "id": "yupoo-181341561",
@@ -13722,6 +14718,46 @@
       ],
       "sourceTitle": "24/25 Venice Home S-XXL",
       "updatedAt": "2026-10-14T01:35:32.816Z"
+    },
+    {
+      "id": "yupoo-165159722",
+      "name": "24/25 Venice Special Edition",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/165159722?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-venice-special-edition/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-venice-special-edition/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-venice-special-edition/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-venice-special-edition/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-venice-special-edition/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-venice-special-edition/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-venice-special-edition/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-venice-special-edition/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-venice-special-edition/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "24-25-venice-special-edition",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2024/25",
+      "type": "Shirt",
+      "variant": "Special edition",
+      "sourceCategories": [
+        "new season",
+        "Serie A"
+      ],
+      "sourceTitle": "24/25 Venice Special Edition S-XXL",
+      "updatedAt": "2026-10-14T02:28:33.069Z"
     },
     {
       "id": "yupoo-181342624",
