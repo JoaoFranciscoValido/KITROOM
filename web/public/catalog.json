@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-14T03:15:48.967Z",
+  "generatedAt": "2026-10-14T03:38:45.746Z",
   "source": {
     "name": "Supplier catalogue",
     "url": "https://minkang.x.yupoo.com/albums"
   },
-  "count": 6961,
+  "count": 7011,
   "items": [
     {
       "id": "yupoo-231422616",
@@ -3088,6 +3088,47 @@
       "updatedAt": "2026-10-12T22:36:06.402Z"
     },
     {
+      "id": "yupoo-157457463",
+      "name": "2023 Switzerland Home",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/157457463?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2023-switzerland-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2023-switzerland-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2023-switzerland-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2023-switzerland-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2023-switzerland-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2023-switzerland-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2023-switzerland-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2023-switzerland-home/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2023-switzerland-home/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2023-switzerland-home/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2023-switzerland-home/image-10.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "2023-switzerland-home",
+      "siteCategory": "national",
+      "team": "Switzerland",
+      "league": "National teams",
+      "country": "Switzerland",
+      "season": "2023",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season"
+      ],
+      "sourceTitle": "2023 Switzerland Home S-4XL",
+      "updatedAt": "2026-10-14T03:19:21.845Z"
+    },
+    {
       "id": "yupoo-158025081",
       "name": "2024 Aniquiladores FC Home",
       "category": "new season",
@@ -3328,6 +3369,84 @@
       "updatedAt": "2026-10-14T01:55:43.171Z"
     },
     {
+      "id": "yupoo-155849577",
+      "name": "2024 Belgium Away",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/155849577?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-belgium-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-belgium-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-belgium-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-belgium-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-belgium-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-belgium-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-belgium-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-belgium-away/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-belgium-away/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-belgium-away/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "2024-belgium-away",
+      "siteCategory": "national",
+      "team": "Belgium",
+      "league": "National teams",
+      "country": "Belgium",
+      "season": "2024",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season"
+      ],
+      "sourceTitle": "2024 Belgium Away S-4XL",
+      "updatedAt": "2026-10-14T03:25:36.207Z"
+    },
+    {
+      "id": "yupoo-155849553",
+      "name": "2024 Belgium Home",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/155849553?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-belgium-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-belgium-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-belgium-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-belgium-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-belgium-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-belgium-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-belgium-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-belgium-home/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "2024-belgium-home",
+      "siteCategory": "national",
+      "team": "Belgium",
+      "league": "National teams",
+      "country": "Belgium",
+      "season": "2024",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season"
+      ],
+      "sourceTitle": "2024 Belgium Home S-4XL",
+      "updatedAt": "2026-10-14T03:26:03.196Z"
+    },
+    {
       "id": "yupoo-160609341",
       "name": "2024 Brazil Away",
       "category": "new season",
@@ -3446,6 +3565,86 @@
       ],
       "sourceTitle": "2024 Canada Home S-4XL",
       "updatedAt": "2026-10-14T02:23:23.204Z"
+    },
+    {
+      "id": "yupoo-157799626",
+      "name": "2024 Chile Away",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/157799626?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-chile-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-chile-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-chile-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-chile-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-chile-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-chile-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-chile-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-chile-away/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-chile-away/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-chile-away/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "2024-chile-away",
+      "siteCategory": "national",
+      "team": "Chile",
+      "league": "National teams",
+      "country": "Chile",
+      "season": "2024",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season"
+      ],
+      "sourceTitle": "2024 Chile Away S-4XL",
+      "updatedAt": "2026-10-14T03:18:06.572Z"
+    },
+    {
+      "id": "yupoo-157799610",
+      "name": "2024 Chile Home",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/157799610?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-chile-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-chile-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-chile-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-chile-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-chile-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-chile-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-chile-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-chile-home/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-chile-home/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-chile-home/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "2024-chile-home",
+      "siteCategory": "national",
+      "team": "Chile",
+      "league": "National teams",
+      "country": "Chile",
+      "season": "2024",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season"
+      ],
+      "sourceTitle": "2024 Chile Home S-4XL",
+      "updatedAt": "2026-10-14T03:18:33.844Z"
     },
     {
       "id": "yupoo-161666694",
@@ -3927,6 +4126,45 @@
       "updatedAt": "2026-10-14T03:14:37.463Z"
     },
     {
+      "id": "yupoo-156908496",
+      "name": "2024 England Training Wear",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/156908496?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-england-training-wear/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-england-training-wear/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-england-training-wear/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-england-training-wear/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-england-training-wear/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-england-training-wear/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-england-training-wear/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-england-training-wear/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-england-training-wear/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "2024-england-training-wear",
+      "siteCategory": "training",
+      "team": "England",
+      "league": "National teams",
+      "country": "England",
+      "season": "2024",
+      "type": "Training",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season"
+      ],
+      "sourceTitle": "2024 England Training Wear S-4XL",
+      "updatedAt": "2026-10-14T03:21:31.757Z"
+    },
+    {
       "id": "yupoo-163996760",
       "name": "2024 F1 Formula One S-5XL",
       "category": "newF1",
@@ -4242,6 +4480,46 @@
       ],
       "sourceTitle": "2024 F1 Formula One S-5XL",
       "updatedAt": "2026-10-11T10:02:33.161Z"
+    },
+    {
+      "id": "yupoo-156021872",
+      "name": "2024 France Away",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/156021872?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-france-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-france-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-france-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-france-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-france-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-france-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-france-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-france-away/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-france-away/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-france-away/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "2024-france-away",
+      "siteCategory": "national",
+      "team": "France",
+      "league": "National teams",
+      "country": "France",
+      "season": "2024",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season"
+      ],
+      "sourceTitle": "2024 France Away S-4XL",
+      "updatedAt": "2026-10-14T03:25:14.430Z"
     },
     {
       "id": "yupoo-155599674",
@@ -4873,6 +5151,86 @@
       "updatedAt": "2026-10-14T03:04:14.308Z"
     },
     {
+      "id": "yupoo-156163864",
+      "name": "2024 Italy Away",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/156163864?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-italy-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-italy-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-italy-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-italy-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-italy-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-italy-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-italy-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-italy-away/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-italy-away/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-italy-away/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "2024-italy-away",
+      "siteCategory": "national",
+      "team": "Italy",
+      "league": "National teams",
+      "country": "Italy",
+      "season": "2024",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season"
+      ],
+      "sourceTitle": "2024 Italy Away S-4XL",
+      "updatedAt": "2026-10-14T03:23:55.842Z"
+    },
+    {
+      "id": "yupoo-157799645",
+      "name": "2024 Italy Home",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/157799645?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-italy-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-italy-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-italy-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-italy-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-italy-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-italy-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-italy-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-italy-home/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-italy-home/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-italy-home/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "2024-italy-home",
+      "siteCategory": "national",
+      "team": "Italy",
+      "league": "National teams",
+      "country": "Italy",
+      "season": "2024",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season"
+      ],
+      "sourceTitle": "2024 Italy Home S-4XL",
+      "updatedAt": "2026-10-14T03:17:37.560Z"
+    },
+    {
       "id": "yupoo-166257362",
       "name": "2024 Italy Special Edition",
       "category": "new season",
@@ -4952,6 +5310,45 @@
       "updatedAt": "2026-10-14T02:16:55.651Z"
     },
     {
+      "id": "yupoo-155849536",
+      "name": "2024 Jamaica Black",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/155849536?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-jamaica-black/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-jamaica-black/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-jamaica-black/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-jamaica-black/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-jamaica-black/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-jamaica-black/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-jamaica-black/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-jamaica-black/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-jamaica-black/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "2024-jamaica-black",
+      "siteCategory": "national",
+      "team": "Jamaica",
+      "league": "National teams",
+      "country": "Jamaica",
+      "season": "2024",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season"
+      ],
+      "sourceTitle": "2024 Jamaica Black S-4XL",
+      "updatedAt": "2026-10-14T03:26:23.672Z"
+    },
+    {
       "id": "yupoo-167549904",
       "name": "2024 Jamaica Home",
       "category": "new season",
@@ -4990,6 +5387,45 @@
       ],
       "sourceTitle": "2024 Jamaica Home S-4XL",
       "updatedAt": "2026-10-14T02:10:56.684Z"
+    },
+    {
+      "id": "yupoo-156908517",
+      "name": "2024 Jamaica Training Wear",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/156908517?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-jamaica-training-wear/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-jamaica-training-wear/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-jamaica-training-wear/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-jamaica-training-wear/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-jamaica-training-wear/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-jamaica-training-wear/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-jamaica-training-wear/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-jamaica-training-wear/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-jamaica-training-wear/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "2024-jamaica-training-wear",
+      "siteCategory": "training",
+      "team": "Jamaica",
+      "league": "National teams",
+      "country": "Jamaica",
+      "season": "2024",
+      "type": "Training",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season"
+      ],
+      "sourceTitle": "2024 Jamaica Training Wear S-4XL",
+      "updatedAt": "2026-10-14T03:21:10.823Z"
     },
     {
       "id": "yupoo-160609333",
@@ -6568,6 +7004,124 @@
       "updatedAt": "2026-10-14T03:15:15.815Z"
     },
     {
+      "id": "yupoo-157799503",
+      "name": "2024 Japan Special Edition",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/157799503?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-41/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-41/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-41/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-41/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-41/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-41/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-41/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-41/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-41/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-41/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "2024-japan-special-edition-41",
+      "siteCategory": "national",
+      "team": "Japan",
+      "league": "National teams",
+      "country": "Japan",
+      "season": "2024",
+      "type": "Shirt",
+      "variant": "Special edition",
+      "sourceCategories": [
+        "new season"
+      ],
+      "sourceTitle": "2024 Japan Special Edition S-XXL",
+      "updatedAt": "2026-10-14T03:19:02.795Z"
+    },
+    {
+      "id": "yupoo-155688705",
+      "name": "2024 Japan Special Edition",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/155688705?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-42/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-42/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-42/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-42/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-42/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-japan-special-edition-42/image-05.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "2024-japan-special-edition-42",
+      "siteCategory": "national",
+      "team": "Japan",
+      "league": "National teams",
+      "country": "Japan",
+      "season": "2024",
+      "type": "Shirt",
+      "variant": "Special edition",
+      "sourceCategories": [
+        "new season"
+      ],
+      "sourceTitle": "2024 Japan Special Edition S-XXL",
+      "updatedAt": "2026-10-14T03:27:11.492Z"
+    },
+    {
+      "id": "yupoo-158024858",
+      "name": "2024 kids Argentina home",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/158024858?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-kids-argentina-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-kids-argentina-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-kids-argentina-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-kids-argentina-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-kids-argentina-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-kids-argentina-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-kids-argentina-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-kids-argentina-home/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-kids-argentina-home/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-kids-argentina-home/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-kids-argentina-home/image-10.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-kids-argentina-home/image-11.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "2024-kids-argentina-home",
+      "siteCategory": "national",
+      "team": "Argentina",
+      "league": "National teams",
+      "country": "Argentina",
+      "season": "2024",
+      "type": "Shirt",
+      "variant": "Kids",
+      "sourceCategories": [
+        "new season"
+      ],
+      "sourceTitle": "2024 kids Argentina home size: 16-28",
+      "updatedAt": "2026-10-14T03:16:44.545Z"
+    },
+    {
       "id": "yupoo-170004970",
       "name": "2024 Kids Brazil Special Edition",
       "category": "new season",
@@ -6690,6 +7244,84 @@
       ],
       "sourceTitle": "2024 Kids Brazil Special Edition Size: 16-28",
       "updatedAt": "2026-10-14T01:52:14.677Z"
+    },
+    {
+      "id": "yupoo-158024867",
+      "name": "2024 kids Chile home",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/158024867?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-kids-chile-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-kids-chile-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-kids-chile-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-kids-chile-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-kids-chile-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-kids-chile-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-kids-chile-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-kids-chile-home/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "2024-kids-chile-home",
+      "siteCategory": "national",
+      "team": "Chile",
+      "league": "National teams",
+      "country": "Chile",
+      "season": "2024",
+      "type": "Shirt",
+      "variant": "Kids",
+      "sourceCategories": [
+        "new season"
+      ],
+      "sourceTitle": "2024 kids Chile home size: 16-28",
+      "updatedAt": "2026-10-14T03:16:21.370Z"
+    },
+    {
+      "id": "yupoo-156908539",
+      "name": "2024 Mexico Away",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/156908539?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-mexico-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-mexico-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-mexico-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-mexico-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-mexico-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-mexico-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-mexico-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-mexico-away/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-mexico-away/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-mexico-away/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "2024-mexico-away",
+      "siteCategory": "national",
+      "team": "Mexico",
+      "league": "National teams",
+      "country": "Mexico",
+      "season": "2024",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season"
+      ],
+      "sourceTitle": "2024 Mexico Away S-4XL",
+      "updatedAt": "2026-10-14T03:20:41.707Z"
     },
     {
       "id": "yupoo-168241478",
@@ -6888,6 +7520,45 @@
       ],
       "sourceTitle": "2024 Netherlands Home S-4XL",
       "updatedAt": "2026-10-14T02:56:13.055Z"
+    },
+    {
+      "id": "yupoo-155688723",
+      "name": "2024 Netherlands Special Edition",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/155688723?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-netherlands-special-edition/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-netherlands-special-edition/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-netherlands-special-edition/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-netherlands-special-edition/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-netherlands-special-edition/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-netherlands-special-edition/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-netherlands-special-edition/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-netherlands-special-edition/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-netherlands-special-edition/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "2024-netherlands-special-edition",
+      "siteCategory": "national",
+      "team": "Netherlands",
+      "league": "National teams",
+      "country": "Netherlands",
+      "season": "2024",
+      "type": "Shirt",
+      "variant": "Special edition",
+      "sourceCategories": [
+        "new season"
+      ],
+      "sourceTitle": "2024 Netherlands Special Edition S-XXL",
+      "updatedAt": "2026-10-14T03:26:51.701Z"
     },
     {
       "id": "yupoo-166257950",
@@ -7720,6 +8391,46 @@
       "updatedAt": "2026-10-14T03:02:10.750Z"
     },
     {
+      "id": "yupoo-155599658",
+      "name": "2024 Portugal Away",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/155599658?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-portugal-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-portugal-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-portugal-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-portugal-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-portugal-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-portugal-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-portugal-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-portugal-away/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-portugal-away/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-portugal-away/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "2024-portugal-away",
+      "siteCategory": "national",
+      "team": "Portugal",
+      "league": "National teams",
+      "country": "Portugal",
+      "season": "2024",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season"
+      ],
+      "sourceTitle": "2024 Portugal Away S-4XL",
+      "updatedAt": "2026-10-14T03:32:56.169Z"
+    },
+    {
       "id": "yupoo-169091753",
       "name": "2024 Portugal Goalkeeper Blue",
       "category": "new season",
@@ -8226,6 +8937,84 @@
       "updatedAt": "2026-10-14T02:06:47.114Z"
     },
     {
+      "id": "yupoo-156410336",
+      "name": "2024 Venezuela Away",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/156410336?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-venezuela-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-venezuela-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-venezuela-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-venezuela-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-venezuela-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-venezuela-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-venezuela-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-venezuela-away/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-venezuela-away/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "2024-venezuela-away",
+      "siteCategory": "national",
+      "team": "Venezuela",
+      "league": "National teams",
+      "country": "Venezuela",
+      "season": "2024",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season"
+      ],
+      "sourceTitle": "2024 Venezuela Away S-4XL",
+      "updatedAt": "2026-10-14T03:23:08.813Z"
+    },
+    {
+      "id": "yupoo-156163854",
+      "name": "2024 Venezuela Home",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/156163854?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-venezuela-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-venezuela-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-venezuela-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-venezuela-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-venezuela-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-venezuela-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-venezuela-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-venezuela-home/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-venezuela-home/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "2024-venezuela-home",
+      "siteCategory": "national",
+      "team": "Venezuela",
+      "league": "National teams",
+      "country": "Venezuela",
+      "season": "2024",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season"
+      ],
+      "sourceTitle": "2024 Venezuela Home S-XXL",
+      "updatedAt": "2026-10-14T03:24:20.313Z"
+    },
+    {
       "id": "yupoo-158989338",
       "name": "2024 Wales Away",
       "category": "new season",
@@ -8303,6 +9092,41 @@
       "updatedAt": "2026-10-14T03:05:07.478Z"
     },
     {
+      "id": "yupoo-154990479",
+      "name": "2024/25 Flamengo home+All sponsors",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/154990479?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-25-flamengo-home-all-sponsors/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-25-flamengo-home-all-sponsors/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-25-flamengo-home-all-sponsors/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "2024-25-flamengo-home-all-sponsors",
+      "siteCategory": "club",
+      "team": "Flamengo",
+      "league": "Brasileiro Série A",
+      "country": "Brazil",
+      "season": "2024/25",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Brasileiro Série A",
+        "Flamengo"
+      ],
+      "sourceTitle": "2024/25 Flamengo home+All sponsors",
+      "updatedAt": "2026-10-14T03:29:08.916Z"
+    },
+    {
       "id": "yupoo-181124652",
       "name": "2024/25 Flamengo Special Edition Jersey",
       "category": "new season",
@@ -8340,6 +9164,200 @@
       ],
       "sourceTitle": "2024/25 Flamengo Special Edition Jersey S-4XL",
       "updatedAt": "2026-10-14T01:32:19.901Z"
+    },
+    {
+      "id": "yupoo-154990521",
+      "name": "2024/25 Palmeiras away +All sponsors",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/154990521?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-25-palmeiras-away-all-sponsors/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-25-palmeiras-away-all-sponsors/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-25-palmeiras-away-all-sponsors/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-25-palmeiras-away-all-sponsors/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-25-palmeiras-away-all-sponsors/image-04.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "2024-25-palmeiras-away-all-sponsors",
+      "siteCategory": "club",
+      "team": "Palmeiras",
+      "league": "Brasileiro Série A",
+      "country": "Brazil",
+      "season": "2024/25",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Brasileiro Série A",
+        "Palmeiras"
+      ],
+      "sourceTitle": "2024/25 Palmeiras away +All sponsors",
+      "updatedAt": "2026-10-14T03:30:31.297Z"
+    },
+    {
+      "id": "yupoo-154990397",
+      "name": "2024/25 Palmeiras home S-XXXXL",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/154990397?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-25-palmeiras-home-s-xxxxl/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-25-palmeiras-home-s-xxxxl/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-25-palmeiras-home-s-xxxxl/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-25-palmeiras-home-s-xxxxl/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-25-palmeiras-home-s-xxxxl/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-25-palmeiras-home-s-xxxxl/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-25-palmeiras-home-s-xxxxl/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-25-palmeiras-home-s-xxxxl/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-25-palmeiras-home-s-xxxxl/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-25-palmeiras-home-s-xxxxl/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "2024-25-palmeiras-home-s-xxxxl",
+      "siteCategory": "club",
+      "team": "Palmeiras",
+      "league": "Brasileiro Série A",
+      "country": "Brazil",
+      "season": "2024/25",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Brasileiro Série A",
+        "Palmeiras"
+      ],
+      "sourceTitle": "2024/25 Palmeiras home S-XXXXL",
+      "updatedAt": "2026-10-14T03:31:05.176Z"
+    },
+    {
+      "id": "yupoo-154990502",
+      "name": "2024/25 Palmeiras home+All sponsors",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/154990502?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-25-palmeiras-home-all-sponsors/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-25-palmeiras-home-all-sponsors/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-25-palmeiras-home-all-sponsors/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-25-palmeiras-home-all-sponsors/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-25-palmeiras-home-all-sponsors/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-25-palmeiras-home-all-sponsors/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-25-palmeiras-home-all-sponsors/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-25-palmeiras-home-all-sponsors/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-25-palmeiras-home-all-sponsors/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-25-palmeiras-home-all-sponsors/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-25-palmeiras-home-all-sponsors/image-10.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-25-palmeiras-home-all-sponsors/image-11.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-25-palmeiras-home-all-sponsors/image-12.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "2024-25-palmeiras-home-all-sponsors",
+      "siteCategory": "club",
+      "team": "Palmeiras",
+      "league": "Brasileiro Série A",
+      "country": "Brazil",
+      "season": "2024/25",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Brasileiro Série A",
+        "Palmeiras"
+      ],
+      "sourceTitle": "2024/25 Palmeiras home+All sponsors",
+      "updatedAt": "2026-10-14T03:31:51.919Z"
+    },
+    {
+      "id": "yupoo-156521130",
+      "name": "2024/25 sao paulo away+All sponsors",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/156521130?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-25-sao-paulo-away-all-sponsors/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-25-sao-paulo-away-all-sponsors/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-25-sao-paulo-away-all-sponsors/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "2024-25-sao-paulo-away-all-sponsors",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2024/25",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Brasileiro Série A",
+        "São Paulo"
+      ],
+      "sourceTitle": "2024/25 sao paulo away+All sponsors",
+      "updatedAt": "2026-10-14T03:21:44.810Z"
+    },
+    {
+      "id": "yupoo-156521090",
+      "name": "2024/25 sao paulo home+All sponsors",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/156521090?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-25-sao-paulo-home-all-sponsors/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-25-sao-paulo-home-all-sponsors/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2024-25-sao-paulo-home-all-sponsors/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "2024-25-sao-paulo-home-all-sponsors",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2024/25",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Brasileiro Série A",
+        "São Paulo"
+      ],
+      "sourceTitle": "2024/25 sao paulo home+All sponsors",
+      "updatedAt": "2026-10-14T03:22:32.073Z"
     },
     {
       "id": "yupoo-190503370",
@@ -12452,6 +13470,49 @@
       "updatedAt": "2026-10-13T21:59:47.558Z"
     },
     {
+      "id": "yupoo-156908597",
+      "name": "23/24 AC Milan Beige",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/156908597?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/23-24-ac-milan-beige/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/23-24-ac-milan-beige/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/23-24-ac-milan-beige/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/23-24-ac-milan-beige/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/23-24-ac-milan-beige/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/23-24-ac-milan-beige/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/23-24-ac-milan-beige/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/23-24-ac-milan-beige/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/23-24-ac-milan-beige/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/23-24-ac-milan-beige/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/23-24-ac-milan-beige/image-10.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "23-24-ac-milan-beige",
+      "siteCategory": "club",
+      "team": "AC Milan",
+      "league": "Serie A",
+      "country": "Italy",
+      "season": "2023/24",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Serie A",
+        "AC Milan"
+      ],
+      "sourceTitle": "23/24 AC Milan Beige S-4XL",
+      "updatedAt": "2026-10-14T03:20:20.201Z"
+    },
+    {
       "id": "yupoo-162018944",
       "name": "23/24 AC Milan black",
       "category": "new season",
@@ -12711,6 +13772,48 @@
       ],
       "sourceTitle": "23/24 Real Madrid Home",
       "updatedAt": "2026-10-14T02:26:43.554Z"
+    },
+    {
+      "id": "yupoo-156163805",
+      "name": "23/24 Sporting Lisbon fourth away",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/156163805?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/23-24-sporting-lisbon-fourth-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/23-24-sporting-lisbon-fourth-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/23-24-sporting-lisbon-fourth-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/23-24-sporting-lisbon-fourth-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/23-24-sporting-lisbon-fourth-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/23-24-sporting-lisbon-fourth-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/23-24-sporting-lisbon-fourth-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/23-24-sporting-lisbon-fourth-away/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/23-24-sporting-lisbon-fourth-away/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/23-24-sporting-lisbon-fourth-away/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "23-24-sporting-lisbon-fourth-away",
+      "siteCategory": "club",
+      "team": "Sporting CP",
+      "league": "Liga Portugal",
+      "country": "Portugal",
+      "season": "2023/24",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Primeira Liga",
+        "Sporting CP"
+      ],
+      "sourceTitle": "23/24 Sporting Lisbon fourth away S-XXL",
+      "updatedAt": "2026-10-14T03:24:41.750Z"
     },
     {
       "id": "yupoo-167395834",
@@ -14512,6 +15615,49 @@
       "updatedAt": "2026-10-14T02:48:42.863Z"
     },
     {
+      "id": "yupoo-158024799",
+      "name": "24/25 Flamengo joint version",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/158024799?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-flamengo-joint-version/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-flamengo-joint-version/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-flamengo-joint-version/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-flamengo-joint-version/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-flamengo-joint-version/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-flamengo-joint-version/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-flamengo-joint-version/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-flamengo-joint-version/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-flamengo-joint-version/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-flamengo-joint-version/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-flamengo-joint-version/image-10.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "24-25-flamengo-joint-version",
+      "siteCategory": "club",
+      "team": "Flamengo",
+      "league": "Brasileiro Série A",
+      "country": "Brazil",
+      "season": "2024/25",
+      "type": "Shirt",
+      "variant": "Special edition",
+      "sourceCategories": [
+        "new season",
+        "Brasileiro Série A",
+        "Flamengo"
+      ],
+      "sourceTitle": "24/25 Flamengo joint version S-XXL",
+      "updatedAt": "2026-10-14T03:17:06.753Z"
+    },
+    {
       "id": "yupoo-188837576",
       "name": "24/25 Flamengo Limited Edition Goalkeeper Yellow Jersey",
       "category": "new season",
@@ -15614,6 +16760,45 @@
       "updatedAt": "2026-10-14T01:50:17.763Z"
     },
     {
+      "id": "yupoo-155688674",
+      "name": "24/25 Manchester City Year of the Dragon Special Edition",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/155688674?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-manchester-city-year-of-the-dragon-special-edition/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-manchester-city-year-of-the-dragon-special-edition/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-manchester-city-year-of-the-dragon-special-edition/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-manchester-city-year-of-the-dragon-special-edition/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-manchester-city-year-of-the-dragon-special-edition/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-manchester-city-year-of-the-dragon-special-edition/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-manchester-city-year-of-the-dragon-special-edition/image-06.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "24-25-manchester-city-year-of-the-dragon-special-edition",
+      "siteCategory": "club",
+      "team": "Manchester City",
+      "league": "Premier League",
+      "country": "England",
+      "season": "2024/25",
+      "type": "Shirt",
+      "variant": "Special edition",
+      "sourceCategories": [
+        "new season",
+        "Premier League",
+        "Manchester City"
+      ],
+      "sourceTitle": "24/25 Manchester City Year of the Dragon Special Edition S-4XL",
+      "updatedAt": "2026-10-14T03:27:27.665Z"
+    },
+    {
       "id": "yupoo-163996657",
       "name": "24/25 Manchester United away",
       "category": "new season",
@@ -15861,6 +17046,89 @@
       ],
       "sourceTitle": "24/25 Marseille Special Edition White S-4xL",
       "updatedAt": "2026-10-14T01:37:24.279Z"
+    },
+    {
+      "id": "yupoo-155599588",
+      "name": "24/25 Miami away",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/155599588?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-miami-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-miami-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-miami-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-miami-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-miami-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-miami-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-miami-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-miami-away/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-miami-away/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-miami-away/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "24-25-miami-away",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2024/25",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "MLS",
+        "Inter Miami CF"
+      ],
+      "sourceTitle": "24/25 Miami away S-4XL",
+      "updatedAt": "2026-10-14T03:32:31.329Z"
+    },
+    {
+      "id": "yupoo-155688607",
+      "name": "24/25 Miami Home",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/155688607?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-miami-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-miami-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-miami-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-miami-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-miami-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-miami-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-miami-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-miami-home/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-miami-home/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "24-25-miami-home",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2024/25",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "MLS",
+        "Inter Miami CF"
+      ],
+      "sourceTitle": "24/25 Miami Home S-4XL",
+      "updatedAt": "2026-10-14T03:27:57.198Z"
     },
     {
       "id": "yupoo-172638243",
@@ -16268,6 +17536,47 @@
       ],
       "sourceTitle": "24/25 Palestinian Away S-XXL",
       "updatedAt": "2026-10-14T01:58:33.839Z"
+    },
+    {
+      "id": "yupoo-154990433",
+      "name": "24/25 Palmeiras away S-XXXXL",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/154990433?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-palmeiras-away-s-xxxxl/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-palmeiras-away-s-xxxxl/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-palmeiras-away-s-xxxxl/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-palmeiras-away-s-xxxxl/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-palmeiras-away-s-xxxxl/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-palmeiras-away-s-xxxxl/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-palmeiras-away-s-xxxxl/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-palmeiras-away-s-xxxxl/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-palmeiras-away-s-xxxxl/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "24-25-palmeiras-away-s-xxxxl",
+      "siteCategory": "club",
+      "team": "Palmeiras",
+      "league": "Brasileiro Série A",
+      "country": "Brazil",
+      "season": "2024/25",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Brasileiro Série A",
+        "Palmeiras"
+      ],
+      "sourceTitle": "24/25 Palmeiras away S-XXXXL",
+      "updatedAt": "2026-10-14T03:29:49.264Z"
     },
     {
       "id": "yupoo-163508809",
@@ -17846,6 +19155,86 @@
       "updatedAt": "2026-10-14T02:13:28.131Z"
     },
     {
+      "id": "yupoo-156521118",
+      "name": "24/25 São Paulo Away",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/156521118?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-sao-paulo-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-sao-paulo-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-sao-paulo-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-sao-paulo-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-sao-paulo-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-sao-paulo-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-sao-paulo-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-sao-paulo-away/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "24-25-sao-paulo-away",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2024/25",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Brasileiro Série A",
+        "São Paulo"
+      ],
+      "sourceTitle": "24/25 São Paulo Away S-4XL",
+      "updatedAt": "2026-10-14T03:22:13.465Z"
+    },
+    {
+      "id": "yupoo-156410347",
+      "name": "24/25 Sao Paulo Home",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/156410347?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-sao-paulo-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-sao-paulo-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-sao-paulo-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-sao-paulo-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-sao-paulo-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-sao-paulo-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-sao-paulo-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-sao-paulo-home/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "24-25-sao-paulo-home",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2024/25",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Brasileiro Série A",
+        "São Paulo"
+      ],
+      "sourceTitle": "24/25 Sao Paulo Home S-4XL",
+      "updatedAt": "2026-10-14T03:22:48.458Z"
+    },
+    {
       "id": "yupoo-158025037",
       "name": "24/25 Sao Paulo Pre-match Suit",
       "category": "new season",
@@ -17925,6 +19314,46 @@
       ],
       "sourceTitle": "24/25 Sao Paulo Training Clothes S-4XL",
       "updatedAt": "2026-10-14T02:46:58.743Z"
+    },
+    {
+      "id": "yupoo-156301291",
+      "name": "24/25 Shorts flamengo home",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/156301291?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-shorts-flamengo-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-shorts-flamengo-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-shorts-flamengo-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-shorts-flamengo-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-shorts-flamengo-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-shorts-flamengo-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-shorts-flamengo-home/image-06.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "24-25-shorts-flamengo-home",
+      "siteCategory": "shorts",
+      "team": "Flamengo",
+      "league": "Brasileiro Série A",
+      "country": "Brazil",
+      "season": "2024/25",
+      "type": "Shorts",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "Shorts",
+        "Brasileiro Série A",
+        "Flamengo"
+      ],
+      "sourceTitle": "24/25 Shorts flamengo home S-XXL",
+      "updatedAt": "2026-10-14T03:23:35.210Z"
     },
     {
       "id": "yupoo-175045054",
@@ -18009,6 +19438,47 @@
       ],
       "sourceTitle": "24/25 Sporting Lisbon home S-XXL",
       "updatedAt": "2026-10-14T02:38:08.264Z"
+    },
+    {
+      "id": "yupoo-157410653",
+      "name": "24/25 Sporting Lisbon Special Edition",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/157410653?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-sporting-lisbon-special-edition/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-sporting-lisbon-special-edition/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-sporting-lisbon-special-edition/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-sporting-lisbon-special-edition/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-sporting-lisbon-special-edition/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-sporting-lisbon-special-edition/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-sporting-lisbon-special-edition/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-sporting-lisbon-special-edition/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/24-25-sporting-lisbon-special-edition/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "24-25-sporting-lisbon-special-edition",
+      "siteCategory": "club",
+      "team": "Sporting CP",
+      "league": "Liga Portugal",
+      "country": "Portugal",
+      "season": "2024/25",
+      "type": "Shirt",
+      "variant": "Special edition",
+      "sourceCategories": [
+        "new season",
+        "Primeira Liga",
+        "Sporting CP"
+      ],
+      "sourceTitle": "24/25 Sporting Lisbon Special Edition S-4XL",
+      "updatedAt": "2026-10-14T03:19:51.249Z"
     },
     {
       "id": "yupoo-166258083",
@@ -112116,6 +113586,54 @@
       "updatedAt": "2026-10-11T12:16:54.925Z"
     },
     {
+      "id": "yupoo-154990374",
+      "name": "Flamengo 24/25 home",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/154990374?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-24-25-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-24-25-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-24-25-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-24-25-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-24-25-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-24-25-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-24-25-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-24-25-home/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-24-25-home/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-24-25-home/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-24-25-home/image-10.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-24-25-home/image-11.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-24-25-home/image-12.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-24-25-home/image-13.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/flamengo-24-25-home/image-14.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "flamengo-24-25-home",
+      "siteCategory": "club",
+      "team": "Flamengo",
+      "league": "Brasileiro Série A",
+      "country": "Brazil",
+      "season": "2024/25",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "new season",
+        "🔥 Clearance Sale: $9/PCS, Minimum Order 5PCS 🔥",
+        "Brasileiro Série A",
+        "Flamengo"
+      ],
+      "sourceTitle": "Flamengo 24/25 home S-4XL",
+      "updatedAt": "2026-10-14T03:28:48.496Z"
+    },
+    {
       "id": "yupoo-217438726",
       "name": "Flamengo 25/26 American Football#81 Jersey Sizes",
       "category": "new season",
@@ -138998,6 +140516,48 @@
       "updatedAt": "2026-10-11T18:39:15.473Z"
     },
     {
+      "id": "yupoo-155599405",
+      "name": "kids Barcelona 05/06 home",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/155599405?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-barcelona-05-06-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-barcelona-05-06-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-barcelona-05-06-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-barcelona-05-06-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-barcelona-05-06-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-barcelona-05-06-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-barcelona-05-06-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-barcelona-05-06-home/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-barcelona-05-06-home/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "kids-barcelona-05-06-home",
+      "siteCategory": "club",
+      "team": "FC Barcelona",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2005/06",
+      "type": "Shirt",
+      "variant": "Kids",
+      "sourceCategories": [
+        "new season",
+        "⚽👦🏻kids kit size：16-28",
+        "La Liga",
+        "Barcelona"
+      ],
+      "sourceTitle": "kids Barcelona 05/06 home size: 16-28",
+      "updatedAt": "2026-10-14T03:34:12.636Z"
+    },
+    {
       "id": "yupoo-155599532",
       "name": "kids Barcelona 09/10 home",
       "category": "Retro football shirt",
@@ -139039,6 +140599,50 @@
       ],
       "sourceTitle": "kids Barcelona 09/10 home size: 16-28",
       "updatedAt": "2026-10-11T13:38:04.866Z"
+    },
+    {
+      "id": "yupoo-155599508",
+      "name": "kids Barcelona 13/14 home",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/155599508?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-barcelona-13-14-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-barcelona-13-14-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-barcelona-13-14-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-barcelona-13-14-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-barcelona-13-14-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-barcelona-13-14-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-barcelona-13-14-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-barcelona-13-14-home/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-barcelona-13-14-home/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-barcelona-13-14-home/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-barcelona-13-14-home/image-10.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "kids-barcelona-13-14-home",
+      "siteCategory": "club",
+      "team": "FC Barcelona",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2013/14",
+      "type": "Shirt",
+      "variant": "Kids",
+      "sourceCategories": [
+        "new season",
+        "⚽👦🏻kids kit size：16-28",
+        "La Liga",
+        "Barcelona"
+      ],
+      "sourceTitle": "kids Barcelona 13/14 home size: 16-28",
+      "updatedAt": "2026-10-14T03:33:26.330Z"
     },
     {
       "id": "yupoo-199559482",
@@ -139124,6 +140728,48 @@
       ],
       "sourceTitle": "kids Barcelona 95/97 home size: 16-28",
       "updatedAt": "2026-10-11T18:38:26.365Z"
+    },
+    {
+      "id": "yupoo-155599433",
+      "name": "kids Barcelona12/13 home",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/155599433?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-barcelona12-13-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-barcelona12-13-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-barcelona12-13-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-barcelona12-13-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-barcelona12-13-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-barcelona12-13-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-barcelona12-13-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-barcelona12-13-home/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-barcelona12-13-home/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "kids-barcelona12-13-home",
+      "siteCategory": "club",
+      "team": "FC Barcelona",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2012/13",
+      "type": "Shirt",
+      "variant": "Kids",
+      "sourceCategories": [
+        "new season",
+        "⚽👦🏻kids kit size：16-28",
+        "La Liga",
+        "Barcelona"
+      ],
+      "sourceTitle": "kids Barcelona12/13 home size: 16-28",
+      "updatedAt": "2026-10-14T03:33:53.801Z"
     },
     {
       "id": "yupoo-199559288",
@@ -139332,6 +140978,46 @@
       ],
       "sourceTitle": "kids Brazil 2004 home size: 16-28",
       "updatedAt": "2026-10-11T18:33:33.041Z"
+    },
+    {
+      "id": "yupoo-155598822",
+      "name": "kids Brazil2002 home",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/155598822?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-brazil2002-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-brazil2002-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-brazil2002-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-brazil2002-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-brazil2002-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-brazil2002-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-brazil2002-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-brazil2002-home/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-brazil2002-home/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "kids-brazil2002-home",
+      "siteCategory": "national",
+      "team": "Brazil",
+      "league": "National teams",
+      "country": "Brazil",
+      "season": "",
+      "type": "Shirt",
+      "variant": "Kids",
+      "sourceCategories": [
+        "new season",
+        "⚽👦🏻kids kit size：16-28"
+      ],
+      "sourceTitle": "kids Brazil2002 home size: 16-28",
+      "updatedAt": "2026-10-14T03:38:45.737Z"
     },
     {
       "id": "yupoo-161463221",
@@ -139672,6 +141358,206 @@
       ],
       "sourceTitle": "kids France 1998 away size: 16-28",
       "updatedAt": "2026-10-11T18:17:02.045Z"
+    },
+    {
+      "id": "yupoo-155598856",
+      "name": "kids France 1998 home",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/155598856?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-france-1998-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-france-1998-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-france-1998-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-france-1998-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-france-1998-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-france-1998-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-france-1998-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-france-1998-home/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-france-1998-home/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-france-1998-home/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "kids-france-1998-home",
+      "siteCategory": "national",
+      "team": "France",
+      "league": "National teams",
+      "country": "France",
+      "season": "1998",
+      "type": "Shirt",
+      "variant": "Kids",
+      "sourceCategories": [
+        "new season",
+        "⚽👦🏻kids kit size：16-28"
+      ],
+      "sourceTitle": "kids France 1998 home size: 16-28",
+      "updatedAt": "2026-10-14T03:38:14.730Z"
+    },
+    {
+      "id": "yupoo-155598901",
+      "name": "kids Germany 1990 home",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/155598901?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-germany-1990-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-germany-1990-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-germany-1990-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-germany-1990-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-germany-1990-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-germany-1990-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-germany-1990-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-germany-1990-home/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-germany-1990-home/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "kids-germany-1990-home",
+      "siteCategory": "national",
+      "team": "Germany",
+      "league": "National teams",
+      "country": "Germany",
+      "season": "1990",
+      "type": "Shirt",
+      "variant": "Kids",
+      "sourceCategories": [
+        "new season",
+        "⚽👦🏻kids kit size：16-28"
+      ],
+      "sourceTitle": "kids Germany 1990 home size: 16-28",
+      "updatedAt": "2026-10-14T03:37:35.382Z"
+    },
+    {
+      "id": "yupoo-155599071",
+      "name": "kids Germany 1992 away",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/155599071?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-germany-1992-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-germany-1992-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-germany-1992-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-germany-1992-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-germany-1992-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-germany-1992-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-germany-1992-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-germany-1992-away/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-germany-1992-away/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "kids-germany-1992-away",
+      "siteCategory": "national",
+      "team": "Germany",
+      "league": "National teams",
+      "country": "Germany",
+      "season": "1992",
+      "type": "Shirt",
+      "variant": "Kids",
+      "sourceCategories": [
+        "new season",
+        "⚽👦🏻kids kit size：16-28"
+      ],
+      "sourceTitle": "kids Germany 1992 away size: 16-28",
+      "updatedAt": "2026-10-14T03:36:37.097Z"
+    },
+    {
+      "id": "yupoo-155599019",
+      "name": "kids Germany 1992 home",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/155599019?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-germany-1992-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-germany-1992-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-germany-1992-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-germany-1992-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-germany-1992-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-germany-1992-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-germany-1992-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-germany-1992-home/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "kids-germany-1992-home",
+      "siteCategory": "national",
+      "team": "Germany",
+      "league": "National teams",
+      "country": "Germany",
+      "season": "1992",
+      "type": "Shirt",
+      "variant": "Kids",
+      "sourceCategories": [
+        "new season",
+        "⚽👦🏻kids kit size：16-28"
+      ],
+      "sourceTitle": "kids Germany 1992 home size: 16-28",
+      "updatedAt": "2026-10-14T03:37:07.159Z"
+    },
+    {
+      "id": "yupoo-155599104",
+      "name": "kids Germany 1994 away",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/155599104?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-germany-1994-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-germany-1994-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-germany-1994-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-germany-1994-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-germany-1994-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-germany-1994-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-germany-1994-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-germany-1994-away/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-germany-1994-away/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "kids-germany-1994-away",
+      "siteCategory": "national",
+      "team": "Germany",
+      "league": "National teams",
+      "country": "Germany",
+      "season": "1994",
+      "type": "Shirt",
+      "variant": "Kids",
+      "sourceCategories": [
+        "new season",
+        "⚽👦🏻kids kit size：16-28"
+      ],
+      "sourceTitle": "kids Germany 1994 away size: 16-28",
+      "updatedAt": "2026-10-14T03:36:09.453Z"
     },
     {
       "id": "yupoo-160609431",
@@ -140412,6 +142298,87 @@
       "updatedAt": "2026-10-11T18:35:29.162Z"
     },
     {
+      "id": "yupoo-155599127",
+      "name": "kids Mexico 1998 home",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/155599127?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-mexico-1998-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-mexico-1998-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-mexico-1998-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-mexico-1998-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-mexico-1998-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-mexico-1998-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-mexico-1998-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-mexico-1998-home/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-mexico-1998-home/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "kids-mexico-1998-home",
+      "siteCategory": "national",
+      "team": "Mexico",
+      "league": "National teams",
+      "country": "Mexico",
+      "season": "1998",
+      "type": "Shirt",
+      "variant": "Kids",
+      "sourceCategories": [
+        "new season",
+        "⚽👦🏻kids kit size：16-28"
+      ],
+      "sourceTitle": "kids Mexico 1998 home size: 16-28",
+      "updatedAt": "2026-10-14T03:35:47.231Z"
+    },
+    {
+      "id": "yupoo-155599186",
+      "name": "kids Napoli 87/88 home",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/155599186?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-napoli-87-88-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-napoli-87-88-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-napoli-87-88-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-napoli-87-88-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-napoli-87-88-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-napoli-87-88-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-napoli-87-88-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-napoli-87-88-home/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "kids-napoli-87-88-home",
+      "siteCategory": "club",
+      "team": "Napoli",
+      "league": "Serie A",
+      "country": "Italy",
+      "season": "1987/88",
+      "type": "Shirt",
+      "variant": "Kids",
+      "sourceCategories": [
+        "new season",
+        "⚽👦🏻kids kit size：16-28",
+        "Serie A",
+        "Napoli"
+      ],
+      "sourceTitle": "kids Napoli 87/88 home size: 16-28",
+      "updatedAt": "2026-10-14T03:35:20.889Z"
+    },
+    {
       "id": "yupoo-199559555",
       "name": "kids Netherlands 1988 home",
       "category": "Retro football shirt",
@@ -140663,6 +142630,47 @@
       ],
       "sourceTitle": "kids Real Madrid 13/14 home size: 16-28",
       "updatedAt": "2026-10-11T18:42:30.916Z"
+    },
+    {
+      "id": "yupoo-155599378",
+      "name": "kids Real Madrid 14/15 third away",
+      "category": "new season",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/155599378?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-real-madrid-14-15-third-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-real-madrid-14-15-third-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-real-madrid-14-15-third-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-real-madrid-14-15-third-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-real-madrid-14-15-third-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-real-madrid-14-15-third-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-real-madrid-14-15-third-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-real-madrid-14-15-third-away/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "kids-real-madrid-14-15-third-away",
+      "siteCategory": "club",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2014/15",
+      "type": "Shirt",
+      "variant": "Kids",
+      "sourceCategories": [
+        "new season",
+        "⚽👦🏻kids kit size：16-28",
+        "La Liga",
+        "Real Madrid"
+      ],
+      "sourceTitle": "kids Real Madrid 14/15 third away size: 16-28",
+      "updatedAt": "2026-10-14T03:34:42.770Z"
     },
     {
       "id": "yupoo-160609373",
