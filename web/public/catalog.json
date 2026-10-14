@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-14T05:23:33.462Z",
+  "generatedAt": "2026-10-14T05:43:40.180Z",
   "source": {
     "name": "Supplier catalogue",
     "url": "https://minkang.x.yupoo.com/albums"
   },
-  "count": 7274,
+  "count": 7349,
   "items": [
     {
       "id": "yupoo-231422616",
@@ -365,6 +365,46 @@
       ],
       "sourceTitle": "(Chinese New Year) Tang-style jacket - Sky blue S-XL",
       "updatedAt": "2026-10-13T03:29:46.481Z"
+    },
+    {
+      "id": "yupoo-14531062",
+      "name": "18-19 Barcelona home",
+      "category": "La Liga",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/14531062?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/18-19-barcelona-home/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/18-19-barcelona-home/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/18-19-barcelona-home/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/18-19-barcelona-home/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/18-19-barcelona-home/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/18-19-barcelona-home/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/18-19-barcelona-home/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/18-19-barcelona-home/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/18-19-barcelona-home/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "18-19-barcelona-home",
+      "siteCategory": "club",
+      "team": "FC Barcelona",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "La Liga",
+        "Barcelona"
+      ],
+      "sourceTitle": "18-19 Barcelona home",
+      "updatedAt": "2026-10-14T05:41:38.064Z"
     },
     {
       "id": "yupoo-64039421",
@@ -10968,6 +11008,45 @@
       "updatedAt": "2026-10-14T05:22:28.214Z"
     },
     {
+      "id": "yupoo-214510727",
+      "name": "2025 Argentina Windbreaker",
+      "category": "💨🧥Windbreaker/Training Top",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/214510727?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2025-argentina-windbreaker/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2025-argentina-windbreaker/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2025-argentina-windbreaker/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2025-argentina-windbreaker/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2025-argentina-windbreaker/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2025-argentina-windbreaker/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2025-argentina-windbreaker/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2025-argentina-windbreaker/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2025-argentina-windbreaker/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "2025-argentina-windbreaker",
+      "siteCategory": "training",
+      "team": "Argentina",
+      "league": "National teams",
+      "country": "Argentina",
+      "season": "2025",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "💨🧥Windbreaker/Training Top"
+      ],
+      "sourceTitle": "2025 Argentina Windbreaker S-XXL",
+      "updatedAt": "2026-10-14T05:33:51.333Z"
+    },
+    {
       "id": "yupoo-209106924",
       "name": "2025 Chelsea Baseball Jersey",
       "category": "new season",
@@ -12379,6 +12458,84 @@
       "updatedAt": "2026-10-14T05:21:03.602Z"
     },
     {
+      "id": "yupoo-214652694",
+      "name": "2025 German Windbreaker",
+      "category": "💨🧥Windbreaker/Training Top",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/214652694?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2025-german-windbreaker/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2025-german-windbreaker/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2025-german-windbreaker/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2025-german-windbreaker/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2025-german-windbreaker/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2025-german-windbreaker/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2025-german-windbreaker/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2025-german-windbreaker/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2025-german-windbreaker/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "2025-german-windbreaker",
+      "siteCategory": "training",
+      "team": "Germany",
+      "league": "National teams",
+      "country": "Germany",
+      "season": "2025",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "💨🧥Windbreaker/Training Top"
+      ],
+      "sourceTitle": "2025 German Windbreaker S-XXL",
+      "updatedAt": "2026-10-14T05:27:25.162Z"
+    },
+    {
+      "id": "yupoo-214510314",
+      "name": "2025 German Windbreaker",
+      "category": "💨🧥Windbreaker/Training Top",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/214510314?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2025-german-windbreaker-2/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2025-german-windbreaker-2/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2025-german-windbreaker-2/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2025-german-windbreaker-2/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2025-german-windbreaker-2/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2025-german-windbreaker-2/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2025-german-windbreaker-2/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2025-german-windbreaker-2/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2025-german-windbreaker-2/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "2025-german-windbreaker-2",
+      "siteCategory": "training",
+      "team": "Germany",
+      "league": "National teams",
+      "country": "Germany",
+      "season": "2025",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "💨🧥Windbreaker/Training Top"
+      ],
+      "sourceTitle": "2025 German Windbreaker S-XXL",
+      "updatedAt": "2026-10-14T05:35:53.077Z"
+    },
+    {
       "id": "yupoo-192384188",
       "name": "2025 Germany 125th Anniversary Blue",
       "category": "new season",
@@ -12655,6 +12812,162 @@
       ],
       "sourceTitle": "2025 Italian Trench Coat Reversible S-3XL",
       "updatedAt": "2026-10-14T05:13:50.352Z"
+    },
+    {
+      "id": "yupoo-214652312",
+      "name": "2025 Italy Windbreaker",
+      "category": "💨🧥Windbreaker/Training Top",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/214652312?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2025-italy-windbreaker/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2025-italy-windbreaker/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2025-italy-windbreaker/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2025-italy-windbreaker/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2025-italy-windbreaker/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2025-italy-windbreaker/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2025-italy-windbreaker/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2025-italy-windbreaker/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2025-italy-windbreaker/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "2025-italy-windbreaker",
+      "siteCategory": "training",
+      "team": "Italy",
+      "league": "National teams",
+      "country": "Italy",
+      "season": "2025",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "💨🧥Windbreaker/Training Top"
+      ],
+      "sourceTitle": "2025 Italy Windbreaker S-XXL",
+      "updatedAt": "2026-10-14T05:29:10.364Z"
+    },
+    {
+      "id": "yupoo-214511117",
+      "name": "2025 Italy Windbreaker",
+      "category": "💨🧥Windbreaker/Training Top",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/214511117?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2025-italy-windbreaker-2/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2025-italy-windbreaker-2/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2025-italy-windbreaker-2/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2025-italy-windbreaker-2/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2025-italy-windbreaker-2/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2025-italy-windbreaker-2/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2025-italy-windbreaker-2/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2025-italy-windbreaker-2/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2025-italy-windbreaker-2/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "2025-italy-windbreaker-2",
+      "siteCategory": "training",
+      "team": "Italy",
+      "league": "National teams",
+      "country": "Italy",
+      "season": "2025",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "💨🧥Windbreaker/Training Top"
+      ],
+      "sourceTitle": "2025 Italy Windbreaker S-XXL",
+      "updatedAt": "2026-10-14T05:31:41.717Z"
+    },
+    {
+      "id": "yupoo-214510746",
+      "name": "2025 Italy Windbreaker",
+      "category": "💨🧥Windbreaker/Training Top",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/214510746?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2025-italy-windbreaker-3/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2025-italy-windbreaker-3/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2025-italy-windbreaker-3/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2025-italy-windbreaker-3/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2025-italy-windbreaker-3/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2025-italy-windbreaker-3/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2025-italy-windbreaker-3/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2025-italy-windbreaker-3/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2025-italy-windbreaker-3/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "2025-italy-windbreaker-3",
+      "siteCategory": "training",
+      "team": "Italy",
+      "league": "National teams",
+      "country": "Italy",
+      "season": "2025",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "💨🧥Windbreaker/Training Top"
+      ],
+      "sourceTitle": "2025 Italy Windbreaker S-XXL",
+      "updatedAt": "2026-10-14T05:32:17.353Z"
+    },
+    {
+      "id": "yupoo-214510716",
+      "name": "2025 Italy Windbreaker",
+      "category": "💨🧥Windbreaker/Training Top",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/214510716?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2025-italy-windbreaker-4/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2025-italy-windbreaker-4/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2025-italy-windbreaker-4/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2025-italy-windbreaker-4/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2025-italy-windbreaker-4/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2025-italy-windbreaker-4/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2025-italy-windbreaker-4/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2025-italy-windbreaker-4/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2025-italy-windbreaker-4/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "2025-italy-windbreaker-4",
+      "siteCategory": "training",
+      "team": "Italy",
+      "league": "National teams",
+      "country": "Italy",
+      "season": "2025",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "💨🧥Windbreaker/Training Top"
+      ],
+      "sourceTitle": "2025 Italy Windbreaker S-XXL",
+      "updatedAt": "2026-10-14T05:35:02.547Z"
     },
     {
       "id": "yupoo-214780457",
@@ -13179,6 +13492,48 @@
       ],
       "sourceTitle": "2025 Mexico Trench Coat Reversible S-3XL",
       "updatedAt": "2026-10-14T05:23:13.579Z"
+    },
+    {
+      "id": "yupoo-214652710",
+      "name": "2025 Mexico Trench Coat Reversible",
+      "category": "💨🧥Windbreaker/Training Top",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/214652710?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2025-mexico-trench-coat-reversible-2/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2025-mexico-trench-coat-reversible-2/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2025-mexico-trench-coat-reversible-2/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2025-mexico-trench-coat-reversible-2/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2025-mexico-trench-coat-reversible-2/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2025-mexico-trench-coat-reversible-2/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2025-mexico-trench-coat-reversible-2/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2025-mexico-trench-coat-reversible-2/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2025-mexico-trench-coat-reversible-2/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2025-mexico-trench-coat-reversible-2/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2025-mexico-trench-coat-reversible-2/image-10.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/2025-mexico-trench-coat-reversible-2/image-11.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "2025-mexico-trench-coat-reversible-2",
+      "siteCategory": "training",
+      "team": "Mexico",
+      "league": "National teams",
+      "country": "Mexico",
+      "season": "2025",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "💨🧥Windbreaker/Training Top"
+      ],
+      "sourceTitle": "2025 Mexico Trench Coat Reversible S-3XL",
+      "updatedAt": "2026-10-14T05:25:34.470Z"
     },
     {
       "id": "yupoo-193672593",
@@ -28262,6 +28617,47 @@
       "updatedAt": "2026-10-14T05:11:36.066Z"
     },
     {
+      "id": "yupoo-214652324",
+      "name": "25/26 Americas Team Windbreaker",
+      "category": "💨🧥Windbreaker/Training Top",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/214652324?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-americas-team-windbreaker/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-americas-team-windbreaker/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-americas-team-windbreaker/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-americas-team-windbreaker/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-americas-team-windbreaker/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-americas-team-windbreaker/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-americas-team-windbreaker/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-americas-team-windbreaker/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-americas-team-windbreaker/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-americas-team-windbreaker",
+      "siteCategory": "training",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2025/26",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "💨🧥Windbreaker/Training Top",
+        "LIGA MX",
+        "America"
+      ],
+      "sourceTitle": "25/26 Americas Team Windbreaker S-XXL",
+      "updatedAt": "2026-10-14T05:27:59.105Z"
+    },
+    {
       "id": "yupoo-189378857",
       "name": "25/26 Americas Third Special Edition",
       "category": "new season",
@@ -28654,6 +29050,375 @@
       ],
       "sourceTitle": "25/26 Arsenal Trench Coat Reversible S-3XL",
       "updatedAt": "2026-10-14T05:23:33.454Z"
+    },
+    {
+      "id": "yupoo-214652306",
+      "name": "25／26 Arsenal Windbreaker",
+      "category": "💨🧥Windbreaker/Training Top",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/214652306?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-arsenal-windbreaker",
+      "siteCategory": "training",
+      "team": "Arsenal",
+      "league": "Premier League",
+      "country": "England",
+      "season": "",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "💨🧥Windbreaker/Training Top",
+        "Premier League",
+        "Arsenal"
+      ],
+      "sourceTitle": "25／26 Arsenal Windbreaker S-XXL",
+      "updatedAt": "2026-10-14T05:29:58.713Z"
+    },
+    {
+      "id": "yupoo-214652273",
+      "name": "25／26 Arsenal Windbreaker",
+      "category": "💨🧥Windbreaker/Training Top",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/214652273?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker-2/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker-2/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker-2/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker-2/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker-2/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker-2/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker-2/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker-2/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker-2/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-arsenal-windbreaker-2",
+      "siteCategory": "training",
+      "team": "Arsenal",
+      "league": "Premier League",
+      "country": "England",
+      "season": "",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "💨🧥Windbreaker/Training Top",
+        "Premier League",
+        "Arsenal"
+      ],
+      "sourceTitle": "25／26 Arsenal Windbreaker S-XXL",
+      "updatedAt": "2026-10-14T05:30:15.988Z"
+    },
+    {
+      "id": "yupoo-214652201",
+      "name": "25／26 Arsenal Windbreaker",
+      "category": "💨🧥Windbreaker/Training Top",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/214652201?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker-3/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker-3/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker-3/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker-3/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker-3/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker-3/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker-3/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker-3/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker-3/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-arsenal-windbreaker-3",
+      "siteCategory": "training",
+      "team": "Arsenal",
+      "league": "Premier League",
+      "country": "England",
+      "season": "",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "💨🧥Windbreaker/Training Top",
+        "Premier League",
+        "Arsenal"
+      ],
+      "sourceTitle": "25／26 Arsenal Windbreaker S-XXL",
+      "updatedAt": "2026-10-14T05:30:31.847Z"
+    },
+    {
+      "id": "yupoo-214511127",
+      "name": "25／26 Arsenal Windbreaker",
+      "category": "💨🧥Windbreaker/Training Top",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/214511127?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker-4/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker-4/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker-4/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker-4/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker-4/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker-4/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker-4/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker-4/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker-4/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-arsenal-windbreaker-4",
+      "siteCategory": "training",
+      "team": "Arsenal",
+      "league": "Premier League",
+      "country": "England",
+      "season": "",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "💨🧥Windbreaker/Training Top",
+        "Premier League",
+        "Arsenal"
+      ],
+      "sourceTitle": "25／26 Arsenal Windbreaker S-XXL",
+      "updatedAt": "2026-10-14T05:31:06.255Z"
+    },
+    {
+      "id": "yupoo-214510735",
+      "name": "25／26 Arsenal Windbreaker",
+      "category": "💨🧥Windbreaker/Training Top",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/214510735?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker-5/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker-5/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker-5/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker-5/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker-5/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker-5/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker-5/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker-5/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker-5/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-arsenal-windbreaker-5",
+      "siteCategory": "training",
+      "team": "Arsenal",
+      "league": "Premier League",
+      "country": "England",
+      "season": "",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "💨🧥Windbreaker/Training Top",
+        "Premier League",
+        "Arsenal"
+      ],
+      "sourceTitle": "25／26 Arsenal Windbreaker S-XXL",
+      "updatedAt": "2026-10-14T05:33:11.063Z"
+    },
+    {
+      "id": "yupoo-214510309",
+      "name": "25／26 Arsenal Windbreaker",
+      "category": "💨🧥Windbreaker/Training Top",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/214510309?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker-6/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker-6/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker-6/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker-6/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker-6/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker-6/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker-6/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker-6/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker-6/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-arsenal-windbreaker-6",
+      "siteCategory": "training",
+      "team": "Arsenal",
+      "league": "Premier League",
+      "country": "England",
+      "season": "",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "💨🧥Windbreaker/Training Top",
+        "Premier League",
+        "Arsenal"
+      ],
+      "sourceTitle": "25／26 Arsenal Windbreaker S-XXL",
+      "updatedAt": "2026-10-14T05:36:25.919Z"
+    },
+    {
+      "id": "yupoo-214510292",
+      "name": "25／26 Arsenal Windbreaker",
+      "category": "💨🧥Windbreaker/Training Top",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/214510292?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker-7/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker-7/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker-7/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker-7/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker-7/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker-7/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker-7/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker-7/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker-7/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-arsenal-windbreaker-7",
+      "siteCategory": "training",
+      "team": "Arsenal",
+      "league": "Premier League",
+      "country": "England",
+      "season": "",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "💨🧥Windbreaker/Training Top",
+        "Premier League",
+        "Arsenal"
+      ],
+      "sourceTitle": "25／26 Arsenal Windbreaker S-XXL",
+      "updatedAt": "2026-10-14T05:37:21.228Z"
+    },
+    {
+      "id": "yupoo-214510285",
+      "name": "25／26 Arsenal Windbreaker",
+      "category": "💨🧥Windbreaker/Training Top",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/214510285?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker-8/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker-8/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker-8/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker-8/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker-8/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker-8/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker-8/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker-8/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker-8/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-arsenal-windbreaker-8",
+      "siteCategory": "training",
+      "team": "Arsenal",
+      "league": "Premier League",
+      "country": "England",
+      "season": "",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "💨🧥Windbreaker/Training Top",
+        "Premier League",
+        "Arsenal"
+      ],
+      "sourceTitle": "25／26 Arsenal Windbreaker S-XXL",
+      "updatedAt": "2026-10-14T05:37:52.645Z"
+    },
+    {
+      "id": "yupoo-214510283",
+      "name": "25／26 Arsenal Windbreaker",
+      "category": "💨🧥Windbreaker/Training Top",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/214510283?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker-9/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker-9/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker-9/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker-9/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker-9/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker-9/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker-9/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker-9/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-arsenal-windbreaker-9/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-arsenal-windbreaker-9",
+      "siteCategory": "training",
+      "team": "Arsenal",
+      "league": "Premier League",
+      "country": "England",
+      "season": "",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "💨🧥Windbreaker/Training Top",
+        "Premier League",
+        "Arsenal"
+      ],
+      "sourceTitle": "25／26 Arsenal Windbreaker S-XXL",
+      "updatedAt": "2026-10-14T05:38:14.925Z"
     },
     {
       "id": "yupoo-185960821",
@@ -30310,6 +31075,212 @@
       "updatedAt": "2026-10-14T05:21:46.963Z"
     },
     {
+      "id": "yupoo-214652309",
+      "name": "25／26 Barcelona Windbreaker",
+      "category": "💨🧥Windbreaker/Training Top",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/214652309?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-barcelona-windbreaker/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-barcelona-windbreaker/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-barcelona-windbreaker/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-barcelona-windbreaker/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-barcelona-windbreaker/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-barcelona-windbreaker/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-barcelona-windbreaker/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-barcelona-windbreaker/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-barcelona-windbreaker/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-barcelona-windbreaker",
+      "siteCategory": "training",
+      "team": "FC Barcelona",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "💨🧥Windbreaker/Training Top",
+        "La Liga",
+        "Barcelona"
+      ],
+      "sourceTitle": "25／26 Barcelona Windbreaker S-XXL",
+      "updatedAt": "2026-10-14T05:29:31.147Z"
+    },
+    {
+      "id": "yupoo-214510743",
+      "name": "25／26 Barcelona Windbreaker",
+      "category": "💨🧥Windbreaker/Training Top",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/214510743?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-barcelona-windbreaker-2/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-barcelona-windbreaker-2/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-barcelona-windbreaker-2/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-barcelona-windbreaker-2/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-barcelona-windbreaker-2/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-barcelona-windbreaker-2/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-barcelona-windbreaker-2/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-barcelona-windbreaker-2/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-barcelona-windbreaker-2/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-barcelona-windbreaker-2",
+      "siteCategory": "training",
+      "team": "FC Barcelona",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "💨🧥Windbreaker/Training Top",
+        "La Liga",
+        "Barcelona"
+      ],
+      "sourceTitle": "25／26 Barcelona Windbreaker S-XXL",
+      "updatedAt": "2026-10-14T05:32:32.856Z"
+    },
+    {
+      "id": "yupoo-214510321",
+      "name": "25／26 Barcelona Windbreaker",
+      "category": "💨🧥Windbreaker/Training Top",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/214510321?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-barcelona-windbreaker-3/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-barcelona-windbreaker-3/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-barcelona-windbreaker-3/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-barcelona-windbreaker-3/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-barcelona-windbreaker-3/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-barcelona-windbreaker-3/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-barcelona-windbreaker-3/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-barcelona-windbreaker-3/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-barcelona-windbreaker-3/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-barcelona-windbreaker-3/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-barcelona-windbreaker-3",
+      "siteCategory": "training",
+      "team": "FC Barcelona",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "💨🧥Windbreaker/Training Top",
+        "La Liga",
+        "Barcelona"
+      ],
+      "sourceTitle": "25／26 Barcelona Windbreaker S-XXL",
+      "updatedAt": "2026-10-14T05:35:18.683Z"
+    },
+    {
+      "id": "yupoo-214510301",
+      "name": "25／26 Barcelona Windbreaker",
+      "category": "💨🧥Windbreaker/Training Top",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/214510301?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-barcelona-windbreaker-4/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-barcelona-windbreaker-4/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-barcelona-windbreaker-4/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-barcelona-windbreaker-4/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-barcelona-windbreaker-4/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-barcelona-windbreaker-4/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-barcelona-windbreaker-4/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-barcelona-windbreaker-4/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-barcelona-windbreaker-4/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-barcelona-windbreaker-4",
+      "siteCategory": "training",
+      "team": "FC Barcelona",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "💨🧥Windbreaker/Training Top",
+        "La Liga",
+        "Barcelona"
+      ],
+      "sourceTitle": "25／26 Barcelona Windbreaker S-XXL",
+      "updatedAt": "2026-10-14T05:37:03.847Z"
+    },
+    {
+      "id": "yupoo-214510223",
+      "name": "25／26 Barcelona Windbreaker",
+      "category": "💨🧥Windbreaker/Training Top",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/214510223?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-barcelona-windbreaker-5/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-barcelona-windbreaker-5/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-barcelona-windbreaker-5/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-barcelona-windbreaker-5/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-barcelona-windbreaker-5/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-barcelona-windbreaker-5/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-barcelona-windbreaker-5/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-barcelona-windbreaker-5/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-barcelona-windbreaker-5/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-barcelona-windbreaker-5",
+      "siteCategory": "training",
+      "team": "FC Barcelona",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "💨🧥Windbreaker/Training Top",
+        "La Liga",
+        "Barcelona"
+      ],
+      "sourceTitle": "25／26 Barcelona Windbreaker S-XXL",
+      "updatedAt": "2026-10-14T05:38:51.067Z"
+    },
+    {
       "id": "yupoo-211960258",
       "name": "25/26 Bayern Munich 125th Anniversary",
       "category": "new season",
@@ -30825,6 +31796,48 @@
       ],
       "sourceTitle": "25/26 Bayern Munich Trench Coat Reversible S-3XL",
       "updatedAt": "2026-10-14T05:14:29.265Z"
+    },
+    {
+      "id": "yupoo-214510318",
+      "name": "25/26 Bayern Munich Windbreaker",
+      "category": "💨🧥Windbreaker/Training Top",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/214510318?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-bayern-munich-windbreaker/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-bayern-munich-windbreaker/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-bayern-munich-windbreaker/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-bayern-munich-windbreaker/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-bayern-munich-windbreaker/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-bayern-munich-windbreaker/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-bayern-munich-windbreaker/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-bayern-munich-windbreaker/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-bayern-munich-windbreaker/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-bayern-munich-windbreaker/image-09.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-bayern-munich-windbreaker",
+      "siteCategory": "training",
+      "team": "Bayern Munich",
+      "league": "Bundesliga",
+      "country": "Germany",
+      "season": "2025/26",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "💨🧥Windbreaker/Training Top",
+        "Bundesliga",
+        "Bayern Munich"
+      ],
+      "sourceTitle": "25/26 Bayern Munich Windbreaker S-XXL",
+      "updatedAt": "2026-10-14T05:35:36.406Z"
     },
     {
       "id": "yupoo-211563394",
@@ -32418,6 +33431,47 @@
       "updatedAt": "2026-10-13T22:58:19.222Z"
     },
     {
+      "id": "yupoo-214652307",
+      "name": "25／26 Chelsea Windbreaker",
+      "category": "💨🧥Windbreaker/Training Top",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/214652307?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-chelsea-windbreaker/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-chelsea-windbreaker/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-chelsea-windbreaker/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-chelsea-windbreaker/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-chelsea-windbreaker/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-chelsea-windbreaker/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-chelsea-windbreaker/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-chelsea-windbreaker/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-chelsea-windbreaker/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-chelsea-windbreaker",
+      "siteCategory": "training",
+      "team": "Chelsea",
+      "league": "Premier League",
+      "country": "England",
+      "season": "",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "💨🧥Windbreaker/Training Top",
+        "Premier League",
+        "Chelsea"
+      ],
+      "sourceTitle": "25／26 Chelsea Windbreaker S-XXL",
+      "updatedAt": "2026-10-14T05:29:44.326Z"
+    },
+    {
       "id": "yupoo-191937884",
       "name": "25/26 Colo Colo 100th Anniversary Black",
       "category": "new season",
@@ -33984,6 +35038,47 @@
       ],
       "sourceTitle": "25/26 Fluminense Home All Sponsor S-4XL",
       "updatedAt": "2026-10-13T22:39:49.207Z"
+    },
+    {
+      "id": "yupoo-214510287",
+      "name": "25／26 Fluminense Windbreaker",
+      "category": "💨🧥Windbreaker/Training Top",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/214510287?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-fluminense-windbreaker/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-fluminense-windbreaker/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-fluminense-windbreaker/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-fluminense-windbreaker/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-fluminense-windbreaker/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-fluminense-windbreaker/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-fluminense-windbreaker/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-fluminense-windbreaker/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-fluminense-windbreaker/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-fluminense-windbreaker",
+      "siteCategory": "training",
+      "team": "Fluminense",
+      "league": "Brasileiro Série A",
+      "country": "Brazil",
+      "season": "",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "💨🧥Windbreaker/Training Top",
+        "Brasileiro Série A",
+        "Fluminense"
+      ],
+      "sourceTitle": "25／26 Fluminense Windbreaker S-XXL",
+      "updatedAt": "2026-10-14T05:37:36.914Z"
     },
     {
       "id": "yupoo-190514785",
@@ -35622,6 +36717,50 @@
       ],
       "sourceTitle": "25/26 kids Manchester City home size: 16-28",
       "updatedAt": "2026-10-14T00:41:33.249Z"
+    },
+    {
+      "id": "yupoo-213133831",
+      "name": "25/26 Kids Manchester United Away",
+      "category": "⚽👦🏻kids kit size：16-28",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/213133831?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-kids-manchester-united-away/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-kids-manchester-united-away/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-kids-manchester-united-away/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-kids-manchester-united-away/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-kids-manchester-united-away/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-kids-manchester-united-away/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-kids-manchester-united-away/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-kids-manchester-united-away/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-kids-manchester-united-away/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-kids-manchester-united-away/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-kids-manchester-united-away/image-10.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-kids-manchester-united-away/image-11.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-kids-manchester-united-away",
+      "siteCategory": "club",
+      "team": "Manchester United",
+      "league": "Premier League",
+      "country": "England",
+      "season": "2025/26",
+      "type": "Shirt",
+      "variant": "Kids",
+      "sourceCategories": [
+        "⚽👦🏻kids kit size：16-28",
+        "Premier League",
+        "M-U"
+      ],
+      "sourceTitle": "25/26 Kids M-U Away Size: 16-28",
+      "updatedAt": "2026-10-14T05:40:09.144Z"
     },
     {
       "id": "yupoo-199190481",
@@ -37557,6 +38696,214 @@
       "updatedAt": "2026-10-13T22:54:40.130Z"
     },
     {
+      "id": "yupoo-214652712",
+      "name": "25/26 Manchester United Trench Coat Reversible",
+      "category": "💨🧥Windbreaker/Training Top",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/214652712?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-manchester-united-trench-coat-reversible/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-manchester-united-trench-coat-reversible/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-manchester-united-trench-coat-reversible/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-manchester-united-trench-coat-reversible/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-manchester-united-trench-coat-reversible/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-manchester-united-trench-coat-reversible/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-manchester-united-trench-coat-reversible/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-manchester-united-trench-coat-reversible/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-manchester-united-trench-coat-reversible/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-manchester-united-trench-coat-reversible/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-manchester-united-trench-coat-reversible/image-10.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-manchester-united-trench-coat-reversible/image-11.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-manchester-united-trench-coat-reversible",
+      "siteCategory": "training",
+      "team": "Manchester United",
+      "league": "Premier League",
+      "country": "England",
+      "season": "2025/26",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "💨🧥Windbreaker/Training Top",
+        "Premier League",
+        "M-U"
+      ],
+      "sourceTitle": "25/26 M-U Trench Coat Reversible S-3XL",
+      "updatedAt": "2026-10-14T05:25:09.250Z"
+    },
+    {
+      "id": "yupoo-214652326",
+      "name": "25／26 Manchester United Windbreaker",
+      "category": "💨🧥Windbreaker/Training Top",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/214652326?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-manchester-united-windbreaker/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-manchester-united-windbreaker/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-manchester-united-windbreaker/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-manchester-united-windbreaker/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-manchester-united-windbreaker/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-manchester-united-windbreaker/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-manchester-united-windbreaker/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-manchester-united-windbreaker/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-manchester-united-windbreaker/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-manchester-united-windbreaker",
+      "siteCategory": "training",
+      "team": "Manchester United",
+      "league": "Premier League",
+      "country": "England",
+      "season": "",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "💨🧥Windbreaker/Training Top",
+        "Premier League",
+        "M-U"
+      ],
+      "sourceTitle": "25／26 M-U Windbreaker S-XXL",
+      "updatedAt": "2026-10-14T05:27:42.231Z"
+    },
+    {
+      "id": "yupoo-214652080",
+      "name": "25／26 Manchester United Windbreaker",
+      "category": "💨🧥Windbreaker/Training Top",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/214652080?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-manchester-united-windbreaker-2/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-manchester-united-windbreaker-2/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-manchester-united-windbreaker-2/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-manchester-united-windbreaker-2/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-manchester-united-windbreaker-2/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-manchester-united-windbreaker-2/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-manchester-united-windbreaker-2/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-manchester-united-windbreaker-2/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-manchester-united-windbreaker-2/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-manchester-united-windbreaker-2",
+      "siteCategory": "training",
+      "team": "Manchester United",
+      "league": "Premier League",
+      "country": "England",
+      "season": "",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "💨🧥Windbreaker/Training Top",
+        "Premier League",
+        "M-U"
+      ],
+      "sourceTitle": "25／26 M-U Windbreaker S-XXL",
+      "updatedAt": "2026-10-14T05:30:46.324Z"
+    },
+    {
+      "id": "yupoo-214511120",
+      "name": "25／26 Manchester United Windbreaker",
+      "category": "💨🧥Windbreaker/Training Top",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/214511120?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-manchester-united-windbreaker-3/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-manchester-united-windbreaker-3/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-manchester-united-windbreaker-3/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-manchester-united-windbreaker-3/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-manchester-united-windbreaker-3/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-manchester-united-windbreaker-3/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-manchester-united-windbreaker-3/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-manchester-united-windbreaker-3/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-manchester-united-windbreaker-3/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-manchester-united-windbreaker-3",
+      "siteCategory": "training",
+      "team": "Manchester United",
+      "league": "Premier League",
+      "country": "England",
+      "season": "",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "💨🧥Windbreaker/Training Top",
+        "Premier League",
+        "M-U"
+      ],
+      "sourceTitle": "25／26 M-U Windbreaker S-XXL",
+      "updatedAt": "2026-10-14T05:31:25.392Z"
+    },
+    {
+      "id": "yupoo-214510737",
+      "name": "25／26 Manchester United Windbreaker",
+      "category": "💨🧥Windbreaker/Training Top",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/214510737?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-manchester-united-windbreaker-4/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-manchester-united-windbreaker-4/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-manchester-united-windbreaker-4/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-manchester-united-windbreaker-4/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-manchester-united-windbreaker-4/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-manchester-united-windbreaker-4/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-manchester-united-windbreaker-4/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-manchester-united-windbreaker-4/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-manchester-united-windbreaker-4/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-manchester-united-windbreaker-4",
+      "siteCategory": "training",
+      "team": "Manchester United",
+      "league": "Premier League",
+      "country": "England",
+      "season": "",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "💨🧥Windbreaker/Training Top",
+        "Premier League",
+        "M-U"
+      ],
+      "sourceTitle": "25／26 M-U Windbreaker S-XXL",
+      "updatedAt": "2026-10-14T05:32:48.400Z"
+    },
+    {
       "id": "yupoo-202770539",
       "name": "25/26 Marseille away",
       "category": "new season",
@@ -38097,6 +39444,84 @@
       ],
       "sourceTitle": "25/26 Monterey Special Edition S-4XL",
       "updatedAt": "2026-10-14T00:18:00.381Z"
+    },
+    {
+      "id": "yupoo-209107594",
+      "name": "25/26 Napoli pad printed black waterproof windbreaker",
+      "category": "💨🧥Windbreaker/Training Top",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/209107594?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-napoli-pad-printed-black-waterproof-windbreaker/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-napoli-pad-printed-black-waterproof-windbreaker/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-napoli-pad-printed-black-waterproof-windbreaker/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-napoli-pad-printed-black-waterproof-windbreaker/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-napoli-pad-printed-black-waterproof-windbreaker/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-napoli-pad-printed-black-waterproof-windbreaker/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-napoli-pad-printed-black-waterproof-windbreaker/image-06.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-napoli-pad-printed-black-waterproof-windbreaker",
+      "siteCategory": "training",
+      "team": "Napoli",
+      "league": "Serie A",
+      "country": "Italy",
+      "season": "2025/26",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "💨🧥Windbreaker/Training Top",
+        "Serie A",
+        "Napoli"
+      ],
+      "sourceTitle": "25/26 Napoli pad printed black waterproof windbreaker",
+      "updatedAt": "2026-10-14T05:39:24.161Z"
+    },
+    {
+      "id": "yupoo-209107577",
+      "name": "25/26 Napoli pad printed blue waterproof windbreaker",
+      "category": "💨🧥Windbreaker/Training Top",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/209107577?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-napoli-pad-printed-blue-waterproof-windbreaker/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-napoli-pad-printed-blue-waterproof-windbreaker/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-napoli-pad-printed-blue-waterproof-windbreaker/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-napoli-pad-printed-blue-waterproof-windbreaker/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-napoli-pad-printed-blue-waterproof-windbreaker/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-napoli-pad-printed-blue-waterproof-windbreaker/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-napoli-pad-printed-blue-waterproof-windbreaker/image-06.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-napoli-pad-printed-blue-waterproof-windbreaker",
+      "siteCategory": "training",
+      "team": "Napoli",
+      "league": "Serie A",
+      "country": "Italy",
+      "season": "2025/26",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "💨🧥Windbreaker/Training Top",
+        "Serie A",
+        "Napoli"
+      ],
+      "sourceTitle": "25/26 Napoli pad printed blue waterproof windbreaker",
+      "updatedAt": "2026-10-14T05:39:39.065Z"
     },
     {
       "id": "yupoo-211563475",
@@ -39060,6 +40485,47 @@
       ],
       "sourceTitle": "25/26 Palmeiras third away S-4XL",
       "updatedAt": "2026-10-13T23:11:59.491Z"
+    },
+    {
+      "id": "yupoo-214510310",
+      "name": "25／26 Palmeiras Windbreaker",
+      "category": "💨🧥Windbreaker/Training Top",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/214510310?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-palmeiras-windbreaker/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-palmeiras-windbreaker/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-palmeiras-windbreaker/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-palmeiras-windbreaker/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-palmeiras-windbreaker/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-palmeiras-windbreaker/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-palmeiras-windbreaker/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-palmeiras-windbreaker/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-palmeiras-windbreaker/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-palmeiras-windbreaker",
+      "siteCategory": "training",
+      "team": "Palmeiras",
+      "league": "Brasileiro Série A",
+      "country": "Brazil",
+      "season": "",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "💨🧥Windbreaker/Training Top",
+        "Brasileiro Série A",
+        "Palmeiras"
+      ],
+      "sourceTitle": "25／26 Palmeiras Windbreaker S-XXL",
+      "updatedAt": "2026-10-14T05:36:11.538Z"
     },
     {
       "id": "yupoo-194269714",
@@ -41491,6 +42957,50 @@
       "updatedAt": "2026-10-13T23:45:00.147Z"
     },
     {
+      "id": "yupoo-214653103",
+      "name": "25／26 Porto Trench Coat Reversible",
+      "category": "💨🧥Windbreaker/Training Top",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/214653103?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-porto-trench-coat-reversible/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-porto-trench-coat-reversible/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-porto-trench-coat-reversible/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-porto-trench-coat-reversible/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-porto-trench-coat-reversible/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-porto-trench-coat-reversible/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-porto-trench-coat-reversible/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-porto-trench-coat-reversible/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-porto-trench-coat-reversible/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-porto-trench-coat-reversible/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-porto-trench-coat-reversible/image-10.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-porto-trench-coat-reversible/image-11.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-porto-trench-coat-reversible",
+      "siteCategory": "training",
+      "team": "FC Porto",
+      "league": "Liga Portugal",
+      "country": "Portugal",
+      "season": "",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "💨🧥Windbreaker/Training Top",
+        "Primeira Liga",
+        "FC Porto"
+      ],
+      "sourceTitle": "25／26 Porto Trench Coat Reversible S-3XL",
+      "updatedAt": "2026-10-14T05:24:13.286Z"
+    },
+    {
       "id": "yupoo-206448001",
       "name": "25/26 PSG baseball uniform",
       "category": "new season",
@@ -41736,6 +43246,170 @@
       ],
       "sourceTitle": "25/26 PSG Trench Coat Reversible S-3XL",
       "updatedAt": "2026-10-14T05:22:05.312Z"
+    },
+    {
+      "id": "yupoo-214652321",
+      "name": "25/26 PSG Windbreaker",
+      "category": "💨🧥Windbreaker/Training Top",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/214652321?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-psg-windbreaker/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-psg-windbreaker/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-psg-windbreaker/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-psg-windbreaker/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-psg-windbreaker/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-psg-windbreaker/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-psg-windbreaker/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-psg-windbreaker/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-psg-windbreaker/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-psg-windbreaker",
+      "siteCategory": "training",
+      "team": "Paris Saint-Germain",
+      "league": "Ligue 1",
+      "country": "France",
+      "season": "2025/26",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "💨🧥Windbreaker/Training Top",
+        "Ligue 1",
+        "PSG"
+      ],
+      "sourceTitle": "25/26 PSG Windbreaker S-XXL",
+      "updatedAt": "2026-10-14T05:28:33.276Z"
+    },
+    {
+      "id": "yupoo-214652319",
+      "name": "25/26 PSG Windbreaker",
+      "category": "💨🧥Windbreaker/Training Top",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/214652319?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-psg-windbreaker-2/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-psg-windbreaker-2/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-psg-windbreaker-2/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-psg-windbreaker-2/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-psg-windbreaker-2/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-psg-windbreaker-2/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-psg-windbreaker-2/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-psg-windbreaker-2/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-psg-windbreaker-2/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-psg-windbreaker-2",
+      "siteCategory": "training",
+      "team": "Paris Saint-Germain",
+      "league": "Ligue 1",
+      "country": "France",
+      "season": "2025/26",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "💨🧥Windbreaker/Training Top",
+        "Ligue 1",
+        "PSG"
+      ],
+      "sourceTitle": "25/26 PSG Windbreaker S-XXL",
+      "updatedAt": "2026-10-14T05:28:48.417Z"
+    },
+    {
+      "id": "yupoo-214510730",
+      "name": "25/26 PSG Windbreaker",
+      "category": "💨🧥Windbreaker/Training Top",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/214510730?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-psg-windbreaker-3/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-psg-windbreaker-3/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-psg-windbreaker-3/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-psg-windbreaker-3/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-psg-windbreaker-3/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-psg-windbreaker-3/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-psg-windbreaker-3/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-psg-windbreaker-3/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-psg-windbreaker-3/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-psg-windbreaker-3",
+      "siteCategory": "training",
+      "team": "Paris Saint-Germain",
+      "league": "Ligue 1",
+      "country": "France",
+      "season": "2025/26",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "💨🧥Windbreaker/Training Top",
+        "Ligue 1",
+        "PSG"
+      ],
+      "sourceTitle": "25/26 PSG Windbreaker S-XXL",
+      "updatedAt": "2026-10-14T05:33:33.092Z"
+    },
+    {
+      "id": "yupoo-214510718",
+      "name": "25/26 PSG Windbreaker",
+      "category": "💨🧥Windbreaker/Training Top",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/214510718?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-psg-windbreaker-4/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-psg-windbreaker-4/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-psg-windbreaker-4/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-psg-windbreaker-4/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-psg-windbreaker-4/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-psg-windbreaker-4/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-psg-windbreaker-4/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-psg-windbreaker-4/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-psg-windbreaker-4/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-psg-windbreaker-4",
+      "siteCategory": "training",
+      "team": "Paris Saint-Germain",
+      "league": "Ligue 1",
+      "country": "France",
+      "season": "2025/26",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "💨🧥Windbreaker/Training Top",
+        "Ligue 1",
+        "PSG"
+      ],
+      "sourceTitle": "25/26 PSG Windbreaker S-XXL",
+      "updatedAt": "2026-10-14T05:34:47.152Z"
     },
     {
       "id": "yupoo-202770574",
@@ -42695,6 +44369,501 @@
       "updatedAt": "2026-10-14T05:19:19.743Z"
     },
     {
+      "id": "yupoo-214653107",
+      "name": "25/26 Real Madrid Trench Coat Reversible",
+      "category": "💨🧥Windbreaker/Training Top",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/214653107?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-trench-coat-reversible-5/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-trench-coat-reversible-5/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-trench-coat-reversible-5/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-trench-coat-reversible-5/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-trench-coat-reversible-5/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-trench-coat-reversible-5/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-trench-coat-reversible-5/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-trench-coat-reversible-5/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-trench-coat-reversible-5/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-trench-coat-reversible-5/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-trench-coat-reversible-5/image-10.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-trench-coat-reversible-5/image-11.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-real-madrid-trench-coat-reversible-5",
+      "siteCategory": "training",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2025/26",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "💨🧥Windbreaker/Training Top",
+        "La Liga",
+        "Real Madrid"
+      ],
+      "sourceTitle": "25/26 Real Madrid Trench Coat Reversible S-3XL",
+      "updatedAt": "2026-10-14T05:23:52.954Z"
+    },
+    {
+      "id": "yupoo-214652719",
+      "name": "25/26 Real Madrid Trench Coat Reversible",
+      "category": "💨🧥Windbreaker/Training Top",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/214652719?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-trench-coat-reversible-6/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-trench-coat-reversible-6/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-trench-coat-reversible-6/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-trench-coat-reversible-6/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-trench-coat-reversible-6/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-trench-coat-reversible-6/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-trench-coat-reversible-6/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-trench-coat-reversible-6/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-trench-coat-reversible-6/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-trench-coat-reversible-6/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-trench-coat-reversible-6/image-10.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-trench-coat-reversible-6/image-11.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-real-madrid-trench-coat-reversible-6",
+      "siteCategory": "training",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2025/26",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "💨🧥Windbreaker/Training Top",
+        "La Liga",
+        "Real Madrid"
+      ],
+      "sourceTitle": "25/26 Real Madrid Trench Coat Reversible S-3XL",
+      "updatedAt": "2026-10-14T05:24:30.818Z"
+    },
+    {
+      "id": "yupoo-214652717",
+      "name": "25/26 Real Madrid Trench Coat Reversible",
+      "category": "💨🧥Windbreaker/Training Top",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/214652717?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-trench-coat-reversible-7/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-trench-coat-reversible-7/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-trench-coat-reversible-7/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-trench-coat-reversible-7/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-trench-coat-reversible-7/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-trench-coat-reversible-7/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-trench-coat-reversible-7/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-trench-coat-reversible-7/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-trench-coat-reversible-7/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-trench-coat-reversible-7/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-trench-coat-reversible-7/image-10.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-trench-coat-reversible-7/image-11.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-real-madrid-trench-coat-reversible-7",
+      "siteCategory": "training",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2025/26",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "💨🧥Windbreaker/Training Top",
+        "La Liga",
+        "Real Madrid"
+      ],
+      "sourceTitle": "25/26 Real Madrid Trench Coat Reversible S-3XL",
+      "updatedAt": "2026-10-14T05:24:47.869Z"
+    },
+    {
+      "id": "yupoo-214652705",
+      "name": "25／26 Real Madrid Windbreaker",
+      "category": "💨🧥Windbreaker/Training Top",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/214652705?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-real-madrid-windbreaker",
+      "siteCategory": "training",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "💨🧥Windbreaker/Training Top",
+        "La Liga",
+        "Real Madrid"
+      ],
+      "sourceTitle": "25／26 Real Madrid Windbreaker S-XXL",
+      "updatedAt": "2026-10-14T05:26:09.862Z"
+    },
+    {
+      "id": "yupoo-214652700",
+      "name": "25／26 Real Madrid Windbreaker",
+      "category": "💨🧥Windbreaker/Training Top",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/214652700?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker-2/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker-2/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker-2/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker-2/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker-2/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker-2/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker-2/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker-2/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker-2/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-real-madrid-windbreaker-2",
+      "siteCategory": "training",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "💨🧥Windbreaker/Training Top"
+      ],
+      "sourceTitle": "25／26 Real Madrid Windbreaker S-XXL",
+      "updatedAt": "2026-10-14T05:26:48.350Z"
+    },
+    {
+      "id": "yupoo-214652698",
+      "name": "25／26 Real Madrid Windbreaker",
+      "category": "💨🧥Windbreaker/Training Top",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/214652698?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker-3/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker-3/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker-3/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker-3/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker-3/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker-3/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker-3/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker-3/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-real-madrid-windbreaker-3",
+      "siteCategory": "training",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "💨🧥Windbreaker/Training Top",
+        "La Liga",
+        "Real Madrid"
+      ],
+      "sourceTitle": "25／26 Real Madrid Windbreaker S-XXL",
+      "updatedAt": "2026-10-14T05:27:04.434Z"
+    },
+    {
+      "id": "yupoo-214652323",
+      "name": "25／26 Real Madrid Windbreaker",
+      "category": "💨🧥Windbreaker/Training Top",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/214652323?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker-4/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker-4/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker-4/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker-4/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker-4/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker-4/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker-4/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker-4/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker-4/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-real-madrid-windbreaker-4",
+      "siteCategory": "training",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "💨🧥Windbreaker/Training Top"
+      ],
+      "sourceTitle": "25／26 Real Madrid Windbreaker S-XXL",
+      "updatedAt": "2026-10-14T05:28:16.186Z"
+    },
+    {
+      "id": "yupoo-214511113",
+      "name": "25／26 Real Madrid Windbreaker",
+      "category": "💨🧥Windbreaker/Training Top",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/214511113?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker-5/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker-5/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker-5/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker-5/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker-5/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker-5/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker-5/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker-5/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-real-madrid-windbreaker-5",
+      "siteCategory": "training",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "💨🧥Windbreaker/Training Top",
+        "La Liga",
+        "Real Madrid"
+      ],
+      "sourceTitle": "25／26 Real Madrid Windbreaker S-XXL",
+      "updatedAt": "2026-10-14T05:31:59.324Z"
+    },
+    {
+      "id": "yupoo-214510725",
+      "name": "25／26 Real Madrid Windbreaker",
+      "category": "💨🧥Windbreaker/Training Top",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/214510725?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker-6/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker-6/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker-6/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker-6/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker-6/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker-6/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker-6/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker-6/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker-6/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-real-madrid-windbreaker-6",
+      "siteCategory": "training",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "💨🧥Windbreaker/Training Top",
+        "La Liga",
+        "Real Madrid"
+      ],
+      "sourceTitle": "25／26 Real Madrid Windbreaker S-XXL",
+      "updatedAt": "2026-10-14T05:34:11.832Z"
+    },
+    {
+      "id": "yupoo-214510721",
+      "name": "25／26 Real Madrid Windbreaker",
+      "category": "💨🧥Windbreaker/Training Top",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/214510721?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker-7/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker-7/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker-7/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker-7/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker-7/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker-7/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker-7/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker-7/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker-7/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-real-madrid-windbreaker-7",
+      "siteCategory": "training",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "💨🧥Windbreaker/Training Top",
+        "La Liga",
+        "Real Madrid"
+      ],
+      "sourceTitle": "25／26 Real Madrid Windbreaker S-XXL",
+      "updatedAt": "2026-10-14T05:34:30.581Z"
+    },
+    {
+      "id": "yupoo-214510266",
+      "name": "25／26 Real Madrid Windbreaker",
+      "category": "💨🧥Windbreaker/Training Top",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/214510266?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker-8/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker-8/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker-8/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker-8/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker-8/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker-8/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker-8/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker-8/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker-8/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-real-madrid-windbreaker-8",
+      "siteCategory": "training",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "💨🧥Windbreaker/Training Top",
+        "La Liga",
+        "Real Madrid"
+      ],
+      "sourceTitle": "25／26 Real Madrid Windbreaker S-XXL",
+      "updatedAt": "2026-10-14T05:38:34.722Z"
+    },
+    {
+      "id": "yupoo-214510152",
+      "name": "25／26 Real Madrid Windbreaker",
+      "category": "💨🧥Windbreaker/Training Top",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/214510152?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker-9/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker-9/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker-9/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker-9/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker-9/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker-9/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker-9/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker-9/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-real-madrid-windbreaker-9/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-real-madrid-windbreaker-9",
+      "siteCategory": "training",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "💨🧥Windbreaker/Training Top",
+        "La Liga",
+        "Real Madrid"
+      ],
+      "sourceTitle": "25／26 Real Madrid Windbreaker S-XXL",
+      "updatedAt": "2026-10-14T05:39:10.072Z"
+    },
+    {
       "id": "yupoo-209571087",
       "name": "25/26 Real Oviedo away",
       "category": "new season",
@@ -43280,6 +45449,45 @@
       ],
       "sourceTitle": "25/26 Roma training suit red S-3XL",
       "updatedAt": "2026-10-13T22:53:54.670Z"
+    },
+    {
+      "id": "yupoo-214652703",
+      "name": "25／26 Rome Windbreaker",
+      "category": "💨🧥Windbreaker/Training Top",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/214652703?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-rome-windbreaker/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-rome-windbreaker/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-rome-windbreaker/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-rome-windbreaker/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-rome-windbreaker/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-rome-windbreaker/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-rome-windbreaker/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-rome-windbreaker/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-rome-windbreaker/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-rome-windbreaker",
+      "siteCategory": "training",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "💨🧥Windbreaker/Training Top"
+      ],
+      "sourceTitle": "25／26 Rome Windbreaker S-XXL",
+      "updatedAt": "2026-10-14T05:26:29.037Z"
     },
     {
       "id": "yupoo-211563132",
@@ -44466,6 +46674,47 @@
       ],
       "sourceTitle": "25/26 Tigers Pre-Game Suit S-4XL",
       "updatedAt": "2026-10-14T00:39:03.750Z"
+    },
+    {
+      "id": "yupoo-214510303",
+      "name": "25/26 Tigres Windbreaker",
+      "category": "💨🧥Windbreaker/Training Top",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/214510303?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-tigres-windbreaker/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-tigres-windbreaker/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-tigres-windbreaker/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-tigres-windbreaker/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-tigres-windbreaker/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-tigres-windbreaker/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-tigres-windbreaker/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-tigres-windbreaker/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/25-26-tigres-windbreaker/image-08.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "25-26-tigres-windbreaker",
+      "siteCategory": "training",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2025/26",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "💨🧥Windbreaker/Training Top",
+        "LIGA MX",
+        "Tigres UANL"
+      ],
+      "sourceTitle": "25/26 Tigres Windbreaker S-XXL",
+      "updatedAt": "2026-10-14T05:36:42.554Z"
     },
     {
       "id": "yupoo-211961252",
@@ -67345,6 +69594,38 @@
       ],
       "sourceTitle": "Avispa Fukuoka 26/27 Home Jersey S-4XL",
       "updatedAt": "2026-10-12T22:34:57.396Z"
+    },
+    {
+      "id": "yupoo-94463807",
+      "name": "Baby jersey",
+      "category": "Menu",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/94463807?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/baby-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/baby-jersey/image-01.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "baby-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "Menu"
+      ],
+      "sourceTitle": "Baby jersey",
+      "updatedAt": "2026-10-14T05:43:23.265Z"
     },
     {
       "id": "yupoo-212703794",
@@ -126732,6 +129013,38 @@
       "updatedAt": "2026-10-13T04:08:24.798Z"
     },
     {
+      "id": "yupoo-111539703",
+      "name": "football boots logo",
+      "category": "Menu",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/111539703?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/football-boots-logo/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/football-boots-logo/image-01.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "football-boots-logo",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "Menu"
+      ],
+      "sourceTitle": "football boots logo",
+      "updatedAt": "2026-10-14T05:43:40.167Z"
+    },
+    {
       "id": "yupoo-252315169",
       "name": "Fortuna Düsseldorf 26/27 Black Away jersey",
       "category": "new season",
@@ -150416,6 +152729,39 @@
       "updatedAt": "2026-10-14T03:40:12.644Z"
     },
     {
+      "id": "yupoo-14188124",
+      "name": "kids kit shirt",
+      "category": "Menu",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/14188124?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-kit-shirt/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-kit-shirt/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/kids-kit-shirt/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "kids-kit-shirt",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "",
+      "type": "Shirt",
+      "variant": "Kids",
+      "sourceCategories": [
+        "Menu"
+      ],
+      "sourceTitle": "kids kit shirt",
+      "updatedAt": "2026-10-14T05:41:58.183Z"
+    },
+    {
       "id": "yupoo-161463283",
       "name": "kids Manchester United 00/01 home",
       "category": "Retro football shirt",
@@ -155603,6 +157949,39 @@
       ],
       "sourceTitle": "Long sleeves S-3XL",
       "updatedAt": "2026-10-14T02:17:52.213Z"
+    },
+    {
+      "id": "yupoo-218846709",
+      "name": "Long-Sleeve shirt",
+      "category": "Menu",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/218846709?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/long-sleeve-shirt/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/long-sleeve-shirt/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/long-sleeve-shirt/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "long-sleeve-shirt",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "",
+      "type": "Shirt",
+      "variant": "Long sleeve",
+      "sourceCategories": [
+        "Menu"
+      ],
+      "sourceTitle": "Long-Sleeve shirt",
+      "updatedAt": "2026-10-14T05:41:48.391Z"
     },
     {
       "id": "yupoo-255629818",
@@ -166004,6 +168383,48 @@
       ],
       "sourceTitle": "M-U CNY Tang Jacket S-XXL",
       "updatedAt": "2026-10-13T02:08:28.044Z"
+    },
+    {
+      "id": "yupoo-214652706",
+      "name": "Manchester United Double-sided windbreaker",
+      "category": "💨🧥Windbreaker/Training Top",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/214652706?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-united-double-sided-windbreaker/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-united-double-sided-windbreaker/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-united-double-sided-windbreaker/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-united-double-sided-windbreaker/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-united-double-sided-windbreaker/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-united-double-sided-windbreaker/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-united-double-sided-windbreaker/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-united-double-sided-windbreaker/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-united-double-sided-windbreaker/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-united-double-sided-windbreaker/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-united-double-sided-windbreaker/image-10.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/manchester-united-double-sided-windbreaker/image-11.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "manchester-united-double-sided-windbreaker",
+      "siteCategory": "training",
+      "team": "Manchester United",
+      "league": "Premier League",
+      "country": "England",
+      "season": "",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "💨🧥Windbreaker/Training Top"
+      ],
+      "sourceTitle": "M-U Double-sided windbreaker S-XXL",
+      "updatedAt": "2026-10-14T05:25:53.978Z"
     },
     {
       "id": "yupoo-221176394",
@@ -187788,6 +190209,71 @@
       "updatedAt": "2026-10-13T23:23:05.466Z"
     },
     {
+      "id": "yupoo-82255546",
+      "name": "Player version",
+      "category": "Menu",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/82255546?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/player-version/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/player-version/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/player-version/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "player-version",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "",
+      "type": "Shirt",
+      "variant": "Player version",
+      "sourceCategories": [
+        "Menu"
+      ],
+      "sourceTitle": "Player version",
+      "updatedAt": "2026-10-14T05:42:33.126Z"
+    },
+    {
+      "id": "yupoo-249337595",
+      "name": "Please check the event details.",
+      "category": "🔥 Clearance Sale: $9/PCS, Minimum Order 5PCS 🔥",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/249337595?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/please-check-the-event-details/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/please-check-the-event-details/image-01.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "please-check-the-event-details",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "🔥 Clearance Sale: $9/PCS, Minimum Order 5PCS 🔥"
+      ],
+      "sourceTitle": "Please check the event details.",
+      "updatedAt": "2026-10-14T05:40:54.022Z"
+    },
+    {
       "id": "yupoo-244275516",
       "name": "Plymouth Argyle 26/27 Home Jersey",
       "category": "new season",
@@ -187994,6 +190480,38 @@
       ],
       "sourceTitle": "Poland 2026 Home Kids Kit Jersey Size 16-28",
       "updatedAt": "2026-10-12T20:58:55.482Z"
+    },
+    {
+      "id": "yupoo-14151233",
+      "name": "POLO shirt",
+      "category": "Menu",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/14151233?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/polo-shirt/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/polo-shirt/image-01.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "polo-shirt",
+      "siteCategory": "other",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "",
+      "type": "Casual",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "Menu"
+      ],
+      "sourceTitle": "POLO shirt",
+      "updatedAt": "2026-10-14T05:43:14.381Z"
     },
     {
       "id": "yupoo-223561847",
@@ -189046,6 +191564,50 @@
       ],
       "sourceTitle": "Porto Pink Goalkeeper Kids Kit Size 16-28",
       "updatedAt": "2026-10-12T22:42:31.362Z"
+    },
+    {
+      "id": "yupoo-215949779",
+      "name": "Porto Reversible Jacket Windbreaker - Orange & Yellow",
+      "category": "Primeira Liga",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/215949779?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/porto-reversible-jacket-windbreaker-orange-yellow/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/porto-reversible-jacket-windbreaker-orange-yellow/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/porto-reversible-jacket-windbreaker-orange-yellow/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/porto-reversible-jacket-windbreaker-orange-yellow/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/porto-reversible-jacket-windbreaker-orange-yellow/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/porto-reversible-jacket-windbreaker-orange-yellow/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/porto-reversible-jacket-windbreaker-orange-yellow/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/porto-reversible-jacket-windbreaker-orange-yellow/image-07.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/porto-reversible-jacket-windbreaker-orange-yellow/image-08.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/porto-reversible-jacket-windbreaker-orange-yellow/image-09.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/porto-reversible-jacket-windbreaker-orange-yellow/image-10.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/porto-reversible-jacket-windbreaker-orange-yellow/image-11.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "porto-reversible-jacket-windbreaker-orange-yellow",
+      "siteCategory": "tracksuits",
+      "team": "FC Porto",
+      "league": "Liga Portugal",
+      "country": "Portugal",
+      "season": "",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "Primeira Liga",
+        "FC Porto",
+        "Worldwide Other League"
+      ],
+      "sourceTitle": "Porto Reversible Jacket Windbreaker - Orange & Yellow S-XXL",
+      "updatedAt": "2026-10-14T05:40:43.629Z"
     },
     {
       "id": "yupoo-258144408",
@@ -208475,6 +211037,40 @@
       "updatedAt": "2026-10-12T23:40:59.242Z"
     },
     {
+      "id": "yupoo-252314969",
+      "name": "Real Madrid 26/27 commemorative jersey",
+      "category": "La Liga",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/252314969?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-26-27-commemorative-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-26-27-commemorative-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/real-madrid-26-27-commemorative-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "real-madrid-26-27-commemorative-jersey",
+      "siteCategory": "club",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "country": "Spain",
+      "season": "2026/27",
+      "type": "Shirt",
+      "variant": "Special edition",
+      "sourceCategories": [
+        "La Liga",
+        "Real Madrid"
+      ],
+      "sourceTitle": "Real Madrid 26/27 commemorative jersey S-4XL",
+      "updatedAt": "2026-10-14T05:41:23.879Z"
+    },
+    {
       "id": "yupoo-235266652",
       "name": "Real Madrid 26/27 Concept Edition - Black Jersey",
       "category": "new season",
@@ -213743,6 +216339,76 @@
       ],
       "sourceTitle": "Regata Vasco da Gama 2026 Brasil Canaria da Colina Masculina Vest S-4XL",
       "updatedAt": "2026-10-13T01:27:53.150Z"
+    },
+    {
+      "id": "yupoo-249095901",
+      "name": "Remo 24/25 Home Jersey",
+      "category": "🔥 Clearance Sale: $9/PCS, Minimum Order 5PCS 🔥",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/249095901?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/remo-24-25-home-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/remo-24-25-home-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/remo-24-25-home-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "remo-24-25-home-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2024/25",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "🔥 Clearance Sale: $9/PCS, Minimum Order 5PCS 🔥",
+        "Brasileiro Série A",
+        "Remo"
+      ],
+      "sourceTitle": "Remo 24/25 Home Jersey S-XXL",
+      "updatedAt": "2026-10-14T05:41:14.194Z"
+    },
+    {
+      "id": "yupoo-249102694",
+      "name": "Remo 24/25 Home women Jersey",
+      "category": "🔥 Clearance Sale: $9/PCS, Minimum Order 5PCS 🔥",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/249102694?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/remo-24-25-home-women-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/remo-24-25-home-women-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/remo-24-25-home-women-jersey/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "remo-24-25-home-women-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "2024/25",
+      "type": "Shirt",
+      "variant": "Women's",
+      "sourceCategories": [
+        "🔥 Clearance Sale: $9/PCS, Minimum Order 5PCS 🔥",
+        "Brasileiro Série A",
+        "Remo"
+      ],
+      "sourceTitle": "Remo 24/25 Home women Jersey S-XL",
+      "updatedAt": "2026-10-14T05:41:04.081Z"
     },
     {
       "id": "yupoo-213139813",
@@ -254642,6 +257308,39 @@
       "updatedAt": "2026-10-11T18:11:06.812Z"
     },
     {
+      "id": "yupoo-14188111",
+      "name": "Retro shirt",
+      "category": "Menu",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/14188111?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-shirt/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-shirt/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/retro-shirt/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "retro-shirt",
+      "siteCategory": "retro",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "",
+      "type": "Shirt",
+      "variant": "Retro",
+      "sourceCategories": [
+        "Menu"
+      ],
+      "sourceTitle": "Retro shirt",
+      "updatedAt": "2026-10-14T05:42:09.986Z"
+    },
+    {
       "id": "yupoo-75825658",
       "name": "Retro shirt german 1990 home",
       "category": "Retro football shirt",
@@ -268824,6 +271523,39 @@
       "updatedAt": "2026-10-12T22:32:39.070Z"
     },
     {
+      "id": "yupoo-214999835",
+      "name": "shorts",
+      "category": "Menu",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/214999835?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/shorts/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/shorts/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/shorts/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "shorts",
+      "siteCategory": "shorts",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "",
+      "type": "Shorts",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "Menu"
+      ],
+      "sourceTitle": "shorts",
+      "updatedAt": "2026-10-14T05:43:03.455Z"
+    },
+    {
       "id": "yupoo-239061753",
       "name": "Slovenia 2026 Home Jersey",
       "category": "⚽🌍 National Teams",
@@ -277147,6 +279879,38 @@
       "updatedAt": "2026-10-13T22:19:30.710Z"
     },
     {
+      "id": "yupoo-113343175",
+      "name": "sports socks",
+      "category": "Menu",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/113343175?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/sports-socks/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/sports-socks/image-01.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "sports-socks",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "Menu"
+      ],
+      "sourceTitle": "sports socks",
+      "updatedAt": "2026-10-14T05:43:31.265Z"
+    },
+    {
       "id": "yupoo-219395254",
       "name": "SSC Bari 25/26 Home Jersey",
       "category": "new season",
@@ -279276,6 +282040,38 @@
       ],
       "sourceTitle": "Switzerland 2026 Home Player Version Jersey S-XXL",
       "updatedAt": "2026-10-11T09:05:07.615Z"
+    },
+    {
+      "id": "yupoo-137368517",
+      "name": "tamanho asiático L-4XL",
+      "category": "💨🧥Windbreaker/Training Top",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/137368517?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/tamanho-asiatico-l-4xl/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/tamanho-asiatico-l-4xl/image-01.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "tamanho-asiatico-l-4xl",
+      "siteCategory": "tracksuits",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "",
+      "type": "Shirt",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "💨🧥Windbreaker/Training Top"
+      ],
+      "sourceTitle": "tamanho asiático L-4XL",
+      "updatedAt": "2026-10-14T05:39:49.292Z"
     },
     {
       "id": "yupoo-217111574",
@@ -282158,6 +284954,39 @@
       ],
       "sourceTitle": "Trabzonspor 98/99 Home Retro Jersey S-XXL",
       "updatedAt": "2026-10-12T22:38:57.443Z"
+    },
+    {
+      "id": "yupoo-14151248",
+      "name": "Training suit kit",
+      "category": "Menu",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/14151248?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/training-suit-kit/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/training-suit-kit/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/training-suit-kit/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "training-suit-kit",
+      "siteCategory": "training",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "",
+      "type": "Training",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "Menu"
+      ],
+      "sourceTitle": "Training suit kit",
+      "updatedAt": "2026-10-14T05:42:53.870Z"
     },
     {
       "id": "yupoo-257640146",
@@ -292780,6 +295609,39 @@
       "updatedAt": "2026-10-14T05:10:50.955Z"
     },
     {
+      "id": "yupoo-86596843",
+      "name": "Windbreaker/Training Top",
+      "category": "Menu",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/86596843?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/windbreaker-training-top/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/windbreaker-training-top/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/windbreaker-training-top/image-02.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "windbreaker-training-top",
+      "siteCategory": "training",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "",
+      "type": "Jacket",
+      "variant": "Fan version",
+      "sourceCategories": [
+        "Menu"
+      ],
+      "sourceTitle": "Windbreaker/Training Top",
+      "updatedAt": "2026-10-14T05:42:22.792Z"
+    },
+    {
       "id": "yupoo-226671791",
       "name": "Wolfsburg 08/09 Home Retro Jersey",
       "category": "Retro football shirt",
@@ -293183,6 +296045,45 @@
       "updatedAt": "2026-10-13T00:51:46.828Z"
     },
     {
+      "id": "yupoo-217626859",
+      "name": "Wolves 70th Anniversary Jersey",
+      "category": "Premier League",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/217626859?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/wolves-70th-anniversary-jersey/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/wolves-70th-anniversary-jersey/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/wolves-70th-anniversary-jersey/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/wolves-70th-anniversary-jersey/image-03.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/wolves-70th-anniversary-jersey/image-04.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/wolves-70th-anniversary-jersey/image-05.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/wolves-70th-anniversary-jersey/image-06.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/wolves-70th-anniversary-jersey/image-07.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "wolves-70th-anniversary-jersey",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "",
+      "type": "Shirt",
+      "variant": "Special edition",
+      "sourceCategories": [
+        "Premier League",
+        "Wolves"
+      ],
+      "sourceTitle": "Wolves 70th Anniversary Jersey S-4XL",
+      "updatedAt": "2026-10-14T05:40:26.436Z"
+    },
+    {
       "id": "yupoo-219522861",
       "name": "Wolves 80/81 Home Long-Sleeve Retro Jersey",
       "category": "Retro football shirt",
@@ -293471,6 +296372,40 @@
       ],
       "sourceTitle": "Wolves 98/99 Home Retro Jersey S-XXL",
       "updatedAt": "2026-10-11T12:58:09.930Z"
+    },
+    {
+      "id": "yupoo-14188118",
+      "name": "Woman shirt",
+      "category": "Menu",
+      "sourceUrl": "https://minkang.x.yupoo.com/albums/14188118?uid=1",
+      "coverImage": "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/woman-shirt/cover.webp",
+      "images": [
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/woman-shirt/image-01.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/woman-shirt/image-02.webp",
+        "https://pub-5edd92b2278b471ab385fd19c0ca5449.r2.dev/catalog/woman-shirt/image-03.webp"
+      ],
+      "description": "",
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availability": "unknown",
+      "slug": "woman-shirt",
+      "siteCategory": "club",
+      "team": "Other",
+      "league": "Other leagues",
+      "country": "International",
+      "season": "",
+      "type": "Shirt",
+      "variant": "Women's",
+      "sourceCategories": [
+        "Menu"
+      ],
+      "sourceTitle": "Woman shirt",
+      "updatedAt": "2026-10-14T05:42:42.925Z"
     },
     {
       "id": "yupoo-254282575",

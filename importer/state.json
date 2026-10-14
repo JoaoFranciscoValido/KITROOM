@@ -1,5 +1,106 @@
 {
   "albums": {
+    "14151233": {
+      "slug": "polo-shirt",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/d22ac5ec/374c6e0c.jpg",
+          "hash": "1dbf3dc414bf65269f5c8c7af4f61689ca415bf6",
+          "key": "catalog/polo-shirt/image-01.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/d22ac5ec/374c6e0c.jpg": "1dbf3dc414bf65269f5c8c7af4f61689ca415bf6"
+      },
+      "checkedAt": "2026-10-14T05:43:14.380Z"
+    },
+    "14151248": {
+      "slug": "training-suit-kit",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/096897da/ee77e0db.jpg",
+          "hash": "40f470b51c11f1b360b252fe4789c7ba3d6f25ca",
+          "key": "catalog/training-suit-kit/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/5e38c6f6ce/70a25538.png",
+          "hash": "e5bf60b1e64847bbc5eb2ea998e3be38eadc5345",
+          "key": "catalog/training-suit-kit/image-02.webp",
+          "chart": true
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/5e38c6f6ce/70a25538.png": "e5bf60b1e64847bbc5eb2ea998e3be38eadc5345",
+        "https://photo.yupoo.com/minkang/096897da/ee77e0db.jpg": "40f470b51c11f1b360b252fe4789c7ba3d6f25ca"
+      },
+      "checkedAt": "2026-10-14T05:42:53.869Z"
+    },
+    "14188111": {
+      "slug": "retro-shirt",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/9c6af50054/551fdac9.png",
+          "hash": "628f79da3327652d8d11a99cc91117d4e77fb40c",
+          "key": "catalog/retro-shirt/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/0d81090e/2c975033.jpg",
+          "hash": "cd0cdb88a4f529c6dbfe0dd32d7a39553d926f64",
+          "key": "catalog/retro-shirt/image-02.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/9c6af50054/551fdac9.png": "628f79da3327652d8d11a99cc91117d4e77fb40c",
+        "https://photo.yupoo.com/minkang/0d81090e/2c975033.jpg": "cd0cdb88a4f529c6dbfe0dd32d7a39553d926f64"
+      },
+      "checkedAt": "2026-10-14T05:42:09.985Z"
+    },
+    "14188118": {
+      "slug": "woman-shirt",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/11052660d9/b7f26c66.png",
+          "hash": "ef1906859a7541e989fe93d24da51ac586fc9728",
+          "key": "catalog/woman-shirt/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/1ec81d5a/89ca602e.jpg",
+          "hash": "e0c15498327f63fb42aa8380fe6c32d376b1b8b5",
+          "key": "catalog/woman-shirt/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/83ec2214/d21a10ba.jpg",
+          "hash": "b632c1c7170d79e05ec996674fea962bf1d11c1a",
+          "key": "catalog/woman-shirt/image-03.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/11052660d9/b7f26c66.png": "ef1906859a7541e989fe93d24da51ac586fc9728",
+        "https://photo.yupoo.com/minkang/1ec81d5a/89ca602e.jpg": "e0c15498327f63fb42aa8380fe6c32d376b1b8b5",
+        "https://photo.yupoo.com/minkang/83ec2214/d21a10ba.jpg": "b632c1c7170d79e05ec996674fea962bf1d11c1a"
+      },
+      "checkedAt": "2026-10-14T05:42:42.924Z"
+    },
+    "14188124": {
+      "slug": "kids-kit-shirt",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/9b4dd076ea/7536149a.png",
+          "hash": "d5ef00b62ed9c751a4381243d0e184f4aad164c4",
+          "key": "catalog/kids-kit-shirt/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/b483dcb3/bd2e444a.jpg",
+          "hash": "aab2e0a2af50e60742ed6faabe2e6054662b070a",
+          "key": "catalog/kids-kit-shirt/image-02.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/9b4dd076ea/7536149a.png": "d5ef00b62ed9c751a4381243d0e184f4aad164c4",
+        "https://photo.yupoo.com/minkang/b483dcb3/bd2e444a.jpg": "aab2e0a2af50e60742ed6faabe2e6054662b070a"
+      },
+      "checkedAt": "2026-10-14T05:41:58.182Z"
+    },
     "14188135": {
       "slug": "brasileiro-serie-a",
       "entries": [
@@ -96,6 +197,62 @@
         "https://photo.yupoo.com/minkang/790bb270/d2c07046.jpg": "6762f3374537a1672ab9b4bdd621781627c85a95"
       },
       "checkedAt": "2026-10-14T04:57:38.483Z"
+    },
+    "14531062": {
+      "slug": "18-19-barcelona-home",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/fa148e65/fbcfeeb3.jpg",
+          "hash": "3d83c12f7978ea85cae78194bd50b2684bfe43bc",
+          "key": "catalog/18-19-barcelona-home/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/0fb3c269/0d068e10.jpg",
+          "hash": "26ba6b9b6289ed8e8f89d04eb4d313d908de0d05",
+          "key": "catalog/18-19-barcelona-home/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/71d300f8/2ac2c1e8.jpg",
+          "hash": "f67cc72695894947c0fedf729b7766131850d7fb",
+          "key": "catalog/18-19-barcelona-home/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/5c823139/f2a2c64d.jpg",
+          "hash": "4439ac7999bb0452ef43e0a59540f129eb80e3aa",
+          "key": "catalog/18-19-barcelona-home/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/7d4305a5/698e0279.jpg",
+          "hash": "a0154b00e9c3f9d7c725b0ef25581f86c0d79876",
+          "key": "catalog/18-19-barcelona-home/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/d9d0afe6/161af88f.jpg",
+          "hash": "694a6523a299ceb425eb32c9eeaac37e582384f7",
+          "key": "catalog/18-19-barcelona-home/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/f3eb8946/d4de3cec.jpg",
+          "hash": "dc8ae4439a737c0b4ca5a7593845c9dec8a8cda1",
+          "key": "catalog/18-19-barcelona-home/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/9086bfb9/5ec2a1b0.jpg",
+          "hash": "3cf0c0729d7a092dee9cbc90debe45cf5b101017",
+          "key": "catalog/18-19-barcelona-home/image-08.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/fa148e65/fbcfeeb3.jpg": "3d83c12f7978ea85cae78194bd50b2684bfe43bc",
+        "https://photo.yupoo.com/minkang/0fb3c269/0d068e10.jpg": "26ba6b9b6289ed8e8f89d04eb4d313d908de0d05",
+        "https://photo.yupoo.com/minkang/71d300f8/2ac2c1e8.jpg": "f67cc72695894947c0fedf729b7766131850d7fb",
+        "https://photo.yupoo.com/minkang/5c823139/f2a2c64d.jpg": "4439ac7999bb0452ef43e0a59540f129eb80e3aa",
+        "https://photo.yupoo.com/minkang/7d4305a5/698e0279.jpg": "a0154b00e9c3f9d7c725b0ef25581f86c0d79876",
+        "https://photo.yupoo.com/minkang/d9d0afe6/161af88f.jpg": "694a6523a299ceb425eb32c9eeaac37e582384f7",
+        "https://photo.yupoo.com/minkang/f3eb8946/d4de3cec.jpg": "dc8ae4439a737c0b4ca5a7593845c9dec8a8cda1",
+        "https://photo.yupoo.com/minkang/9086bfb9/5ec2a1b0.jpg": "3cf0c0729d7a092dee9cbc90debe45cf5b101017"
+      },
+      "checkedAt": "2026-10-14T05:41:38.063Z"
     },
     "15247910": {
       "slug": "retro-1988-holland-home-retro",
@@ -3358,6 +3515,26 @@
         "https://photo.yupoo.com/minkang/33c7c6fc/3ae26c7e.jpg": "ad3338a00128aa7740daac67140c7edf5faed271"
       },
       "checkedAt": "2026-10-12T00:06:42.817Z"
+    },
+    "82255546": {
+      "slug": "player-version",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/7dddbca727/72b01d34.png",
+          "hash": "b2a9d2f6e0d8b2dff1f5adf8ff02a6088fa2821d",
+          "key": "catalog/player-version/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/e627c82c/f71bfed5.jpg",
+          "hash": "165ac84d0ca829df3cc3cd56a244cf60e36da134",
+          "key": "catalog/player-version/image-02.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/7dddbca727/72b01d34.png": "b2a9d2f6e0d8b2dff1f5adf8ff02a6088fa2821d",
+        "https://photo.yupoo.com/minkang/e627c82c/f71bfed5.jpg": "165ac84d0ca829df3cc3cd56a244cf60e36da134"
+      },
+      "checkedAt": "2026-10-14T05:42:33.125Z"
     },
     "82258247": {
       "slug": "retro-90-92-manchester-united-away",
@@ -8560,6 +8737,26 @@
       },
       "checkedAt": "2026-10-11T23:45:38.721Z"
     },
+    "86596843": {
+      "slug": "windbreaker-training-top",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/aacfc2902b/3403dd55.png",
+          "hash": "beb4fc795d14f320cb1fb9446a3b4de331481b15",
+          "key": "catalog/windbreaker-training-top/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/3023cf69/463c7714.jpg",
+          "hash": "85048c30213007b9d800402b2b102f4362b86655",
+          "key": "catalog/windbreaker-training-top/image-02.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/aacfc2902b/3403dd55.png": "beb4fc795d14f320cb1fb9446a3b4de331481b15",
+        "https://photo.yupoo.com/minkang/3023cf69/463c7714.jpg": "85048c30213007b9d800402b2b102f4362b86655"
+      },
+      "checkedAt": "2026-10-14T05:42:22.791Z"
+    },
     "86825807": {
       "slug": "retro-01-02-america-home",
       "entries": [
@@ -13734,6 +13931,20 @@
         "https://photo.yupoo.com/minkang/71352377/097c4ae9.jpg": "6f6de0d5a26258d26972b57f2de187f878e166d2"
       },
       "checkedAt": "2026-10-11T23:24:59.517Z"
+    },
+    "94463807": {
+      "slug": "baby-jersey",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/a7cb852f/d97c9414.jpg",
+          "hash": "7d3495585063e1e35436d9ba06efe68c3ca4d06c",
+          "key": "catalog/baby-jersey/image-01.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/a7cb852f/d97c9414.jpg": "7d3495585063e1e35436d9ba06efe68c3ca4d06c"
+      },
+      "checkedAt": "2026-10-14T05:43:23.265Z"
     },
     "95019693": {
       "slug": "retro-mexico-1986-home",
@@ -20807,6 +21018,20 @@
       },
       "checkedAt": "2026-10-11T10:19:06.346Z"
     },
+    "111539703": {
+      "slug": "football-boots-logo",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/a223f74a/a47abe63.jpg",
+          "hash": "cd4421462e28a3df4b56d4e48fcc1503e921d76f",
+          "key": "catalog/football-boots-logo/image-01.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/a223f74a/a47abe63.jpg": "cd4421462e28a3df4b56d4e48fcc1503e921d76f"
+      },
+      "checkedAt": "2026-10-14T05:43:40.167Z"
+    },
     "111657329": {
       "slug": "19-20-barcelona-third-awayl",
       "entries": [
@@ -22250,6 +22475,20 @@
         "https://photo.yupoo.com/minkang/96f96789/b70b1291.jpg": "58a95bae8eca0b05c317efab43537a0c553af78e"
       },
       "checkedAt": "2026-10-14T04:47:58.989Z"
+    },
+    "113343175": {
+      "slug": "sports-socks",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/afaa967b/bd9e0679.jpg",
+          "hash": "6421b8f4a7bd13c32c6987f70067769a8bdf95d1",
+          "key": "catalog/sports-socks/image-01.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/afaa967b/bd9e0679.jpg": "6421b8f4a7bd13c32c6987f70067769a8bdf95d1"
+      },
+      "checkedAt": "2026-10-14T05:43:31.264Z"
     },
     "113756962": {
       "slug": "retro-real-madrid-17-18-third-away",
@@ -35311,6 +35550,21 @@
         "https://photo.yupoo.com/minkang/1126a42d/cc6580be.jpg": "5b05045ba052be683b9b9aecd13659d8ed713cb7"
       },
       "checkedAt": "2026-10-11T19:22:10.460Z"
+    },
+    "137368517": {
+      "slug": "tamanho-asiatico-l-4xl",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/e81f4fda/f4f7d160.png",
+          "hash": "6b9339576629ee3b94c9a9094f32d36ec8eb241c",
+          "key": "catalog/tamanho-asiatico-l-4xl/image-01.webp",
+          "chart": true
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/e81f4fda/f4f7d160.png": "6b9339576629ee3b94c9a9094f32d36ec8eb241c"
+      },
+      "checkedAt": "2026-10-14T05:39:49.286Z"
     },
     "137407901": {
       "slug": "23-24-corinthians-110th-anniversary",
@@ -109588,6 +109842,96 @@
       },
       "checkedAt": "2026-10-11T16:50:42.646Z"
     },
+    "209107577": {
+      "slug": "25-26-napoli-pad-printed-blue-waterproof-windbreaker",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/3f32c7f3/567b56d5.jpeg",
+          "hash": "bf22cad2f0cfa5c6008747e1803935320dd4b814",
+          "key": "catalog/25-26-napoli-pad-printed-blue-waterproof-windbreaker/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/1164e48d/91505d38.jpeg",
+          "hash": "d1afe0798b54f8606afe553c24c81454015af742",
+          "key": "catalog/25-26-napoli-pad-printed-blue-waterproof-windbreaker/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/483b12c8/7c7c04c7.jpeg",
+          "hash": "649df4a20dd34d64b578b9fce93b59b288cdd88e",
+          "key": "catalog/25-26-napoli-pad-printed-blue-waterproof-windbreaker/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/b9d3eba3/e3447244.jpeg",
+          "hash": "8f9d44f27af3dcfe29562413524ff250783703fa",
+          "key": "catalog/25-26-napoli-pad-printed-blue-waterproof-windbreaker/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/9e708ff4/40442ce6.jpeg",
+          "hash": "acb7d42da5109f6084e0a703fbd802dec33f0ec6",
+          "key": "catalog/25-26-napoli-pad-printed-blue-waterproof-windbreaker/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/faa78383/79b90fb7.jpeg",
+          "hash": "6c9d82d8981b6933a39259689bb59a36001f208f",
+          "key": "catalog/25-26-napoli-pad-printed-blue-waterproof-windbreaker/image-06.webp",
+          "chart": true
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/faa78383/79b90fb7.jpeg": "6c9d82d8981b6933a39259689bb59a36001f208f",
+        "https://photo.yupoo.com/minkang/3f32c7f3/567b56d5.jpeg": "bf22cad2f0cfa5c6008747e1803935320dd4b814",
+        "https://photo.yupoo.com/minkang/1164e48d/91505d38.jpeg": "d1afe0798b54f8606afe553c24c81454015af742",
+        "https://photo.yupoo.com/minkang/483b12c8/7c7c04c7.jpeg": "649df4a20dd34d64b578b9fce93b59b288cdd88e",
+        "https://photo.yupoo.com/minkang/b9d3eba3/e3447244.jpeg": "8f9d44f27af3dcfe29562413524ff250783703fa",
+        "https://photo.yupoo.com/minkang/9e708ff4/40442ce6.jpeg": "acb7d42da5109f6084e0a703fbd802dec33f0ec6"
+      },
+      "checkedAt": "2026-10-14T05:39:39.063Z"
+    },
+    "209107594": {
+      "slug": "25-26-napoli-pad-printed-black-waterproof-windbreaker",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/6943110c/da97dc03.jpeg",
+          "hash": "e9988b7c6727cdd318cdd9fbcd7870162a4b4d1c",
+          "key": "catalog/25-26-napoli-pad-printed-black-waterproof-windbreaker/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/8e83ca73/e1e112b1.jpeg",
+          "hash": "8d79101cab444d7a1230e62b99ba252a0c3ebc4a",
+          "key": "catalog/25-26-napoli-pad-printed-black-waterproof-windbreaker/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/ab08f2f1/6bb39d49.jpeg",
+          "hash": "01464ae8cc5f86a9ba3e8cb7809939546cf0c362",
+          "key": "catalog/25-26-napoli-pad-printed-black-waterproof-windbreaker/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/bbacb295/ea079db2.jpeg",
+          "hash": "1adcf4e62984d4516458fd3f22fb7fdab90cc96f",
+          "key": "catalog/25-26-napoli-pad-printed-black-waterproof-windbreaker/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/fac847d5/3d1818e4.jpeg",
+          "hash": "1a9f51712dd636d105043f5c6b37ff0fb36194eb",
+          "key": "catalog/25-26-napoli-pad-printed-black-waterproof-windbreaker/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/04863ced/4a1363ec.jpeg",
+          "hash": "6c9d82d8981b6933a39259689bb59a36001f208f",
+          "key": "catalog/25-26-napoli-pad-printed-black-waterproof-windbreaker/image-06.webp",
+          "chart": true
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/04863ced/4a1363ec.jpeg": "6c9d82d8981b6933a39259689bb59a36001f208f",
+        "https://photo.yupoo.com/minkang/6943110c/da97dc03.jpeg": "e9988b7c6727cdd318cdd9fbcd7870162a4b4d1c",
+        "https://photo.yupoo.com/minkang/8e83ca73/e1e112b1.jpeg": "8d79101cab444d7a1230e62b99ba252a0c3ebc4a",
+        "https://photo.yupoo.com/minkang/ab08f2f1/6bb39d49.jpeg": "01464ae8cc5f86a9ba3e8cb7809939546cf0c362",
+        "https://photo.yupoo.com/minkang/bbacb295/ea079db2.jpeg": "1adcf4e62984d4516458fd3f22fb7fdab90cc96f",
+        "https://photo.yupoo.com/minkang/fac847d5/3d1818e4.jpeg": "1a9f51712dd636d105043f5c6b37ff0fb36194eb"
+      },
+      "checkedAt": "2026-10-14T05:39:24.160Z"
+    },
     "209263364": {
       "slug": "player-25-26-porto-home",
       "entries": [
@@ -152034,6 +152378,80 @@
       },
       "checkedAt": "2026-10-13T22:06:08.833Z"
     },
+    "213133831": {
+      "slug": "25-26-kids-manchester-united-away",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/f9922942/d7762ee2.jpg",
+          "hash": "52480f56330e00949f58d96a67844e1c4612d5e3",
+          "key": "catalog/25-26-kids-manchester-united-away/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/dc33a518/9e8a9333.jpg",
+          "hash": "fa7b66315d9e604f8a4484021923e29f644c024c",
+          "key": "catalog/25-26-kids-manchester-united-away/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/208bdf45/99f98a1f.jpg",
+          "hash": "0ff267ffd4b039b2ffd5988be6443ea7cbf7a91b",
+          "key": "catalog/25-26-kids-manchester-united-away/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/bd252490/e3449113.jpg",
+          "hash": "725b4aa294ae709fbe24756856ae41da412c666d",
+          "key": "catalog/25-26-kids-manchester-united-away/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/7d501855/aa5a4be2.jpg",
+          "hash": "28050c808dce167004c7464ca9aa5ba282fbf40c",
+          "key": "catalog/25-26-kids-manchester-united-away/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/f35f2c35/f01615c8.jpg",
+          "hash": "7be2f8a22d9f9455839fe47d0b19848811359b56",
+          "key": "catalog/25-26-kids-manchester-united-away/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/85654542/5bb5aea1.jpg",
+          "hash": "cfae810f9c31ec991c33624be917d60688a40edf",
+          "key": "catalog/25-26-kids-manchester-united-away/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/75a1594a/cab5c565.jpg",
+          "hash": "2ed32365814ad1a2193c1d1f9c3ff7ed263cfc4b",
+          "key": "catalog/25-26-kids-manchester-united-away/image-08.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/c46612f8/dc930454.jpg",
+          "hash": "7dcb4be76d17c319e5723ddeb104ae30ad564c19",
+          "key": "catalog/25-26-kids-manchester-united-away/image-09.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/53e03d2f/a1378620.jpg",
+          "hash": "107fdce8fffc8acc464909050d8e317ac5fe5e73",
+          "key": "catalog/25-26-kids-manchester-united-away/image-10.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/e49a915e/c51dcf6e.jpg",
+          "hash": "14149ea42edf3c3556db556d7bd591ee8de08093",
+          "key": "catalog/25-26-kids-manchester-united-away/image-11.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/f9922942/d7762ee2.jpg": "52480f56330e00949f58d96a67844e1c4612d5e3",
+        "https://photo.yupoo.com/minkang/dc33a518/9e8a9333.jpg": "fa7b66315d9e604f8a4484021923e29f644c024c",
+        "https://photo.yupoo.com/minkang/208bdf45/99f98a1f.jpg": "0ff267ffd4b039b2ffd5988be6443ea7cbf7a91b",
+        "https://photo.yupoo.com/minkang/bd252490/e3449113.jpg": "725b4aa294ae709fbe24756856ae41da412c666d",
+        "https://photo.yupoo.com/minkang/7d501855/aa5a4be2.jpg": "28050c808dce167004c7464ca9aa5ba282fbf40c",
+        "https://photo.yupoo.com/minkang/f35f2c35/f01615c8.jpg": "7be2f8a22d9f9455839fe47d0b19848811359b56",
+        "https://photo.yupoo.com/minkang/85654542/5bb5aea1.jpg": "cfae810f9c31ec991c33624be917d60688a40edf",
+        "https://photo.yupoo.com/minkang/75a1594a/cab5c565.jpg": "2ed32365814ad1a2193c1d1f9c3ff7ed263cfc4b",
+        "https://photo.yupoo.com/minkang/c46612f8/dc930454.jpg": "7dcb4be76d17c319e5723ddeb104ae30ad564c19",
+        "https://photo.yupoo.com/minkang/53e03d2f/a1378620.jpg": "107fdce8fffc8acc464909050d8e317ac5fe5e73",
+        "https://photo.yupoo.com/minkang/e49a915e/c51dcf6e.jpg": "14149ea42edf3c3556db556d7bd591ee8de08093"
+      },
+      "checkedAt": "2026-10-14T05:40:09.144Z"
+    },
     "213134199": {
       "slug": "messi-25-26-commemorative-kids-kit-jersey",
       "entries": [
@@ -170084,6 +170502,398 @@
       },
       "checkedAt": "2026-10-11T13:38:52.677Z"
     },
+    "214510152": {
+      "slug": "25-26-real-madrid-windbreaker-9",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/c22b1ef6/3bced8d7.jpg",
+          "hash": "77be08574d0c39c339106740f5ed52143dbc1956",
+          "key": "catalog/25-26-real-madrid-windbreaker-9/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/05f69089/e2698ffb.jpg",
+          "hash": "05930b9845eb56b2f81e218308d67faf1f0fef70",
+          "key": "catalog/25-26-real-madrid-windbreaker-9/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/103dca65/a69f4ffa.jpg",
+          "hash": "d08cef244bcf99a64ea0b79984ee020f44d81599",
+          "key": "catalog/25-26-real-madrid-windbreaker-9/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/a1a4718e/77191152.jpg",
+          "hash": "9cf069164ed947cd593bc715104ec6b61e207765",
+          "key": "catalog/25-26-real-madrid-windbreaker-9/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/a4f93560/f211a416.jpg",
+          "hash": "a06a1e52ba42b8582a15922c79d78d4c4166c4fe",
+          "key": "catalog/25-26-real-madrid-windbreaker-9/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/1f913bfe/353cef10.jpg",
+          "hash": "0504b421d2ccf1c43effd158e32a5f8e1261b3bd",
+          "key": "catalog/25-26-real-madrid-windbreaker-9/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/64b25fee/23a58074.jpg",
+          "hash": "7918df95bd349c48e9e54e0533e1bb4afd65bffb",
+          "key": "catalog/25-26-real-madrid-windbreaker-9/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/dd51481c/301b0c30.jpg",
+          "hash": "73a050a45c23b00516de654016feb51e0e8476f5",
+          "key": "catalog/25-26-real-madrid-windbreaker-9/image-08.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/c22b1ef6/3bced8d7.jpg": "77be08574d0c39c339106740f5ed52143dbc1956",
+        "https://photo.yupoo.com/minkang/05f69089/e2698ffb.jpg": "05930b9845eb56b2f81e218308d67faf1f0fef70",
+        "https://photo.yupoo.com/minkang/103dca65/a69f4ffa.jpg": "d08cef244bcf99a64ea0b79984ee020f44d81599",
+        "https://photo.yupoo.com/minkang/a1a4718e/77191152.jpg": "9cf069164ed947cd593bc715104ec6b61e207765",
+        "https://photo.yupoo.com/minkang/a4f93560/f211a416.jpg": "a06a1e52ba42b8582a15922c79d78d4c4166c4fe",
+        "https://photo.yupoo.com/minkang/1f913bfe/353cef10.jpg": "0504b421d2ccf1c43effd158e32a5f8e1261b3bd",
+        "https://photo.yupoo.com/minkang/64b25fee/23a58074.jpg": "7918df95bd349c48e9e54e0533e1bb4afd65bffb",
+        "https://photo.yupoo.com/minkang/dd51481c/301b0c30.jpg": "73a050a45c23b00516de654016feb51e0e8476f5"
+      },
+      "checkedAt": "2026-10-14T05:39:10.071Z"
+    },
+    "214510223": {
+      "slug": "25-26-barcelona-windbreaker-5",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/ed51c5e7/e5db22ca.jpg",
+          "hash": "292f2d19ce1810c143b59a3cf5d60fdec1cc8e3f",
+          "key": "catalog/25-26-barcelona-windbreaker-5/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/1a32898c/6b2de20b.jpg",
+          "hash": "d9e88a8cf7362e0dc1aac97eb67f0160d77c3b55",
+          "key": "catalog/25-26-barcelona-windbreaker-5/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/bab114bd/cf3d33aa.jpg",
+          "hash": "9ef453fc269331acc181208668575e9971edf169",
+          "key": "catalog/25-26-barcelona-windbreaker-5/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/0306b6b7/9f2f902d.jpg",
+          "hash": "48e19255f4b34a5811bba5fda03ee9bb77a9192a",
+          "key": "catalog/25-26-barcelona-windbreaker-5/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/887ae05b/48d29370.jpg",
+          "hash": "9af7c94ec9f87290c3db8f01b3b171f8fe20ce6d",
+          "key": "catalog/25-26-barcelona-windbreaker-5/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/683defed/af1b5b57.jpg",
+          "hash": "afa0126fb394c78b2c667a18b928192bab274c1e",
+          "key": "catalog/25-26-barcelona-windbreaker-5/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/f5dbe06d/aa0a50fa.jpg",
+          "hash": "d24d855fe6caaa28cf230f4d1831df501a1c4284",
+          "key": "catalog/25-26-barcelona-windbreaker-5/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/5590ba44/445beb90.jpg",
+          "hash": "e763234f9e5d6f50b3975cfbe192ca9a912a3454",
+          "key": "catalog/25-26-barcelona-windbreaker-5/image-08.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/ed51c5e7/e5db22ca.jpg": "292f2d19ce1810c143b59a3cf5d60fdec1cc8e3f",
+        "https://photo.yupoo.com/minkang/1a32898c/6b2de20b.jpg": "d9e88a8cf7362e0dc1aac97eb67f0160d77c3b55",
+        "https://photo.yupoo.com/minkang/bab114bd/cf3d33aa.jpg": "9ef453fc269331acc181208668575e9971edf169",
+        "https://photo.yupoo.com/minkang/0306b6b7/9f2f902d.jpg": "48e19255f4b34a5811bba5fda03ee9bb77a9192a",
+        "https://photo.yupoo.com/minkang/887ae05b/48d29370.jpg": "9af7c94ec9f87290c3db8f01b3b171f8fe20ce6d",
+        "https://photo.yupoo.com/minkang/683defed/af1b5b57.jpg": "afa0126fb394c78b2c667a18b928192bab274c1e",
+        "https://photo.yupoo.com/minkang/f5dbe06d/aa0a50fa.jpg": "d24d855fe6caaa28cf230f4d1831df501a1c4284",
+        "https://photo.yupoo.com/minkang/5590ba44/445beb90.jpg": "e763234f9e5d6f50b3975cfbe192ca9a912a3454"
+      },
+      "checkedAt": "2026-10-14T05:38:51.067Z"
+    },
+    "214510266": {
+      "slug": "25-26-real-madrid-windbreaker-8",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/94ecb08c/26fc2eec.jpg",
+          "hash": "531c13b680a8092689735249b34c8da0e4b5f315",
+          "key": "catalog/25-26-real-madrid-windbreaker-8/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/87a939ff/375129fa.jpg",
+          "hash": "aaa456a2544dc10bb5704390276720ff67944aaf",
+          "key": "catalog/25-26-real-madrid-windbreaker-8/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/301d9872/37140cd5.jpg",
+          "hash": "14216d4793703c38a075e49288466197d7436174",
+          "key": "catalog/25-26-real-madrid-windbreaker-8/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/e479b37e/22b1580a.jpg",
+          "hash": "f4de96c7ae651824d60253dfb2cffaad3d67b52d",
+          "key": "catalog/25-26-real-madrid-windbreaker-8/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/89a80bf6/e6cbbd8e.jpg",
+          "hash": "e30dfe716fd18cde8e195cf4983587d6cb99947b",
+          "key": "catalog/25-26-real-madrid-windbreaker-8/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/d12a5e23/924d885b.jpg",
+          "hash": "edc543ca483e6ceae206290f6403c373f1da3cb2",
+          "key": "catalog/25-26-real-madrid-windbreaker-8/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/72079fa9/0581bf64.jpg",
+          "hash": "436b1ff99e2eb7a2fadea2d1edcbab25d954086f",
+          "key": "catalog/25-26-real-madrid-windbreaker-8/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/983b082f/aa4fa816.jpg",
+          "hash": "e2da3e555f96932500f4576191475f5a2c477118",
+          "key": "catalog/25-26-real-madrid-windbreaker-8/image-08.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/94ecb08c/26fc2eec.jpg": "531c13b680a8092689735249b34c8da0e4b5f315",
+        "https://photo.yupoo.com/minkang/87a939ff/375129fa.jpg": "aaa456a2544dc10bb5704390276720ff67944aaf",
+        "https://photo.yupoo.com/minkang/301d9872/37140cd5.jpg": "14216d4793703c38a075e49288466197d7436174",
+        "https://photo.yupoo.com/minkang/e479b37e/22b1580a.jpg": "f4de96c7ae651824d60253dfb2cffaad3d67b52d",
+        "https://photo.yupoo.com/minkang/89a80bf6/e6cbbd8e.jpg": "e30dfe716fd18cde8e195cf4983587d6cb99947b",
+        "https://photo.yupoo.com/minkang/d12a5e23/924d885b.jpg": "edc543ca483e6ceae206290f6403c373f1da3cb2",
+        "https://photo.yupoo.com/minkang/72079fa9/0581bf64.jpg": "436b1ff99e2eb7a2fadea2d1edcbab25d954086f",
+        "https://photo.yupoo.com/minkang/983b082f/aa4fa816.jpg": "e2da3e555f96932500f4576191475f5a2c477118"
+      },
+      "checkedAt": "2026-10-14T05:38:34.722Z"
+    },
+    "214510283": {
+      "slug": "25-26-arsenal-windbreaker-9",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/d48903da/fa859b3f.jpg",
+          "hash": "f84848a5c27cd1aca5976316f753a35c68e92eb0",
+          "key": "catalog/25-26-arsenal-windbreaker-9/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/d38393e2/a79f0654.jpg",
+          "hash": "5890d7c12ceaa5561550183f18372b25535c2ec3",
+          "key": "catalog/25-26-arsenal-windbreaker-9/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/7e0c1b67/a387cb58.jpg",
+          "hash": "c78efe142669b13904ff1504ad829a67618906be",
+          "key": "catalog/25-26-arsenal-windbreaker-9/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/8b394acc/1c7737b5.jpg",
+          "hash": "34276d158ef7bcd1dc93595e5fd8dcb2e8822585",
+          "key": "catalog/25-26-arsenal-windbreaker-9/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/ae723965/2ac4b519.jpg",
+          "hash": "c64902f07f987864c97299cc82668acac17cccc0",
+          "key": "catalog/25-26-arsenal-windbreaker-9/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/1a628eda/d1f1ab43.jpg",
+          "hash": "8d4ff6c162de69302e9b9d118066c15acc6249e8",
+          "key": "catalog/25-26-arsenal-windbreaker-9/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/deeaca50/d07a7d2e.jpg",
+          "hash": "66df84c78c25c1ae49f303a1ac44f88a4d93491c",
+          "key": "catalog/25-26-arsenal-windbreaker-9/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/b3fee64f/335e3f01.jpg",
+          "hash": "0a3da8d0db16c61bb09f1e36ea855b5525deaccf",
+          "key": "catalog/25-26-arsenal-windbreaker-9/image-08.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/d48903da/fa859b3f.jpg": "f84848a5c27cd1aca5976316f753a35c68e92eb0",
+        "https://photo.yupoo.com/minkang/d38393e2/a79f0654.jpg": "5890d7c12ceaa5561550183f18372b25535c2ec3",
+        "https://photo.yupoo.com/minkang/7e0c1b67/a387cb58.jpg": "c78efe142669b13904ff1504ad829a67618906be",
+        "https://photo.yupoo.com/minkang/8b394acc/1c7737b5.jpg": "34276d158ef7bcd1dc93595e5fd8dcb2e8822585",
+        "https://photo.yupoo.com/minkang/ae723965/2ac4b519.jpg": "c64902f07f987864c97299cc82668acac17cccc0",
+        "https://photo.yupoo.com/minkang/1a628eda/d1f1ab43.jpg": "8d4ff6c162de69302e9b9d118066c15acc6249e8",
+        "https://photo.yupoo.com/minkang/deeaca50/d07a7d2e.jpg": "66df84c78c25c1ae49f303a1ac44f88a4d93491c",
+        "https://photo.yupoo.com/minkang/b3fee64f/335e3f01.jpg": "0a3da8d0db16c61bb09f1e36ea855b5525deaccf"
+      },
+      "checkedAt": "2026-10-14T05:38:14.924Z"
+    },
+    "214510285": {
+      "slug": "25-26-arsenal-windbreaker-8",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/1802c8db/d46f0fde.jpg",
+          "hash": "8069fb37b433c953f5e1303d646c42a8fa5d46d4",
+          "key": "catalog/25-26-arsenal-windbreaker-8/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/81c279c1/caa41ebb.jpg",
+          "hash": "542897ea5184ed6ee21d55295eebc9d64ece0ef9",
+          "key": "catalog/25-26-arsenal-windbreaker-8/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/67354f11/807eb86e.jpg",
+          "hash": "34af883c0ea3d667c19fe2bc91046416a09d0d72",
+          "key": "catalog/25-26-arsenal-windbreaker-8/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/a47b6748/1674fa31.jpg",
+          "hash": "efae9c792acb2cf7a22072459a9fa921a37a6e31",
+          "key": "catalog/25-26-arsenal-windbreaker-8/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/1cdb93dd/1c41c85e.jpg",
+          "hash": "740cd7e08445becd7cf04bae7e15cac7a3481398",
+          "key": "catalog/25-26-arsenal-windbreaker-8/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/89f709f6/ce198383.jpg",
+          "hash": "154a141372c95d803c80a4acac27d374f11e42dc",
+          "key": "catalog/25-26-arsenal-windbreaker-8/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/44e48040/14bf45b1.jpg",
+          "hash": "738925bd151516aed9a3111d636c3807fe941d02",
+          "key": "catalog/25-26-arsenal-windbreaker-8/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/506e35a2/7a2461c1.jpg",
+          "hash": "a94526f13790a495584550e58cd84385ff62b94e",
+          "key": "catalog/25-26-arsenal-windbreaker-8/image-08.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/1802c8db/d46f0fde.jpg": "8069fb37b433c953f5e1303d646c42a8fa5d46d4",
+        "https://photo.yupoo.com/minkang/81c279c1/caa41ebb.jpg": "542897ea5184ed6ee21d55295eebc9d64ece0ef9",
+        "https://photo.yupoo.com/minkang/67354f11/807eb86e.jpg": "34af883c0ea3d667c19fe2bc91046416a09d0d72",
+        "https://photo.yupoo.com/minkang/a47b6748/1674fa31.jpg": "efae9c792acb2cf7a22072459a9fa921a37a6e31",
+        "https://photo.yupoo.com/minkang/1cdb93dd/1c41c85e.jpg": "740cd7e08445becd7cf04bae7e15cac7a3481398",
+        "https://photo.yupoo.com/minkang/89f709f6/ce198383.jpg": "154a141372c95d803c80a4acac27d374f11e42dc",
+        "https://photo.yupoo.com/minkang/44e48040/14bf45b1.jpg": "738925bd151516aed9a3111d636c3807fe941d02",
+        "https://photo.yupoo.com/minkang/506e35a2/7a2461c1.jpg": "a94526f13790a495584550e58cd84385ff62b94e"
+      },
+      "checkedAt": "2026-10-14T05:37:52.645Z"
+    },
+    "214510287": {
+      "slug": "25-26-fluminense-windbreaker",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/3330d3dc/0811ed04.jpg",
+          "hash": "deb0bc3a8bdcae96fdbe7317f295ebe7f1781d89",
+          "key": "catalog/25-26-fluminense-windbreaker/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/cc0f8f02/c768e939.jpg",
+          "hash": "fa1e95dc17b669b77a97874ec7a11df5b38f1990",
+          "key": "catalog/25-26-fluminense-windbreaker/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/672553a5/61f900d0.jpg",
+          "hash": "d255415549466a8473374f353566bf78e58f1e95",
+          "key": "catalog/25-26-fluminense-windbreaker/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/5ae5e2cc/833ed1c2.jpg",
+          "hash": "5fe1579eef014f12086a44c0f616ae78f30ae248",
+          "key": "catalog/25-26-fluminense-windbreaker/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/5d0edb14/ccc06f59.jpg",
+          "hash": "ed167b00deccdd661a946b7fc8160602c5dc4d9c",
+          "key": "catalog/25-26-fluminense-windbreaker/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/abebf03e/1ae623aa.jpg",
+          "hash": "001e11cef006259b289f978eae9b36251c97f336",
+          "key": "catalog/25-26-fluminense-windbreaker/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/55901151/3c2ece4d.jpg",
+          "hash": "7ca0be051687c8f441b813083e17a832229b5411",
+          "key": "catalog/25-26-fluminense-windbreaker/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/cfd34001/af0bd824.jpg",
+          "hash": "c2a696b40b0cd321158b19ecc7724b943a51660b",
+          "key": "catalog/25-26-fluminense-windbreaker/image-08.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/3330d3dc/0811ed04.jpg": "deb0bc3a8bdcae96fdbe7317f295ebe7f1781d89",
+        "https://photo.yupoo.com/minkang/cc0f8f02/c768e939.jpg": "fa1e95dc17b669b77a97874ec7a11df5b38f1990",
+        "https://photo.yupoo.com/minkang/672553a5/61f900d0.jpg": "d255415549466a8473374f353566bf78e58f1e95",
+        "https://photo.yupoo.com/minkang/5ae5e2cc/833ed1c2.jpg": "5fe1579eef014f12086a44c0f616ae78f30ae248",
+        "https://photo.yupoo.com/minkang/5d0edb14/ccc06f59.jpg": "ed167b00deccdd661a946b7fc8160602c5dc4d9c",
+        "https://photo.yupoo.com/minkang/abebf03e/1ae623aa.jpg": "001e11cef006259b289f978eae9b36251c97f336",
+        "https://photo.yupoo.com/minkang/55901151/3c2ece4d.jpg": "7ca0be051687c8f441b813083e17a832229b5411",
+        "https://photo.yupoo.com/minkang/cfd34001/af0bd824.jpg": "c2a696b40b0cd321158b19ecc7724b943a51660b"
+      },
+      "checkedAt": "2026-10-14T05:37:36.914Z"
+    },
+    "214510292": {
+      "slug": "25-26-arsenal-windbreaker-7",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/125e8cdb/d3d20c69.jpg",
+          "hash": "251ca540361fc2827866bff2a0bf0aec05236e65",
+          "key": "catalog/25-26-arsenal-windbreaker-7/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/58d8364e/43db2f2e.jpg",
+          "hash": "0bd530078d3c58cc4ec43fd7f60b7528fd15af6a",
+          "key": "catalog/25-26-arsenal-windbreaker-7/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/a36875d2/f3791789.jpg",
+          "hash": "0fa07fedc37c9d49f61a51afc758aea317aebd82",
+          "key": "catalog/25-26-arsenal-windbreaker-7/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/2a215955/58ddf06c.jpg",
+          "hash": "2b52e27cb5b102ffdef44f3ac9eb1e80ad010d93",
+          "key": "catalog/25-26-arsenal-windbreaker-7/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/53769c3c/6e683891.jpg",
+          "hash": "a2f17131090bad8a8a9fe2e31b935349e5f32d9f",
+          "key": "catalog/25-26-arsenal-windbreaker-7/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/d14a069d/a3ccbe58.jpg",
+          "hash": "1678f49cd628e8ed8d23cf88825cb618f9a0cc48",
+          "key": "catalog/25-26-arsenal-windbreaker-7/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/65b4b6f8/579489fc.jpg",
+          "hash": "d38b3ad68ce50b2e1d4b8c16d04d8abb743b6413",
+          "key": "catalog/25-26-arsenal-windbreaker-7/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/d7cca405/e79f4d71.jpg",
+          "hash": "3900143044c1284f0f74925086da00eaf07d46d0",
+          "key": "catalog/25-26-arsenal-windbreaker-7/image-08.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/125e8cdb/d3d20c69.jpg": "251ca540361fc2827866bff2a0bf0aec05236e65",
+        "https://photo.yupoo.com/minkang/58d8364e/43db2f2e.jpg": "0bd530078d3c58cc4ec43fd7f60b7528fd15af6a",
+        "https://photo.yupoo.com/minkang/a36875d2/f3791789.jpg": "0fa07fedc37c9d49f61a51afc758aea317aebd82",
+        "https://photo.yupoo.com/minkang/2a215955/58ddf06c.jpg": "2b52e27cb5b102ffdef44f3ac9eb1e80ad010d93",
+        "https://photo.yupoo.com/minkang/53769c3c/6e683891.jpg": "a2f17131090bad8a8a9fe2e31b935349e5f32d9f",
+        "https://photo.yupoo.com/minkang/d14a069d/a3ccbe58.jpg": "1678f49cd628e8ed8d23cf88825cb618f9a0cc48",
+        "https://photo.yupoo.com/minkang/65b4b6f8/579489fc.jpg": "d38b3ad68ce50b2e1d4b8c16d04d8abb743b6413",
+        "https://photo.yupoo.com/minkang/d7cca405/e79f4d71.jpg": "3900143044c1284f0f74925086da00eaf07d46d0"
+      },
+      "checkedAt": "2026-10-14T05:37:21.228Z"
+    },
     "214510295": {
       "slug": "25-26-river-plate-windbreaker",
       "entries": [
@@ -170140,6 +170950,858 @@
       },
       "checkedAt": "2026-10-12T22:15:28.971Z"
     },
+    "214510301": {
+      "slug": "25-26-barcelona-windbreaker-4",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/1e81e0b3/b8490731.jpg",
+          "hash": "b43f7b3448ec882f9a6e72c3a33889c3a8c0443f",
+          "key": "catalog/25-26-barcelona-windbreaker-4/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/6af8793b/44ab37db.jpg",
+          "hash": "9f1d6c8368139163a1d7a30a43c2b6a4f4de66bc",
+          "key": "catalog/25-26-barcelona-windbreaker-4/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/e2ae117c/3cddbee7.jpg",
+          "hash": "f8fd9f77080a20a7740bc57619af77cafa8257e5",
+          "key": "catalog/25-26-barcelona-windbreaker-4/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/52f62cf3/dd9b13d0.jpg",
+          "hash": "519c75c97662862b4b02c9e79d31c87141ebae0d",
+          "key": "catalog/25-26-barcelona-windbreaker-4/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/6bb88468/db65b6dd.jpg",
+          "hash": "a4308d5639819da2d5a8756e99aab9431f4c9e72",
+          "key": "catalog/25-26-barcelona-windbreaker-4/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/ab883ac2/4d573fff.jpg",
+          "hash": "0731df342f4b7d45f42fc080a9f3cb220a66c50a",
+          "key": "catalog/25-26-barcelona-windbreaker-4/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/411284e9/04d3fa8e.jpg",
+          "hash": "970e9e893add386caf1940277db65c8fd6bf1577",
+          "key": "catalog/25-26-barcelona-windbreaker-4/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/bedd58e2/8e3759e0.jpg",
+          "hash": "4ea7975988ffdf43c93d4e9f786616f0f1717b15",
+          "key": "catalog/25-26-barcelona-windbreaker-4/image-08.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/1e81e0b3/b8490731.jpg": "b43f7b3448ec882f9a6e72c3a33889c3a8c0443f",
+        "https://photo.yupoo.com/minkang/6af8793b/44ab37db.jpg": "9f1d6c8368139163a1d7a30a43c2b6a4f4de66bc",
+        "https://photo.yupoo.com/minkang/e2ae117c/3cddbee7.jpg": "f8fd9f77080a20a7740bc57619af77cafa8257e5",
+        "https://photo.yupoo.com/minkang/52f62cf3/dd9b13d0.jpg": "519c75c97662862b4b02c9e79d31c87141ebae0d",
+        "https://photo.yupoo.com/minkang/6bb88468/db65b6dd.jpg": "a4308d5639819da2d5a8756e99aab9431f4c9e72",
+        "https://photo.yupoo.com/minkang/ab883ac2/4d573fff.jpg": "0731df342f4b7d45f42fc080a9f3cb220a66c50a",
+        "https://photo.yupoo.com/minkang/411284e9/04d3fa8e.jpg": "970e9e893add386caf1940277db65c8fd6bf1577",
+        "https://photo.yupoo.com/minkang/bedd58e2/8e3759e0.jpg": "4ea7975988ffdf43c93d4e9f786616f0f1717b15"
+      },
+      "checkedAt": "2026-10-14T05:37:03.847Z"
+    },
+    "214510303": {
+      "slug": "25-26-tigres-windbreaker",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/3ce73eba/1a958af3.jpg",
+          "hash": "6f26c44bc520f77d883981120cd8ae0922196e00",
+          "key": "catalog/25-26-tigres-windbreaker/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/a2449825/af560ceb.jpg",
+          "hash": "fb2b3e9ba85ad5599ef528a52b3552d3ecda2b0b",
+          "key": "catalog/25-26-tigres-windbreaker/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/22b26d3b/6e2bb712.jpg",
+          "hash": "fd5546fe8bcdda28a7f34b9280cd2000df3c9277",
+          "key": "catalog/25-26-tigres-windbreaker/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/50a689d9/7512d747.jpg",
+          "hash": "f51b04b1de50370b5ce1fdf9416dedbd02e6e7d9",
+          "key": "catalog/25-26-tigres-windbreaker/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/fccb3197/393a5d3d.jpg",
+          "hash": "6cc8941a9401b6f6b86b63b4b8b416987a5e7a60",
+          "key": "catalog/25-26-tigres-windbreaker/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/f2847355/4e53da33.jpg",
+          "hash": "ab96503497e5424452e4c386cbabf588183dc306",
+          "key": "catalog/25-26-tigres-windbreaker/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/f6fa1eb9/9b5587b8.jpg",
+          "hash": "a79a5e949ac290c4d50d236a650c931a098f5b77",
+          "key": "catalog/25-26-tigres-windbreaker/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/911b4e1c/3148cf74.jpg",
+          "hash": "f5399fd729a9fb546e7342f831eef7ed0c6fad76",
+          "key": "catalog/25-26-tigres-windbreaker/image-08.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/3ce73eba/1a958af3.jpg": "6f26c44bc520f77d883981120cd8ae0922196e00",
+        "https://photo.yupoo.com/minkang/a2449825/af560ceb.jpg": "fb2b3e9ba85ad5599ef528a52b3552d3ecda2b0b",
+        "https://photo.yupoo.com/minkang/22b26d3b/6e2bb712.jpg": "fd5546fe8bcdda28a7f34b9280cd2000df3c9277",
+        "https://photo.yupoo.com/minkang/50a689d9/7512d747.jpg": "f51b04b1de50370b5ce1fdf9416dedbd02e6e7d9",
+        "https://photo.yupoo.com/minkang/fccb3197/393a5d3d.jpg": "6cc8941a9401b6f6b86b63b4b8b416987a5e7a60",
+        "https://photo.yupoo.com/minkang/f2847355/4e53da33.jpg": "ab96503497e5424452e4c386cbabf588183dc306",
+        "https://photo.yupoo.com/minkang/f6fa1eb9/9b5587b8.jpg": "a79a5e949ac290c4d50d236a650c931a098f5b77",
+        "https://photo.yupoo.com/minkang/911b4e1c/3148cf74.jpg": "f5399fd729a9fb546e7342f831eef7ed0c6fad76"
+      },
+      "checkedAt": "2026-10-14T05:36:42.551Z"
+    },
+    "214510309": {
+      "slug": "25-26-arsenal-windbreaker-6",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/0e1edb87/d25383f8.jpg",
+          "hash": "c4b0b3c2856a54d4f87adac5bf6d6fe0e5ef4e94",
+          "key": "catalog/25-26-arsenal-windbreaker-6/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/ccca5681/c4957725.jpg",
+          "hash": "5e17f353ce216fb443a988060ff0e07423fd91e5",
+          "key": "catalog/25-26-arsenal-windbreaker-6/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/e81b2261/b7da18f7.jpg",
+          "hash": "6afebf5b679b77ef58a8c1afbfea475392626c6d",
+          "key": "catalog/25-26-arsenal-windbreaker-6/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/610b2f00/538da321.jpg",
+          "hash": "440356127d241af39a7e600fa59361004d75d0e9",
+          "key": "catalog/25-26-arsenal-windbreaker-6/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/8444f4f3/ce1a044e.jpg",
+          "hash": "23c2fddfff7f2998f97aabaa7d1b81a1e02683fc",
+          "key": "catalog/25-26-arsenal-windbreaker-6/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/b59a1d90/08a2408e.jpg",
+          "hash": "7a6a4a3616ba75f16ecfc9c3df50047145d8d2aa",
+          "key": "catalog/25-26-arsenal-windbreaker-6/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/fdce083b/9aca37df.jpg",
+          "hash": "8e70e2e7434feb8f061674b91d6aef1f4fb5eb39",
+          "key": "catalog/25-26-arsenal-windbreaker-6/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/962b972c/12cc4071.jpg",
+          "hash": "9e9cfa44f08ca8dc9e3ad2d3c4f0529021591c82",
+          "key": "catalog/25-26-arsenal-windbreaker-6/image-08.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/0e1edb87/d25383f8.jpg": "c4b0b3c2856a54d4f87adac5bf6d6fe0e5ef4e94",
+        "https://photo.yupoo.com/minkang/ccca5681/c4957725.jpg": "5e17f353ce216fb443a988060ff0e07423fd91e5",
+        "https://photo.yupoo.com/minkang/e81b2261/b7da18f7.jpg": "6afebf5b679b77ef58a8c1afbfea475392626c6d",
+        "https://photo.yupoo.com/minkang/610b2f00/538da321.jpg": "440356127d241af39a7e600fa59361004d75d0e9",
+        "https://photo.yupoo.com/minkang/8444f4f3/ce1a044e.jpg": "23c2fddfff7f2998f97aabaa7d1b81a1e02683fc",
+        "https://photo.yupoo.com/minkang/b59a1d90/08a2408e.jpg": "7a6a4a3616ba75f16ecfc9c3df50047145d8d2aa",
+        "https://photo.yupoo.com/minkang/fdce083b/9aca37df.jpg": "8e70e2e7434feb8f061674b91d6aef1f4fb5eb39",
+        "https://photo.yupoo.com/minkang/962b972c/12cc4071.jpg": "9e9cfa44f08ca8dc9e3ad2d3c4f0529021591c82"
+      },
+      "checkedAt": "2026-10-14T05:36:25.918Z"
+    },
+    "214510310": {
+      "slug": "25-26-palmeiras-windbreaker",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/cb7e203f/3bd2a3ed.jpg",
+          "hash": "78c9347424682318e4bfbe7eff8e49b5be344683",
+          "key": "catalog/25-26-palmeiras-windbreaker/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/7cbb3bd5/5cb3f242.jpg",
+          "hash": "e9fab88191e34b23eb2af4c9c03b0a57a4fcfa17",
+          "key": "catalog/25-26-palmeiras-windbreaker/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/c07ccaae/42e170e6.jpg",
+          "hash": "0cf1df6f02c832253736befd0a1889184739c2a9",
+          "key": "catalog/25-26-palmeiras-windbreaker/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/d12a6c7a/4b1c058d.jpg",
+          "hash": "a91fb6146c03292f90d406e7932c6e1f40da928c",
+          "key": "catalog/25-26-palmeiras-windbreaker/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/02649ca8/39c8ff59.jpg",
+          "hash": "341794ebc1f293da1947cf3fced282d8dc1cfc93",
+          "key": "catalog/25-26-palmeiras-windbreaker/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/e8afbaac/92a5c104.jpg",
+          "hash": "7152f29049a00ca8f2392b5b83fe3dbcdc86eeeb",
+          "key": "catalog/25-26-palmeiras-windbreaker/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/e944b263/27654519.jpg",
+          "hash": "af633d9e288086611da9688ca118fbe6c40e8bc0",
+          "key": "catalog/25-26-palmeiras-windbreaker/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/0f5c8634/23268f21.jpg",
+          "hash": "b14b4829d54fd083bcee1025499807b7af6c0460",
+          "key": "catalog/25-26-palmeiras-windbreaker/image-08.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/cb7e203f/3bd2a3ed.jpg": "78c9347424682318e4bfbe7eff8e49b5be344683",
+        "https://photo.yupoo.com/minkang/7cbb3bd5/5cb3f242.jpg": "e9fab88191e34b23eb2af4c9c03b0a57a4fcfa17",
+        "https://photo.yupoo.com/minkang/c07ccaae/42e170e6.jpg": "0cf1df6f02c832253736befd0a1889184739c2a9",
+        "https://photo.yupoo.com/minkang/d12a6c7a/4b1c058d.jpg": "a91fb6146c03292f90d406e7932c6e1f40da928c",
+        "https://photo.yupoo.com/minkang/02649ca8/39c8ff59.jpg": "341794ebc1f293da1947cf3fced282d8dc1cfc93",
+        "https://photo.yupoo.com/minkang/e8afbaac/92a5c104.jpg": "7152f29049a00ca8f2392b5b83fe3dbcdc86eeeb",
+        "https://photo.yupoo.com/minkang/e944b263/27654519.jpg": "af633d9e288086611da9688ca118fbe6c40e8bc0",
+        "https://photo.yupoo.com/minkang/0f5c8634/23268f21.jpg": "b14b4829d54fd083bcee1025499807b7af6c0460"
+      },
+      "checkedAt": "2026-10-14T05:36:11.537Z"
+    },
+    "214510314": {
+      "slug": "2025-german-windbreaker-2",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/06d1e8b9/c74c4f09.jpg",
+          "hash": "0a782310bd58a6282fa34edb459c707cc101dc04",
+          "key": "catalog/2025-german-windbreaker-2/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/79124c9c/7eb6d106.jpg",
+          "hash": "dd80a3fed9d7bfeb60e45940fac8a1ec2794400e",
+          "key": "catalog/2025-german-windbreaker-2/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/58d64a10/e4f9b10f.jpg",
+          "hash": "55df7d378934b1386e2edb64900660149e6cea15",
+          "key": "catalog/2025-german-windbreaker-2/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/a98205e8/83b9b910.jpg",
+          "hash": "51daf75f91fe688d90b7e2ccd61a8217998e8a94",
+          "key": "catalog/2025-german-windbreaker-2/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/db897450/84b1c4b7.jpg",
+          "hash": "4f02d9b381c45be4bcf4b2f3e1010e505081d7d7",
+          "key": "catalog/2025-german-windbreaker-2/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/c0da82f9/ef50ffa1.jpg",
+          "hash": "b189398d50ff5b4fb5c1fa6bc2bd91f95c12cdeb",
+          "key": "catalog/2025-german-windbreaker-2/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/2dfb6e4b/26829bd4.jpg",
+          "hash": "9d4ad8c232e946bd6ae1f32af32c57513a8ea8a8",
+          "key": "catalog/2025-german-windbreaker-2/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/3ecf4855/3493cc29.jpg",
+          "hash": "dcc5cb18b0353a3e728441a5757ea2d03f6cd2b2",
+          "key": "catalog/2025-german-windbreaker-2/image-08.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/06d1e8b9/c74c4f09.jpg": "0a782310bd58a6282fa34edb459c707cc101dc04",
+        "https://photo.yupoo.com/minkang/79124c9c/7eb6d106.jpg": "dd80a3fed9d7bfeb60e45940fac8a1ec2794400e",
+        "https://photo.yupoo.com/minkang/58d64a10/e4f9b10f.jpg": "55df7d378934b1386e2edb64900660149e6cea15",
+        "https://photo.yupoo.com/minkang/a98205e8/83b9b910.jpg": "51daf75f91fe688d90b7e2ccd61a8217998e8a94",
+        "https://photo.yupoo.com/minkang/db897450/84b1c4b7.jpg": "4f02d9b381c45be4bcf4b2f3e1010e505081d7d7",
+        "https://photo.yupoo.com/minkang/c0da82f9/ef50ffa1.jpg": "b189398d50ff5b4fb5c1fa6bc2bd91f95c12cdeb",
+        "https://photo.yupoo.com/minkang/2dfb6e4b/26829bd4.jpg": "9d4ad8c232e946bd6ae1f32af32c57513a8ea8a8",
+        "https://photo.yupoo.com/minkang/3ecf4855/3493cc29.jpg": "dcc5cb18b0353a3e728441a5757ea2d03f6cd2b2"
+      },
+      "checkedAt": "2026-10-14T05:35:53.075Z"
+    },
+    "214510318": {
+      "slug": "25-26-bayern-munich-windbreaker",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/8c8e546b/05781840.jpg",
+          "hash": "5e0e39add4aff336a131842f7ff406322d6ad8f5",
+          "key": "catalog/25-26-bayern-munich-windbreaker/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/30beb227/829d509e.jpg",
+          "hash": "1e599e6dc642f16897d34feff27f6d69aa4e4a9b",
+          "key": "catalog/25-26-bayern-munich-windbreaker/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/b9ee0335/f7e074e0.jpg",
+          "hash": "6893e739868a3cef4fefac78ab176504c195053e",
+          "key": "catalog/25-26-bayern-munich-windbreaker/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/e8817307/f9bf0afa.jpg",
+          "hash": "c05af6cf0ce2f09867456063e431f92bf81ccc95",
+          "key": "catalog/25-26-bayern-munich-windbreaker/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/84336fcc/13e35e34.jpg",
+          "hash": "a9d5a9b169c9421eae7575ebc1f101ad5a090429",
+          "key": "catalog/25-26-bayern-munich-windbreaker/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/3b56c290/b63ed7d3.jpg",
+          "hash": "63fdc183c8c390ad06ac7aa3560faeed7cea811d",
+          "key": "catalog/25-26-bayern-munich-windbreaker/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/51a009df/2c5b1c33.jpg",
+          "hash": "3cb273b14fc4dff7fedb8c4adcb1a36f693413ff",
+          "key": "catalog/25-26-bayern-munich-windbreaker/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/592b8a92/ac1f2893.jpg",
+          "hash": "54d7743e46320db1ece55469c8c8a532ed1b78bf",
+          "key": "catalog/25-26-bayern-munich-windbreaker/image-08.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/b5d6a60e/5c645c5d.jpg",
+          "hash": "d19776928a4d31ae38bff5da93c0a71f786d65cd",
+          "key": "catalog/25-26-bayern-munich-windbreaker/image-09.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/30beb227/829d509e.jpg": "1e599e6dc642f16897d34feff27f6d69aa4e4a9b",
+        "https://photo.yupoo.com/minkang/b9ee0335/f7e074e0.jpg": "6893e739868a3cef4fefac78ab176504c195053e",
+        "https://photo.yupoo.com/minkang/e8817307/f9bf0afa.jpg": "c05af6cf0ce2f09867456063e431f92bf81ccc95",
+        "https://photo.yupoo.com/minkang/84336fcc/13e35e34.jpg": "a9d5a9b169c9421eae7575ebc1f101ad5a090429",
+        "https://photo.yupoo.com/minkang/3b56c290/b63ed7d3.jpg": "63fdc183c8c390ad06ac7aa3560faeed7cea811d",
+        "https://photo.yupoo.com/minkang/51a009df/2c5b1c33.jpg": "3cb273b14fc4dff7fedb8c4adcb1a36f693413ff",
+        "https://photo.yupoo.com/minkang/592b8a92/ac1f2893.jpg": "54d7743e46320db1ece55469c8c8a532ed1b78bf",
+        "https://photo.yupoo.com/minkang/b5d6a60e/5c645c5d.jpg": "d19776928a4d31ae38bff5da93c0a71f786d65cd",
+        "https://photo.yupoo.com/minkang/8c8e546b/05781840.jpg": "5e0e39add4aff336a131842f7ff406322d6ad8f5"
+      },
+      "checkedAt": "2026-10-14T05:35:36.406Z"
+    },
+    "214510321": {
+      "slug": "25-26-barcelona-windbreaker-3",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/991d6fce/5dac6466.jpg",
+          "hash": "5406a0645d2db03c62ca2d4d3210f738675bb889",
+          "key": "catalog/25-26-barcelona-windbreaker-3/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/8fce00ee/4bbb9ab5.jpg",
+          "hash": "66708324e38c14227e7b90fbe1d9e70ba35fb254",
+          "key": "catalog/25-26-barcelona-windbreaker-3/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/645ac10a/fbeee601.jpg",
+          "hash": "3144d150874e20783a5eb00b9f6d28e92f3fff8e",
+          "key": "catalog/25-26-barcelona-windbreaker-3/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/6678e9b2/bd2d2241.jpg",
+          "hash": "e967c556133385f9a6578a37401d7498b5b52f7e",
+          "key": "catalog/25-26-barcelona-windbreaker-3/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/c55e5044/cb6d83b2.jpg",
+          "hash": "94ea5457779be77376de2a4d2a850edd504e187a",
+          "key": "catalog/25-26-barcelona-windbreaker-3/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/96861029/34f51f7a.jpg",
+          "hash": "172cbf3f834c3168a1dcf88fa91e6c130b83483c",
+          "key": "catalog/25-26-barcelona-windbreaker-3/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/7406d9a2/18f0cebd.jpg",
+          "hash": "28d69af2d9a2321ef21d3fd7d88f88e1b087afde",
+          "key": "catalog/25-26-barcelona-windbreaker-3/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/a4841c65/2c62addc.jpg",
+          "hash": "aa55a702fea8295c30284685983c4632fbf411c4",
+          "key": "catalog/25-26-barcelona-windbreaker-3/image-08.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/ab1f23c9/d16422c2.jpg",
+          "hash": "9f9c822fd1ef69047bcdf56e7636c43c6af0bb4f",
+          "key": "catalog/25-26-barcelona-windbreaker-3/image-09.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/8fce00ee/4bbb9ab5.jpg": "66708324e38c14227e7b90fbe1d9e70ba35fb254",
+        "https://photo.yupoo.com/minkang/645ac10a/fbeee601.jpg": "3144d150874e20783a5eb00b9f6d28e92f3fff8e",
+        "https://photo.yupoo.com/minkang/6678e9b2/bd2d2241.jpg": "e967c556133385f9a6578a37401d7498b5b52f7e",
+        "https://photo.yupoo.com/minkang/c55e5044/cb6d83b2.jpg": "94ea5457779be77376de2a4d2a850edd504e187a",
+        "https://photo.yupoo.com/minkang/96861029/34f51f7a.jpg": "172cbf3f834c3168a1dcf88fa91e6c130b83483c",
+        "https://photo.yupoo.com/minkang/7406d9a2/18f0cebd.jpg": "28d69af2d9a2321ef21d3fd7d88f88e1b087afde",
+        "https://photo.yupoo.com/minkang/a4841c65/2c62addc.jpg": "aa55a702fea8295c30284685983c4632fbf411c4",
+        "https://photo.yupoo.com/minkang/ab1f23c9/d16422c2.jpg": "9f9c822fd1ef69047bcdf56e7636c43c6af0bb4f",
+        "https://photo.yupoo.com/minkang/991d6fce/5dac6466.jpg": "5406a0645d2db03c62ca2d4d3210f738675bb889"
+      },
+      "checkedAt": "2026-10-14T05:35:18.682Z"
+    },
+    "214510716": {
+      "slug": "2025-italy-windbreaker-4",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/814f8d6e/20ecc262.jpg",
+          "hash": "c36342d798d32abbe99f69c22535cbb9796e6f14",
+          "key": "catalog/2025-italy-windbreaker-4/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/4dda9b11/786024a8.jpg",
+          "hash": "57adb056b06f5cd67088d721fc0beecd30033d58",
+          "key": "catalog/2025-italy-windbreaker-4/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/0bc15c93/e3577972.jpg",
+          "hash": "5389fc133a78014fdb0bf80330d301c2a8cf669f",
+          "key": "catalog/2025-italy-windbreaker-4/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/d48799d1/567f34c8.jpg",
+          "hash": "3016e9c05e5d62aa4319b4181f89ad7735170b5b",
+          "key": "catalog/2025-italy-windbreaker-4/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/46cd398c/f1e5264c.jpg",
+          "hash": "fc02d86f7816d38f25d42e448db5ff66138289e2",
+          "key": "catalog/2025-italy-windbreaker-4/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/e03b3c5b/935865c4.jpg",
+          "hash": "af39e148170fc28b75a60474bf4b155d3ce3b5f7",
+          "key": "catalog/2025-italy-windbreaker-4/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/ba88cba7/816c48af.jpg",
+          "hash": "9edfffb5b44333879adc7323fed35d1d82d7248e",
+          "key": "catalog/2025-italy-windbreaker-4/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/1c1b0539/3892ba82.jpg",
+          "hash": "a0c0853319176a7c7ffef3336ee86041f4a7b3f8",
+          "key": "catalog/2025-italy-windbreaker-4/image-08.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/4dda9b11/786024a8.jpg": "57adb056b06f5cd67088d721fc0beecd30033d58",
+        "https://photo.yupoo.com/minkang/0bc15c93/e3577972.jpg": "5389fc133a78014fdb0bf80330d301c2a8cf669f",
+        "https://photo.yupoo.com/minkang/d48799d1/567f34c8.jpg": "3016e9c05e5d62aa4319b4181f89ad7735170b5b",
+        "https://photo.yupoo.com/minkang/46cd398c/f1e5264c.jpg": "fc02d86f7816d38f25d42e448db5ff66138289e2",
+        "https://photo.yupoo.com/minkang/e03b3c5b/935865c4.jpg": "af39e148170fc28b75a60474bf4b155d3ce3b5f7",
+        "https://photo.yupoo.com/minkang/ba88cba7/816c48af.jpg": "9edfffb5b44333879adc7323fed35d1d82d7248e",
+        "https://photo.yupoo.com/minkang/1c1b0539/3892ba82.jpg": "a0c0853319176a7c7ffef3336ee86041f4a7b3f8",
+        "https://photo.yupoo.com/minkang/814f8d6e/20ecc262.jpg": "c36342d798d32abbe99f69c22535cbb9796e6f14"
+      },
+      "checkedAt": "2026-10-14T05:35:02.547Z"
+    },
+    "214510718": {
+      "slug": "25-26-psg-windbreaker-4",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/4c1ec864/a07caeb3.jpg",
+          "hash": "1ac736a91a9b5b907676b9809fa159942b9a41ad",
+          "key": "catalog/25-26-psg-windbreaker-4/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/32585469/2bf27e43.jpg",
+          "hash": "6b50ea6ebc73d9457fd8aabe8b3878317bd9f475",
+          "key": "catalog/25-26-psg-windbreaker-4/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/a42a249e/29489bc1.jpg",
+          "hash": "ea7655e083e4fe3bc5be8adb91798ffcd8700e21",
+          "key": "catalog/25-26-psg-windbreaker-4/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/1ac6de75/4bbaf5af.jpg",
+          "hash": "3e46d178790b736df56574c70160a3c132226e32",
+          "key": "catalog/25-26-psg-windbreaker-4/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/7b2bc269/7121b3e5.jpg",
+          "hash": "c37bec4f32c80b6f29cfe5380835e3a4b895f5ca",
+          "key": "catalog/25-26-psg-windbreaker-4/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/080b60d3/6336cee6.jpg",
+          "hash": "61f6d01c1387fba30c39b87762a17d690d14bae3",
+          "key": "catalog/25-26-psg-windbreaker-4/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/e10ed10d/8de0d686.jpg",
+          "hash": "6aaa5e2b2987637e016f4ddb77a5a8f01cfbecd3",
+          "key": "catalog/25-26-psg-windbreaker-4/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/aa54dc22/060aa5e2.jpg",
+          "hash": "0a8ddcdbfa53ac0c5be1618ffb713f6959730eb8",
+          "key": "catalog/25-26-psg-windbreaker-4/image-08.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/32585469/2bf27e43.jpg": "6b50ea6ebc73d9457fd8aabe8b3878317bd9f475",
+        "https://photo.yupoo.com/minkang/a42a249e/29489bc1.jpg": "ea7655e083e4fe3bc5be8adb91798ffcd8700e21",
+        "https://photo.yupoo.com/minkang/1ac6de75/4bbaf5af.jpg": "3e46d178790b736df56574c70160a3c132226e32",
+        "https://photo.yupoo.com/minkang/7b2bc269/7121b3e5.jpg": "c37bec4f32c80b6f29cfe5380835e3a4b895f5ca",
+        "https://photo.yupoo.com/minkang/080b60d3/6336cee6.jpg": "61f6d01c1387fba30c39b87762a17d690d14bae3",
+        "https://photo.yupoo.com/minkang/e10ed10d/8de0d686.jpg": "6aaa5e2b2987637e016f4ddb77a5a8f01cfbecd3",
+        "https://photo.yupoo.com/minkang/aa54dc22/060aa5e2.jpg": "0a8ddcdbfa53ac0c5be1618ffb713f6959730eb8",
+        "https://photo.yupoo.com/minkang/4c1ec864/a07caeb3.jpg": "1ac736a91a9b5b907676b9809fa159942b9a41ad"
+      },
+      "checkedAt": "2026-10-14T05:34:47.151Z"
+    },
+    "214510721": {
+      "slug": "25-26-real-madrid-windbreaker-7",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/791b7b72/3d8f5bab.jpg",
+          "hash": "da2d731f80208d54b485927bcdad3df499426d72",
+          "key": "catalog/25-26-real-madrid-windbreaker-7/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/5c54b18e/c624524a.jpg",
+          "hash": "483b4c04929d7ec3141cb7901227b005d56c2b07",
+          "key": "catalog/25-26-real-madrid-windbreaker-7/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/74a18c3b/c3338196.jpg",
+          "hash": "baf2dd12dffff51d6d6f0bc96b1b1326d288329e",
+          "key": "catalog/25-26-real-madrid-windbreaker-7/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/0b15ccb6/793ce7eb.jpg",
+          "hash": "80ad8ed7e60b5cea653880c965b484556bf0053f",
+          "key": "catalog/25-26-real-madrid-windbreaker-7/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/da914d6c/7159c33b.jpg",
+          "hash": "0284a2d5946d84c9f6bec1c231d4fb5576dda3cc",
+          "key": "catalog/25-26-real-madrid-windbreaker-7/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/9c5ee8ff/396bf34a.jpg",
+          "hash": "ea011c6e063f642c3d14b8314a1ae9190617e64c",
+          "key": "catalog/25-26-real-madrid-windbreaker-7/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/2dd6f18d/156d0874.jpg",
+          "hash": "f56171c775b92b6bc9738f7be0ad8c00c5a70ee9",
+          "key": "catalog/25-26-real-madrid-windbreaker-7/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/a045e54b/fd379602.jpg",
+          "hash": "88df5c982c0084646890fe70012efccd38acb102",
+          "key": "catalog/25-26-real-madrid-windbreaker-7/image-08.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/5c54b18e/c624524a.jpg": "483b4c04929d7ec3141cb7901227b005d56c2b07",
+        "https://photo.yupoo.com/minkang/74a18c3b/c3338196.jpg": "baf2dd12dffff51d6d6f0bc96b1b1326d288329e",
+        "https://photo.yupoo.com/minkang/0b15ccb6/793ce7eb.jpg": "80ad8ed7e60b5cea653880c965b484556bf0053f",
+        "https://photo.yupoo.com/minkang/da914d6c/7159c33b.jpg": "0284a2d5946d84c9f6bec1c231d4fb5576dda3cc",
+        "https://photo.yupoo.com/minkang/9c5ee8ff/396bf34a.jpg": "ea011c6e063f642c3d14b8314a1ae9190617e64c",
+        "https://photo.yupoo.com/minkang/2dd6f18d/156d0874.jpg": "f56171c775b92b6bc9738f7be0ad8c00c5a70ee9",
+        "https://photo.yupoo.com/minkang/a045e54b/fd379602.jpg": "88df5c982c0084646890fe70012efccd38acb102",
+        "https://photo.yupoo.com/minkang/791b7b72/3d8f5bab.jpg": "da2d731f80208d54b485927bcdad3df499426d72"
+      },
+      "checkedAt": "2026-10-14T05:34:30.581Z"
+    },
+    "214510725": {
+      "slug": "25-26-real-madrid-windbreaker-6",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/e21be50a/73503dbc.jpg",
+          "hash": "815f9ad43e1169c72e131509799a4057e3e757aa",
+          "key": "catalog/25-26-real-madrid-windbreaker-6/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/edb08eed/df7e484d.jpg",
+          "hash": "518ad858a4f2c469a6cd231cb72cfefe63766e97",
+          "key": "catalog/25-26-real-madrid-windbreaker-6/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/961da888/07551875.jpg",
+          "hash": "5313d681d41ca8984846d6dc86e376140479efc3",
+          "key": "catalog/25-26-real-madrid-windbreaker-6/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/cd18a5b5/823b32f4.jpg",
+          "hash": "e6cfda753604fdc8fbf39ed49481f8035b4474c7",
+          "key": "catalog/25-26-real-madrid-windbreaker-6/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/d4761756/0723ab7b.jpg",
+          "hash": "77f354b1441b8e3118d5453bfe4d18d138e908bf",
+          "key": "catalog/25-26-real-madrid-windbreaker-6/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/a1681af6/1ce5326c.jpg",
+          "hash": "b6a8947cb57e74986a5d85e09bce00e88e5b2aff",
+          "key": "catalog/25-26-real-madrid-windbreaker-6/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/3b42449c/0b0bc80c.jpg",
+          "hash": "78674a1508ab67d9d883720113c1ac572e6e9254",
+          "key": "catalog/25-26-real-madrid-windbreaker-6/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/68cc42ef/0c4c2aba.jpg",
+          "hash": "273f799801b8476023e8fe849e94c6715382bed5",
+          "key": "catalog/25-26-real-madrid-windbreaker-6/image-08.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/edb08eed/df7e484d.jpg": "518ad858a4f2c469a6cd231cb72cfefe63766e97",
+        "https://photo.yupoo.com/minkang/961da888/07551875.jpg": "5313d681d41ca8984846d6dc86e376140479efc3",
+        "https://photo.yupoo.com/minkang/cd18a5b5/823b32f4.jpg": "e6cfda753604fdc8fbf39ed49481f8035b4474c7",
+        "https://photo.yupoo.com/minkang/d4761756/0723ab7b.jpg": "77f354b1441b8e3118d5453bfe4d18d138e908bf",
+        "https://photo.yupoo.com/minkang/a1681af6/1ce5326c.jpg": "b6a8947cb57e74986a5d85e09bce00e88e5b2aff",
+        "https://photo.yupoo.com/minkang/3b42449c/0b0bc80c.jpg": "78674a1508ab67d9d883720113c1ac572e6e9254",
+        "https://photo.yupoo.com/minkang/68cc42ef/0c4c2aba.jpg": "273f799801b8476023e8fe849e94c6715382bed5",
+        "https://photo.yupoo.com/minkang/e21be50a/73503dbc.jpg": "815f9ad43e1169c72e131509799a4057e3e757aa"
+      },
+      "checkedAt": "2026-10-14T05:34:11.832Z"
+    },
+    "214510727": {
+      "slug": "2025-argentina-windbreaker",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/a05184c6/6b30fbc8.jpg",
+          "hash": "8e626e4e0b72452bb961646297da5e4f6e24d1d1",
+          "key": "catalog/2025-argentina-windbreaker/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/3f41340e/5f325d19.jpg",
+          "hash": "f5b06153cd17b846a8c60d1045304d229cc740e0",
+          "key": "catalog/2025-argentina-windbreaker/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/ba5c783b/896ea7b7.jpg",
+          "hash": "b18ca33666a88f0c5c13cae3feca59389e062a38",
+          "key": "catalog/2025-argentina-windbreaker/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/b58a0805/9a136f4f.jpg",
+          "hash": "6232c645c1d14a028e34c656a22eb6f5829932de",
+          "key": "catalog/2025-argentina-windbreaker/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/4bccc8c2/821269c9.jpg",
+          "hash": "9d7974044fb64d4722af74d80b185df8422c2d8a",
+          "key": "catalog/2025-argentina-windbreaker/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/fb6eff93/bdcfc539.jpg",
+          "hash": "3ba696050624fc7cd22e60a9b969cb65c2f4c60e",
+          "key": "catalog/2025-argentina-windbreaker/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/151b9869/beca0509.jpg",
+          "hash": "5bb18ca7fa737c9ae0cc668d7a8cdff48a9b5bec",
+          "key": "catalog/2025-argentina-windbreaker/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/9ad26a03/1e1aac57.jpg",
+          "hash": "b5abf73fce335cdc377c78ba11310146dc109fe5",
+          "key": "catalog/2025-argentina-windbreaker/image-08.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/3f41340e/5f325d19.jpg": "f5b06153cd17b846a8c60d1045304d229cc740e0",
+        "https://photo.yupoo.com/minkang/ba5c783b/896ea7b7.jpg": "b18ca33666a88f0c5c13cae3feca59389e062a38",
+        "https://photo.yupoo.com/minkang/b58a0805/9a136f4f.jpg": "6232c645c1d14a028e34c656a22eb6f5829932de",
+        "https://photo.yupoo.com/minkang/4bccc8c2/821269c9.jpg": "9d7974044fb64d4722af74d80b185df8422c2d8a",
+        "https://photo.yupoo.com/minkang/fb6eff93/bdcfc539.jpg": "3ba696050624fc7cd22e60a9b969cb65c2f4c60e",
+        "https://photo.yupoo.com/minkang/151b9869/beca0509.jpg": "5bb18ca7fa737c9ae0cc668d7a8cdff48a9b5bec",
+        "https://photo.yupoo.com/minkang/9ad26a03/1e1aac57.jpg": "b5abf73fce335cdc377c78ba11310146dc109fe5",
+        "https://photo.yupoo.com/minkang/a05184c6/6b30fbc8.jpg": "8e626e4e0b72452bb961646297da5e4f6e24d1d1"
+      },
+      "checkedAt": "2026-10-14T05:33:51.332Z"
+    },
+    "214510730": {
+      "slug": "25-26-psg-windbreaker-3",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/91b46b4c/27cbb3b1.jpg",
+          "hash": "3793ac8deffd950c72a7222eccdc181ec3c0549c",
+          "key": "catalog/25-26-psg-windbreaker-3/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/aa1961d8/394e5f82.jpg",
+          "hash": "2ff21fbe35323f1be53aec242c0863e2bebae8b2",
+          "key": "catalog/25-26-psg-windbreaker-3/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/aee898a9/43608e15.jpg",
+          "hash": "021e468da0962d963dab2311803b34b5edb9ac0c",
+          "key": "catalog/25-26-psg-windbreaker-3/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/9bd1463d/971bd3ce.jpg",
+          "hash": "54abb8455f5315521f5c5b0e5a1bea44294ed315",
+          "key": "catalog/25-26-psg-windbreaker-3/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/88f2b0c4/058f020b.jpg",
+          "hash": "0b15c87b1fb13b6d680e80559c3ed11e242ec186",
+          "key": "catalog/25-26-psg-windbreaker-3/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/112d9aca/df12962f.jpg",
+          "hash": "81d20e5864b39b7d8a9675a893bae6065dc84754",
+          "key": "catalog/25-26-psg-windbreaker-3/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/fbe227ec/2ee67559.jpg",
+          "hash": "98552bead0ef3ade5b1d74423b59eb57103b1850",
+          "key": "catalog/25-26-psg-windbreaker-3/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/fc9e7a38/30e8e1fc.jpg",
+          "hash": "f108fc091ce89126a481d675d9eaa9b2642cf08e",
+          "key": "catalog/25-26-psg-windbreaker-3/image-08.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/aa1961d8/394e5f82.jpg": "2ff21fbe35323f1be53aec242c0863e2bebae8b2",
+        "https://photo.yupoo.com/minkang/aee898a9/43608e15.jpg": "021e468da0962d963dab2311803b34b5edb9ac0c",
+        "https://photo.yupoo.com/minkang/9bd1463d/971bd3ce.jpg": "54abb8455f5315521f5c5b0e5a1bea44294ed315",
+        "https://photo.yupoo.com/minkang/88f2b0c4/058f020b.jpg": "0b15c87b1fb13b6d680e80559c3ed11e242ec186",
+        "https://photo.yupoo.com/minkang/112d9aca/df12962f.jpg": "81d20e5864b39b7d8a9675a893bae6065dc84754",
+        "https://photo.yupoo.com/minkang/fbe227ec/2ee67559.jpg": "98552bead0ef3ade5b1d74423b59eb57103b1850",
+        "https://photo.yupoo.com/minkang/fc9e7a38/30e8e1fc.jpg": "f108fc091ce89126a481d675d9eaa9b2642cf08e",
+        "https://photo.yupoo.com/minkang/91b46b4c/27cbb3b1.jpg": "3793ac8deffd950c72a7222eccdc181ec3c0549c"
+      },
+      "checkedAt": "2026-10-14T05:33:33.092Z"
+    },
+    "214510735": {
+      "slug": "25-26-arsenal-windbreaker-5",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/ef717301/99d7f08e.jpg",
+          "hash": "dc1e90acc2528b79049ba3ecbc3a5a4e5a642e11",
+          "key": "catalog/25-26-arsenal-windbreaker-5/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/d401e311/e64f5907.jpg",
+          "hash": "aa4215a5485087e9ef1a549a365dc5ddc926fb71",
+          "key": "catalog/25-26-arsenal-windbreaker-5/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/db62acec/d610e778.jpg",
+          "hash": "42b3aa1d1b757acd3d6b0cc914c26affd3977a02",
+          "key": "catalog/25-26-arsenal-windbreaker-5/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/b343a2a0/191d7a61.jpg",
+          "hash": "6db28e4b1016b116b8aab20e05c68bb4a9e4c861",
+          "key": "catalog/25-26-arsenal-windbreaker-5/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/1a92a35c/4d900ba3.jpg",
+          "hash": "0a55f0189518c77aa9677813a37ad6bfb392f1d8",
+          "key": "catalog/25-26-arsenal-windbreaker-5/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/5402e2cd/63fd4413.jpg",
+          "hash": "bcb6d4428167c8bd29b08732087c7a70aeb926ed",
+          "key": "catalog/25-26-arsenal-windbreaker-5/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/2ee9c4a1/ae85d3ce.jpg",
+          "hash": "8c43e191fa9f521e84899541c2a588571a936399",
+          "key": "catalog/25-26-arsenal-windbreaker-5/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/fec7f746/fd5c6242.jpg",
+          "hash": "ee8d15555c8132ef89b866d8d186d53c9d05cef8",
+          "key": "catalog/25-26-arsenal-windbreaker-5/image-08.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/d401e311/e64f5907.jpg": "aa4215a5485087e9ef1a549a365dc5ddc926fb71",
+        "https://photo.yupoo.com/minkang/db62acec/d610e778.jpg": "42b3aa1d1b757acd3d6b0cc914c26affd3977a02",
+        "https://photo.yupoo.com/minkang/b343a2a0/191d7a61.jpg": "6db28e4b1016b116b8aab20e05c68bb4a9e4c861",
+        "https://photo.yupoo.com/minkang/1a92a35c/4d900ba3.jpg": "0a55f0189518c77aa9677813a37ad6bfb392f1d8",
+        "https://photo.yupoo.com/minkang/5402e2cd/63fd4413.jpg": "bcb6d4428167c8bd29b08732087c7a70aeb926ed",
+        "https://photo.yupoo.com/minkang/2ee9c4a1/ae85d3ce.jpg": "8c43e191fa9f521e84899541c2a588571a936399",
+        "https://photo.yupoo.com/minkang/fec7f746/fd5c6242.jpg": "ee8d15555c8132ef89b866d8d186d53c9d05cef8",
+        "https://photo.yupoo.com/minkang/ef717301/99d7f08e.jpg": "dc1e90acc2528b79049ba3ecbc3a5a4e5a642e11"
+      },
+      "checkedAt": "2026-10-14T05:33:11.063Z"
+    },
+    "214510737": {
+      "slug": "25-26-manchester-united-windbreaker-4",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/f858d5ac/8ddc7338.jpg",
+          "hash": "db2722e60a1ce929da2147c1eb50f2357bd95b65",
+          "key": "catalog/25-26-manchester-united-windbreaker-4/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/1b2cf39c/038d2357.jpg",
+          "hash": "dd236260c21c7865f36cb15e5417885f016c5245",
+          "key": "catalog/25-26-manchester-united-windbreaker-4/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/19b793a7/f14f7199.jpg",
+          "hash": "284eae330c724fba96869270dc293b735c220041",
+          "key": "catalog/25-26-manchester-united-windbreaker-4/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/1ac68027/ca93b489.jpg",
+          "hash": "ee23434b62a17ca40bdeaf046f33c8e26c3b4fb9",
+          "key": "catalog/25-26-manchester-united-windbreaker-4/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/646d845c/9954f324.jpg",
+          "hash": "afe684045cef1d5e431cdb2443d885cb3ef8b6b9",
+          "key": "catalog/25-26-manchester-united-windbreaker-4/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/0a000025/e0772bda.jpg",
+          "hash": "73ea391b4b7f7523e8f11c92debb4747f4101274",
+          "key": "catalog/25-26-manchester-united-windbreaker-4/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/539b8c15/e5c40eae.jpg",
+          "hash": "723ba83efb6ac4c26eee87f96af70a083707cb5b",
+          "key": "catalog/25-26-manchester-united-windbreaker-4/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/0e5f8673/15366537.jpg",
+          "hash": "465554b8d24c151a28d2323e6223b536abbcec67",
+          "key": "catalog/25-26-manchester-united-windbreaker-4/image-08.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/1b2cf39c/038d2357.jpg": "dd236260c21c7865f36cb15e5417885f016c5245",
+        "https://photo.yupoo.com/minkang/19b793a7/f14f7199.jpg": "284eae330c724fba96869270dc293b735c220041",
+        "https://photo.yupoo.com/minkang/1ac68027/ca93b489.jpg": "ee23434b62a17ca40bdeaf046f33c8e26c3b4fb9",
+        "https://photo.yupoo.com/minkang/646d845c/9954f324.jpg": "afe684045cef1d5e431cdb2443d885cb3ef8b6b9",
+        "https://photo.yupoo.com/minkang/0a000025/e0772bda.jpg": "73ea391b4b7f7523e8f11c92debb4747f4101274",
+        "https://photo.yupoo.com/minkang/539b8c15/e5c40eae.jpg": "723ba83efb6ac4c26eee87f96af70a083707cb5b",
+        "https://photo.yupoo.com/minkang/0e5f8673/15366537.jpg": "465554b8d24c151a28d2323e6223b536abbcec67",
+        "https://photo.yupoo.com/minkang/f858d5ac/8ddc7338.jpg": "db2722e60a1ce929da2147c1eb50f2357bd95b65"
+      },
+      "checkedAt": "2026-10-14T05:32:48.399Z"
+    },
     "214510739": {
       "slug": "25-26-celtic-windbreaker",
       "entries": [
@@ -170195,6 +171857,1800 @@
         "https://photo.yupoo.com/minkang/0773e85c/7daa5641.jpg": "472f5bb3206c938eb30ba94cfb5e3926c89e97cf"
       },
       "checkedAt": "2026-10-12T22:29:08.102Z"
+    },
+    "214510743": {
+      "slug": "25-26-barcelona-windbreaker-2",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/5454e936/a8eac2eb.jpg",
+          "hash": "7b70aa627a37cddadbebe44a1a7333343c215b62",
+          "key": "catalog/25-26-barcelona-windbreaker-2/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/b9b761fd/f0f0e5a0.jpg",
+          "hash": "f97cc2c0330a52756ce7f0a52ce388bcbca6b81f",
+          "key": "catalog/25-26-barcelona-windbreaker-2/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/ddeca44d/7c91c509.jpg",
+          "hash": "44eeba5f822e00ef8f301aa802ec272aaf3281a6",
+          "key": "catalog/25-26-barcelona-windbreaker-2/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/6d29f89e/7c806a62.jpg",
+          "hash": "7bf306e7bef28fc9e727fdb8d02551104cbaf153",
+          "key": "catalog/25-26-barcelona-windbreaker-2/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/f18f984b/2f532435.jpg",
+          "hash": "79b30e165182e4c00fe9c50fa06aa660a1c4731a",
+          "key": "catalog/25-26-barcelona-windbreaker-2/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/de8aae3f/a465307a.jpg",
+          "hash": "2a4f7da84de77328192d20f96505a5d0bd7acb93",
+          "key": "catalog/25-26-barcelona-windbreaker-2/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/a3cff719/ad745ad0.jpg",
+          "hash": "f0762cca2c5de8f91cda495dab4904cd6aacc993",
+          "key": "catalog/25-26-barcelona-windbreaker-2/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/5a7baf4c/250a7f34.jpg",
+          "hash": "5d88df441bf001a82c43c4dae6c71a2de5462799",
+          "key": "catalog/25-26-barcelona-windbreaker-2/image-08.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/b9b761fd/f0f0e5a0.jpg": "f97cc2c0330a52756ce7f0a52ce388bcbca6b81f",
+        "https://photo.yupoo.com/minkang/ddeca44d/7c91c509.jpg": "44eeba5f822e00ef8f301aa802ec272aaf3281a6",
+        "https://photo.yupoo.com/minkang/6d29f89e/7c806a62.jpg": "7bf306e7bef28fc9e727fdb8d02551104cbaf153",
+        "https://photo.yupoo.com/minkang/f18f984b/2f532435.jpg": "79b30e165182e4c00fe9c50fa06aa660a1c4731a",
+        "https://photo.yupoo.com/minkang/de8aae3f/a465307a.jpg": "2a4f7da84de77328192d20f96505a5d0bd7acb93",
+        "https://photo.yupoo.com/minkang/a3cff719/ad745ad0.jpg": "f0762cca2c5de8f91cda495dab4904cd6aacc993",
+        "https://photo.yupoo.com/minkang/5a7baf4c/250a7f34.jpg": "5d88df441bf001a82c43c4dae6c71a2de5462799",
+        "https://photo.yupoo.com/minkang/5454e936/a8eac2eb.jpg": "7b70aa627a37cddadbebe44a1a7333343c215b62"
+      },
+      "checkedAt": "2026-10-14T05:32:32.855Z"
+    },
+    "214510746": {
+      "slug": "2025-italy-windbreaker-3",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/f2d11965/96cafdfb.jpg",
+          "hash": "40b5c47dc28ad00ff0c33f74aea65751aa78e995",
+          "key": "catalog/2025-italy-windbreaker-3/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/87155198/b6130987.jpg",
+          "hash": "2195cd6ba3ec820df44b184f234114cdc1d40dd2",
+          "key": "catalog/2025-italy-windbreaker-3/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/fba5c217/b9674eb6.jpg",
+          "hash": "57e42e532fa4ef04cf96b5444620e1c386e13cc1",
+          "key": "catalog/2025-italy-windbreaker-3/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/c5e6cd70/3a75af73.jpg",
+          "hash": "6e919411513eaa3391bcaa94723e813c5dfcc529",
+          "key": "catalog/2025-italy-windbreaker-3/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/c1abbf3f/e0990515.jpg",
+          "hash": "a7f7a6be9868c49f3b99f77f49a8bfaa2cb9b31e",
+          "key": "catalog/2025-italy-windbreaker-3/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/900a8990/f616b6dd.jpg",
+          "hash": "27a61fccf5e1585147cf9a6dbee7334935e13283",
+          "key": "catalog/2025-italy-windbreaker-3/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/833a1fe3/11c38887.jpg",
+          "hash": "12e428f00578f91fda948b705c3601bb4a3679fb",
+          "key": "catalog/2025-italy-windbreaker-3/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/3fea24b6/66fefb5c.jpg",
+          "hash": "787313f91b5913f9eb40155d7bf38eedc4e6e241",
+          "key": "catalog/2025-italy-windbreaker-3/image-08.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/87155198/b6130987.jpg": "2195cd6ba3ec820df44b184f234114cdc1d40dd2",
+        "https://photo.yupoo.com/minkang/fba5c217/b9674eb6.jpg": "57e42e532fa4ef04cf96b5444620e1c386e13cc1",
+        "https://photo.yupoo.com/minkang/c5e6cd70/3a75af73.jpg": "6e919411513eaa3391bcaa94723e813c5dfcc529",
+        "https://photo.yupoo.com/minkang/c1abbf3f/e0990515.jpg": "a7f7a6be9868c49f3b99f77f49a8bfaa2cb9b31e",
+        "https://photo.yupoo.com/minkang/900a8990/f616b6dd.jpg": "27a61fccf5e1585147cf9a6dbee7334935e13283",
+        "https://photo.yupoo.com/minkang/833a1fe3/11c38887.jpg": "12e428f00578f91fda948b705c3601bb4a3679fb",
+        "https://photo.yupoo.com/minkang/3fea24b6/66fefb5c.jpg": "787313f91b5913f9eb40155d7bf38eedc4e6e241",
+        "https://photo.yupoo.com/minkang/f2d11965/96cafdfb.jpg": "40b5c47dc28ad00ff0c33f74aea65751aa78e995"
+      },
+      "checkedAt": "2026-10-14T05:32:17.351Z"
+    },
+    "214511113": {
+      "slug": "25-26-real-madrid-windbreaker-5",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/4c014cbf/04ef018d.jpg",
+          "hash": "d0a4d3a75f212e3ee76d44e840eb27c52e4ff78f",
+          "key": "catalog/25-26-real-madrid-windbreaker-5/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/bb082783/0c7afb48.jpg",
+          "hash": "38e2bd9c144c3967ccdc4c6fcd058bed722ea064",
+          "key": "catalog/25-26-real-madrid-windbreaker-5/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/6fa185aa/742f419d.jpg",
+          "hash": "f26bba852bdc2ddb19a76c4e6a06d1a423726e2a",
+          "key": "catalog/25-26-real-madrid-windbreaker-5/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/1a86660d/69cd3c13.jpg",
+          "hash": "07742b7ba01d8030b9fae31ccbe6ed14ecb1278b",
+          "key": "catalog/25-26-real-madrid-windbreaker-5/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/fccd9aab/0114e398.jpg",
+          "hash": "f448ff858ba1abd49731059b22936e4b35cca8b0",
+          "key": "catalog/25-26-real-madrid-windbreaker-5/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/39a2945e/38b4369b.jpg",
+          "hash": "1a3769a4348e74a6d6520b61b8e92f49231cab4e",
+          "key": "catalog/25-26-real-madrid-windbreaker-5/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/4a31a1a6/13c2c752.jpg",
+          "hash": "76a29c62f717068f96b75fc315186802ed59060c",
+          "key": "catalog/25-26-real-madrid-windbreaker-5/image-07.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/bb082783/0c7afb48.jpg": "38e2bd9c144c3967ccdc4c6fcd058bed722ea064",
+        "https://photo.yupoo.com/minkang/6fa185aa/742f419d.jpg": "f26bba852bdc2ddb19a76c4e6a06d1a423726e2a",
+        "https://photo.yupoo.com/minkang/1a86660d/69cd3c13.jpg": "07742b7ba01d8030b9fae31ccbe6ed14ecb1278b",
+        "https://photo.yupoo.com/minkang/fccd9aab/0114e398.jpg": "f448ff858ba1abd49731059b22936e4b35cca8b0",
+        "https://photo.yupoo.com/minkang/39a2945e/38b4369b.jpg": "1a3769a4348e74a6d6520b61b8e92f49231cab4e",
+        "https://photo.yupoo.com/minkang/4a31a1a6/13c2c752.jpg": "76a29c62f717068f96b75fc315186802ed59060c",
+        "https://photo.yupoo.com/minkang/4c014cbf/04ef018d.jpg": "d0a4d3a75f212e3ee76d44e840eb27c52e4ff78f"
+      },
+      "checkedAt": "2026-10-14T05:31:59.324Z"
+    },
+    "214511117": {
+      "slug": "2025-italy-windbreaker-2",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/14a73e2d/5d0cee2f.jpg",
+          "hash": "84e32f0700a9c924923f1248a174f03f4fd832b3",
+          "key": "catalog/2025-italy-windbreaker-2/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/8e4796fb/12172128.jpg",
+          "hash": "174c0b0273898d343ea38aea36f5999ced81837f",
+          "key": "catalog/2025-italy-windbreaker-2/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/fd65d05b/2904be3b.jpg",
+          "hash": "4832024fcc15358fd6a961c63ad00eb92c549bb4",
+          "key": "catalog/2025-italy-windbreaker-2/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/45397997/4ea3d8e9.jpg",
+          "hash": "87d0d21f1b79c61f7df834d895e34b4e09aa7f40",
+          "key": "catalog/2025-italy-windbreaker-2/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/3d4322af/d7574978.jpg",
+          "hash": "c6a53b01c032a989abfcad3b6476b4bb1f8f2ade",
+          "key": "catalog/2025-italy-windbreaker-2/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/1bb74b9a/31b7d485.jpg",
+          "hash": "8a5f7e548fe7ed7e5090eb3fc2a2aeaad6b7ccb2",
+          "key": "catalog/2025-italy-windbreaker-2/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/ead6bd77/37bef350.jpg",
+          "hash": "eb47b3c839cfb7bafdd2b6f6ae6e5dc9306ffdb7",
+          "key": "catalog/2025-italy-windbreaker-2/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/e111fc9b/8eabc762.jpg",
+          "hash": "04f6cf82324e4a241022c46394756ae501e7230e",
+          "key": "catalog/2025-italy-windbreaker-2/image-08.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/8e4796fb/12172128.jpg": "174c0b0273898d343ea38aea36f5999ced81837f",
+        "https://photo.yupoo.com/minkang/fd65d05b/2904be3b.jpg": "4832024fcc15358fd6a961c63ad00eb92c549bb4",
+        "https://photo.yupoo.com/minkang/45397997/4ea3d8e9.jpg": "87d0d21f1b79c61f7df834d895e34b4e09aa7f40",
+        "https://photo.yupoo.com/minkang/3d4322af/d7574978.jpg": "c6a53b01c032a989abfcad3b6476b4bb1f8f2ade",
+        "https://photo.yupoo.com/minkang/1bb74b9a/31b7d485.jpg": "8a5f7e548fe7ed7e5090eb3fc2a2aeaad6b7ccb2",
+        "https://photo.yupoo.com/minkang/ead6bd77/37bef350.jpg": "eb47b3c839cfb7bafdd2b6f6ae6e5dc9306ffdb7",
+        "https://photo.yupoo.com/minkang/e111fc9b/8eabc762.jpg": "04f6cf82324e4a241022c46394756ae501e7230e",
+        "https://photo.yupoo.com/minkang/14a73e2d/5d0cee2f.jpg": "84e32f0700a9c924923f1248a174f03f4fd832b3"
+      },
+      "checkedAt": "2026-10-14T05:31:41.715Z"
+    },
+    "214511120": {
+      "slug": "25-26-manchester-united-windbreaker-3",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/cb521919/e868f0e4.jpg",
+          "hash": "b455f00a69a8454778ed07795e5944543b6e8fdc",
+          "key": "catalog/25-26-manchester-united-windbreaker-3/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/82ae3a63/ffe128e8.jpg",
+          "hash": "bf5d9c9bcf0dbf801c856dfb232783d0aa09e8ef",
+          "key": "catalog/25-26-manchester-united-windbreaker-3/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/2008dcc5/8841a26b.jpg",
+          "hash": "28a5a8362889e5c107caff42abdd634e177b2c20",
+          "key": "catalog/25-26-manchester-united-windbreaker-3/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/6c4a69a6/652f8a72.jpg",
+          "hash": "c2980c3a5d66694af1393b58cff1db5b5b472938",
+          "key": "catalog/25-26-manchester-united-windbreaker-3/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/13428ad6/db335873.jpg",
+          "hash": "92dfe731640f66fcf1029604b128bcb7580130ba",
+          "key": "catalog/25-26-manchester-united-windbreaker-3/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/40482e05/eada4430.jpg",
+          "hash": "abf8c8f28e100a5a7e169ea4de1224f84c2477bc",
+          "key": "catalog/25-26-manchester-united-windbreaker-3/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/803755c0/1d0e757f.jpg",
+          "hash": "196e6e9275abb431a4230c32af557515435aa52f",
+          "key": "catalog/25-26-manchester-united-windbreaker-3/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/f0ce6ded/fa4f3809.jpg",
+          "hash": "e6b918973fb4281c8275c42e7d78be95b84b3e5a",
+          "key": "catalog/25-26-manchester-united-windbreaker-3/image-08.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/82ae3a63/ffe128e8.jpg": "bf5d9c9bcf0dbf801c856dfb232783d0aa09e8ef",
+        "https://photo.yupoo.com/minkang/2008dcc5/8841a26b.jpg": "28a5a8362889e5c107caff42abdd634e177b2c20",
+        "https://photo.yupoo.com/minkang/6c4a69a6/652f8a72.jpg": "c2980c3a5d66694af1393b58cff1db5b5b472938",
+        "https://photo.yupoo.com/minkang/13428ad6/db335873.jpg": "92dfe731640f66fcf1029604b128bcb7580130ba",
+        "https://photo.yupoo.com/minkang/40482e05/eada4430.jpg": "abf8c8f28e100a5a7e169ea4de1224f84c2477bc",
+        "https://photo.yupoo.com/minkang/803755c0/1d0e757f.jpg": "196e6e9275abb431a4230c32af557515435aa52f",
+        "https://photo.yupoo.com/minkang/f0ce6ded/fa4f3809.jpg": "e6b918973fb4281c8275c42e7d78be95b84b3e5a",
+        "https://photo.yupoo.com/minkang/cb521919/e868f0e4.jpg": "b455f00a69a8454778ed07795e5944543b6e8fdc"
+      },
+      "checkedAt": "2026-10-14T05:31:25.391Z"
+    },
+    "214511127": {
+      "slug": "25-26-arsenal-windbreaker-4",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/4c2bf6a3/26d88b81.jpg",
+          "hash": "20ea1fc6aef395b31c479d8bff756cd5ec02a82e",
+          "key": "catalog/25-26-arsenal-windbreaker-4/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/3f284c98/9a937130.jpg",
+          "hash": "c0258c89a86ab9b03c732302dbeddf20280a768e",
+          "key": "catalog/25-26-arsenal-windbreaker-4/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/923f6929/e635e4bb.jpg",
+          "hash": "a424aa074b45e16e21371c9a4448128f0d707048",
+          "key": "catalog/25-26-arsenal-windbreaker-4/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/8a271fe3/8e3cc399.jpg",
+          "hash": "16642906b4da8b8f934d96d18a9c5352f6b5262f",
+          "key": "catalog/25-26-arsenal-windbreaker-4/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/5ca63484/8d413bb0.jpg",
+          "hash": "34bc8892f8f3bf74ce55903d2ceead415aaf6c12",
+          "key": "catalog/25-26-arsenal-windbreaker-4/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/3b64c023/3c0b4469.jpg",
+          "hash": "076c57ceabb557cb6d273a08652fc9da87aac041",
+          "key": "catalog/25-26-arsenal-windbreaker-4/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/970b10da/1728457b.jpg",
+          "hash": "57915941c371f248fc269448850cbdd414e8d32f",
+          "key": "catalog/25-26-arsenal-windbreaker-4/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/2fbd98c2/0b222c9b.jpg",
+          "hash": "d72907fa18dc2b9e13509a97d643fcfbbbef7c98",
+          "key": "catalog/25-26-arsenal-windbreaker-4/image-08.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/3f284c98/9a937130.jpg": "c0258c89a86ab9b03c732302dbeddf20280a768e",
+        "https://photo.yupoo.com/minkang/923f6929/e635e4bb.jpg": "a424aa074b45e16e21371c9a4448128f0d707048",
+        "https://photo.yupoo.com/minkang/8a271fe3/8e3cc399.jpg": "16642906b4da8b8f934d96d18a9c5352f6b5262f",
+        "https://photo.yupoo.com/minkang/5ca63484/8d413bb0.jpg": "34bc8892f8f3bf74ce55903d2ceead415aaf6c12",
+        "https://photo.yupoo.com/minkang/3b64c023/3c0b4469.jpg": "076c57ceabb557cb6d273a08652fc9da87aac041",
+        "https://photo.yupoo.com/minkang/970b10da/1728457b.jpg": "57915941c371f248fc269448850cbdd414e8d32f",
+        "https://photo.yupoo.com/minkang/2fbd98c2/0b222c9b.jpg": "d72907fa18dc2b9e13509a97d643fcfbbbef7c98",
+        "https://photo.yupoo.com/minkang/4c2bf6a3/26d88b81.jpg": "20ea1fc6aef395b31c479d8bff756cd5ec02a82e"
+      },
+      "checkedAt": "2026-10-14T05:31:06.255Z"
+    },
+    "214652080": {
+      "slug": "25-26-manchester-united-windbreaker-2",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/766e931b/5dce1038.jpg",
+          "hash": "7870ce4210364bb7c827b5ac2dbdbd002cd9aafb",
+          "key": "catalog/25-26-manchester-united-windbreaker-2/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/014bd1de/f94a2207.jpg",
+          "hash": "ce7f2681a603fd095438fec1dfe3d75e426ac4c7",
+          "key": "catalog/25-26-manchester-united-windbreaker-2/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/3cb1f38e/b3c7d7df.jpg",
+          "hash": "dbec050acd9f4cb6691e758b1f5106b3357282aa",
+          "key": "catalog/25-26-manchester-united-windbreaker-2/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/4cc943ff/bfdf486d.jpg",
+          "hash": "52e457e4887d3f534593181d0277e25b0efc40ce",
+          "key": "catalog/25-26-manchester-united-windbreaker-2/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/db70ba05/b7f4bce0.jpg",
+          "hash": "2eb45aa1898ab61f08663eeb8c2caf22169dd9e5",
+          "key": "catalog/25-26-manchester-united-windbreaker-2/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/5c85ce89/94d10fbe.jpg",
+          "hash": "57c97b1f359d58a641e09f06437226af815bae43",
+          "key": "catalog/25-26-manchester-united-windbreaker-2/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/30722ae5/ceb8e4c9.jpg",
+          "hash": "2b3b2b3ab0ba567d795ce3893f8a0fd31caab2ba",
+          "key": "catalog/25-26-manchester-united-windbreaker-2/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/3679a6aa/2eec9493.jpg",
+          "hash": "2d42bb993dcf9c25f7cd8ec03b2c17415450894c",
+          "key": "catalog/25-26-manchester-united-windbreaker-2/image-08.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/014bd1de/f94a2207.jpg": "ce7f2681a603fd095438fec1dfe3d75e426ac4c7",
+        "https://photo.yupoo.com/minkang/3cb1f38e/b3c7d7df.jpg": "dbec050acd9f4cb6691e758b1f5106b3357282aa",
+        "https://photo.yupoo.com/minkang/4cc943ff/bfdf486d.jpg": "52e457e4887d3f534593181d0277e25b0efc40ce",
+        "https://photo.yupoo.com/minkang/db70ba05/b7f4bce0.jpg": "2eb45aa1898ab61f08663eeb8c2caf22169dd9e5",
+        "https://photo.yupoo.com/minkang/5c85ce89/94d10fbe.jpg": "57c97b1f359d58a641e09f06437226af815bae43",
+        "https://photo.yupoo.com/minkang/30722ae5/ceb8e4c9.jpg": "2b3b2b3ab0ba567d795ce3893f8a0fd31caab2ba",
+        "https://photo.yupoo.com/minkang/3679a6aa/2eec9493.jpg": "2d42bb993dcf9c25f7cd8ec03b2c17415450894c",
+        "https://photo.yupoo.com/minkang/766e931b/5dce1038.jpg": "7870ce4210364bb7c827b5ac2dbdbd002cd9aafb"
+      },
+      "checkedAt": "2026-10-14T05:30:46.324Z"
+    },
+    "214652201": {
+      "slug": "25-26-arsenal-windbreaker-3",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/385b95c7/eb66bd95.jpg",
+          "hash": "b298a8de42568fd7dd5cf43f1a09ec8cb8914845",
+          "key": "catalog/25-26-arsenal-windbreaker-3/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/61e54125/e06b1f3f.jpg",
+          "hash": "0d8d3280f6b6d2265a7547f53b3d3148e67a76aa",
+          "key": "catalog/25-26-arsenal-windbreaker-3/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/e4c46420/049ff877.jpg",
+          "hash": "903a7703eca6e72166081cc550190f5d96008862",
+          "key": "catalog/25-26-arsenal-windbreaker-3/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/559b0a27/30d811c0.jpg",
+          "hash": "cc5da411a5f38563c68b25f2661e6fdf2c1c4422",
+          "key": "catalog/25-26-arsenal-windbreaker-3/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/4b1c5d59/61491836.jpg",
+          "hash": "afa59aa0d245f8b34cb9b7d14b9db8921cad130a",
+          "key": "catalog/25-26-arsenal-windbreaker-3/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/ca9a4f97/0aaa06a5.jpg",
+          "hash": "33c989a6fb33c398131dce5f01789476a901cb79",
+          "key": "catalog/25-26-arsenal-windbreaker-3/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/096f4f15/ace8a7a8.jpg",
+          "hash": "245ddb6021760af5eb1e37365c7c0e778e39daed",
+          "key": "catalog/25-26-arsenal-windbreaker-3/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/3103b70d/cbce0d47.jpg",
+          "hash": "fae84f28a655f0ab55905c1176ae8df6e59d9451",
+          "key": "catalog/25-26-arsenal-windbreaker-3/image-08.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/61e54125/e06b1f3f.jpg": "0d8d3280f6b6d2265a7547f53b3d3148e67a76aa",
+        "https://photo.yupoo.com/minkang/e4c46420/049ff877.jpg": "903a7703eca6e72166081cc550190f5d96008862",
+        "https://photo.yupoo.com/minkang/559b0a27/30d811c0.jpg": "cc5da411a5f38563c68b25f2661e6fdf2c1c4422",
+        "https://photo.yupoo.com/minkang/4b1c5d59/61491836.jpg": "afa59aa0d245f8b34cb9b7d14b9db8921cad130a",
+        "https://photo.yupoo.com/minkang/ca9a4f97/0aaa06a5.jpg": "33c989a6fb33c398131dce5f01789476a901cb79",
+        "https://photo.yupoo.com/minkang/096f4f15/ace8a7a8.jpg": "245ddb6021760af5eb1e37365c7c0e778e39daed",
+        "https://photo.yupoo.com/minkang/3103b70d/cbce0d47.jpg": "fae84f28a655f0ab55905c1176ae8df6e59d9451",
+        "https://photo.yupoo.com/minkang/385b95c7/eb66bd95.jpg": "b298a8de42568fd7dd5cf43f1a09ec8cb8914845"
+      },
+      "checkedAt": "2026-10-14T05:30:31.847Z"
+    },
+    "214652273": {
+      "slug": "25-26-arsenal-windbreaker-2",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/0e33f43c/6f1ff679.jpg",
+          "hash": "888aaf083ebf0f60e6269afcf9a10178653e2451",
+          "key": "catalog/25-26-arsenal-windbreaker-2/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/834bbaea/cae9b83b.jpg",
+          "hash": "7ac376e7bdcb68e0a7f1cac6110103866db628ed",
+          "key": "catalog/25-26-arsenal-windbreaker-2/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/469d935f/fd21c777.jpg",
+          "hash": "5bbd710a2e07ab4cbe4a2414a6da04e987054ecb",
+          "key": "catalog/25-26-arsenal-windbreaker-2/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/b56a286b/5b07d05f.jpg",
+          "hash": "99dc9199c50810f341186e67474f89b909c1a7b7",
+          "key": "catalog/25-26-arsenal-windbreaker-2/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/5de7493d/db435818.jpg",
+          "hash": "e71d0791b30a94c3473406c12e2a90356ed9d68f",
+          "key": "catalog/25-26-arsenal-windbreaker-2/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/8f5f2d0c/8aaf0590.jpg",
+          "hash": "99018a59a0ec1f051e5ecf3d79f273876c9ef97e",
+          "key": "catalog/25-26-arsenal-windbreaker-2/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/adc72436/d273cdd4.jpg",
+          "hash": "7c3c85d547f079c1fadd14af573f40dd6c0cdf45",
+          "key": "catalog/25-26-arsenal-windbreaker-2/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/6b1c70bc/5c077417.jpg",
+          "hash": "c4aaaebc1adbfdc2d13870ac9867795e5f3b47b7",
+          "key": "catalog/25-26-arsenal-windbreaker-2/image-08.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/834bbaea/cae9b83b.jpg": "7ac376e7bdcb68e0a7f1cac6110103866db628ed",
+        "https://photo.yupoo.com/minkang/469d935f/fd21c777.jpg": "5bbd710a2e07ab4cbe4a2414a6da04e987054ecb",
+        "https://photo.yupoo.com/minkang/b56a286b/5b07d05f.jpg": "99dc9199c50810f341186e67474f89b909c1a7b7",
+        "https://photo.yupoo.com/minkang/5de7493d/db435818.jpg": "e71d0791b30a94c3473406c12e2a90356ed9d68f",
+        "https://photo.yupoo.com/minkang/8f5f2d0c/8aaf0590.jpg": "99018a59a0ec1f051e5ecf3d79f273876c9ef97e",
+        "https://photo.yupoo.com/minkang/adc72436/d273cdd4.jpg": "7c3c85d547f079c1fadd14af573f40dd6c0cdf45",
+        "https://photo.yupoo.com/minkang/6b1c70bc/5c077417.jpg": "c4aaaebc1adbfdc2d13870ac9867795e5f3b47b7",
+        "https://photo.yupoo.com/minkang/0e33f43c/6f1ff679.jpg": "888aaf083ebf0f60e6269afcf9a10178653e2451"
+      },
+      "checkedAt": "2026-10-14T05:30:15.988Z"
+    },
+    "214652306": {
+      "slug": "25-26-arsenal-windbreaker",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/98b20624/9a18e4c2.jpg",
+          "hash": "973b708dd3ea5afcad97d20dba2c97631618f8f1",
+          "key": "catalog/25-26-arsenal-windbreaker/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/abe54823/a0eae710.jpg",
+          "hash": "0e8fdc4143d9009fdcbda0fc97a38baa222fb8f2",
+          "key": "catalog/25-26-arsenal-windbreaker/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/9a63cc0a/b90222db.jpg",
+          "hash": "93ba697080b23a07c7486e42b938c251e298cd8c",
+          "key": "catalog/25-26-arsenal-windbreaker/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/7deeefa8/7178189c.jpg",
+          "hash": "73bb54a818227b43693b26fa5c0c09440f2a04a0",
+          "key": "catalog/25-26-arsenal-windbreaker/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/e19f3cd3/241b75a9.jpg",
+          "hash": "49095101df7cf622a6ba0e6f07cdaeba68f02e6c",
+          "key": "catalog/25-26-arsenal-windbreaker/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/6e30dc07/0d20c89d.jpg",
+          "hash": "a28ca0a3a6ac918dcfbafe5c872a110d536e51ce",
+          "key": "catalog/25-26-arsenal-windbreaker/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/423d87c6/07a89385.jpg",
+          "hash": "d9479e0a67728a9d6be1065dfed102e6b35c98f6",
+          "key": "catalog/25-26-arsenal-windbreaker/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/7ec7fb61/6ac57666.jpg",
+          "hash": "291ce0817536eacfbb1f106e355c0f5ef4a77a78",
+          "key": "catalog/25-26-arsenal-windbreaker/image-08.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/abe54823/a0eae710.jpg": "0e8fdc4143d9009fdcbda0fc97a38baa222fb8f2",
+        "https://photo.yupoo.com/minkang/9a63cc0a/b90222db.jpg": "93ba697080b23a07c7486e42b938c251e298cd8c",
+        "https://photo.yupoo.com/minkang/7deeefa8/7178189c.jpg": "73bb54a818227b43693b26fa5c0c09440f2a04a0",
+        "https://photo.yupoo.com/minkang/e19f3cd3/241b75a9.jpg": "49095101df7cf622a6ba0e6f07cdaeba68f02e6c",
+        "https://photo.yupoo.com/minkang/6e30dc07/0d20c89d.jpg": "a28ca0a3a6ac918dcfbafe5c872a110d536e51ce",
+        "https://photo.yupoo.com/minkang/423d87c6/07a89385.jpg": "d9479e0a67728a9d6be1065dfed102e6b35c98f6",
+        "https://photo.yupoo.com/minkang/7ec7fb61/6ac57666.jpg": "291ce0817536eacfbb1f106e355c0f5ef4a77a78",
+        "https://photo.yupoo.com/minkang/98b20624/9a18e4c2.jpg": "973b708dd3ea5afcad97d20dba2c97631618f8f1"
+      },
+      "checkedAt": "2026-10-14T05:29:58.713Z"
+    },
+    "214652307": {
+      "slug": "25-26-chelsea-windbreaker",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/3957e88a/6be60799.jpg",
+          "hash": "35f1eb0595de4d9ab5573d8c2678290f22472390",
+          "key": "catalog/25-26-chelsea-windbreaker/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/0e30f2dd/1c3efd3b.jpg",
+          "hash": "4054001dce4cf8adb0c576878d9fc1ea14047b39",
+          "key": "catalog/25-26-chelsea-windbreaker/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/3f7624c8/aa87f785.jpg",
+          "hash": "ca4e6d3af2610861c8dc32bc4fb632a5cbeaccb9",
+          "key": "catalog/25-26-chelsea-windbreaker/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/b646bc38/3603250e.jpg",
+          "hash": "0695ac58c7f993700d1797e7085f49606dda1722",
+          "key": "catalog/25-26-chelsea-windbreaker/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/e36f6c6a/bd0021d0.jpg",
+          "hash": "31e4af22ac4b70d672249961331c2a589b7cf394",
+          "key": "catalog/25-26-chelsea-windbreaker/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/601ace37/a77c66c1.jpg",
+          "hash": "3573ba43226aae10d9f8f982eca73340dd9ade7c",
+          "key": "catalog/25-26-chelsea-windbreaker/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/9f0a6ef0/bc6f09d2.jpg",
+          "hash": "88bb0836fc3311c3b5a4feaa9787023ae1b33ebc",
+          "key": "catalog/25-26-chelsea-windbreaker/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/57288e89/a44b1aa2.jpg",
+          "hash": "70ca404bafe0142ebbb880e9aff7a81732c4f813",
+          "key": "catalog/25-26-chelsea-windbreaker/image-08.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/0e30f2dd/1c3efd3b.jpg": "4054001dce4cf8adb0c576878d9fc1ea14047b39",
+        "https://photo.yupoo.com/minkang/3f7624c8/aa87f785.jpg": "ca4e6d3af2610861c8dc32bc4fb632a5cbeaccb9",
+        "https://photo.yupoo.com/minkang/b646bc38/3603250e.jpg": "0695ac58c7f993700d1797e7085f49606dda1722",
+        "https://photo.yupoo.com/minkang/e36f6c6a/bd0021d0.jpg": "31e4af22ac4b70d672249961331c2a589b7cf394",
+        "https://photo.yupoo.com/minkang/601ace37/a77c66c1.jpg": "3573ba43226aae10d9f8f982eca73340dd9ade7c",
+        "https://photo.yupoo.com/minkang/9f0a6ef0/bc6f09d2.jpg": "88bb0836fc3311c3b5a4feaa9787023ae1b33ebc",
+        "https://photo.yupoo.com/minkang/57288e89/a44b1aa2.jpg": "70ca404bafe0142ebbb880e9aff7a81732c4f813",
+        "https://photo.yupoo.com/minkang/3957e88a/6be60799.jpg": "35f1eb0595de4d9ab5573d8c2678290f22472390"
+      },
+      "checkedAt": "2026-10-14T05:29:44.326Z"
+    },
+    "214652309": {
+      "slug": "25-26-barcelona-windbreaker",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/3b70910e/05e4d6a7.jpg",
+          "hash": "6a2e06f9e129cd6998626263ece7b5f1b6e99aed",
+          "key": "catalog/25-26-barcelona-windbreaker/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/a0f24e9a/0ea27b31.jpg",
+          "hash": "cf4315d0f28c8cd1aa33e4ab46dc157283d47ac5",
+          "key": "catalog/25-26-barcelona-windbreaker/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/fed317c0/ab73a8e5.jpg",
+          "hash": "eeb06357aadd8766763800f28bee8c1c911a05e0",
+          "key": "catalog/25-26-barcelona-windbreaker/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/7d921c33/70be986e.jpg",
+          "hash": "24b70efd7590e1967d5a27a799068f0bf48e8965",
+          "key": "catalog/25-26-barcelona-windbreaker/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/77c4b609/53eacbc1.jpg",
+          "hash": "2d79574664ca7985227d5857b7c96385363f8d7e",
+          "key": "catalog/25-26-barcelona-windbreaker/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/2fa930ff/dd134080.jpg",
+          "hash": "9203e2a0705d36549484508b75539c4178f6583c",
+          "key": "catalog/25-26-barcelona-windbreaker/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/dde43ad8/b6071ab0.jpg",
+          "hash": "4421d18a532529c84a9422ac99ef0c85fea3d0f7",
+          "key": "catalog/25-26-barcelona-windbreaker/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/9ed1f964/e1e0f43e.jpg",
+          "hash": "e6ef7dfc649ff74453133bc755e99c64c996d2c3",
+          "key": "catalog/25-26-barcelona-windbreaker/image-08.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/a0f24e9a/0ea27b31.jpg": "cf4315d0f28c8cd1aa33e4ab46dc157283d47ac5",
+        "https://photo.yupoo.com/minkang/fed317c0/ab73a8e5.jpg": "eeb06357aadd8766763800f28bee8c1c911a05e0",
+        "https://photo.yupoo.com/minkang/7d921c33/70be986e.jpg": "24b70efd7590e1967d5a27a799068f0bf48e8965",
+        "https://photo.yupoo.com/minkang/77c4b609/53eacbc1.jpg": "2d79574664ca7985227d5857b7c96385363f8d7e",
+        "https://photo.yupoo.com/minkang/2fa930ff/dd134080.jpg": "9203e2a0705d36549484508b75539c4178f6583c",
+        "https://photo.yupoo.com/minkang/dde43ad8/b6071ab0.jpg": "4421d18a532529c84a9422ac99ef0c85fea3d0f7",
+        "https://photo.yupoo.com/minkang/9ed1f964/e1e0f43e.jpg": "e6ef7dfc649ff74453133bc755e99c64c996d2c3",
+        "https://photo.yupoo.com/minkang/3b70910e/05e4d6a7.jpg": "6a2e06f9e129cd6998626263ece7b5f1b6e99aed"
+      },
+      "checkedAt": "2026-10-14T05:29:31.147Z"
+    },
+    "214652312": {
+      "slug": "2025-italy-windbreaker",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/d074af5b/b79e348c.jpg",
+          "hash": "3df2ea74e658abd7997d2654c4eb02c652a4f3bc",
+          "key": "catalog/2025-italy-windbreaker/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/12d57ad4/aba51500.jpg",
+          "hash": "c668e53fb2a3ee15ace7049050da3a5cf313bc55",
+          "key": "catalog/2025-italy-windbreaker/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/7ea31676/a79880b7.jpg",
+          "hash": "bf7b4043c54a60725efb092fc4cce522f803333b",
+          "key": "catalog/2025-italy-windbreaker/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/69d8d0a9/4309ccf4.jpg",
+          "hash": "a9a0b0bce314c1f4f3a0539e8b9ba73d9afb216e",
+          "key": "catalog/2025-italy-windbreaker/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/dea76c05/ff2e640a.jpg",
+          "hash": "49ef5abd136bde64cf608c45a95222bba33e2464",
+          "key": "catalog/2025-italy-windbreaker/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/02f0f823/50027553.jpg",
+          "hash": "d97853127d81c4cd8f44530f8935a1c05f661083",
+          "key": "catalog/2025-italy-windbreaker/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/95a73ee0/85e4b8aa.jpg",
+          "hash": "467ebf3eefe3678455851b24e58f34f9502b2912",
+          "key": "catalog/2025-italy-windbreaker/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/cea1e20f/ee5cb7f5.jpg",
+          "hash": "3d4820f1553dd32843d8db40c42f9336ca9357fe",
+          "key": "catalog/2025-italy-windbreaker/image-08.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/12d57ad4/aba51500.jpg": "c668e53fb2a3ee15ace7049050da3a5cf313bc55",
+        "https://photo.yupoo.com/minkang/7ea31676/a79880b7.jpg": "bf7b4043c54a60725efb092fc4cce522f803333b",
+        "https://photo.yupoo.com/minkang/69d8d0a9/4309ccf4.jpg": "a9a0b0bce314c1f4f3a0539e8b9ba73d9afb216e",
+        "https://photo.yupoo.com/minkang/dea76c05/ff2e640a.jpg": "49ef5abd136bde64cf608c45a95222bba33e2464",
+        "https://photo.yupoo.com/minkang/02f0f823/50027553.jpg": "d97853127d81c4cd8f44530f8935a1c05f661083",
+        "https://photo.yupoo.com/minkang/95a73ee0/85e4b8aa.jpg": "467ebf3eefe3678455851b24e58f34f9502b2912",
+        "https://photo.yupoo.com/minkang/cea1e20f/ee5cb7f5.jpg": "3d4820f1553dd32843d8db40c42f9336ca9357fe",
+        "https://photo.yupoo.com/minkang/d074af5b/b79e348c.jpg": "3df2ea74e658abd7997d2654c4eb02c652a4f3bc"
+      },
+      "checkedAt": "2026-10-14T05:29:10.363Z"
+    },
+    "214652319": {
+      "slug": "25-26-psg-windbreaker-2",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/6b5f2403/016f8497.jpg",
+          "hash": "aeed1438abab519b0763de0d2e8c97e8e550a4ce",
+          "key": "catalog/25-26-psg-windbreaker-2/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/b4ded772/675bc4a9.jpg",
+          "hash": "dfbb55d5e98223486eb8105c9c9de536f556b20e",
+          "key": "catalog/25-26-psg-windbreaker-2/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/510dd4c3/6ac9837b.jpg",
+          "hash": "e6775eb4c5fa9456816d208b0b57c995db2e3c5d",
+          "key": "catalog/25-26-psg-windbreaker-2/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/b7b2909c/878bdf8b.jpg",
+          "hash": "80069aba31a98d67cfb3692056fa5d5ee64878d9",
+          "key": "catalog/25-26-psg-windbreaker-2/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/bdb290fb/f0aea534.jpg",
+          "hash": "0502c1ed711e9addbac6bd7b4016caf184dc3867",
+          "key": "catalog/25-26-psg-windbreaker-2/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/c8f5c50b/c881c368.jpg",
+          "hash": "d497f55ae09318c7b2f754baa1a7bb8730c55431",
+          "key": "catalog/25-26-psg-windbreaker-2/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/8e09a117/f0579a5d.jpg",
+          "hash": "917365e96987d92a2d0663cd5d720487f30d0d29",
+          "key": "catalog/25-26-psg-windbreaker-2/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/f7c7e5d8/75f4b877.jpg",
+          "hash": "c18a00174cd1db63114b59912f4cc957145c84ce",
+          "key": "catalog/25-26-psg-windbreaker-2/image-08.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/6b5f2403/016f8497.jpg": "aeed1438abab519b0763de0d2e8c97e8e550a4ce",
+        "https://photo.yupoo.com/minkang/b4ded772/675bc4a9.jpg": "dfbb55d5e98223486eb8105c9c9de536f556b20e",
+        "https://photo.yupoo.com/minkang/510dd4c3/6ac9837b.jpg": "e6775eb4c5fa9456816d208b0b57c995db2e3c5d",
+        "https://photo.yupoo.com/minkang/b7b2909c/878bdf8b.jpg": "80069aba31a98d67cfb3692056fa5d5ee64878d9",
+        "https://photo.yupoo.com/minkang/bdb290fb/f0aea534.jpg": "0502c1ed711e9addbac6bd7b4016caf184dc3867",
+        "https://photo.yupoo.com/minkang/c8f5c50b/c881c368.jpg": "d497f55ae09318c7b2f754baa1a7bb8730c55431",
+        "https://photo.yupoo.com/minkang/8e09a117/f0579a5d.jpg": "917365e96987d92a2d0663cd5d720487f30d0d29",
+        "https://photo.yupoo.com/minkang/f7c7e5d8/75f4b877.jpg": "c18a00174cd1db63114b59912f4cc957145c84ce"
+      },
+      "checkedAt": "2026-10-14T05:28:48.417Z"
+    },
+    "214652321": {
+      "slug": "25-26-psg-windbreaker",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/2e10dfca/c9c7d88f.jpg",
+          "hash": "b31d0d74831a33346ed644aaf0fd5c47ade828f8",
+          "key": "catalog/25-26-psg-windbreaker/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/bd5b44c9/bdb4966e.jpg",
+          "hash": "532a8422c7d1cdb8bf9ee15fa0e99b124240324d",
+          "key": "catalog/25-26-psg-windbreaker/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/d1f3abeb/5cc5cf70.jpg",
+          "hash": "b929afbf05eb65b77dfd200111b1812b6db76f32",
+          "key": "catalog/25-26-psg-windbreaker/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/8ee5a909/30514668.jpg",
+          "hash": "e991007a4c064e7a4933d70ff0407ba4c623f264",
+          "key": "catalog/25-26-psg-windbreaker/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/34f30364/3b06c862.jpg",
+          "hash": "22097325369d6f9a83c00181dd0f92dfa37cd1d8",
+          "key": "catalog/25-26-psg-windbreaker/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/ce3de71f/e8512fb8.jpg",
+          "hash": "aea93854561b1626b24f66e3c0b7ee045444dcab",
+          "key": "catalog/25-26-psg-windbreaker/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/61fce9de/1625427b.jpg",
+          "hash": "df1a623621b4445ab7fd4ca86a1e4ab8920e1cd8",
+          "key": "catalog/25-26-psg-windbreaker/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/82a4c5bb/c02733db.jpg",
+          "hash": "207d35a4bea61a38d720f070c0dae6ba7b82c2d6",
+          "key": "catalog/25-26-psg-windbreaker/image-08.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/2e10dfca/c9c7d88f.jpg": "b31d0d74831a33346ed644aaf0fd5c47ade828f8",
+        "https://photo.yupoo.com/minkang/bd5b44c9/bdb4966e.jpg": "532a8422c7d1cdb8bf9ee15fa0e99b124240324d",
+        "https://photo.yupoo.com/minkang/d1f3abeb/5cc5cf70.jpg": "b929afbf05eb65b77dfd200111b1812b6db76f32",
+        "https://photo.yupoo.com/minkang/8ee5a909/30514668.jpg": "e991007a4c064e7a4933d70ff0407ba4c623f264",
+        "https://photo.yupoo.com/minkang/34f30364/3b06c862.jpg": "22097325369d6f9a83c00181dd0f92dfa37cd1d8",
+        "https://photo.yupoo.com/minkang/ce3de71f/e8512fb8.jpg": "aea93854561b1626b24f66e3c0b7ee045444dcab",
+        "https://photo.yupoo.com/minkang/61fce9de/1625427b.jpg": "df1a623621b4445ab7fd4ca86a1e4ab8920e1cd8",
+        "https://photo.yupoo.com/minkang/82a4c5bb/c02733db.jpg": "207d35a4bea61a38d720f070c0dae6ba7b82c2d6"
+      },
+      "checkedAt": "2026-10-14T05:28:33.276Z"
+    },
+    "214652323": {
+      "slug": "25-26-real-madrid-windbreaker-4",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/7437cd54/8e3198e9.jpg",
+          "hash": "bc61525403c741797f4f99f96d0929972152d527",
+          "key": "catalog/25-26-real-madrid-windbreaker-4/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/997dfb70/92239caf.jpg",
+          "hash": "9e63e8aa7e43b236f07a2d2c03ef391ec6ef17c2",
+          "key": "catalog/25-26-real-madrid-windbreaker-4/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/71f18423/69cf27f6.jpg",
+          "hash": "0c960b6398f1111c582daa68854375059c9a48c5",
+          "key": "catalog/25-26-real-madrid-windbreaker-4/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/ca78a905/5c3d6a11.jpg",
+          "hash": "b743fb58e1bc956ac9433f07a09268c317869a92",
+          "key": "catalog/25-26-real-madrid-windbreaker-4/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/61ea6268/2856d109.jpg",
+          "hash": "ba200aa1b9d4201a471dd4dca4a3e4bc6a39d7a3",
+          "key": "catalog/25-26-real-madrid-windbreaker-4/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/3f7ae181/f76b6439.jpg",
+          "hash": "af4857dad35eaac76f10f6cd4f39e839b5f67b53",
+          "key": "catalog/25-26-real-madrid-windbreaker-4/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/a78b7d82/6a5265ee.jpg",
+          "hash": "2f1ab8e6bc58af4e2e4259e75c1d2c046887a8da",
+          "key": "catalog/25-26-real-madrid-windbreaker-4/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/691ab590/c7b3dfca.jpg",
+          "hash": "7aae39f521324231a0d1c2f6eec8f003bc01c306",
+          "key": "catalog/25-26-real-madrid-windbreaker-4/image-08.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/7437cd54/8e3198e9.jpg": "bc61525403c741797f4f99f96d0929972152d527",
+        "https://photo.yupoo.com/minkang/997dfb70/92239caf.jpg": "9e63e8aa7e43b236f07a2d2c03ef391ec6ef17c2",
+        "https://photo.yupoo.com/minkang/71f18423/69cf27f6.jpg": "0c960b6398f1111c582daa68854375059c9a48c5",
+        "https://photo.yupoo.com/minkang/ca78a905/5c3d6a11.jpg": "b743fb58e1bc956ac9433f07a09268c317869a92",
+        "https://photo.yupoo.com/minkang/61ea6268/2856d109.jpg": "ba200aa1b9d4201a471dd4dca4a3e4bc6a39d7a3",
+        "https://photo.yupoo.com/minkang/3f7ae181/f76b6439.jpg": "af4857dad35eaac76f10f6cd4f39e839b5f67b53",
+        "https://photo.yupoo.com/minkang/a78b7d82/6a5265ee.jpg": "2f1ab8e6bc58af4e2e4259e75c1d2c046887a8da",
+        "https://photo.yupoo.com/minkang/691ab590/c7b3dfca.jpg": "7aae39f521324231a0d1c2f6eec8f003bc01c306"
+      },
+      "checkedAt": "2026-10-14T05:28:16.186Z"
+    },
+    "214652324": {
+      "slug": "25-26-americas-team-windbreaker",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/0e69f85b/19e4f854.jpg",
+          "hash": "5623a5b009a11d90134c1f0a35d41db6a4c7c93c",
+          "key": "catalog/25-26-americas-team-windbreaker/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/e208fd27/d91abf63.jpg",
+          "hash": "c35f90851010d554773e982601a9ad04d44a94c9",
+          "key": "catalog/25-26-americas-team-windbreaker/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/e79cd55e/2b563cd5.jpg",
+          "hash": "43d8de2985f2a1aaa92fbed82330cd638edce3b3",
+          "key": "catalog/25-26-americas-team-windbreaker/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/b4ec04e8/70a3f7ad.jpg",
+          "hash": "318c31c99bfbf33db33decf010bd3530f8b2dc0a",
+          "key": "catalog/25-26-americas-team-windbreaker/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/afb69bf0/c9fe803f.jpg",
+          "hash": "5b2505db50594870ae15affd5d0f5ac1bd6987c3",
+          "key": "catalog/25-26-americas-team-windbreaker/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/fb8f4005/89ddd28d.jpg",
+          "hash": "a7338b3f409e60f153b7d979bb9cf10b7214dbb9",
+          "key": "catalog/25-26-americas-team-windbreaker/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/980d4aa5/4bd71a93.jpg",
+          "hash": "0e9163daf3bdfa9e40a11ac25ee9293f46f46685",
+          "key": "catalog/25-26-americas-team-windbreaker/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/60f780d2/fb56b2d8.jpg",
+          "hash": "5344dcca95c83e34fc1918bf4d92d11292154c67",
+          "key": "catalog/25-26-americas-team-windbreaker/image-08.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/0e69f85b/19e4f854.jpg": "5623a5b009a11d90134c1f0a35d41db6a4c7c93c",
+        "https://photo.yupoo.com/minkang/e208fd27/d91abf63.jpg": "c35f90851010d554773e982601a9ad04d44a94c9",
+        "https://photo.yupoo.com/minkang/e79cd55e/2b563cd5.jpg": "43d8de2985f2a1aaa92fbed82330cd638edce3b3",
+        "https://photo.yupoo.com/minkang/b4ec04e8/70a3f7ad.jpg": "318c31c99bfbf33db33decf010bd3530f8b2dc0a",
+        "https://photo.yupoo.com/minkang/afb69bf0/c9fe803f.jpg": "5b2505db50594870ae15affd5d0f5ac1bd6987c3",
+        "https://photo.yupoo.com/minkang/fb8f4005/89ddd28d.jpg": "a7338b3f409e60f153b7d979bb9cf10b7214dbb9",
+        "https://photo.yupoo.com/minkang/980d4aa5/4bd71a93.jpg": "0e9163daf3bdfa9e40a11ac25ee9293f46f46685",
+        "https://photo.yupoo.com/minkang/60f780d2/fb56b2d8.jpg": "5344dcca95c83e34fc1918bf4d92d11292154c67"
+      },
+      "checkedAt": "2026-10-14T05:27:59.102Z"
+    },
+    "214652326": {
+      "slug": "25-26-manchester-united-windbreaker",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/13055d5a/0ba903fe.jpg",
+          "hash": "d4581919d82e5c19753acae4f67914f7d4683511",
+          "key": "catalog/25-26-manchester-united-windbreaker/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/d64a6f05/d9c7b03f.jpg",
+          "hash": "b054ac58e6a05edc8fe1de590f0e7493bd157c01",
+          "key": "catalog/25-26-manchester-united-windbreaker/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/c5d66cfb/6f6b778d.jpg",
+          "hash": "696f32d75499388d65c45957e0c4aafbc01d854c",
+          "key": "catalog/25-26-manchester-united-windbreaker/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/3c47f95f/612bdf66.jpg",
+          "hash": "06482f77208c574e22ba9586dfb49032de47ca23",
+          "key": "catalog/25-26-manchester-united-windbreaker/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/f16ff140/87c9d362.jpg",
+          "hash": "44a2d65baddc08214f16396ac06b70ae69162a5e",
+          "key": "catalog/25-26-manchester-united-windbreaker/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/c56ac42a/e99021cc.jpg",
+          "hash": "9a6c087731601867923f940cb589e217d875120e",
+          "key": "catalog/25-26-manchester-united-windbreaker/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/ea390949/d3bb1bfb.jpg",
+          "hash": "29334c0b137dfc2a62da725b6cf8b6019ab8d467",
+          "key": "catalog/25-26-manchester-united-windbreaker/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/e5b84e70/a647c911.jpg",
+          "hash": "b301204adbe023acb5aeb2d966b2faf00e82162e",
+          "key": "catalog/25-26-manchester-united-windbreaker/image-08.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/13055d5a/0ba903fe.jpg": "d4581919d82e5c19753acae4f67914f7d4683511",
+        "https://photo.yupoo.com/minkang/d64a6f05/d9c7b03f.jpg": "b054ac58e6a05edc8fe1de590f0e7493bd157c01",
+        "https://photo.yupoo.com/minkang/c5d66cfb/6f6b778d.jpg": "696f32d75499388d65c45957e0c4aafbc01d854c",
+        "https://photo.yupoo.com/minkang/3c47f95f/612bdf66.jpg": "06482f77208c574e22ba9586dfb49032de47ca23",
+        "https://photo.yupoo.com/minkang/f16ff140/87c9d362.jpg": "44a2d65baddc08214f16396ac06b70ae69162a5e",
+        "https://photo.yupoo.com/minkang/c56ac42a/e99021cc.jpg": "9a6c087731601867923f940cb589e217d875120e",
+        "https://photo.yupoo.com/minkang/ea390949/d3bb1bfb.jpg": "29334c0b137dfc2a62da725b6cf8b6019ab8d467",
+        "https://photo.yupoo.com/minkang/e5b84e70/a647c911.jpg": "b301204adbe023acb5aeb2d966b2faf00e82162e"
+      },
+      "checkedAt": "2026-10-14T05:27:42.231Z"
+    },
+    "214652694": {
+      "slug": "2025-german-windbreaker",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/4d00ef7b/008e6641.jpg",
+          "hash": "b2f131c87e10afa0bf2b54d88ef1a7fa9a5f63ae",
+          "key": "catalog/2025-german-windbreaker/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/6105fcef/94f5d1d0.jpg",
+          "hash": "a2a7adcdf34a2aa1789cf6bca354e2fdf47bc80d",
+          "key": "catalog/2025-german-windbreaker/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/379e90d6/b5402810.jpg",
+          "hash": "c65f2949614743b0afdf7e1c07a4de7ed93c0ef8",
+          "key": "catalog/2025-german-windbreaker/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/2d265185/11c0edc6.jpg",
+          "hash": "ef52d4b3f1566d97420ef353a914539fa76e7e53",
+          "key": "catalog/2025-german-windbreaker/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/529d6960/cfaa1c63.jpg",
+          "hash": "55d342cd90f2253e4dc3cf19cd88649e2a54c91d",
+          "key": "catalog/2025-german-windbreaker/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/6100f3a2/414b4bc8.jpg",
+          "hash": "2f3d4059b20a6b343c445b2844c4cabeca8ed3d4",
+          "key": "catalog/2025-german-windbreaker/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/77e4a012/17c61a09.jpg",
+          "hash": "9dc35a217e11ead2573d6bd878c0fe77d9918403",
+          "key": "catalog/2025-german-windbreaker/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/a4b6c1d3/b0a0b7bd.jpg",
+          "hash": "9f2e8e0edf994b5ad406a1b4cec3040456710ecc",
+          "key": "catalog/2025-german-windbreaker/image-08.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/4d00ef7b/008e6641.jpg": "b2f131c87e10afa0bf2b54d88ef1a7fa9a5f63ae",
+        "https://photo.yupoo.com/minkang/6105fcef/94f5d1d0.jpg": "a2a7adcdf34a2aa1789cf6bca354e2fdf47bc80d",
+        "https://photo.yupoo.com/minkang/379e90d6/b5402810.jpg": "c65f2949614743b0afdf7e1c07a4de7ed93c0ef8",
+        "https://photo.yupoo.com/minkang/2d265185/11c0edc6.jpg": "ef52d4b3f1566d97420ef353a914539fa76e7e53",
+        "https://photo.yupoo.com/minkang/529d6960/cfaa1c63.jpg": "55d342cd90f2253e4dc3cf19cd88649e2a54c91d",
+        "https://photo.yupoo.com/minkang/6100f3a2/414b4bc8.jpg": "2f3d4059b20a6b343c445b2844c4cabeca8ed3d4",
+        "https://photo.yupoo.com/minkang/77e4a012/17c61a09.jpg": "9dc35a217e11ead2573d6bd878c0fe77d9918403",
+        "https://photo.yupoo.com/minkang/a4b6c1d3/b0a0b7bd.jpg": "9f2e8e0edf994b5ad406a1b4cec3040456710ecc"
+      },
+      "checkedAt": "2026-10-14T05:27:25.159Z"
+    },
+    "214652698": {
+      "slug": "25-26-real-madrid-windbreaker-3",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/877b22d4/edd93fef.jpg",
+          "hash": "10a527e9d8d76761e531a680b0b7673e0d59c6f8",
+          "key": "catalog/25-26-real-madrid-windbreaker-3/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/4eaf31c7/cdec00ab.jpg",
+          "hash": "bcb87e56846113a38c7be8626692f1a8e2f01a3f",
+          "key": "catalog/25-26-real-madrid-windbreaker-3/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/25c3169b/7ae2b012.jpg",
+          "hash": "46a5ed691896efaa684773fc35fd3740b13fc7b3",
+          "key": "catalog/25-26-real-madrid-windbreaker-3/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/43cdfa2b/e64ba008.jpg",
+          "hash": "c7302bf9aa6f838a05729f5b0522a346fba2ee26",
+          "key": "catalog/25-26-real-madrid-windbreaker-3/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/33259263/51801c73.jpg",
+          "hash": "8d06e233a2063feae5d20ca0b61d2edc61d1e2a4",
+          "key": "catalog/25-26-real-madrid-windbreaker-3/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/eef6486e/7be0a943.jpg",
+          "hash": "ff426f08aba9248c81a27c5f0914a83419bfcf4a",
+          "key": "catalog/25-26-real-madrid-windbreaker-3/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/b9cda264/37467956.jpg",
+          "hash": "39ef68788775d6353c3e2e077358460d8f7fe65c",
+          "key": "catalog/25-26-real-madrid-windbreaker-3/image-07.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/877b22d4/edd93fef.jpg": "10a527e9d8d76761e531a680b0b7673e0d59c6f8",
+        "https://photo.yupoo.com/minkang/4eaf31c7/cdec00ab.jpg": "bcb87e56846113a38c7be8626692f1a8e2f01a3f",
+        "https://photo.yupoo.com/minkang/25c3169b/7ae2b012.jpg": "46a5ed691896efaa684773fc35fd3740b13fc7b3",
+        "https://photo.yupoo.com/minkang/43cdfa2b/e64ba008.jpg": "c7302bf9aa6f838a05729f5b0522a346fba2ee26",
+        "https://photo.yupoo.com/minkang/33259263/51801c73.jpg": "8d06e233a2063feae5d20ca0b61d2edc61d1e2a4",
+        "https://photo.yupoo.com/minkang/eef6486e/7be0a943.jpg": "ff426f08aba9248c81a27c5f0914a83419bfcf4a",
+        "https://photo.yupoo.com/minkang/b9cda264/37467956.jpg": "39ef68788775d6353c3e2e077358460d8f7fe65c"
+      },
+      "checkedAt": "2026-10-14T05:27:04.434Z"
+    },
+    "214652700": {
+      "slug": "25-26-real-madrid-windbreaker-2",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/37a181d3/0b11db68.jpg",
+          "hash": "fb802a61c98c3d49a776581065770497d813ca46",
+          "key": "catalog/25-26-real-madrid-windbreaker-2/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/5159896c/4dfa1536.jpg",
+          "hash": "4e8e47bed3224f64e85f8c98bd84b7ec980f7710",
+          "key": "catalog/25-26-real-madrid-windbreaker-2/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/c8453ad2/0568f827.jpg",
+          "hash": "36be387d21af2a1baf1df15c0743555f2de399cd",
+          "key": "catalog/25-26-real-madrid-windbreaker-2/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/fa8e4556/524426a6.jpg",
+          "hash": "6f2af7c75f2d6f9dea437d5a1c8ccae2d299ce6a",
+          "key": "catalog/25-26-real-madrid-windbreaker-2/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/a63f5631/8893ecef.jpg",
+          "hash": "67e20082ae5fdcac73511a8f778d84d7470d0817",
+          "key": "catalog/25-26-real-madrid-windbreaker-2/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/826235de/08236cea.jpg",
+          "hash": "b6d84e82c97d537efe6fba3861e89f62062d3e02",
+          "key": "catalog/25-26-real-madrid-windbreaker-2/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/ddbec688/f2e40a89.jpg",
+          "hash": "78eab789d8a213905ad5ac74cf16a70358555f88",
+          "key": "catalog/25-26-real-madrid-windbreaker-2/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/1042e5de/b0c60a89.jpg",
+          "hash": "2b919522e3b28d8e87e120cbc0ae66a69754972b",
+          "key": "catalog/25-26-real-madrid-windbreaker-2/image-08.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/37a181d3/0b11db68.jpg": "fb802a61c98c3d49a776581065770497d813ca46",
+        "https://photo.yupoo.com/minkang/5159896c/4dfa1536.jpg": "4e8e47bed3224f64e85f8c98bd84b7ec980f7710",
+        "https://photo.yupoo.com/minkang/c8453ad2/0568f827.jpg": "36be387d21af2a1baf1df15c0743555f2de399cd",
+        "https://photo.yupoo.com/minkang/fa8e4556/524426a6.jpg": "6f2af7c75f2d6f9dea437d5a1c8ccae2d299ce6a",
+        "https://photo.yupoo.com/minkang/a63f5631/8893ecef.jpg": "67e20082ae5fdcac73511a8f778d84d7470d0817",
+        "https://photo.yupoo.com/minkang/826235de/08236cea.jpg": "b6d84e82c97d537efe6fba3861e89f62062d3e02",
+        "https://photo.yupoo.com/minkang/ddbec688/f2e40a89.jpg": "78eab789d8a213905ad5ac74cf16a70358555f88",
+        "https://photo.yupoo.com/minkang/1042e5de/b0c60a89.jpg": "2b919522e3b28d8e87e120cbc0ae66a69754972b"
+      },
+      "checkedAt": "2026-10-14T05:26:48.349Z"
+    },
+    "214652703": {
+      "slug": "25-26-rome-windbreaker",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/e8953b77/46d1eab6.jpg",
+          "hash": "5737b48b92629d5df827625d1c3cc04dd3ddab29",
+          "key": "catalog/25-26-rome-windbreaker/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/19ff69e9/a1cbdfc5.jpg",
+          "hash": "61b83fafe51587bce7adddd9e61a01dcb9d236a8",
+          "key": "catalog/25-26-rome-windbreaker/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/c41c973d/56f17975.jpg",
+          "hash": "46dca251a279ebe0f75aeda4b855364f23a164e4",
+          "key": "catalog/25-26-rome-windbreaker/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/5ff798d4/025bf280.jpg",
+          "hash": "39e34c1831d09dd7276337f98e599ad9b9d275d1",
+          "key": "catalog/25-26-rome-windbreaker/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/5da152fd/959d16d7.jpg",
+          "hash": "4d1965a2a77cda3f5c9da870fa5b1f83ec1f3e1a",
+          "key": "catalog/25-26-rome-windbreaker/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/92950889/d7006215.jpg",
+          "hash": "06649cd433089740ffd334dfdcf155c41250b8f4",
+          "key": "catalog/25-26-rome-windbreaker/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/15a3c30a/874d582c.jpg",
+          "hash": "f0dbe1bdc646f9fd32d95442f6ac8f26ec540048",
+          "key": "catalog/25-26-rome-windbreaker/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/23ad2591/cab8881f.jpg",
+          "hash": "2e33f6a4b15596dadd30519c4d2ada48d1176c6f",
+          "key": "catalog/25-26-rome-windbreaker/image-08.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/e8953b77/46d1eab6.jpg": "5737b48b92629d5df827625d1c3cc04dd3ddab29",
+        "https://photo.yupoo.com/minkang/19ff69e9/a1cbdfc5.jpg": "61b83fafe51587bce7adddd9e61a01dcb9d236a8",
+        "https://photo.yupoo.com/minkang/c41c973d/56f17975.jpg": "46dca251a279ebe0f75aeda4b855364f23a164e4",
+        "https://photo.yupoo.com/minkang/5ff798d4/025bf280.jpg": "39e34c1831d09dd7276337f98e599ad9b9d275d1",
+        "https://photo.yupoo.com/minkang/5da152fd/959d16d7.jpg": "4d1965a2a77cda3f5c9da870fa5b1f83ec1f3e1a",
+        "https://photo.yupoo.com/minkang/92950889/d7006215.jpg": "06649cd433089740ffd334dfdcf155c41250b8f4",
+        "https://photo.yupoo.com/minkang/15a3c30a/874d582c.jpg": "f0dbe1bdc646f9fd32d95442f6ac8f26ec540048",
+        "https://photo.yupoo.com/minkang/23ad2591/cab8881f.jpg": "2e33f6a4b15596dadd30519c4d2ada48d1176c6f"
+      },
+      "checkedAt": "2026-10-14T05:26:29.031Z"
+    },
+    "214652705": {
+      "slug": "25-26-real-madrid-windbreaker",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/864ad05c/88e2c0cd.jpg",
+          "hash": "d0ab38840ad9063258589a1b9848deaae7fe4b24",
+          "key": "catalog/25-26-real-madrid-windbreaker/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/a737da10/21fa8860.jpg",
+          "hash": "aff6afbf779d14d530a440b539a3df85ea7d56c4",
+          "key": "catalog/25-26-real-madrid-windbreaker/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/ff29955d/5c8b4c46.jpg",
+          "hash": "e601367f5267c8775ab7c8a7db77a05076cea068",
+          "key": "catalog/25-26-real-madrid-windbreaker/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/96e71b57/94014bc8.jpg",
+          "hash": "14ea406e6a8025afa97abc89c99b33bb8fffb083",
+          "key": "catalog/25-26-real-madrid-windbreaker/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/fe744011/e486bbbb.jpg",
+          "hash": "c1cc8efc5f376cd267647bb16a1ff4deb41419b6",
+          "key": "catalog/25-26-real-madrid-windbreaker/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/7c5de257/057e1599.jpg",
+          "hash": "ea4898085572d7a754d89e12224600a05aeb6056",
+          "key": "catalog/25-26-real-madrid-windbreaker/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/213c325a/7f0c6ab9.jpg",
+          "hash": "3a4a22c2d675dd4a65c711f09dc68a3f5c4ba382",
+          "key": "catalog/25-26-real-madrid-windbreaker/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/c15f2f1a/0a5ae9a9.jpg",
+          "hash": "7cb32f42a0c81f8932a0b7c768d4b5998c72e49d",
+          "key": "catalog/25-26-real-madrid-windbreaker/image-08.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/864ad05c/88e2c0cd.jpg": "d0ab38840ad9063258589a1b9848deaae7fe4b24",
+        "https://photo.yupoo.com/minkang/a737da10/21fa8860.jpg": "aff6afbf779d14d530a440b539a3df85ea7d56c4",
+        "https://photo.yupoo.com/minkang/ff29955d/5c8b4c46.jpg": "e601367f5267c8775ab7c8a7db77a05076cea068",
+        "https://photo.yupoo.com/minkang/96e71b57/94014bc8.jpg": "14ea406e6a8025afa97abc89c99b33bb8fffb083",
+        "https://photo.yupoo.com/minkang/fe744011/e486bbbb.jpg": "c1cc8efc5f376cd267647bb16a1ff4deb41419b6",
+        "https://photo.yupoo.com/minkang/7c5de257/057e1599.jpg": "ea4898085572d7a754d89e12224600a05aeb6056",
+        "https://photo.yupoo.com/minkang/213c325a/7f0c6ab9.jpg": "3a4a22c2d675dd4a65c711f09dc68a3f5c4ba382",
+        "https://photo.yupoo.com/minkang/c15f2f1a/0a5ae9a9.jpg": "7cb32f42a0c81f8932a0b7c768d4b5998c72e49d"
+      },
+      "checkedAt": "2026-10-14T05:26:09.861Z"
+    },
+    "214652706": {
+      "slug": "manchester-united-double-sided-windbreaker",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/51cc2da5/1eb5bba7.jpg",
+          "hash": "2370494ae0795ca8d22e33dd5f0b40de9245d10c",
+          "key": "catalog/manchester-united-double-sided-windbreaker/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/8b596570/7a5bc2b9.jpg",
+          "hash": "af1a7996c0b9a0799773025d5c33c51dfe1b6cc1",
+          "key": "catalog/manchester-united-double-sided-windbreaker/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/68b1c548/37181508.jpg",
+          "hash": "657e130e95c493cd7e051d82adf23eb002acbe54",
+          "key": "catalog/manchester-united-double-sided-windbreaker/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/d015a361/cee04d04.jpg",
+          "hash": "991a279331c8a49b552b2d5a5c00940dbe5422db",
+          "key": "catalog/manchester-united-double-sided-windbreaker/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/481e08fe/341edb7c.jpg",
+          "hash": "a56f4ff50398d843503b7fe41d02ebc9ac112a22",
+          "key": "catalog/manchester-united-double-sided-windbreaker/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/d8a925ce/055d6b35.jpg",
+          "hash": "c8580926aad785531177daa86052589777612cff",
+          "key": "catalog/manchester-united-double-sided-windbreaker/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/0b9a6a3c/43c32cfb.jpg",
+          "hash": "7a50254c6f771a4a17f9933168f3e33f8db80ce3",
+          "key": "catalog/manchester-united-double-sided-windbreaker/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/a8f86527/574774e5.jpg",
+          "hash": "3058b7ff69ae13f7c68fe84362593be641ded58d",
+          "key": "catalog/manchester-united-double-sided-windbreaker/image-08.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/c030242d/2441682f.jpg",
+          "hash": "b1511048f801e6276309476d0c8761b2bab580a9",
+          "key": "catalog/manchester-united-double-sided-windbreaker/image-09.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/e1548218/551d0100.jpg",
+          "hash": "aaf5741d64f22c789774ca29e1f00526f02f675d",
+          "key": "catalog/manchester-united-double-sided-windbreaker/image-10.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/ed83739c/35efc502.jpg",
+          "hash": "f4af2e61a335788ed96d338ae5c68920b404462f",
+          "key": "catalog/manchester-united-double-sided-windbreaker/image-11.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/51cc2da5/1eb5bba7.jpg": "2370494ae0795ca8d22e33dd5f0b40de9245d10c",
+        "https://photo.yupoo.com/minkang/8b596570/7a5bc2b9.jpg": "af1a7996c0b9a0799773025d5c33c51dfe1b6cc1",
+        "https://photo.yupoo.com/minkang/68b1c548/37181508.jpg": "657e130e95c493cd7e051d82adf23eb002acbe54",
+        "https://photo.yupoo.com/minkang/d015a361/cee04d04.jpg": "991a279331c8a49b552b2d5a5c00940dbe5422db",
+        "https://photo.yupoo.com/minkang/481e08fe/341edb7c.jpg": "a56f4ff50398d843503b7fe41d02ebc9ac112a22",
+        "https://photo.yupoo.com/minkang/d8a925ce/055d6b35.jpg": "c8580926aad785531177daa86052589777612cff",
+        "https://photo.yupoo.com/minkang/0b9a6a3c/43c32cfb.jpg": "7a50254c6f771a4a17f9933168f3e33f8db80ce3",
+        "https://photo.yupoo.com/minkang/a8f86527/574774e5.jpg": "3058b7ff69ae13f7c68fe84362593be641ded58d",
+        "https://photo.yupoo.com/minkang/c030242d/2441682f.jpg": "b1511048f801e6276309476d0c8761b2bab580a9",
+        "https://photo.yupoo.com/minkang/e1548218/551d0100.jpg": "aaf5741d64f22c789774ca29e1f00526f02f675d",
+        "https://photo.yupoo.com/minkang/ed83739c/35efc502.jpg": "f4af2e61a335788ed96d338ae5c68920b404462f"
+      },
+      "checkedAt": "2026-10-14T05:25:53.978Z"
+    },
+    "214652710": {
+      "slug": "2025-mexico-trench-coat-reversible-2",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/746c086e/b7f63ad3.jpg",
+          "hash": "d8727df7cdeed58aa8a0285f0839318a4dfc8e07",
+          "key": "catalog/2025-mexico-trench-coat-reversible-2/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/b4e4a41b/df7dd936.jpg",
+          "hash": "41cd2b4b61bdd72c0dc5ebb8a2e0e132b6b4ffa7",
+          "key": "catalog/2025-mexico-trench-coat-reversible-2/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/81f28c52/f54442ea.jpg",
+          "hash": "3725cf92b4c926a36e1df4082e2f9e18e4de3b86",
+          "key": "catalog/2025-mexico-trench-coat-reversible-2/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/9bc14efc/086e56c2.jpg",
+          "hash": "3a2edc789ddfea953bda311af3ee054e011fac17",
+          "key": "catalog/2025-mexico-trench-coat-reversible-2/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/34388676/03503e1b.jpg",
+          "hash": "fb7043e8be1baeb2eb8d6e49aaaf99f4906f7014",
+          "key": "catalog/2025-mexico-trench-coat-reversible-2/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/ca99311b/d0588a62.jpg",
+          "hash": "49ef6416bfb5b3bcf4ba0fd68736d0fa14060eaf",
+          "key": "catalog/2025-mexico-trench-coat-reversible-2/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/83d2e47d/7268c5d4.jpg",
+          "hash": "40da5b503eb92e65f988caa6199889fbb6d8f53e",
+          "key": "catalog/2025-mexico-trench-coat-reversible-2/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/19e54903/86efaf7c.jpg",
+          "hash": "934f051b1d551d8b8535cbce841d73f57b3dbe5e",
+          "key": "catalog/2025-mexico-trench-coat-reversible-2/image-08.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/2af931e1/5e76f8c8.jpg",
+          "hash": "b44c59a659c1e19f6af8c71443f1027a704df5fc",
+          "key": "catalog/2025-mexico-trench-coat-reversible-2/image-09.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/74d927be/21beb326.jpg",
+          "hash": "26e4478e7ddce06473cf0183b950ff802db0c9e3",
+          "key": "catalog/2025-mexico-trench-coat-reversible-2/image-10.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/ebe923d0/63c411c5.jpg",
+          "hash": "4f560911fef163b6e678253ec6f3884d9981dd01",
+          "key": "catalog/2025-mexico-trench-coat-reversible-2/image-11.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/746c086e/b7f63ad3.jpg": "d8727df7cdeed58aa8a0285f0839318a4dfc8e07",
+        "https://photo.yupoo.com/minkang/b4e4a41b/df7dd936.jpg": "41cd2b4b61bdd72c0dc5ebb8a2e0e132b6b4ffa7",
+        "https://photo.yupoo.com/minkang/81f28c52/f54442ea.jpg": "3725cf92b4c926a36e1df4082e2f9e18e4de3b86",
+        "https://photo.yupoo.com/minkang/9bc14efc/086e56c2.jpg": "3a2edc789ddfea953bda311af3ee054e011fac17",
+        "https://photo.yupoo.com/minkang/34388676/03503e1b.jpg": "fb7043e8be1baeb2eb8d6e49aaaf99f4906f7014",
+        "https://photo.yupoo.com/minkang/ca99311b/d0588a62.jpg": "49ef6416bfb5b3bcf4ba0fd68736d0fa14060eaf",
+        "https://photo.yupoo.com/minkang/83d2e47d/7268c5d4.jpg": "40da5b503eb92e65f988caa6199889fbb6d8f53e",
+        "https://photo.yupoo.com/minkang/19e54903/86efaf7c.jpg": "934f051b1d551d8b8535cbce841d73f57b3dbe5e",
+        "https://photo.yupoo.com/minkang/2af931e1/5e76f8c8.jpg": "b44c59a659c1e19f6af8c71443f1027a704df5fc",
+        "https://photo.yupoo.com/minkang/74d927be/21beb326.jpg": "26e4478e7ddce06473cf0183b950ff802db0c9e3",
+        "https://photo.yupoo.com/minkang/ebe923d0/63c411c5.jpg": "4f560911fef163b6e678253ec6f3884d9981dd01"
+      },
+      "checkedAt": "2026-10-14T05:25:34.468Z"
+    },
+    "214652712": {
+      "slug": "25-26-manchester-united-trench-coat-reversible",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/9e15865e/021ff101.jpg",
+          "hash": "dfc4f2a5694c06d4cf7e8d2eae6e16a6606d61f3",
+          "key": "catalog/25-26-manchester-united-trench-coat-reversible/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/64482076/f2aa43db.jpg",
+          "hash": "952b134e7324272567dd492ff140c208c3230cf9",
+          "key": "catalog/25-26-manchester-united-trench-coat-reversible/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/9f6cee39/6db8ef8d.jpg",
+          "hash": "bb7d35a901ae6ddfb175e7c529def9da4024db79",
+          "key": "catalog/25-26-manchester-united-trench-coat-reversible/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/f8ca8a19/facd4b90.jpg",
+          "hash": "eb33da08b6b1746075efc5a1a38413da433fd3e5",
+          "key": "catalog/25-26-manchester-united-trench-coat-reversible/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/112adc1b/2bf1cdc0.jpg",
+          "hash": "89a06cb3a559f4c66c0cb64ec1eb1e664ca67b42",
+          "key": "catalog/25-26-manchester-united-trench-coat-reversible/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/26c48a8d/b0820d0f.jpg",
+          "hash": "4c76b95fe697f2cd0551f5a3d374a632df4bfd1b",
+          "key": "catalog/25-26-manchester-united-trench-coat-reversible/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/b508fe52/4d0d91f7.jpg",
+          "hash": "dd629506337ab1e23db63fda1aa6b913dc62e028",
+          "key": "catalog/25-26-manchester-united-trench-coat-reversible/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/691223c9/ec85b165.jpg",
+          "hash": "0664c9cafa05d6a0f72620e4835a3ff6ddc5c75a",
+          "key": "catalog/25-26-manchester-united-trench-coat-reversible/image-08.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/355b217f/0e94d005.jpg",
+          "hash": "172eb2d0371dcdde51c2e2da8e21a8f96786bf9b",
+          "key": "catalog/25-26-manchester-united-trench-coat-reversible/image-09.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/2470157b/1e5096fe.jpg",
+          "hash": "6cdad7774d23886c5352e12bec8b257b98d36fa3",
+          "key": "catalog/25-26-manchester-united-trench-coat-reversible/image-10.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/7605f078/42cc1a5e.jpg",
+          "hash": "2533052ab2cda21a3908781a2c158756f75517d4",
+          "key": "catalog/25-26-manchester-united-trench-coat-reversible/image-11.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/9e15865e/021ff101.jpg": "dfc4f2a5694c06d4cf7e8d2eae6e16a6606d61f3",
+        "https://photo.yupoo.com/minkang/64482076/f2aa43db.jpg": "952b134e7324272567dd492ff140c208c3230cf9",
+        "https://photo.yupoo.com/minkang/9f6cee39/6db8ef8d.jpg": "bb7d35a901ae6ddfb175e7c529def9da4024db79",
+        "https://photo.yupoo.com/minkang/f8ca8a19/facd4b90.jpg": "eb33da08b6b1746075efc5a1a38413da433fd3e5",
+        "https://photo.yupoo.com/minkang/112adc1b/2bf1cdc0.jpg": "89a06cb3a559f4c66c0cb64ec1eb1e664ca67b42",
+        "https://photo.yupoo.com/minkang/26c48a8d/b0820d0f.jpg": "4c76b95fe697f2cd0551f5a3d374a632df4bfd1b",
+        "https://photo.yupoo.com/minkang/b508fe52/4d0d91f7.jpg": "dd629506337ab1e23db63fda1aa6b913dc62e028",
+        "https://photo.yupoo.com/minkang/691223c9/ec85b165.jpg": "0664c9cafa05d6a0f72620e4835a3ff6ddc5c75a",
+        "https://photo.yupoo.com/minkang/355b217f/0e94d005.jpg": "172eb2d0371dcdde51c2e2da8e21a8f96786bf9b",
+        "https://photo.yupoo.com/minkang/2470157b/1e5096fe.jpg": "6cdad7774d23886c5352e12bec8b257b98d36fa3",
+        "https://photo.yupoo.com/minkang/7605f078/42cc1a5e.jpg": "2533052ab2cda21a3908781a2c158756f75517d4"
+      },
+      "checkedAt": "2026-10-14T05:25:09.249Z"
+    },
+    "214652717": {
+      "slug": "25-26-real-madrid-trench-coat-reversible-7",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/6da2d360/c12a5c9e.jpg",
+          "hash": "a06bee03dd8486327abae9e712533bd8c9f4c09e",
+          "key": "catalog/25-26-real-madrid-trench-coat-reversible-7/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/40b06642/cd13c011.jpg",
+          "hash": "37668e515f1939da7e229f7f3564c49d1a1f7637",
+          "key": "catalog/25-26-real-madrid-trench-coat-reversible-7/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/166a093c/362b2186.jpg",
+          "hash": "e57e43562ff0ad21cbf0fb9e9f3297be3e301b62",
+          "key": "catalog/25-26-real-madrid-trench-coat-reversible-7/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/68aed17b/41986a5f.jpg",
+          "hash": "ed53da7193d4228a483bfa327dfcc87eac737755",
+          "key": "catalog/25-26-real-madrid-trench-coat-reversible-7/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/14a7172d/74bd1c05.jpg",
+          "hash": "70e895961c23d59c4547cc533453d415ddf20216",
+          "key": "catalog/25-26-real-madrid-trench-coat-reversible-7/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/d0e6019d/976fca9e.jpg",
+          "hash": "5ef32324f89d95956b84ce2b0a4c4447580d5820",
+          "key": "catalog/25-26-real-madrid-trench-coat-reversible-7/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/21e10ebb/0eb6b8e3.jpg",
+          "hash": "04cf624fddd04f39c7a867c73fd272a343f8f46e",
+          "key": "catalog/25-26-real-madrid-trench-coat-reversible-7/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/77e30219/a1754188.jpg",
+          "hash": "76434601405a9b0f29995212be81130f61a75949",
+          "key": "catalog/25-26-real-madrid-trench-coat-reversible-7/image-08.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/6827299d/24b1f8d6.jpg",
+          "hash": "a363be66e0677e888ce4173b6f6fe29ea4c7dc45",
+          "key": "catalog/25-26-real-madrid-trench-coat-reversible-7/image-09.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/f7f999d9/cd24690b.jpg",
+          "hash": "203e3db6831cfdcd6d07ae1412aa9141f108780a",
+          "key": "catalog/25-26-real-madrid-trench-coat-reversible-7/image-10.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/e0141f7f/457d99c1.jpg",
+          "hash": "9f7605136c6775b8face309c7b7aed989761231f",
+          "key": "catalog/25-26-real-madrid-trench-coat-reversible-7/image-11.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/6da2d360/c12a5c9e.jpg": "a06bee03dd8486327abae9e712533bd8c9f4c09e",
+        "https://photo.yupoo.com/minkang/40b06642/cd13c011.jpg": "37668e515f1939da7e229f7f3564c49d1a1f7637",
+        "https://photo.yupoo.com/minkang/166a093c/362b2186.jpg": "e57e43562ff0ad21cbf0fb9e9f3297be3e301b62",
+        "https://photo.yupoo.com/minkang/68aed17b/41986a5f.jpg": "ed53da7193d4228a483bfa327dfcc87eac737755",
+        "https://photo.yupoo.com/minkang/14a7172d/74bd1c05.jpg": "70e895961c23d59c4547cc533453d415ddf20216",
+        "https://photo.yupoo.com/minkang/d0e6019d/976fca9e.jpg": "5ef32324f89d95956b84ce2b0a4c4447580d5820",
+        "https://photo.yupoo.com/minkang/21e10ebb/0eb6b8e3.jpg": "04cf624fddd04f39c7a867c73fd272a343f8f46e",
+        "https://photo.yupoo.com/minkang/77e30219/a1754188.jpg": "76434601405a9b0f29995212be81130f61a75949",
+        "https://photo.yupoo.com/minkang/6827299d/24b1f8d6.jpg": "a363be66e0677e888ce4173b6f6fe29ea4c7dc45",
+        "https://photo.yupoo.com/minkang/f7f999d9/cd24690b.jpg": "203e3db6831cfdcd6d07ae1412aa9141f108780a",
+        "https://photo.yupoo.com/minkang/e0141f7f/457d99c1.jpg": "9f7605136c6775b8face309c7b7aed989761231f"
+      },
+      "checkedAt": "2026-10-14T05:24:47.869Z"
+    },
+    "214652719": {
+      "slug": "25-26-real-madrid-trench-coat-reversible-6",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/4a02ef50/56184095.jpg",
+          "hash": "a6c21868b27088d36aa3cc370d36c4e96b5b90d6",
+          "key": "catalog/25-26-real-madrid-trench-coat-reversible-6/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/26fc72a0/f1375d01.jpg",
+          "hash": "20fa8bfe02931bb12aa19ce2eb30a68650d4a2bb",
+          "key": "catalog/25-26-real-madrid-trench-coat-reversible-6/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/f631b4d6/e212ecef.jpg",
+          "hash": "62262f82254dd4e3bb5d9394d61941bfa7f8dad5",
+          "key": "catalog/25-26-real-madrid-trench-coat-reversible-6/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/4ee05985/b93f7870.jpg",
+          "hash": "d51dc6f0b0cad0573249f67036cfa45057349654",
+          "key": "catalog/25-26-real-madrid-trench-coat-reversible-6/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/30bee9d2/bad5a9eb.jpg",
+          "hash": "981ccd1d15f47b37164ba5980b78845554763a3c",
+          "key": "catalog/25-26-real-madrid-trench-coat-reversible-6/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/1c0ef4a3/f4770337.jpg",
+          "hash": "2fa412f7157b9fdcde25d0dbc741232ae4ed6717",
+          "key": "catalog/25-26-real-madrid-trench-coat-reversible-6/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/f90d4094/e388cc36.jpg",
+          "hash": "fe72df71a7da7a5ca7c8527b96750d2a15ac13a7",
+          "key": "catalog/25-26-real-madrid-trench-coat-reversible-6/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/89b9e394/6bfa4b2b.jpg",
+          "hash": "69a391fe6fe3edc93db96dd9c081b997e92b685e",
+          "key": "catalog/25-26-real-madrid-trench-coat-reversible-6/image-08.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/b46868ae/3531ab4b.jpg",
+          "hash": "0054d4bc04929d3193b8f895e769f4dc215ff496",
+          "key": "catalog/25-26-real-madrid-trench-coat-reversible-6/image-09.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/ac400901/b2a1250d.jpg",
+          "hash": "0a431c4891b27b1c8a1abce3c9a93366de7e11da",
+          "key": "catalog/25-26-real-madrid-trench-coat-reversible-6/image-10.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/7cfaa642/61bcf265.jpg",
+          "hash": "ba51f271e3b2808f8ab417d2a71b0f2456a5e6e1",
+          "key": "catalog/25-26-real-madrid-trench-coat-reversible-6/image-11.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/4a02ef50/56184095.jpg": "a6c21868b27088d36aa3cc370d36c4e96b5b90d6",
+        "https://photo.yupoo.com/minkang/26fc72a0/f1375d01.jpg": "20fa8bfe02931bb12aa19ce2eb30a68650d4a2bb",
+        "https://photo.yupoo.com/minkang/f631b4d6/e212ecef.jpg": "62262f82254dd4e3bb5d9394d61941bfa7f8dad5",
+        "https://photo.yupoo.com/minkang/4ee05985/b93f7870.jpg": "d51dc6f0b0cad0573249f67036cfa45057349654",
+        "https://photo.yupoo.com/minkang/30bee9d2/bad5a9eb.jpg": "981ccd1d15f47b37164ba5980b78845554763a3c",
+        "https://photo.yupoo.com/minkang/1c0ef4a3/f4770337.jpg": "2fa412f7157b9fdcde25d0dbc741232ae4ed6717",
+        "https://photo.yupoo.com/minkang/f90d4094/e388cc36.jpg": "fe72df71a7da7a5ca7c8527b96750d2a15ac13a7",
+        "https://photo.yupoo.com/minkang/89b9e394/6bfa4b2b.jpg": "69a391fe6fe3edc93db96dd9c081b997e92b685e",
+        "https://photo.yupoo.com/minkang/b46868ae/3531ab4b.jpg": "0054d4bc04929d3193b8f895e769f4dc215ff496",
+        "https://photo.yupoo.com/minkang/ac400901/b2a1250d.jpg": "0a431c4891b27b1c8a1abce3c9a93366de7e11da",
+        "https://photo.yupoo.com/minkang/7cfaa642/61bcf265.jpg": "ba51f271e3b2808f8ab417d2a71b0f2456a5e6e1"
+      },
+      "checkedAt": "2026-10-14T05:24:30.817Z"
+    },
+    "214653103": {
+      "slug": "25-26-porto-trench-coat-reversible",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/be4a4bb5/d3c11a74.jpg",
+          "hash": "8ede1546b8438cd16d1a3de69f18d77f53a8688e",
+          "key": "catalog/25-26-porto-trench-coat-reversible/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/7f16a68d/f4c922a9.jpg",
+          "hash": "a63955ca7f24aeeedfed01ab187154dd4c0661f5",
+          "key": "catalog/25-26-porto-trench-coat-reversible/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/d3c99ffc/ce00f273.jpg",
+          "hash": "b48e2ae6b2884d20a7ef6ffebbfd169a41208bb3",
+          "key": "catalog/25-26-porto-trench-coat-reversible/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/fbba0890/85fa3fd1.jpg",
+          "hash": "8c9ff9b92dca6e86a8ea9fd508b34985cc979261",
+          "key": "catalog/25-26-porto-trench-coat-reversible/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/771af535/3d561147.jpg",
+          "hash": "d28f9752b0e2a43f1fb3ed08e83bd42665d71947",
+          "key": "catalog/25-26-porto-trench-coat-reversible/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/23c67a13/feb27971.jpg",
+          "hash": "db66a79860d6bca1917429b807f2a2fb935d2c1d",
+          "key": "catalog/25-26-porto-trench-coat-reversible/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/69153da9/70ddbb55.jpg",
+          "hash": "264326df1121df024644f88217ab36e0b24f82d0",
+          "key": "catalog/25-26-porto-trench-coat-reversible/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/5e9c4563/c3a3b7e0.jpg",
+          "hash": "96fea8c507cee67d94de3d7d1c7ec6f1a4cacf1c",
+          "key": "catalog/25-26-porto-trench-coat-reversible/image-08.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/c1a24875/d29879cc.jpg",
+          "hash": "33b2c60314c18498883b7c55b673799d8fda251b",
+          "key": "catalog/25-26-porto-trench-coat-reversible/image-09.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/e53cb239/99835b7f.jpg",
+          "hash": "612bb8e99ca664cd3a7869f8a3b5958dc897c2e1",
+          "key": "catalog/25-26-porto-trench-coat-reversible/image-10.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/5eb31049/9266ca47.jpg",
+          "hash": "cc5d849ebd65473f4e87b6774ac7273a6257eaf5",
+          "key": "catalog/25-26-porto-trench-coat-reversible/image-11.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/be4a4bb5/d3c11a74.jpg": "8ede1546b8438cd16d1a3de69f18d77f53a8688e",
+        "https://photo.yupoo.com/minkang/7f16a68d/f4c922a9.jpg": "a63955ca7f24aeeedfed01ab187154dd4c0661f5",
+        "https://photo.yupoo.com/minkang/d3c99ffc/ce00f273.jpg": "b48e2ae6b2884d20a7ef6ffebbfd169a41208bb3",
+        "https://photo.yupoo.com/minkang/fbba0890/85fa3fd1.jpg": "8c9ff9b92dca6e86a8ea9fd508b34985cc979261",
+        "https://photo.yupoo.com/minkang/771af535/3d561147.jpg": "d28f9752b0e2a43f1fb3ed08e83bd42665d71947",
+        "https://photo.yupoo.com/minkang/23c67a13/feb27971.jpg": "db66a79860d6bca1917429b807f2a2fb935d2c1d",
+        "https://photo.yupoo.com/minkang/69153da9/70ddbb55.jpg": "264326df1121df024644f88217ab36e0b24f82d0",
+        "https://photo.yupoo.com/minkang/5e9c4563/c3a3b7e0.jpg": "96fea8c507cee67d94de3d7d1c7ec6f1a4cacf1c",
+        "https://photo.yupoo.com/minkang/c1a24875/d29879cc.jpg": "33b2c60314c18498883b7c55b673799d8fda251b",
+        "https://photo.yupoo.com/minkang/e53cb239/99835b7f.jpg": "612bb8e99ca664cd3a7869f8a3b5958dc897c2e1",
+        "https://photo.yupoo.com/minkang/5eb31049/9266ca47.jpg": "cc5d849ebd65473f4e87b6774ac7273a6257eaf5"
+      },
+      "checkedAt": "2026-10-14T05:24:13.285Z"
+    },
+    "214653107": {
+      "slug": "25-26-real-madrid-trench-coat-reversible-5",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/4ba7153d/7b303f88.jpg",
+          "hash": "40cf4fff107950285a3c5c0a4aec90ed02cae741",
+          "key": "catalog/25-26-real-madrid-trench-coat-reversible-5/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/3f749b70/73f3e26d.jpg",
+          "hash": "c9b9821538e53fb40ceee5a5369de1d4f1557cf6",
+          "key": "catalog/25-26-real-madrid-trench-coat-reversible-5/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/f32843ab/6ae37eda.jpg",
+          "hash": "9e6d153c533153183732bb9489634142703021bd",
+          "key": "catalog/25-26-real-madrid-trench-coat-reversible-5/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/0adec89d/dfd8bd1a.jpg",
+          "hash": "70aaad9a9057729a0993520d6ebcf25cf648c514",
+          "key": "catalog/25-26-real-madrid-trench-coat-reversible-5/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/27b043f2/6199c68e.jpg",
+          "hash": "861d8913f706b8cb37239744421126de36c959d8",
+          "key": "catalog/25-26-real-madrid-trench-coat-reversible-5/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/33665793/b07008f3.jpg",
+          "hash": "3d1c76285d9dfef55f86d6a6faaefb11aaca9f74",
+          "key": "catalog/25-26-real-madrid-trench-coat-reversible-5/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/1012f393/a7f51149.jpg",
+          "hash": "75c75172b0c3c713a9d3e6d8038cbedede629c87",
+          "key": "catalog/25-26-real-madrid-trench-coat-reversible-5/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/f95acd51/592a7c0e.jpg",
+          "hash": "ff0d37e8ce9e88abe8f6cef3eec636d2321546af",
+          "key": "catalog/25-26-real-madrid-trench-coat-reversible-5/image-08.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/a82935b4/3e3e4b08.jpg",
+          "hash": "914f5ad59003216ae1d06d032715c898462b2616",
+          "key": "catalog/25-26-real-madrid-trench-coat-reversible-5/image-09.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/4ce6630a/0f51ed3a.jpg",
+          "hash": "f1d019a3b8f41713239cb6d9fbcc111a09786e1d",
+          "key": "catalog/25-26-real-madrid-trench-coat-reversible-5/image-10.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/f6226062/ad9eb3bf.jpg",
+          "hash": "b7d4c38cc69985cd03357b04721df62b10ec8db2",
+          "key": "catalog/25-26-real-madrid-trench-coat-reversible-5/image-11.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/4ba7153d/7b303f88.jpg": "40cf4fff107950285a3c5c0a4aec90ed02cae741",
+        "https://photo.yupoo.com/minkang/3f749b70/73f3e26d.jpg": "c9b9821538e53fb40ceee5a5369de1d4f1557cf6",
+        "https://photo.yupoo.com/minkang/f32843ab/6ae37eda.jpg": "9e6d153c533153183732bb9489634142703021bd",
+        "https://photo.yupoo.com/minkang/0adec89d/dfd8bd1a.jpg": "70aaad9a9057729a0993520d6ebcf25cf648c514",
+        "https://photo.yupoo.com/minkang/27b043f2/6199c68e.jpg": "861d8913f706b8cb37239744421126de36c959d8",
+        "https://photo.yupoo.com/minkang/33665793/b07008f3.jpg": "3d1c76285d9dfef55f86d6a6faaefb11aaca9f74",
+        "https://photo.yupoo.com/minkang/1012f393/a7f51149.jpg": "75c75172b0c3c713a9d3e6d8038cbedede629c87",
+        "https://photo.yupoo.com/minkang/f95acd51/592a7c0e.jpg": "ff0d37e8ce9e88abe8f6cef3eec636d2321546af",
+        "https://photo.yupoo.com/minkang/a82935b4/3e3e4b08.jpg": "914f5ad59003216ae1d06d032715c898462b2616",
+        "https://photo.yupoo.com/minkang/4ce6630a/0f51ed3a.jpg": "f1d019a3b8f41713239cb6d9fbcc111a09786e1d",
+        "https://photo.yupoo.com/minkang/f6226062/ad9eb3bf.jpg": "b7d4c38cc69985cd03357b04721df62b10ec8db2"
+      },
+      "checkedAt": "2026-10-14T05:23:52.953Z"
     },
     "214653108": {
       "slug": "25-26-arsenal-trench-coat-reversible-3",
@@ -174101,6 +177557,26 @@
         "https://photo.yupoo.com/minkang/bc671c41/8b7c7547.jpg": "59b530443db3b6a5abe15b9c6096f2900746f226"
       },
       "checkedAt": "2026-10-11T09:49:56.831Z"
+    },
+    "214999835": {
+      "slug": "shorts",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/9dbb112c30/04106781.png",
+          "hash": "1b74ed0926860491e2703ebdbaa877e0cc49b00b",
+          "key": "catalog/shorts/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/15f4a58d/1481c80c.jpg",
+          "hash": "a265e7eea1e8424469d3c54bef60970d2154ece0",
+          "key": "catalog/shorts/image-02.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/9dbb112c30/04106781.png": "1b74ed0926860491e2703ebdbaa877e0cc49b00b",
+        "https://photo.yupoo.com/minkang/15f4a58d/1481c80c.jpg": "a265e7eea1e8424469d3c54bef60970d2154ece0"
+      },
+      "checkedAt": "2026-10-14T05:43:03.455Z"
     },
     "215020441": {
       "slug": "al-ahli-2026-home",
@@ -182009,6 +185485,80 @@
         "https://photo.yupoo.com/minkang/18a1eaf8/e00218ae.jpg": "b34980ddca098958dcf4cc348e252af57f8351c5"
       },
       "checkedAt": "2026-10-14T05:04:57.083Z"
+    },
+    "215949779": {
+      "slug": "porto-reversible-jacket-windbreaker-orange-yellow",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/29f5af92/1601412d.jpg",
+          "hash": "a21b2fb2f6a58d40c6ce8bdcda449e2ec73ba124",
+          "key": "catalog/porto-reversible-jacket-windbreaker-orange-yellow/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/60b62dda/8faa5c02.jpg",
+          "hash": "cf1dc2a824e0ca3f8c6281a4d233a6d987c11cf5",
+          "key": "catalog/porto-reversible-jacket-windbreaker-orange-yellow/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/ea31c0d2/4772921b.jpg",
+          "hash": "4e5fe34000868d294ff766c5fefa548f268e7f1c",
+          "key": "catalog/porto-reversible-jacket-windbreaker-orange-yellow/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/0bc5f215/dcfdd349.jpg",
+          "hash": "45d313920b4f8bf7355524d288a1a76b787e1b95",
+          "key": "catalog/porto-reversible-jacket-windbreaker-orange-yellow/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/26c5de2a/9e69bdea.jpg",
+          "hash": "c7c5642c831392b0988d98c2d598634904534242",
+          "key": "catalog/porto-reversible-jacket-windbreaker-orange-yellow/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/5c710442/aacc7327.jpg",
+          "hash": "a70a1ad49cc6e35ee2082babdffaff0b9988553a",
+          "key": "catalog/porto-reversible-jacket-windbreaker-orange-yellow/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/f5ddaa08/b38e2b03.jpg",
+          "hash": "51a1e9bd66731c983827a7f1a6a84a2893058921",
+          "key": "catalog/porto-reversible-jacket-windbreaker-orange-yellow/image-07.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/95ded3df/3c9ecfe8.jpg",
+          "hash": "f67c824b81daabc71156978b6242a074bf99789a",
+          "key": "catalog/porto-reversible-jacket-windbreaker-orange-yellow/image-08.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/4c1506a6/00105573.jpg",
+          "hash": "d1b0a5df826f4c09266f66ef231dcb86bae0b7fc",
+          "key": "catalog/porto-reversible-jacket-windbreaker-orange-yellow/image-09.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/a5dd1c92/8ed1b03f.jpg",
+          "hash": "23d38509b9a2e8b02b4d59c2b478747d0388dc89",
+          "key": "catalog/porto-reversible-jacket-windbreaker-orange-yellow/image-10.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/247d221c/b24dca93.jpg",
+          "hash": "2182aaf4abc118294aac4066740bbc8d66b6ca96",
+          "key": "catalog/porto-reversible-jacket-windbreaker-orange-yellow/image-11.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/29f5af92/1601412d.jpg": "a21b2fb2f6a58d40c6ce8bdcda449e2ec73ba124",
+        "https://photo.yupoo.com/minkang/60b62dda/8faa5c02.jpg": "cf1dc2a824e0ca3f8c6281a4d233a6d987c11cf5",
+        "https://photo.yupoo.com/minkang/ea31c0d2/4772921b.jpg": "4e5fe34000868d294ff766c5fefa548f268e7f1c",
+        "https://photo.yupoo.com/minkang/0bc5f215/dcfdd349.jpg": "45d313920b4f8bf7355524d288a1a76b787e1b95",
+        "https://photo.yupoo.com/minkang/26c5de2a/9e69bdea.jpg": "c7c5642c831392b0988d98c2d598634904534242",
+        "https://photo.yupoo.com/minkang/5c710442/aacc7327.jpg": "a70a1ad49cc6e35ee2082babdffaff0b9988553a",
+        "https://photo.yupoo.com/minkang/f5ddaa08/b38e2b03.jpg": "51a1e9bd66731c983827a7f1a6a84a2893058921",
+        "https://photo.yupoo.com/minkang/95ded3df/3c9ecfe8.jpg": "f67c824b81daabc71156978b6242a074bf99789a",
+        "https://photo.yupoo.com/minkang/4c1506a6/00105573.jpg": "d1b0a5df826f4c09266f66ef231dcb86bae0b7fc",
+        "https://photo.yupoo.com/minkang/a5dd1c92/8ed1b03f.jpg": "23d38509b9a2e8b02b4d59c2b478747d0388dc89",
+        "https://photo.yupoo.com/minkang/247d221c/b24dca93.jpg": "2182aaf4abc118294aac4066740bbc8d66b6ca96"
+      },
+      "checkedAt": "2026-10-14T05:40:43.629Z"
     },
     "215949781": {
       "slug": "french-reversible-jacket-windbreaker-blue-mint-green",
@@ -195858,6 +199408,56 @@
       },
       "checkedAt": "2026-10-11T09:29:33.221Z"
     },
+    "217626859": {
+      "slug": "wolves-70th-anniversary-jersey",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/5952b78e/eb0f13d8.jpeg",
+          "hash": "1592efd4292683b8b2c3f9088ab97de0ec3319b8",
+          "key": "catalog/wolves-70th-anniversary-jersey/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/210067fd/c19d8c7d.jpeg",
+          "hash": "1964e1b4e7cdd92a3253487aea05d65dd97d792a",
+          "key": "catalog/wolves-70th-anniversary-jersey/image-02.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/ee9c86b3/13face9a.jpeg",
+          "hash": "63f101b52ed04175bdcb18494124ac6b680643db",
+          "key": "catalog/wolves-70th-anniversary-jersey/image-03.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/971b2f74/01491bb4.jpeg",
+          "hash": "16a11ab1498a46d85671050b58cc3c793455a9be",
+          "key": "catalog/wolves-70th-anniversary-jersey/image-04.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/3fd7bd99/c1a0c7c5.jpeg",
+          "hash": "f24566c24d5b2c960344ad361d8388f8c1754290",
+          "key": "catalog/wolves-70th-anniversary-jersey/image-05.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/022ba661/c712f9bd.jpeg",
+          "hash": "f05dbff64c5257946d5b230d1f987aa6f732a7b6",
+          "key": "catalog/wolves-70th-anniversary-jersey/image-06.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/b0196bba/51695e37.jpeg",
+          "hash": "4cc8dc62f2cc917eda283b617e1834ec312e3a88",
+          "key": "catalog/wolves-70th-anniversary-jersey/image-07.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/5952b78e/eb0f13d8.jpeg": "1592efd4292683b8b2c3f9088ab97de0ec3319b8",
+        "https://photo.yupoo.com/minkang/210067fd/c19d8c7d.jpeg": "1964e1b4e7cdd92a3253487aea05d65dd97d792a",
+        "https://photo.yupoo.com/minkang/ee9c86b3/13face9a.jpeg": "63f101b52ed04175bdcb18494124ac6b680643db",
+        "https://photo.yupoo.com/minkang/971b2f74/01491bb4.jpeg": "16a11ab1498a46d85671050b58cc3c793455a9be",
+        "https://photo.yupoo.com/minkang/3fd7bd99/c1a0c7c5.jpeg": "f24566c24d5b2c960344ad361d8388f8c1754290",
+        "https://photo.yupoo.com/minkang/022ba661/c712f9bd.jpeg": "f05dbff64c5257946d5b230d1f987aa6f732a7b6",
+        "https://photo.yupoo.com/minkang/b0196bba/51695e37.jpeg": "4cc8dc62f2cc917eda283b617e1834ec312e3a88"
+      },
+      "checkedAt": "2026-10-14T05:40:26.433Z"
+    },
     "217628046": {
       "slug": "argentina-2026-home-kids-kit-jersey",
       "entries": [
@@ -198863,6 +202463,26 @@
         "https://photo.yupoo.com/minkang/98bdc3dc/f0c6a6fc.jpg": "bcd9b48a2c2a58a426c12b3ba49c29fef174cba0"
       },
       "checkedAt": "2026-10-11T09:29:59.113Z"
+    },
+    "218846709": {
+      "slug": "long-sleeve-shirt",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/548752889c/f9a1b950.png",
+          "hash": "84af0099f210ac3413515dedb1e8f349add9244b",
+          "key": "catalog/long-sleeve-shirt/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/a08a91f4/c164d3e1.jpg",
+          "hash": "fe512e05f9bce9e4fa97eca8db17cb0a6546ee86",
+          "key": "catalog/long-sleeve-shirt/image-02.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/548752889c/f9a1b950.png": "84af0099f210ac3413515dedb1e8f349add9244b",
+        "https://photo.yupoo.com/minkang/a08a91f4/c164d3e1.jpg": "fe512e05f9bce9e4fa97eca8db17cb0a6546ee86"
+      },
+      "checkedAt": "2026-10-14T05:41:48.391Z"
     },
     "218946177": {
       "slug": "argentina-2026-home-shorts",
@@ -326658,6 +330278,60 @@
       },
       "checkedAt": "2026-10-13T01:11:06.378Z"
     },
+    "249095901": {
+      "slug": "remo-24-25-home-jersey",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/351fb44cb4/f0ddaeb3.png",
+          "hash": "9d1460fa6d9dd9b304371f682217b426e3203746",
+          "key": "catalog/remo-24-25-home-jersey/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/9cb7105b6c/89e19426.png",
+          "hash": "c8c9427d7e5a8aa68c4a52a0f6d3915fb2355689",
+          "key": "catalog/remo-24-25-home-jersey/image-02.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/351fb44cb4/f0ddaeb3.png": "9d1460fa6d9dd9b304371f682217b426e3203746",
+        "https://photo.yupoo.com/minkang/9cb7105b6c/89e19426.png": "c8c9427d7e5a8aa68c4a52a0f6d3915fb2355689"
+      },
+      "checkedAt": "2026-10-14T05:41:14.193Z"
+    },
+    "249102694": {
+      "slug": "remo-24-25-home-women-jersey",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/bc6aa003c2/aed1d8dc.png",
+          "hash": "99940b7ee2247970658174f4e73000a492a829ba",
+          "key": "catalog/remo-24-25-home-women-jersey/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/71333648bb/141d08af.png",
+          "hash": "f60e7ac0836a248f33fdd281b3cc7ddd99bbb238",
+          "key": "catalog/remo-24-25-home-women-jersey/image-02.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/bc6aa003c2/aed1d8dc.png": "99940b7ee2247970658174f4e73000a492a829ba",
+        "https://photo.yupoo.com/minkang/71333648bb/141d08af.png": "f60e7ac0836a248f33fdd281b3cc7ddd99bbb238"
+      },
+      "checkedAt": "2026-10-14T05:41:04.079Z"
+    },
+    "249337595": {
+      "slug": "please-check-the-event-details",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/d620ad6096/6fe4b8a3.jpg",
+          "hash": "bca53bda69477f1cf2bebd701fb144a9bb366efb",
+          "key": "catalog/please-check-the-event-details/image-01.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/d620ad6096/6fe4b8a3.jpg": "bca53bda69477f1cf2bebd701fb144a9bb366efb"
+      },
+      "checkedAt": "2026-10-14T05:40:54.022Z"
+    },
     "251099505": {
       "slug": "olympique-de-marseille-26-27-home-jersey",
       "entries": [
@@ -331243,6 +334917,26 @@
         "https://photo.yupoo.com/minkang/85b25c4a2c/729f3f89.jpg": "601712bf03b81caf51ae683ef6775335b119f9b6"
       },
       "checkedAt": "2026-10-13T00:46:36.958Z"
+    },
+    "252314969": {
+      "slug": "real-madrid-26-27-commemorative-jersey",
+      "entries": [
+        {
+          "src": "https://photo.yupoo.com/minkang/c6b3d4ca26/86de39bf.jpg",
+          "hash": "91249eea48a02a3fcbaa7406bb9898f9bf369504",
+          "key": "catalog/real-madrid-26-27-commemorative-jersey/image-01.webp"
+        },
+        {
+          "src": "https://photo.yupoo.com/minkang/3b137966c2/6f629bff.jpg",
+          "hash": "e7c4d43bf5ca7858cb7f5d5e267ac736ad7e540c",
+          "key": "catalog/real-madrid-26-27-commemorative-jersey/image-02.webp"
+        }
+      ],
+      "sources": {
+        "https://photo.yupoo.com/minkang/c6b3d4ca26/86de39bf.jpg": "91249eea48a02a3fcbaa7406bb9898f9bf369504",
+        "https://photo.yupoo.com/minkang/3b137966c2/6f629bff.jpg": "e7c4d43bf5ca7858cb7f5d5e267ac736ad7e540c"
+      },
+      "checkedAt": "2026-10-14T05:41:23.879Z"
     },
     "252314988": {
       "slug": "real-madrid-26-27-training-kit",
